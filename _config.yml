@@ -21,7 +21,7 @@ author:
   info:
 
 url: http://saturdayxiii.github.io
-baseurl: #"/holo-alfa"
+baseurl: / #"/holo-alfa"
 
 # language attribute in <html> element.
 lang: en
