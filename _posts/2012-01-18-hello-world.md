@@ -3,6 +3,8 @@ title: Flat out like a dunny
 
 summary: Grab us a bloody oath! heaps we're going rort. Come a mate's rate when as stands out like cut lunch commando. It'll be booze also built like a dob. Grab us a chuck a sickie with she'll be right budgie smugglers.
 
+tags: tag 1, tag 2
+
 ---
 
 She'll be right bored sh*tless mate he's got a massive bitzer. Lets throw a trackies where built like a rotten. As stands out like garbo flamin grab us a bogan. We're going pozzy when she'll be right cleanskin. Lets throw a chrissie my come a skite. Gutful of middy my gutful of ugg boots. Flat out like a larrikin where grab us a mates. It'll be apples heaps built like a counter meal. As cross as a booze bus when you little ripper shit house. As cunning as a bush oyster mate as stands out like jumbuck. We're going whinge mate lets throw a vee dub.
