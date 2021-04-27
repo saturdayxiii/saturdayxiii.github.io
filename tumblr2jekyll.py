@@ -2,6 +2,9 @@
 to the first 2 lines
 !/usr/bin/python
  -*- coding: UTF-8 -*-'''
+#all html showing up as a code block
+#youtube vids and media vids exist and need fixing
+#group img thumbnails are probably different
 import os,re,io
 directory = os.listdir('html')
 os.chdir('html')
