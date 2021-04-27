@@ -1,0 +1,20 @@
+---
+type: img
+title: Right-no--the-most-e-citi
+timestamp: September 12th, 2017 9:15am
+summary: Right now the most exciting thing I learned from the a hrefhttpswwwyoutubecomchannelUCUQo7nzH1sXVpzL92VesANw targetblankDIYPerks YoutuMy biggest pet peeve about the Dreamcast and subsequently all modern fan using game consoles is the fan noise Transporting Matt Perks’ idea has nearJust take out the hard plastic housing that the fan is mounted to and mount it with some packing sponge and double sided tape  Easy peasy  As a bonusI come from a background of high end speaker design where you depend on hard surfaces and solid mounts to drain vibrations out of a device So the effeHighly recommendedp 
+tags: ["dreamcast", "retro", "photo"]
+---
+
+                
+                
+                
+                                                                                        <img src="../media/165261868799.jpg"/>
+                                                                                          <div class="caption"><p>Right now, the most exciting thing I learned from the <a href="https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw" target="_blank">DIYPerks Youtube channel</a> is the technique he used to <a href="https://www.youtube.com/watch?v=e3fnsGHe8eE" target="_blank">silence the fan on his media center pc</a>.</p><p>My biggest pet peeve about the Dreamcast, and subsequently all modern fan using game consoles, is the fan noise. Transporting Matt Perks’ idea has nearly eradicated the issue, and it’s also a fun simple mod to do.  </p><p>Just take out the hard plastic housing that the fan is mounted to and mount it with some packing sponge and double sided tape.  Easy peasy!  As a bonus, though completely unnecessary in the Dreamcast, but if your fan actually intakes air, then the sponge can also act as a filter to keep out dust.</p><p>I come from a background of high end speaker design where you depend on hard surfaces and solid mounts to drain vibrations out of a device. So the effectiveness of this mod is quite shocking to me, but makes complete sense in this application.</p><p>Highly recommended!</p> </div>
+                                    
+                
+                
+                
+                
+                                
+<small>source: https://saturdayxiii.tumblr.com/post/165261868799</small>

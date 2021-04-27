@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>
+
+A-big-reminder-to-m-self-n • Consumed by saturdayxiii
+
+</title>
+<meta name="description" content="A big reminder to myself not to run disk checksrepairs on a glitchy hdd before attempting absolutely everything to get the files off  RIP lossless eA detailed account in hopes that I don’t forgetbrI had a large EXT4 HDD disappear off my Rpi nas lol so l337  Restarted a couple times with no Enter command line where accessing the directory straight up tells me there’s readwrite errors  Dmesg barely elaborates by saying there’s a “medium I’m now prepared to do proper back ups but really maybe it’s time I just stopped being such a digital horder  Honestly I use enough streaming media This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="//feed.xml">
+
+<!-- icons -->
+<link rel="apple-touch-icon" href="//apple-touch-icon.png">
+<link rel="icon" type="image/png" href="//favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//android-chrome-192x192.png" sizes="192x192">
+<meta name="theme-color" content="#00f0ff">
+<meta name="msapplication-TileColor" content="#00f0ff">
+<meta name="msapplication-TileImage" content="//mstile-310x310.png">
+<!-- /icons -->
+
+<!-- og tags -->
+<meta property="og:site_name" content="Consumed by saturdayxiii">
+<meta property="og:title" content="A-big-reminder-to-m-self-n • Consumed by saturdayxiii">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
+  
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://localhost:4000//2020/02/19/A-big-reminder-to-m-self-n/">
+<meta property="og:description" content="
+
+A big reminder to myself not to run disk checksrepairs on a glitchy hdd before attempting absolutely everything to get the files off  RIP lossless eA detailed account in hopes that I don’t forgetbrI had a large EXT4 HDD disappear off my Rpi nas lol so l337  Restarted a couple times with no Enter command line where accessing the directory straight up tells me there’s readwrite errors  Dmesg barely elaborates by saying there’s a “medium I’m now prepared to do proper back ups but really maybe it’s time I just stopped being such a digital horder  Honestly I use enough streaming media
+">
+<!-- /og tags -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//js/modernizr.js"></script>
+<script src="//js/fitvids.js"></script>
+<link href='//fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Source+Sans+Pro:600,900|Crimson+Text:700italic,600,600italic,400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//css/reset.css">
+<link rel="stylesheet" href="//css/pygments.css">
+
+<link rel="stylesheet" href="//css/font-awesome.css">
+
+<link rel="stylesheet" href="//css/style.css">
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+<style>
+header {
+  margin-bottom: 40px;
+}
+@media all and (min-width: 500px) {
+  header {
+    margin-bottom: 100px;
+  }
+}
+header::after {
+  display: none;
+}
+</style>
+
+
+</head>
+<body>
+	
+	<div class="wrap">
+		<header>
+  <a href="//" class="website-title">
+    
+      Consumed by saturdayxiii
+    
+
+  </a>
+  <nav>
+  <a href="//about/">About</a>
+  <a href="//contact/">Contact</a>
+  <a href="//archive/">Archive</a>
+</nav>
+
+  
+</header>
+
+		
+
+
+<article>
+  <span class="meta">Feb 19, 2020 • 2&nbsp;min read • ["computer", "ext4", "e2fsck", "ext2fsd"] </span>
+	<h1>A-big-reminder-to-m-self-n</h1>
+		<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                                                                                    &lt;img src="../media/190913838744.jpg"/&gt;
+                                                                                      &lt;div class="caption"&gt;&lt;p&gt;A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off.  RIP lossless, extended Escaflowne movie ost.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;A detailed account in hopes that I don’t forget:&lt;br/&gt;I had a large EXT4 HDD disappear off my Rpi nas (lol, so l337).  Restarted a couple times with no change.  Plugged in the drive after a bootup and got an error saying that the mount point was already taken.  Remove the drive from fstab and the error persists, but oddly enough the drive still shows up in the file manager, albeit devoid of content.&lt;/p&gt;&lt;p&gt;Enter command line, where accessing the directory straight up tells me there’s read/write errors.  Dmesg barely elaborates by saying there’s a “medium critical” error, and everything online says to run e2fsck to fix the errors.  Well, attempting a safe run with e2fsck couldn’t complete, so I just had to say “y” to everything and now I have thousands of unnamed files to sort through.&lt;br/&gt;&lt;br/&gt;What I wish I knew was that I could have plugged the drive into my Windows machine and used ext2fsd to transfer the named files. Then flat out reformatting the corrupted drive would have been a simpler process.  I learned this because after renaming a good chunk of the recovered files, I shut down the system and waited for my replacement drive to arrive in the mail.  Upon boot up, that drive as well as a second one had become corrupted.  Apparently the USB hub which worked great for 4 years decided to start killing off my data, and I had to move over to my Windows machine to have enough ports for transferring.&lt;br/&gt;&lt;br/&gt;One more caveat though: it seems e2fsck doesn’t handle non-english characters well.  I don’t know what the exact conditions are, because some files made it through, but about 80% of my files with Japanese names, or accented é’s just didn’t show up in the explorer.  &lt;br/&gt;&lt;/p&gt;&lt;p&gt;I’m now prepared to do proper back ups, but really, maybe it’s time I just stopped being such a digital horder.  Honestly, I use enough streaming media that I rarely go through my personal files. but still I’m worried that one day after the apocalypse of online entertainment services, I’ll desperately want to play that drm-free copy of Witcher 2.   Here’s hoping there’s still compatibility tutorials to get it working on Windows XX.&lt;br/&gt;&lt;/p&gt; &lt;/div&gt;
+</code></pre></div></div>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/190913838744</small></p>
+
+  
+    
+      
+        <small><em>Post by: saturdayxiii </em></small>
+      
+    
+  
+</article>
+
+
+
+
+
+	  <script>
+	    $("article").fitVids();
+	    $('article p').each(function(i){
+				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
+					$(this).addClass('img-only');
+				}
+				if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)){
+					$(this).addClass('img-only-source');
+				}
+	  	});
+	  </script>
+	</div>
+	<footer>
+  <div class="inner">
+    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+  </div>
+</footer>
+
+</body>
+</html>
