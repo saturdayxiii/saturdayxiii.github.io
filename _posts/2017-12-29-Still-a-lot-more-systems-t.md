@@ -1,0 +1,20 @@
+---
+type: post
+title: Still a lot more systems t
+timestamp: December 29th, 2017 10:39pm
+summary: Still a lot more systems to do. #retrogaming #gamerdecor  (at Edmonton, Alberta)</p> 
+tags: ["retrogaming", "gamerdecor]
+---
+
+                
+                
+                
+                                                                                       <a href="https://www.instagram.com/p/BdUKGd2HGCi/ "></a>
+                                                                                          <div class="caption"><p>Still a lot more systems to do. #retrogaming #gamerdecor  (at Edmonton, Alberta)</p> </div>
+                                    
+                
+                
+                
+                
+                                
+<small>source: https://saturdayxiii.tumblr.com/post/169100695179</small>
