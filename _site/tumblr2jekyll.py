@@ -78,8 +78,12 @@ for file in directory:
 	date += no_punc
 	#date is now title I guess
 	#make a summary
-	summ = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
-	summ = ''.join(summ)
+	summ1 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
+	summ1 = ''.join(summ1)
+	summ = ""
+	for char in summ1:
+		if char not in punc:
+			summ = summ + char
 	#print date
 	#print summ
 	# make tag list and generate frontmatter
