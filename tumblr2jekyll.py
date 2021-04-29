@@ -25,6 +25,7 @@ for file in directory:
 	time = date #preserve timestamp in front matter
 	date = date.split(' ')
 	del date[3]
+        #make day always 2 digits pls
 	reorder = [2,0,1]
 	date = [date[i] for i in reorder]
 	date = ''.join(date)
@@ -54,7 +55,7 @@ for file in directory:
 	#fix img urls
 	#temp fix to new directory, bah
 	read_file = re.sub('<img src="../../','<img src="../',read_file)
-	#fix video urls.  Do they need it?
+	#fix video urls.  Do they need it? Yes.
 	#identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
 	post = "post"
 	if re.search("body>\s*<img",read_file):
@@ -76,6 +77,7 @@ for file in directory:
 	for char in title:
 		if char not in punc:
 			no_punc = no_punc + char
+        #missing vwxyz.... U00af?
 	no_punc = re.sub('[^\u0000-\u007f]',' ',no_punc)
 	no_punc = re.sub(" ","-",no_punc)
 	date += no_punc
