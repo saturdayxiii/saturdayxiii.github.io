@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000//2021/05/01/2021-04-28-4k-to-280p/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//2021/05/01/2021-04-28-4k-to-240p1/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000//2021/04/24/friends/</loc>
     </url>
     
@@ -1756,6 +1764,16 @@
     
     <url>
         <loc>http://localhost:4000//page-56/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page-57/</loc>
     </url>
     
     
