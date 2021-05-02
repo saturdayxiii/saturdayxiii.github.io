@@ -6,11 +6,11 @@ to the first 2 lines
 #youtube vids and media vids exist and need fixing
 #group img thumbnails are probably different
 import os,re,io
-directory = os.listdir('html')
-os.chdir('html')
+directory = os.listdir('../../Sync/posts/html')
+os.chdir('../../Sync/posts/html')
 
 for file in directory:
-	print file
+	print (file)
 	#linkback to source
 	iden = file[:-5]
 	source = "<small>source: https://saturdayxiii.tumblr.com/post/" + iden + "</small>"
@@ -48,10 +48,10 @@ for file in directory:
 	date = re.sub("November","-11-",date)
 	date = re.sub("December","-12-",date)
 	#shift h tags
-	read_file = re.sub("<h2>","<h3>",read_file)
-	read_file = re.sub("</h2>","</h3>",read_file)
-	read_file = re.sub("<h1>","<h2>",read_file)
-	read_file = re.sub("</h1>","</h2>",read_file)
+	read_file = re.sub("<h2>","###",read_file)
+	read_file = re.sub("</h2>","###",read_file)
+	read_file = re.sub("<h1>","##",read_file)
+	read_file = re.sub("</h1>","##",read_file)
 	#fix img urls
 	#temp fix to new directory, bah
 	read_file = re.sub('<img src="../../','<img src="../',read_file)
@@ -78,7 +78,7 @@ for file in directory:
 		if char not in punc:
 			no_punc = no_punc + char
         #missing vwxyz.... U00af?
-	no_punc = re.sub('[^\u0000-\u007f]',' ',no_punc)
+	no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
 	no_punc = re.sub(" ","-",no_punc)
 	date += no_punc
 	#date is now title I guess
@@ -116,4 +116,4 @@ for file in directory:
 	#encoding? do this for "open_file" too
 	with io.open(date,'w', encoding='utf8') as write_file:
 		write_file.write(read_file)
-	#break
+	break
