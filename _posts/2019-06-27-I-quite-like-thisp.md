@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-quite-like-thisp
 timestamp: June 27th, 2019 12:37pm
-summary: I quite like this
 tags: ["sgdq2019", "art", "crayola"]
 ---
-<img src="../media/190407228749.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/190407228749.jpg"/>
                                                                                           
 I quite like this.
 

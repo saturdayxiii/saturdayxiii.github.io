@@ -1,11 +1,9 @@
 ---
 type: img
-title: 3D-scanning-nopep-
 timestamp: January 25th, 2019 11:04am
-summary: 3D scanning nopep 
 tags: ["yoshi", "qlone", "misc"]
 ---
-<img src="../media/182299758994.png"/>
+<img src="https://saturdayxiii.github.io/media/media/182299758994.png"/>
                                                                                           
 3D scanning nope
  

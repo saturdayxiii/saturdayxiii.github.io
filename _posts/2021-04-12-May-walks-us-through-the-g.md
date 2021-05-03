@@ -1,8 +1,6 @@
 ---
 type: post
-title: May-walks-us-through-the-g
 timestamp: April 12th, 2021 12:00pm
-summary: May walks us through the grim themes of Tideland so we dont have toppThis movie is sitting unwatched within my hoard and this video was a rolle
 tags: ["tideland", "recommended", "show", "review", "Youtube"]
 ---
 ####

@@ -1,8 +1,6 @@
 ---
 type: post
-title: This-last-year-has-been-a-A-particular-tough-night-tThere-is-an-abundance-of-iIve-been-using-the-pills-I-told-my-therapist-that-ISo-my-non-medical-opinion-
 timestamp: April 25th, 2012 12:38pm
-summary: This last year has been a rough one  I developed an emotional problem that effected every aspect of my life  Up until recently I couldnt pin point wA particular tough night that I had last week brought me to Google for help  My therapist had told me before that its Adrenaline that makes me feel tThere is an abundance of information online about what 5HTP is how it works and the caution that needs to be applied to its users so Im not goingIve been using the pills for nearly a week now  Ive paired them with pills of rhodiola rosea taking 50 mg of 5HTP in the evenings before bed and 4I told my therapist that I was insecure about taking medication because I didnt know what it would do to me  I really didnt want to lose myself or fSo my non medical opinion based on my first week of these drugs is if youre hurting enough to consider supplements try 5HTP and rhodiola rosea  My
 tags: ["Thoughts"]
 ---
 ##My Initial Responce to 5-HTP##

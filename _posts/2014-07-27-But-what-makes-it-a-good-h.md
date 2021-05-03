@@ -1,11 +1,9 @@
 ---
 type: img
-title: But-what-makes-it-a-good-h
 timestamp: July 27th, 2014 4:37pm
-summary: But what makes it a good hidden object point and click Im not an expert but I think I can say this was on the enjoyable side of such games The grap
 tags: ["game", "review"]
 ---
-<img src="../media/182016633414.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182016633414.jpg"/>
                                                                                           
 <a href="https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/" target="_blank">
 

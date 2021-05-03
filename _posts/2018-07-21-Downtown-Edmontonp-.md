@@ -1,11 +1,9 @@
 ---
 type: img
-title: Downtown-Edmontonp-
 timestamp: July 21st, 2018 10:30am
-summary: Downtown Edmontonp 
 tags: ["photography", "edmonton", "alberta", "street"]
 ---
-<img src="../media/182065701899.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182065701899.jpg"/>
                                                                                           
 Downtown Edmonton
  

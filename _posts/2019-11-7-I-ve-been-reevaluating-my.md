@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-ve-been-reevaluating-my
 timestamp: November 7th, 2019 3:33pm
-summary: I’ve been reevaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effortppI dTo be fair nothing has gone wrong with Chrome but lately I’ve stopped using it because I’ve upgraded my USB stick to a PCIE SSD over USBC  It’s fasFrom the few times I’ve tried Chrome portable I consider it to be too unreliable so I narrowed down my replacement options to Firefox and Vivaldi  IVivaldi I was most excited about because it was essentially Opera  I’ve endorsed Opera as being an amazing lightweight browser in the past but have But the nail in the coffin was the fact that Vivaldi didn’t have a proper portable app  They have a standalone that could be run in isolation but it So I’m back on Opera  I’ve got sync set up and I’m feeling good  I guess I don’t have a problem with the devil so long as he has good servicespp
 tags: ["opera", "vivaldi"]
 ---
 ##I’m back on Opera.  I never left Opera.##

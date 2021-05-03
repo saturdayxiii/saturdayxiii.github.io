@@ -1,11 +1,9 @@
 ---
 type: img
-title: High-Resolution-Graphics
 timestamp: December 7th, 2015 2:02pm
-summary: High Resolution Graphicsppa hrefhttpswwwyoutubecomwatchvIAVUzjXgZg targetblankhttpswwwyoutubecomwatchvIAVUzjXgZgabr
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
 ---
-<img src="../media/134745252369.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/134745252369.jpg"/>
                                                                                           
 High Resolution Graphics
 

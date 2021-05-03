@@ -1,8 +1,6 @@
 ---
 type: post
-title: Shout-out-to-my-supper--I
 timestamp: July 15th, 2019 5:39pm
-summary: Shout out to my supper  I oil fried my remaining tofu puffs and decided to have it in a wrap  I thought if only I could make it taste like bahn mi
 tags: ["recommended", "maybe", "edible"]
 ---
 ####

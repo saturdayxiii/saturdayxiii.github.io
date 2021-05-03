@@ -1,8 +1,6 @@
 ---
 type: post
-title: Ive-been-thinking-about-3
 timestamp: March 22nd, 2021 10:55am
-summary: Ive been thinking about 3d modeling a lot lately  I decided to try and do Sickly Wizards awesome environment tutorial for ps1 graphics  a hrefht
 tags: ["Thoughts", "Art", "Cave"]
 ---
 ####

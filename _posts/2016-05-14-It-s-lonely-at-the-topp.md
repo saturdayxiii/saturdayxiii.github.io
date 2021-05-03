@@ -1,11 +1,9 @@
 ---
 type: img
-title: It-s-lonely-at-the-topp
 timestamp: May 14th, 2016 12:00pm
-summary: It’s lonely at the topp 
 tags: ["photo", "clouds", "flying", "sunset", "sunrise", "sky", "photography"]
 ---
-<img src="../media/144355354663.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144355354663.jpg"/>
                                                                                           
 It’s lonely at the top.
  

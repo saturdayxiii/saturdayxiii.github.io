@@ -1,11 +1,9 @@
 ---
 type: img
-title: Google-Play-recommended-a
 timestamp: January 14th, 2019 11:36am
-summary: Google Play recommended a hrefhttpsplaygooglecomstoreappsdetailsidcompinestreetcodeworksTinyBubbles targetblankTiny Bubblesa  It had good mechanics and nice animation but I played like 20 some levels and they were extremely tutorialy  Despite the mechanics constantly evolviSorry but too little too late uninstalled  I’m sure there are people that would enjoy this game a lot it certainly didn’t seem too bad but I don’
 tags: ["meh", "game"]
 ---
-<img src="../media/182010017489.gif"/>
+<img src="https://saturdayxiii.github.io/media/media/182010017489.gif"/>
                                                                                           
 Google Play recommended <a href="https://play.google.com/store/apps/details?id=com.pinestreetcodeworks.TinyBubbles" target="_blank">Tiny Bubbles</a>.  It looked nice and boasted a bunch of “awards”, so I figured I’d give it a shot.  I later uninstalled with a resounding “meh”.
 

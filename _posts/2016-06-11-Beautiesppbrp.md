@@ -1,11 +1,9 @@
 ---
 type: img
-title: Beautiesppbrp
 timestamp: June 11th, 2016 12:00pm
-summary: Beautiesppbrppmaybe a hrefhttpsenwikipediaorgwikiHyalophoracolumbia targetblankhttpsenwikipediaorgwikiHyalophora
 tags: ["photo", "moth", "park", "insect", "photography"]
 ---
-<img src="../media/145763608733.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/145763608733.jpg"/>
                                                                                           
 Beauties.
 

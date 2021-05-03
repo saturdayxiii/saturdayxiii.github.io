@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-put-a-lot-of-time-into-P
 timestamp: December 27th, 2019 1:10pm
-summary: I put a lot of time into Penguin Isle so I wanted to talk about it  But what is there to say other than I’m a suckerppIf you like this kind of 
 tags: ["recommended"]
 ---
-<img src="../media/190407682119.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/190407682119.jpg"/>
                                                                                           
 I put a lot of time into Penguin Isle, so I wanted to talk about it.  But what is there to say other than I’m a sucker?
 

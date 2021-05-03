@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-really-like-my-tiny-i5-
 timestamp: July 12th, 2017 12:38pm
-summary: I really like my tiny i5 4gb acer laptop but if I don’t reinstall install Windows on a monthly basis it slows down to a borderline unusable state  SI prize ease of use but also wanted to try something I haven’t before so after a bit of research I decided upon Manjaro and easily had it up and runnThe desktop is a different beast  It’s a hodge podge of an AMD FX6200 processor Nvidia 1060 video card and an MAudio analogue soundcard  With suchIt seems like nothing has changed since 10 years ago  It took 8 attempts to get the OS to install properly the default video driver did next to nothiI’ve started writing this rather prematurely because I don’t have a solution nor have I given up yet  What does work in Ubuntu works very well so I
 tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts"]
 ---
 ##a Re-Ignited, Preliminary Linux experience [journal entry]##

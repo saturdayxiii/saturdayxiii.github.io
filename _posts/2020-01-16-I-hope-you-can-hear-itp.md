@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-hope-you-can-hear-itp
 timestamp: January 16th, 2020 10:23am
-summary: I hope you can hear itppa hrefhttpswwwthingiversecomthing4105628 targetblankhttpswwwthingiversecomthing4105628abrp
 tags: ["petscop", "garalina"]
 ---
-<img src="../media/190292235709.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/190292235709.jpg"/>
                                                                                           
 I hope you can hear it.
 

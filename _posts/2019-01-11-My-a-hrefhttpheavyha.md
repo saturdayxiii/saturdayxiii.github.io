@@ -1,8 +1,6 @@
 ---
 type: post
-title: My-a-hrefhttpheavyha
 timestamp: January 11th, 2019 1:06pm
-summary: My a hrefhttpheavyhandedcapost144167964597designedandpaintedsomemodularshelvingformy targetblankgame shelves aarehellip StiSomeone in one of my gamer groups posted some kind of rack they were using and I liked the idea but I dont know what the stand was called  WalllessSo heres a sketch of how I might diy the same concept  Not so clear on what Id use as the basehellip Which is pretty important  But the shelves t
 tags: ["idea", "diy", "design", "sketch", "shelving"]
 ---
 ##Game Shelving... the Sequel##

@@ -1,8 +1,6 @@
 ---
 type: vid
-title: Spot-on -I-didn-t-know-ab
 timestamp: March 20th, 2019 8:13pm
-summary: Spot on  I didn’t know about the new series coming out but everything acknowledged here are things I’ve always found treasurable about the original 
 tags: ["recommended", "show", "tv", "daria", "cartoon", "90s"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/ZZswmxq-K1M?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

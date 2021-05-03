@@ -1,8 +1,6 @@
 ---
 type: post
-title: A-chiptune-artist-with-a-c
 timestamp: April 11th, 2019 3:55pm
-summary: A chiptune artist with a chip on his shoulder ready to wave some squares off the track  ppNario recently announced that he was going to get backI love his layered progressions and soaring melodies  It’s a special treat if you ever get to see him share his music via webcam  He’s into it and hi
 tags: ["recommended", "music", "chiptune", "8bit", "nario"]
 ---
 <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=4018849524&amp;ts=1618890939&amp;t=f841d275473204a2049ece52e688549cb398c378"></embed>

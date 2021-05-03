@@ -1,11 +1,9 @@
 ---
 type: img
-title: Right-now-the-most-exciti
 timestamp: September 12th, 2017 9:15am
-summary: Right now the most exciting thing I learned from the a hrefhttpswwwyoutubecomchannelUCUQo7nzH1sXVpzL92VesANw targetblankDIYPerks YoutuMy biggest pet peeve about the Dreamcast and subsequently all modern fan using game consoles is the fan noise Transporting Matt Perks’ idea has nearJust take out the hard plastic housing that the fan is mounted to and mount it with some packing sponge and double sided tape  Easy peasy  As a bonusI come from a background of high end speaker design where you depend on hard surfaces and solid mounts to drain vibrations out of a device So the effeHighly recommendedp 
 tags: ["dreamcast", "retro", "photo"]
 ---
-<img src="../media/165261868799.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/165261868799.jpg"/>
                                                                                           
 Right now, the most exciting thing I learned from the <a href="https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw" target="_blank">DIYPerks Youtube channel</a> is the technique he used to <a href="https://www.youtube.com/watch?v=e3fnsGHe8eE" target="_blank">silence the fan on his media center pc</a>.
 

@@ -1,11 +1,9 @@
 ---
 type: img
-title: A-Yellow-Winged-Darter- B
 timestamp: May 26th, 2016 3:59pm
-summary: A Yellow Winged Darter  But this is Canadappa hrefhttpsenwikipediaorgwikiYellowwingeddarter targetblankhttpsenwikipediaor
 tags: ["photo", "dragonfly", "insect", "bug", "photography"]
 ---
-<img src="../media/144974648089.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144974648089.jpg"/>
                                                                                           
 A Yellow Winged Darter?  But this is Canada.
 

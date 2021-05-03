@@ -1,23 +1,21 @@
 ---
 type: post
-title: Unfortunately-I-couldn-t-g
 timestamp: August 25th, 2016 12:00pm
-summary: Unfortunately I couldn’t get the focus to cooperateppbrppa hrefhttpsenwikipediaorgwikiAraneusdiadematus targetblankhttps
 tags: ["spider", "arachnid", "macro", "web", "photography"]
 ---
 
 
-                               <img src="../media/149470001853_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/149470001853_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/149470001853_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/149470001853_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/149470001853_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/149470001853_3.jpg"/>
                            
 
                                                                                                                       

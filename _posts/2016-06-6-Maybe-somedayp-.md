@@ -1,11 +1,9 @@
 ---
 type: img
-title: Maybe-somedayp-
 timestamp: June 6th, 2016 12:00pm
-summary: Maybe somedayp 
 tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 ---
-<img src="../media/145516013259.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/145516013259.jpg"/>
                                                                                           
 Maybe someday.
  

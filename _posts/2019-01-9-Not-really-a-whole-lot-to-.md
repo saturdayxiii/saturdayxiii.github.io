@@ -1,11 +1,9 @@
 ---
 type: img
-title: Not-really-a-whole-lot-to-
 timestamp: January 9th, 2019 8:42pm
-summary: Not really a whole lot to say about it  I just played it  About half an hour long  Wasn’t even a walking simulator because it took place all in a caIt’s alright if you must play your short stories rather than read themppActually it’s a demo for a larger game so that works  I hope we’re not
 tags: ["game"]
 ---
-<img src="../media/181886640029.gif"/>
+<img src="https://saturdayxiii.github.io/media/media/181886640029.gif"/>
                                                                                           
 <a href="http://hitchhiker-game.com" target="_blank">Humble Bundle’s Hitchiker: First Ride</a>.
 

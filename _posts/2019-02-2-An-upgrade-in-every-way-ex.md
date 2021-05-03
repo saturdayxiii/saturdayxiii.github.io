@@ -1,11 +1,9 @@
 ---
 type: img
-title: An-upgrade-in-every-way-ex
 timestamp: February 2nd, 2019 10:50am
-summary: An upgrade in every way except for the lack of a graphics cardppI’m hoping to use an external gpu via the wifi card slot  Which is already a preThe processor seems to have a stable run at 31GHz rarely spiking up to 33 but no going back now  Anyway these days the games I play are pretty si
 tags: ["update", "life", "computer", "purchase", "product"]
 ---
-<img src="../media/182502592759.png"/>
+<img src="https://saturdayxiii.github.io/media/media/182502592759.png"/>
                                                                                           
 
 

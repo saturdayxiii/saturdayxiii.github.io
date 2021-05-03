@@ -1,11 +1,9 @@
 ---
 type: img
-title: When-you-have-a-favorite-c
 timestamp: August 5th, 2016 11:06am
-summary: When you have a favorite cozy but it’s not really that cozyp 
 tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]
 ---
-<img src="../media/148502555644.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/148502555644.jpg"/>
                                                                                           
 When you have a favorite cozy, but it’s not really that cozy.
  

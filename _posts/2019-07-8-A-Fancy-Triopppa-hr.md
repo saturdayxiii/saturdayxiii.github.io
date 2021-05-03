@@ -1,11 +1,9 @@
 ---
 type: img
-title: A-Fancy-Triopppa-hr
 timestamp: July 8th, 2019 9:32pm
-summary: A Fancy Triopppa hrefhttpfavmeddb8ial targetblankhttpfavmeddb8ialabrppa hrefhttpsyoutube1jxa4Z3j7H8 target
 tags: ["triops", "ibispaintx", "art"]
 ---
-<img src="../media/186155863744.png"/>
+<img src="https://saturdayxiii.github.io/media/media/186155863744.png"/>
                                                                                           
 A Fancy Triop.
 

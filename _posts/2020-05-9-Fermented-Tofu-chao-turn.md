@@ -1,8 +1,6 @@
 ---
 type: post
-title: Fermented-Tofu-chao-turn
 timestamp: May 9th, 2020 12:23pm
-summary: Fermented Tofu chao turned out really well  Its like a crumbly cheddar  Super salty though  Id adjust that next time  I followed this a href
 tags: ["food", "reccommended", "chao", "recipe", "edible"]
 ---
 ####

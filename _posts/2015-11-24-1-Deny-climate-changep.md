@@ -1,8 +1,6 @@
 ---
 type: post
-title: 1-Deny-climate-changep
 timestamp: November 24th, 2015 8:00am
-summary: 1 Deny climate changepp2 Secretly prepare for zombie apocalypse
 tags: ["hypocrisy", "Thoughts"]
 ---
 ##I’ve noticed something.##

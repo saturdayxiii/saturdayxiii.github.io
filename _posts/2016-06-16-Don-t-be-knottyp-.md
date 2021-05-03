@@ -1,11 +1,9 @@
 ---
 type: img
-title: Don-t-be-knottyp-
 timestamp: June 16th, 2016 12:00pm
-summary: Don’t be knottyp 
 tags: ["photo", "bark", "texture", "photography"]
 ---
-<img src="../media/146020178743.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/146020178743.jpg"/>
                                                                                           
 Don’t be knotty.
  

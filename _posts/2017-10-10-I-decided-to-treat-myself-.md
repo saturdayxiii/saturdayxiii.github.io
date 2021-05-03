@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-decided-to-treat-myself-
 timestamp: October 10th, 2017 2:51pm
-summary: I decided to treat myself and upgrade my laptopdrawing tablet combo  I’ve found lots of comprehensive reviews for hardware and software and have happ
 tags: [""]
 ---
 ##Vector illustration apps for android##

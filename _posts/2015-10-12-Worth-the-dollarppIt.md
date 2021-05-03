@@ -1,11 +1,9 @@
 ---
 type: img
-title: Worth-the-dollarppIt
 timestamp: October 12th, 2015 7:34pm
-summary: Worth the dollarppIts hard to review hidden object games because I dont really believe anyone expects them to be good games  a hrefhttps
 tags: ["game"]
 ---
-<img src="../media/182151348049.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182151348049.jpg"/>
                                                                                           
 Worth the dollar.
 

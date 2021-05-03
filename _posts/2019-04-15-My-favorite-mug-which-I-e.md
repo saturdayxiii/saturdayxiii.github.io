@@ -1,11 +1,9 @@
 ---
 type: img
-title: My-favorite-mug-which-I-e
 timestamp: April 15th, 2019 12:00pm
-summary: My favorite mug which I expertly painted has a crack in it and will soon be RIPppMay it forever be remembered herep 
 tags: ["art", "mug", "pastel", "paint", "ceramic", "crankpots"]
 ---
-<img src="../media/184207088519.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/184207088519.jpg"/>
                                                                                           
 My favorite mug, which I expertly painted, has a crack in it and will soon be RIP.
 

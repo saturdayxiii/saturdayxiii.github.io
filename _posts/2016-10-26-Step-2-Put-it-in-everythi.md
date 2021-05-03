@@ -1,8 +1,6 @@
 ---
 type: post
-title: Step-2-Put-it-in-everythi
 timestamp: October 26th, 2016 7:37am
-summary: Step 2 Put it in everythingppStep 3  Kickstarter
 tags: ["advice", "Thoughts"]
 ---
 ##The Plan##

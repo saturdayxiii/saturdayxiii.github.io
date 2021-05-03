@@ -1,8 +1,6 @@
 ---
 type: post
-title: Ive-always-been-a-critica
 timestamp: April 15th, 2021 8:43pm
-summary: Ive always been a critical person and Ive been trying to be less so but Ive got about 30 years of experience to walk back on  Ive been lucky enouHarsh reviews of bad media have fallen out of fashion lately and despite my internal claims to being an independent thinker Im still right there witMinimme is excellent at this  Their videos are more specifically about shining light on underrated or relatively unknown games but the games are usuaMinimme is very clear why Alone in the Dark is a bad game but is very objective about that and about what the game has done well  They do this from Im loving the good vibes that are bringing about encouragement  Thats what I want in my life on a personal level  I wanna see the critical aspects As Minimme says Get yourself in a forgiving mood
 tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube"]
 ---
 ####

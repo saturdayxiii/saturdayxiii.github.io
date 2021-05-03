@@ -1,8 +1,6 @@
 ---
 type: post
-title: Yesterday-I-caught-a-Sonic
 timestamp: April 9th, 2021 2:08pm
-summary: Yesterday I caught a Sonic Advance race on a hrefhttpswwwtwitchtvgamesdonequick targetblankGamesDoneQuicka  It reminded me how underMaybe under appreciated is the wrong term perhaps its too accepted  Not controversial enough  Sonic is a huge brand so even though the Advance gaId love to see the Advance games picked apart or over glamorized as much as the other Sonic titles  Actually that goes for most of the Sonic portabAnyway heres an old vid by the Geek Critique which I dont agree with but he makes a lot of great points that I think apply better to gaming in gene
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 ---
 ####

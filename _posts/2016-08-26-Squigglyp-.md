@@ -1,11 +1,9 @@
 ---
 type: img
-title: Squigglyp-
 timestamp: August 26th, 2016 12:00pm
-summary: Squigglyp 
 tags: ["bug", "insect", "macro", "flower", "pollen", "photography"]
 ---
-<img src="../media/149516566940.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149516566940.jpg"/>
                                                                                           
 Squiggly.
  

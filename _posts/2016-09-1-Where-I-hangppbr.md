@@ -1,11 +1,9 @@
 ---
 type: img
-title: Where-I-hangppbr
 timestamp: September 1st, 2016 12:00pm
-summary: Where I hangppbrppOne of these two I guess ppa hrefhttpsenwikipediaorgwikiClepsisclemensiana targetblankhttpsen
 tags: ["moth", "bug", "insect", "macro", "photography"]
 ---
-<img src="../media/149801109387.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149801109387.jpg"/>
                                                                                           
 Where I hang.
 

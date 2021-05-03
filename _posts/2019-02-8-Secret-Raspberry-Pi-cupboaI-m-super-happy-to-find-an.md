@@ -1,11 +1,9 @@
 ---
 type: img
-title: Secret-Raspberry-Pi-cupboaI-m-super-happy-to-find-an
 timestamp: February 8th, 2019 7:48pm
-summary: Secret Raspberry Pi cupboard with 10Tb of cloud storageI’m super happy to find an a hrefhttpswwwaliexpresscomitemRaspberrypi323557101inchtouchHDMILCDdisplaymodule32864661234html 
 tags: ["product", "purchase"]
 ---
-<img src="../media/182671455654.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182671455654.jpg"/>
                                                                                           
 Secret Raspberry Pi cupboard with 10Tb of cloud storage.
 

@@ -1,11 +1,9 @@
 ---
 type: img
-title: Espress-yourselfp-
 timestamp: May 23rd, 2016 12:00pm
-summary: Espress yourselfp 
 tags: ["capuccino", "flower", "coffee", "edible", "art"]
 ---
-<img src="../media/144815258057.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144815258057.jpg"/>
                                                                                           
 Espress yourself.
  

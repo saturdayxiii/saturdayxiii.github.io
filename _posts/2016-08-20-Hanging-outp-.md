@@ -1,11 +1,9 @@
 ---
 type: img
-title: Hanging-outp-
 timestamp: August 20th, 2016 12:00pm
-summary: Hanging outp 
 tags: ["spider", "arachnid", "macro", "nature", "photography"]
 ---
-<img src="../media/149230541170.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149230541170.jpg"/>
                                                                                           
 Hanging out
  

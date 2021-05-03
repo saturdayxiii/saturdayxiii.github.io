@@ -1,11 +1,9 @@
 ---
 type: img
-title: Found-this-today-which-I-
 timestamp: September 21st, 2017 1:29pm
-summary: Found this today which I had previously forgotten aboutppa hrefhttpfavmed6z8121 targetblankhttpfavmed6z8121abrp 
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art"]
 ---
-<img src="../media/165590796589.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/165590796589.jpg"/>
                                                                                           
 Found this today, which I had previously forgotten about.
 

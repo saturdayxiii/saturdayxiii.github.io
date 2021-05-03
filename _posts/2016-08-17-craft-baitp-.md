@@ -1,11 +1,9 @@
 ---
 type: img
-title: craft-baitp-
 timestamp: August 17th, 2016 12:00pm
-summary: craft baitp 
 tags: ["flower", "photography", "macro"]
 ---
-<img src="../media/149087666693.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149087666693.jpg"/>
                                                                                           
 craft bait.
  

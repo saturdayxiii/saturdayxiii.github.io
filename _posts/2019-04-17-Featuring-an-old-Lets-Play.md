@@ -1,8 +1,6 @@
 ---
 type: vid
-title: Featuring-an-old-Lets-Play
 timestamp: April 17th, 2019 4:30pm
-summary: Featuring an old Lets Play that we always watch when we want comfort ppI have a hard time paying attention to a lot of Lets Plays but Zergem’s l
 tags: ["video", "recommended", "show"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/cjQrC5yB_aA?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

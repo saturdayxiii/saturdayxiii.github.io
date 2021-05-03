@@ -1,11 +1,9 @@
 ---
 type: img
-title: Keep-me-fungusp-
 timestamp: May 22nd, 2016 12:00pm
-summary: Keep me fungusp 
 tags: ["photo", "mushroom", "fungus", "plant", "photography"]
 ---
-<img src="../media/144762384055.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144762384055.jpg"/>
                                                                                           
 Keep me fungus.
  

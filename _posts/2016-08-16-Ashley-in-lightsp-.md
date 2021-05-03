@@ -1,11 +1,9 @@
 ---
 type: img
-title: Ashley-in-lightsp-
 timestamp: August 16th, 2016 10:20am
-summary: Ashley in lightsp 
 tags: ["tarantula", "blacklight", "photography"]
 ---
-<img src="../media/149034981519.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149034981519.jpg"/>
                                                                                           
 Ashley in lights.
  

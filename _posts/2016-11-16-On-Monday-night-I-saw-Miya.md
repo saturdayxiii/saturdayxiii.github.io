@@ -1,8 +1,6 @@
 ---
 type: post
-title: On-Monday-night-I-saw-Miya
 timestamp: November 16th, 2016 4:02pm
-summary: On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre  So this is a follow up post to the one I’ve made in reaction In true waffling fashion as soon as I posted my laments towards being unable to enjoy anime I have found myself enjoying old anime  Neon Genesis EvanWith such fluctuation in my anhedonia condition it’s no surprise that I enjoyed Nausicaa but that isn’t a surprise either way  The question was whaI’m honestly surprised that I don’t see more complaints about how similar these movies are to one another Nausicaa may as well be known as ProtomononFrom what I understand Nausicaa is the first true Miyazaki movie and it is exactly what any aspiring fantasy writerartist would hope for in their firOh hey wouldn’t you know that another movie is in the works  Well okay  I’m not tremendously excited like some people but it’s a far cry from howMaybe I’m just spoilt
 tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie"]
 ---
 ##Further topicless ramblings about select cartoons [journal]##

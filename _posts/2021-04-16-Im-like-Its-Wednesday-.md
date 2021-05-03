@@ -1,8 +1,6 @@
 ---
 type: post
-title: Im-like-Its-Wednesday-
 timestamp: April 16th, 2021 9:49pm
-summary: Im like Its Wednesday  Im late for uploading my weekly portraits update  But actually its FridayppIm very happy to be getting more consisIve only got 2 more pages left in my sketchbook  I think Ill do another week then hopefully try something else  I want to do daily urban sketchingoh well well see
 tags: ["marker", "sketch", "freehand", "portraits", "ink", "art", "progress"]
 ---
 ####

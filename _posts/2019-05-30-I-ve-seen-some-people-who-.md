@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-ve-seen-some-people-who-
 timestamp: May 30th, 2019 7:42am
-summary: I’ve seen some people who can’t stand video game achievements I’ve seen others who won’t play games without them and won’t play another game until the1 Categorization  ppPretty much all video games can be played in more than one way  The most basic way is start to finish which can be reflectI don’t see why achievement systems don’t already reflect this  The trophy page always seems to be built around 100 or bust despite the fact very feHere’s another preface for my second feature request  It can only be applied at the platform or achievement service level and one has to acknowledgeStill hereppThanks for hearing me outpp2 Achievements from prerecorded footageppI am in the camp of folks that will sometimes not pClearly this wouldn’t work for many stats based achievements but any achievement that can be acknowledged from a menu or visual cue like a life countYou might be thinking “But anyone can upload a video if you’re going to be that lax about it why not just mark off a public checklist”  You’re essenThere’s my long spiel for two rather mundane ideas  There’s probably legitimate reasons why I’ve never heard anyone mention either before  But I’m pu
 tags: ["game", "achievements", "exophase", "idea"]
 ---
 ##A Couple of Desires for Video Game Achievements##

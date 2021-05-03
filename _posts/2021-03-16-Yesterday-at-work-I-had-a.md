@@ -1,38 +1,36 @@
 ---
 type: post
-title: Yesterday-at-work-I-had-a
 timestamp: March 16th, 2021 12:02pm
-summary: Yesterday at work I had an inspiration to do a quick portrait from a photo reference so I did  I used a black fat chisel marker on a panel of cardWhy did it go so horriblyppThese pictures are my practice and while the one I halfassed at work wasn’t great these ones are off the chart bad What irritates me the most is how none of the sketches even have the aura of their subjects  There’s a hint here or there but nothing like “yah theHere’s my individual notespp1 I started digital because I really love the idea of having my one device that I take with me everywhere and do eve2 No Stop  No matter what I have a ridiculous number of false starts  Just trying to coordinate my brain with the medium I guess  Warm up exercis3  Skew  I always skew  I’m well aware of my inability to do symmetry and I try really hard to correct this when drawing  I’ve been addressing thi4  The features in this one are just so off  I can’t even  I had been marking points where I thought stuff should go before drawing lines to connec5  So I bailed on pre mapping and went the n00b route of starting with individual features  Of course the eyes are where I feel most comfortable I p6  This one is wrong but like the last one it doesn’t upset me  It was especially frustrating as I had the hair framing the face then in full awareHopefully this word vomit cleanses me or something  Though why would it  I don’t think my art has improved for the last 15 years  I have a couple h
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 ---
 
 
-                               <img src="../media/645836584988590080_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/645836584988590080_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/645836584988590080_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/645836584988590080_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/645836584988590080_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/645836584988590080_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_6.jpg"/>
                            
 
                                                                                                                       

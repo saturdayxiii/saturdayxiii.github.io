@@ -1,11 +1,9 @@
 ---
 type: img
-title: A-big-reminder-to-myself-n
 timestamp: February 19th, 2020 9:52am
-summary: A big reminder to myself not to run disk checksrepairs on a glitchy hdd before attempting absolutely everything to get the files off  RIP lossless eA detailed account in hopes that I don’t forgetbrI had a large EXT4 HDD disappear off my Rpi nas lol so l337  Restarted a couple times with no Enter command line where accessing the directory straight up tells me there’s readwrite errors  Dmesg barely elaborates by saying there’s a “medium I’m now prepared to do proper back ups but really maybe it’s time I just stopped being such a digital horder  Honestly I use enough streaming media
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 ---
-<img src="../media/190913838744.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/190913838744.jpg"/>
                                                                                           
 A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off.  RIP lossless, extended Escaflowne movie ost.<br/>
 

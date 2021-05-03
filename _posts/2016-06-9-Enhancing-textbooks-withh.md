@@ -1,11 +1,9 @@
 ---
 type: img
-title: Enhancing-textbooks-withh
 timestamp: June 9th, 2016 12:00pm
-summary: Enhancing textbooks withhellip what is that  Anime  Grossp 
 tags: ["illustration", "ink", "sketch", "art"]
 ---
-<img src="../media/145667317283.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/145667317283.jpg"/>
                                                                                           
 Enhancing textbooks with&hellip; what is that?  Anime?  Gross.
  

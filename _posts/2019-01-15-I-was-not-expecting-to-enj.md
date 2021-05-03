@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-was-not-expecting-to-enj
 timestamp: January 15th, 2019 9:02pm
-summary: I was not expecting to enjoy the second season of a hrefhttpsenwikipediaorgwikiOneMississippiTVseries targetblankOne MississippiThis carried over into the beginning of the second season  I thought it was just something dramatic that they were going to dangle in front of the audThere’s a great mix of characters from all walks of life with strong personalities and I love seeing them conflict then actually strive to accommodateUnfortunately Tig reminds me a lot of Brent Butt when he always seemed to star in shows that saw his character getting together with the cast’s most el
 tags: ["show", "amazon", "recommended"]
 ---
-<img src="../media/182048488999.gif"/>
+<img src="https://saturdayxiii.github.io/media/media/182048488999.gif"/>
                                                                                           
 I was not expecting to enjoy the second season of <a href="https://en.wikipedia.org/wiki/One_Mississippi_(TV_series)" target="_blank">One Mississippi</a> as much as I did.  The first season was alright, something to have on while I concentrated on another task.  It started strong on the topic of loss, and the whole show is caked with bitter wit.  However, I thought the “mom’s not as perfect as we thought” bit was rather played; they didn’t even bring it up again in later episodes, and I really didn’t know what they were trying to do with the child molestation aspects.
 

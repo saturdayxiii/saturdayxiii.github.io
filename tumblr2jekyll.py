@@ -59,8 +59,11 @@ for file in directory:
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #
-    read_file = re.sub('<img src="../../','<img src="../',read_file)
+    read_file = re.sub('<img src="../../','<img src="https://saturdayxiii.github.io/media/',read_file)
+    #gifs are different, see kvass post
     #fix video urls.  Do they need it? Yes.
+    #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
+    #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
     #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
     post = "post"
     if re.search("body>\s*<img",read_file):
@@ -112,8 +115,10 @@ for file in directory:
     codebit = re.compile('<div class=".*">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\ntype: " + post + "\ntitle: " + no_punc + "\ntimestamp: " + time + "\nsummary: " + summ + "\ntags: [" + tags + '"]\n---\n'
+    fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
     read_file = fmatt + read_file + "\n" + source
+    #"\ntitle: " + no_punc +
+    #"\nsummary: " + summ + 
     #
     '''#new file, new ext
     name, ext = file.split('.')

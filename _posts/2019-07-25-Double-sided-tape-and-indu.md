@@ -1,18 +1,16 @@
 ---
 type: post
-title: Double-sided-tape-and-indu
 timestamp: July 25th, 2019 1:10pm
-summary: Double sided tape and industrial hot glue seems to work the best for holding things togetherp 
 tags: ["shows", "comic", "customizing"]
 ---
 
 
-                               <img src="../media/186544581839_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/186544581839_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/186544581839_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/186544581839_2.jpg"/>
                            
 
                                                                                                                       

@@ -1,11 +1,9 @@
 ---
 type: img
-title: Still-sneakinppbr
 timestamp: September 4th, 2016 12:00pm
-summary: Still sneakinppbrppa hrefhttpsenwikipediaorgwikiMisumenavatia targetblankhttpsenwikipediaorgwikiMisumenavatiaa
 tags: ["spider", "arachnid", "macro", "whenisawit", "photography"]
 ---
-<img src="../media/149940042190.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149940042190.jpg"/>
                                                                                           
 Still sneakin.
 

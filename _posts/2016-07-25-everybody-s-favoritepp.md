@@ -1,23 +1,21 @@
 ---
 type: post
-title: everybody-s-favoritepp
 timestamp: July 25th, 2016 9:13am
-summary: everybody’s favoriteppa hrefhttpsenwikipediaorgwikiZebraspider targetblankhttpsenwikipediaorgwikiZebraspiderabrp
 tags: ["spider", "arachnid", "macro", "photography"]
 ---
 
 
-                               <img src="../media/147948519604_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/147948519604_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/147948519604_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/147948519604_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/147948519604_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/147948519604_3.jpg"/>
                            
 
                                                                                                                       

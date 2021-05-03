@@ -1,13 +1,11 @@
 ---
 type: post
-title: Here-s-my-custom-gaming-sh
 timestamp: November 23rd, 2015 1:29pm
-summary: Here’s my custom gaming shelf that I designed to meet my needsp 
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving"]
 ---
 
 
-                               <img src="../media/133814245004_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/133814245004_1.jpg"/>
                            
 
                                                            
@@ -15,7 +13,7 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
 ;
                                                                                                                            
 
-                               <img src="../media/133814245004_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/133814245004_2.jpg"/>
                            
 
                                                            
@@ -23,7 +21,7 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
 ;
                                                                                                                            
 
-                               <img src="../media/133814245004_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/133814245004_3.jpg"/>
                            
 
                                                            
@@ -31,7 +29,7 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
 ;
                                                                                                                            
 
-                               <img src="../media/133814245004_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/133814245004_4.jpg"/>
                            
 
                                                            
@@ -39,7 +37,7 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
 ;
                                                                                                                            
 
-                               <img src="../media/133814245004_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/133814245004_5.jpg"/>
                            
 
                                                            

@@ -1,11 +1,9 @@
 ---
 type: img
-title: Sawhooboomspraklep-
 timestamp: May 16th, 2016 10:53am
-summary: Sawhooboomspraklep 
 tags: ["fireworks", "hokkaido", "hanabi", "photography"]
 ---
-<img src="../media/144458734159.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144458734159.jpg"/>
                                                                                           
 Sawhoo~boom-sprakle!
  

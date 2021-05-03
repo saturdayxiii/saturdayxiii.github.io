@@ -1,11 +1,9 @@
 ---
 type: img
-title: There-are-two-peevs-that-I
 timestamp: June 8th, 2014 8:54pm
-summary: There are two peevs that Ive come across in my hour of playing br1 Enemies respawn when you leave the screen but weapons dont br2 There se
 tags: ["review", "indie", "game"]
 ---
-<img src="../media/182012762084.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182012762084.jpg"/>
                                                                                           
 <a href="https://store.steampowered.com/app/291290/Motte_Island/" target="_blank">Motte Island</a> is alright, but there's a pretty big 
 

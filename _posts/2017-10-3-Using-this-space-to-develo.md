@@ -1,8 +1,6 @@
 ---
 type: post
-title: Using-this-space-to-develo
 timestamp: October 3rd, 2017 7:38am
-summary: Using this space to develop game concept ideasppA game with reincarnation as a mechanic  The player doesn’t know at the start but the world wilMotivation will be the story and world exploration as you will need a high movement character to keep up with characters events and reach certain loStory is central to everything  The story plays out regardless of player interaction but the player should be rewarded for keeping up and seeking intI imagine isometric world but that’s not especially importantppThe world should have lots of enemies and traps  Platforming style gameplay It Death pulliwill result in some compassion points lost in order to motivate the player liliwill respawn the character to a random location Compassion Points pulliCan be earned or lost at key points in the story  Heavy weighted scenes will sometimes result in scripted death of the pLevels of compassion a basic hierarchy from high movement to lowpulliBird  unlimited map access except for isolated stories for players that
 tags: ["brainstorm", "ideas"]
 ---
 ##Reincarnation Game first thoughts##

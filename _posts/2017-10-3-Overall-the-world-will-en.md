@@ -1,8 +1,6 @@
 ---
 type: post
-title: Overall-the-world-will-en
 timestamp: October 3rd, 2017 12:33pm
-summary: Overall the world will end  Start with player saving food production for their nation  This introduces the mechanics of course and the player diesThe main arch of the story involves a childish leader of a nation defending their country and pride from an unseen foreign threat  Both sides have wPlayer’s character never has a real place in the story General story takes place with or without them but they do have influence  If player lives loPossible main characters and story anglespulliThe righthand man Loyal and fully trusts the leader  Genuinely thinks their side is in the rig
 tags: ["story", "sketch", "brainstorm"]
 ---
 ##Reincarnation Game - Story##

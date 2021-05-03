@@ -1,8 +1,6 @@
 ---
 type: post
-title: People-dont-know-how-to-p
 timestamp: April 9th, 2021 2:09pm
-summary: People dont know how to play Nights  Now I know but I still cant do it
 tags: ["Youtube"]
 ---
 ####

@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-got-my-first-girlfriend-It-only-adds-to-my-problemEven-though-the-feeling-thWhat-really-bothers-me-is-Thats-unfair -Shes-the-
 timestamp: April 25th, 2012 11:25am
-summary: I got my first girlfriend and lost my virginity at the age of 25  Being in this kind of minority might automatically make my feelings toward sex null It only adds to my problems but I was raised conservatively and it repeatedly disturbs me that I am not the first lover that my girlfriend has had  IEven though the feeling that we are on uneven ground is there Im not wishing that I had more lovers My analogy is that its like we have our own booWhat really bothers me is these first time and important experiences that I can only relate to having them with her and thats a big part of what makesThats unfair  Shes the love of my life  She feels awful because I feel this way and she says shed change time if she could  She promises that it
 tags: [""]
 ---
 ##.together.##

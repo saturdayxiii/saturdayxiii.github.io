@@ -1,48 +1,46 @@
 ---
 type: post
-title: After-a-year-and-a-half-th
 timestamp: May 11th, 2018 11:09am
-summary: After a year and a half the a hrefhttpwwwsnapmakercom targetblankSnapmakera finally arrived  Other than that one time at the a hrefHowever printing off a copy of a hrefhttpswwwthingiversecomthing2656594 targetblankmajda107′s allinone teast has me very impresse
 tags: ["snapmaker"]
 ---
 
 
-                               <img src="../media/173801922419_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_7.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_8.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_8.jpg"/>
                            
 
                                                            
@@ -50,12 +48,12 @@ tags: ["snapmaker"]
 ;
                                                                                                                            
 
-                               <img src="../media/173801922419_9.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_9.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/173801922419_10.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/173801922419_10.jpg"/>
                            
 
                                                                                                                       

@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-have-a-back-log-of-shows
 timestamp: June 14th, 2019 12:40pm
-summary: I have a back log of shows I want to at least give small shout outs to but I just watched this and had the feels so I’m sharing themppI will alSo Ive enjoyed Atypical  It has an positive balance of feelgoodness and drama and the recent season closure reinforced that  The current story wrI felt the feels for Sam’s reading of Paige’s speech but I don’t have a good reason to  It wasnt a creative or noteworthy speech cuts to character I love where the relationships are going  I also hate Elsa if that’s by design then cudos to the writers  ppThis show regularly has me asking qIn particular to this episode and maybe it’s because I watched in in isolation having took a few weeks break since watching the second last episode But I guess I should trust the writers a little  Elsa’s affair had the same lack of backing but its become pretty well established that her characterHeck now having worked through some of these thoughts I have a greater appreciation for the show than I did when I started this post   Good stuff
 tags: ["netflix", "atypical", "show", "recommended"]
 ---
 ##Reaction to Atypical S02 Finale##

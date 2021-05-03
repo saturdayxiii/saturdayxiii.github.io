@@ -1,8 +1,6 @@
 ---
 type: vid
-title: Last-night-I-finally-sat-d
 timestamp: June 7th, 2019 2:29pm
-summary: Last night I finally sat down and played a bit of a hrefhttpswwwgogcomgamesanitarium targetblankSanitarium afor the first time  I’v
 tags: ["show", "recommended"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/kaPgQrw_Ywk?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

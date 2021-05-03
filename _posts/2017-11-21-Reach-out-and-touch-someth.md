@@ -1,8 +1,6 @@
 ---
 type: post
-title: Reach-out-and-touch-someth
 timestamp: November 21st, 2017 6:37pm
-summary: Reach out and touch something at Edmonton Albertap 
 tags: ["photo", "edmonton", "photography"]
 ---
 <a href="https://www.instagram.com/p/Bbx4Dg_neWK/ "></a>

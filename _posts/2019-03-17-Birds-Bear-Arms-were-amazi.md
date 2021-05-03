@@ -1,11 +1,9 @@
 ---
 type: img
-title: Birds-Bear-Arms-were-amazi
 timestamp: March 17th, 2019 6:54pm
-summary: Birds Bear Arms were amazing at the Sewing Machine Factory yesterdayp 
 tags: ["music", "concert", "event", "photography"]
 ---
-<img src="../media/183530324689.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/183530324689.jpg"/>
                                                                                           
 Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
  

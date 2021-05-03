@@ -1,11 +1,9 @@
 ---
 type: img
-title: Pollinate-pollinate-poll
 timestamp: July 2nd, 2016 12:00pm
-summary: Pollinate pollinate pollinatep 
 tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"]
 ---
-<img src="../media/146807870671.gif"/>
+<img src="https://saturdayxiii.github.io/media/media/146807870671.gif"/>
                                                                                           
 Pollinate, pollinate, pollinate.
  

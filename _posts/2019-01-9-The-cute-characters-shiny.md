@@ -1,11 +1,9 @@
 ---
 type: img
-title: The-cute-characters-shiny
 timestamp: January 9th, 2019 4:39pm
-summary: The cute characters shiny art and exploration premise drew me into watching Made in Abyss season one I have no other experience with this titlepI will grant that the artwork music and premise are fantastic but these three things do not a complete anime make  It’s possible that the manga couI’m aware that “gross” is a very subjective term and maybe doesnt reflect quality but I really think that should be the first thing that people noticOur main characters are 12 years old though I thought there were 8 by their designs and at the first minute mark of the first episode we get a mentioCombine that with the times that our otherwise attentive main character forgets to put on clothes and repeated references to the deuteragonist‘s penisSpeaking of the story even if you fixed all the unnecessary gross stuff the story just doesn’t exist  The show doesn’t end  I guess they’re holdingI still do see how the story has potential but they glaze over all the things that made me want to watch the show  Mystery world cool monsters lostThat’s honestly fine new directions are welcome but even the mother plot point doesn’t deliver  It’s just a Shanks and Luffy dynamic and the writerThis season is squarely centered around our two main characters but we learn as much about them as we do other characters that are only in the show foThe only real story is in the last episode the “one hour special” and it has nothing to do with our main characters  Maybe you could just watch thatSo why is show with no story being praised as the best anime of 2017  Was it another bad year for anime  Why are people whole heartedly recommendi
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 ---
-<img src="../media/181881333409.png"/>
+<img src="https://saturdayxiii.github.io/media/media/181881333409.png"/>
                                                                                           
 The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with this title.
 

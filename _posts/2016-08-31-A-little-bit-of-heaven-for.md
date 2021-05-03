@@ -1,11 +1,9 @@
 ---
 type: img
-title: A-little-bit-of-heaven-for
 timestamp: August 31st, 2016 6:46pm
-summary: A little bit of heaven for the captainp 
 tags: ["liquor", "plush", "edible"]
 ---
-<img src="../media/149770647029.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/149770647029.jpg"/>
                                                                                           
 A little bit of heaven for the captain.
  

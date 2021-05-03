@@ -1,8 +1,6 @@
 ---
 type: vid
-title: one-of-these-I-thinkpp
 timestamp: August 7th, 2016 12:00pm
-summary: one of these I thinkppa hrefhttpsenwikipediaorgwikiListoffritillariesbutterflies targetblankhttpsenwikipediaorgwikiLis
 tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/Cyk9V6CnYt8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

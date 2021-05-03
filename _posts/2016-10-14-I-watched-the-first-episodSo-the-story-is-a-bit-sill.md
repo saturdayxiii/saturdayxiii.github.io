@@ -1,8 +1,6 @@
 ---
 type: vid
-title: I-watched-the-first-episodSo-the-story-is-a-bit-sill
 timestamp: October 14th, 2016 12:53pm
-summary: I watched the first episode of Channel Zero and I’m intriguedppAs soon as the show came out there was the usual mindless hype then the first reaThe acting is pretty stale compared to other hit shows but I guess that would be typical for Syfy  I can deal with a bit of unintentional campSo the story is a bit silly and forced  Sure it may be hard to be otherwise when the central reveal of your story has been on the internet for yearsHaving typed this out I am less optimistic as to what the show realistically has in store but at an arms length there is still hope The hardest stepDespite my tone and concerns I am optimistic and I aim to enjoy whatever is presented until it either pays off or until I simply can’tp 
 tags: ["opinion", "tv", "show"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

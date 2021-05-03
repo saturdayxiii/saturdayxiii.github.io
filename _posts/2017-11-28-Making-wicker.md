@@ -1,8 +1,6 @@
 ---
 type: post
-title: Making-wicker
 timestamp: November 28th, 2017 9:24pm
-summary: Making wicker
 tags: ["pixly", "edmonton", "pattern", "64x64", "16bit", "tile", "texture", "art"]
 ---
 <a href="https://www.instagram.com/p/BcEMnH2nrMF/ "></a>

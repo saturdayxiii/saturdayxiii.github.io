@@ -1,48 +1,46 @@
 ---
 type: post
-title: A-few-nights-ago-my-brain-
 timestamp: January 24th, 2019 7:12pm
-summary: A few nights ago my brain treated me to a trailer for a fictional tv show  I’ve attempted to capture it here without putting extensive effort into itAlso it’s really hard to find stock footage of people with legs visible beneath a tablep 
 tags: ["art", "comic", "dream", "thoughts"]
 ---
 
 
-                               <img src="../media/182284146754_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_7.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/182284146754_8.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/182284146754_8.jpg"/>
                            
 
                                                                                                                       

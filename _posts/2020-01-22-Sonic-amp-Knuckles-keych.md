@@ -1,11 +1,9 @@
 ---
 type: img
-title: Sonic-amp-Knuckles-keych
 timestamp: January 22nd, 2020 2:01pm
-summary: Sonic amp Knuckles keychainppa hrefhttpswwwthingiversecomthing4119050 targetblankhttpswwwthingiversecomthing4119050ab
 tags: [""]
 ---
-<img src="../media/190408289769.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/190408289769.jpg"/>
                                                                                           
 Sonic &amp; Knuckles keychain
 

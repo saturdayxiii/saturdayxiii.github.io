@@ -1,18 +1,16 @@
 ---
 type: post
-title: Green-sneakerppbr
 timestamp: July 3rd, 2016 12:00pm
-summary: Green sneakerppbrppa hrefhttpsenwikipediaorgwikiMisumenavatia targetblankhttpsenwikipediaorgwikiMisumenavatiaa
 tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]
 ---
 
 
-                               <img src="../media/146855380840_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/146855380840_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/146855380840_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/146855380840_2.jpg"/>
                            
 
                                                                                                                       

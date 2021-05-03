@@ -1,11 +1,9 @@
 ---
 type: img
-title: Thoughtspp a-href
 timestamp: October 4th, 2017 4:15pm
-summary: Thoughtspp a hrefhttpacryptozootumblrcompost163647622875mexorchestiacarpentericarpenteriwakullacounty targetblankhttpacr
 tags: ["acryptozoo", "talitrid", "dress", "sketch", "illustration", "edmonton", "art"]
 ---
-<img src="../media/166054332554.png"/>
+<img src="https://saturdayxiii.github.io/media/media/166054332554.png"/>
                                                                                           
 Thoughts?
 

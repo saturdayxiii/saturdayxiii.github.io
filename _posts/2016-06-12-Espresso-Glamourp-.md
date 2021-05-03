@@ -1,11 +1,9 @@
 ---
 type: img
-title: Espresso-Glamourp-
 timestamp: June 12th, 2016 12:00pm
-summary: Espresso Glamourp 
 tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon"]
 ---
-<img src="../media/145813300168.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/145813300168.jpg"/>
                                                                                           
 Espresso Glamour.
  

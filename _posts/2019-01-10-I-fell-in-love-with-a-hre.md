@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-fell-in-love-with-a-hre
 timestamp: January 10th, 2019 3:21pm
-summary: I fell in love with a hrefhttpswwwhaikugamescocom targetblankHaiku Gamesa for a little bit thanks to a hrefhttpsplaygooglecomDefinitely keep an eye on a hrefhttpswwwhaikugamescocomblog targetblankHaiku Games’s bloga if you’re interested in indie studios specDark Ruins stands out mainly due to the screen time they give their characters  This caught me the most off guard as I’ve come to expect casual game cAn often neglected aspect of puzzle games is often the puzzles themselves but I have to say that Dark Ruins is probably one of the only adventure gameSoooo this still is a casual pointandclick puzzle game  If you absolutely detest them then know that this game isn’t breaking any new ground to wi
 tags: ["review", "recommended", "game"]
 ---
-<img src="../media/181907012504.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/181907012504.jpg"/>
                                                                                           
 I fell in love with <a href="https://www.haikugamesco.com/" target="_blank">Haiku Games</a> for a little bit thanks to <a href="https://play.google.com/store/apps/details?id=com.haikugamesco.escape16&amp;hl" target="_blank">Dark Ruins</a>.  Few things have such a negative stimga these days as mobile games and modernized point and click adventure, but the markets are massive.  People want to love these games.  So when a publisher shows some competence, their products really shine.  
 

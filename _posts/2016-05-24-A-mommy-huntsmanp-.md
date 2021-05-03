@@ -1,11 +1,9 @@
 ---
 type: img
-title: A-mommy-huntsmanp-
 timestamp: May 24th, 2016 12:00pm
-summary: A mommy huntsmanp 
 tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography"]
 ---
-<img src="../media/144865619215.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144865619215.jpg"/>
                                                                                           
 A mommy huntsman!
  

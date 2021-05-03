@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-wanted-to-try-out-a-hreThere-s-an-over-arching-st
 timestamp: December 27th, 2018 2:44pm
-summary: I wanted to try out a hrefhttpsplaygooglecomstoreappsdetailsidcomgamagaRedCrimesHM targetblankRed Crimes Hidden Murdersa becauI played until the first criminal was arrested  That’s as far as I could get after exhausting all my energy and gold points which took about an hour I’m not going to do the math but I guestimate that this game costs just over 050 an hour to play with minimal interruptions  If the levels get hardThere’s an over arching story which does the job well enough but the cookie cutter characters don’t seem to have any real stakes in it  ppWhileSo the game is pretty sub par unless you’re really desperate or this really hits a specific niche for you  Overall it really doesnt feel like the de
 tags: ["review"]
 ---
 ##Red Crimes: Hidden Murders##

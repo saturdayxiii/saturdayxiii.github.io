@@ -1,8 +1,6 @@
 ---
 type: post
-title: SuperGreatFriend-recently-
 timestamp: April 11th, 2021 12:00pm
-summary: SuperGreatFriend recently a hrefhttpswwwyoutubecomwatchvXEyBetqar0 targetblankattempteda to play Michigan Report from Hell  DespIm sharing iconoclast187s playthrough because I favor his knowledgeable explanations of whats actually going onppThis movie version is also goNeither is complete though  100 playthroughs are not possible and its a shame to miss any of it
 tags: ["ps2", "gaming", "game", "show", "recom", "Youtube"]
 ---
 ####

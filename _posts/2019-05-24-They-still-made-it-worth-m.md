@@ -1,28 +1,26 @@
 ---
 type: post
-title: They-still-made-it-worth-m
 timestamp: May 24th, 2019 4:10pm
-summary: They still made it worth my whilep 
 tags: ["trampoline", "music", "recommended", "concert"]
 ---
 
 
-                               <img src="../media/185116082294_1.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/media/185116082294_1.gif"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/185116082294_2.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/media/185116082294_2.gif"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/185116082294_3.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/media/185116082294_3.gif"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/185116082294_4.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/media/185116082294_4.gif"/>
                            
 
                                                                                                                       

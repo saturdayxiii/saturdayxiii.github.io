@@ -1,58 +1,56 @@
 ---
 type: post
-title: Here-s-a-week-of-progress
 timestamp: March 23rd, 2021 10:15pm
-summary: Here’s a week of progress  Drawing at least one quick portrait every day  I’ve gotten more used to my tool of choice  Now if only I could be a betteI am feeling a little more controlled  Feeling more successful in small areas  I’ll keep it up and see what happensppI really think I’m on to s
 tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
 ---
 
 
-                               <img src="../media/646509339504443392_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_7.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_8.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_8.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_9.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_9.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/646509339504443392_10.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_10.jpg"/>
                            
 
                                                                                                                       

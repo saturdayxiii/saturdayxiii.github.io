@@ -1,11 +1,9 @@
 ---
 type: img
-title: Do-you-know-your-maltsp
 timestamp: May 26th, 2016 12:00pm
-summary: Do you know your maltsp 
 tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]
 ---
-<img src="../media/144964873176.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/144964873176.jpg"/>
                                                                                           
 Do you know your malts?
  

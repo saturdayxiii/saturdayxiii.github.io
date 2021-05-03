@@ -1,11 +1,9 @@
 ---
 type: img
-title: How-do-you-get-your-skin-s
 timestamp: July 12th, 2016 12:00pm
-summary: How do you get your skin so velvetyp 
 tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]
 ---
-<img src="../media/147298958206.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/147298958206.jpg"/>
                                                                                           
 How do you get your skin so velvety?
  

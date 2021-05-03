@@ -1,11 +1,9 @@
 ---
 type: img
-title: This-is-Banana- He-s-a-sn
 timestamp: October 26th, 2015 11:23am
-summary: This is Banana  He’s a snake and maybe a bit turtlehellipp 
 tags: ["snake", "pets", "cute", "animals", "habitat", "face", "reptile", "sunny", "cozy", "photography"]
 ---
-<img src="../media/131960168699.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/131960168699.jpg"/>
                                                                                           
 This is Banana.  He’s a snake, and maybe a bit turtle&hellip;
  

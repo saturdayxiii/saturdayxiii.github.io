@@ -1,8 +1,6 @@
 ---
 type: post
-title: Ive-been-hanging-around-s
 timestamp: April 10th, 2021 12:00pm
-summary: Ive been hanging around some ps1 communities and no one talks about Sentient but I still think about it regularly  ppSuperGreatFriends playthDepending on your attention span you might want to start on video 5 or 6  Theres a lot of false starts that are inevitable with a game this cryptic
 tags: ["ps1", "sentient", "game", "gaming", "show", "recommended"]
 ---
 ####

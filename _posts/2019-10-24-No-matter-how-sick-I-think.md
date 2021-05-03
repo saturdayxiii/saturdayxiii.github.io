@@ -1,8 +1,6 @@
 ---
 type: vid
-title: No-matter-how-sick-I-think
 timestamp: October 24th, 2019 5:01pm
-summary: No matter how sick I think I am of watching a hrefhttpswwwyoutubecomplaylistlistPL8D687CA0AFC4C655 targetblankthis Lets Playa over 
 tags: ["recommended", "ps1", "show"]
 ---
 <iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/gKILYcpsOyE?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

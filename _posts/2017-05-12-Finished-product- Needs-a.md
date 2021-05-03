@@ -1,33 +1,31 @@
 ---
 type: post
-title: Finished-product- Needs-a
 timestamp: May 12th, 2017 1:41pm
-summary: Finished product  Needs a bit of improvement a couple inches wider lost some air holes somewhere but accidentally made some unplanned ones elsewhere
 tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets"]
 ---
 
 
-                               <img src="../media/160594157914_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/160594157914_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/160594157914_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/160594157914_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/160594157914_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/160594157914_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/160594157914_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/160594157914_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/160594157914_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/160594157914_5.jpg"/>
                            
 
                                                                                                                       

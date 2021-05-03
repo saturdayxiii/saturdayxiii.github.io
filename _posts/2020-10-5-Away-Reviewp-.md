@@ -1,8 +1,6 @@
 ---
 type: vid
-title: Away-Reviewp-
 timestamp: October 5th, 2020 12:00am
-summary: Away Reviewp 
 tags: ["recommended", "games", "review"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/beF1Tv5BIeI?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

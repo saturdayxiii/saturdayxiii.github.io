@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-dont-know-why-robovoice
 timestamp: April 17th, 2021 12:00pm
-summary: I dont know why robovoice stories appeal to me  I think the lack of inflection helps get across the actual quality of the writing  But Im probably Theres always a mix bag of quality for youtube greentext story tellers but I really like how chass has branched out into other areas of the internetI enjoyed this story in particular for being such a macho ghost story  Our lead character Private Monkey regularly acts in defiance of the supernatuIm curious how part two is going to go  Part one here feels pretty stand alone and satisfying
 tags: ["spoopy", "chass", "greentext", "shows", "youtube", "recommended", "Youtube"]
 ---
 ####

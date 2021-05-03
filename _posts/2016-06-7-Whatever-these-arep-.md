@@ -1,11 +1,9 @@
 ---
 type: img
-title: Whatever-these-arep-
 timestamp: June 7th, 2016 12:00pm
-summary: Whatever these arep 
 tags: ["photo", "macro", "flower", "photography"]
 ---
-<img src="../media/145567052190.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/145567052190.jpg"/>
                                                                                           
 Whatever these are.
  

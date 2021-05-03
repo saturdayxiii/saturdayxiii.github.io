@@ -1,11 +1,9 @@
 ---
 type: img
-title: went-to-the-zoo-yesterday
 timestamp: August 24th, 2016 12:00pm
-summary: went to the zoo yesterday buildingourzoop 
 tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 ---
-<img src="../media/149423030176.gif"/>
+<img src="https://saturdayxiii.github.io/media/media/149423030176.gif"/>
                                                                                           
 went to the zoo yesterday. @buildingourzoo
  

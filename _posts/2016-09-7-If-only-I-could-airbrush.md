@@ -1,11 +1,9 @@
 ---
 type: img
-title: If-only-I-could-airbrush
 timestamp: September 7th, 2016 11:07am
-summary: If only I could airbrushp 
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 ---
-<img src="../media/150081411419.png"/>
+<img src="https://saturdayxiii.github.io/media/media/150081411419.png"/>
                                                                                           
 If only I could airbrush.
  

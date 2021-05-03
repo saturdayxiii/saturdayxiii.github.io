@@ -1,8 +1,6 @@
 ---
 type: post
-title: I-m-happy-to-add-Kvass-to-
 timestamp: March 25th, 2021 6:30pm
-summary: I’m happy to add Kvass to my collection of circulating fermented drinks  It’s bread soda  Flavoured with honey and mintppI used the recipe from
 tags: ["food", "recommended", "kvass"]
 ---
 <embed src="../../media/646676325321605120mp4" type="video/mp4" scale="aspect" autoplay="false"></embed>

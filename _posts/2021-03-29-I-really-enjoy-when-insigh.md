@@ -1,8 +1,6 @@
 ---
 type: vid
-title: I-really-enjoy-when-insigh
 timestamp: March 29th, 2021 1:26pm
-summary: I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to meppThis one gets rather exhaustive on hI believe the film creators when they say that it was a frantic week of filming  I don’t believe they had the time and energy to pay attention to everI think this shows how ingrained the base theme and backstory was and how they were able to pass on this intention to the crew allowing them to subliHaving clear themes and intentions decided in the beginning of production allowed for creative supporting opportunities to naturally occurbrpp
 tags: ["recommended", "movie", "thoughts", "cinema"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    

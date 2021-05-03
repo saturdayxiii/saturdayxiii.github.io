@@ -1,11 +1,9 @@
 ---
 type: img
-title: I-played-the-nude-Valkyrie
 timestamp: February 6th, 2019 10:12pm
-summary: I played the nude Valkyriep 
 tags: ["Game", "beercade", "yeg"]
 ---
-<img src="../media/182623849724.jpg"/>
+<img src="https://saturdayxiii.github.io/media/media/182623849724.jpg"/>
                                                                                           
 I played the nude Valkyrie.
  

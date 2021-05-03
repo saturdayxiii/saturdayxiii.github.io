@@ -1,8 +1,6 @@
 ---
 type: post
-title: Here-s-a-catchy-tune-from-
 timestamp: October 25th, 2019 3:47pm
-summary: Here’s a catchy tune from Umbromaniii that I meant to share when it came out but I was too hyped up on bLiNd’s a hrefhttpssaturdayxiiitumblrco
 tags: ["music", "recommended", "umbromaniii", "edm"]
 ---
 <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2357788203&amp;ts=1572040060&amp;t=e714460b1ad3de819a0910b81fcc7972b1f61f52"></embed>

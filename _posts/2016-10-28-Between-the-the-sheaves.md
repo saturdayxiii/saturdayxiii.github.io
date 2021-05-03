@@ -1,18 +1,16 @@
 ---
 type: post
-title: Between-the-the-sheaves
 timestamp: October 28th, 2016 1:44pm
-summary: Between the the sheavesp 
 tags: ["spider", "arachnid", "macro", "photography"]
 ---
 
 
-                               <img src="../media/152434361519_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/152434361519_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="../media/152434361519_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/media/152434361519_2.jpg"/>
                            
 
                                                                                                                       

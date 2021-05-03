@@ -1,8 +1,6 @@
 ---
 type: post
-title: Yesterday-I-saw-Castle-in-
 timestamp: October 17th, 2016 2:07pm
-summary: Yesterday I saw Castle in the Sky at my local TheatrebrppI’ve gone to the theatre to see a couple Studio Ghibli films as well as a select fewI’ve felt this way for about half a decade now but for the rest of my life I’ve adored anime  I was raised on Wizard of Oz BumpetyBoo Mrs Spoon Studio Ghibli is not exempt from the things I think I hate about anime  Their films are rife with recycled voice actors swapable soundtracks repeatAnd it certainly is not the theatre experience that changes this for me  I enjoy Ghibli at home as well but because I can’t identify what keeps it enSo I went and saw Laputa Castle in the Sky yesterday  The artwork was wonderful and the score was lovely  The story wasn’t very interesting and t
 tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie"]
 ---
 ##Laputa and self reflection regarding anime [journal]##
