@@ -5,12 +5,12 @@ tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/185503955994_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/185503955994_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/185503955994_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/185503955994_2.jpg"/>
                            
 
                                                                                                                       

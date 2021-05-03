@@ -3,7 +3,7 @@ type: img
 timestamp: July 25th, 2017 9:34pm
 tags: ["photo"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/163432477994.jpg"/>
+<img src="https://saturdayxiii.github.io/media/163432477994.jpg"/>
                                                                                           
 My first instructionless electronics fix.  Worked out purely by luck, but I typically can't hope for better.
 

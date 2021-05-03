@@ -5,7 +5,7 @@ tags: ["bugs", "pest", "egg", "insect", "macro", "photography"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/148986095554_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/148986095554_1.jpg"/>
                            
 
                                                            
@@ -13,7 +13,7 @@ tags: ["bugs", "pest", "egg", "insect", "macro", "photography"]
 ;
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/148986095554_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/148986095554_2.jpg"/>
                            
 
                                                            

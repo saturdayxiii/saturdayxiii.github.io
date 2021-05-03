@@ -5,22 +5,22 @@ tags: ["spider", "arachnid", "macro", "photography"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/149846307006_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149846307006_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149846307006_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149846307006_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149846307006_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149846307006_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149846307006_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149846307006_4.jpg"/>
                            
 
                                                                                                                       

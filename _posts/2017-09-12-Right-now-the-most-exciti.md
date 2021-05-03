@@ -3,7 +3,7 @@ type: img
 timestamp: September 12th, 2017 9:15am
 tags: ["dreamcast", "retro", "photo"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/165261868799.jpg"/>
+<img src="https://saturdayxiii.github.io/media/165261868799.jpg"/>
                                                                                           
 Right now, the most exciting thing I learned from the <a href="https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw" target="_blank">DIYPerks Youtube channel</a> is the technique he used to <a href="https://www.youtube.com/watch?v=e3fnsGHe8eE" target="_blank">silence the fan on his media center pc</a>.
 

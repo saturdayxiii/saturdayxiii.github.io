@@ -3,7 +3,7 @@ type: img
 timestamp: January 13th, 2020 9:21pm
 tags: ["art"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/190247453939.jpg"/>
+<img src="https://saturdayxiii.github.io/media/190247453939.jpg"/>
                                                                                           
 Petscop’s Newmaker Guardian.<br/>
  

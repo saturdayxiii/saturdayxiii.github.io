@@ -5,12 +5,12 @@ tags: ["game", "animation", "design"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/183586901534_1.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/183586901534_1.gif"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/183586901534_2.gif"/>
+                               <img src="https://saturdayxiii.github.io/media/183586901534_2.gif"/>
                            
 
                                                                                                                       

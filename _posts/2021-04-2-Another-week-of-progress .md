@@ -5,37 +5,37 @@ tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/647412041409232896_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/647412041409232896_7.jpg"/>
                            
 
                                                                                                                       

@@ -5,17 +5,17 @@ tags: ["spider", "arachnid", "macro", "web", "photography"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/149470001853_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149470001853_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149470001853_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149470001853_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149470001853_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149470001853_3.jpg"/>
                            
 
                                                                                                                       

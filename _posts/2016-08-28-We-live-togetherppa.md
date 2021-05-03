@@ -5,22 +5,22 @@ tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/149610653063_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149610653063_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149610653063_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149610653063_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149610653063_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149610653063_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149610653063_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149610653063_4.jpg"/>
                            
 
                                                                                                                       

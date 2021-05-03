@@ -3,7 +3,7 @@ type: img
 timestamp: June 27th, 2019 12:37pm
 tags: ["sgdq2019", "art", "crayola"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/190407228749.jpg"/>
+<img src="https://saturdayxiii.github.io/media/190407228749.jpg"/>
                                                                                           
 I quite like this.
 

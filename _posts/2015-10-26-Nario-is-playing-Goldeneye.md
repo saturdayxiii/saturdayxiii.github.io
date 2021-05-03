@@ -3,7 +3,7 @@ type: img
 timestamp: October 26th, 2015 11:26am
 tags: ["nario", "dancepad", "ddr", "n64", "goldeneye", "007", "retro", "game", "stream", "live", "twitch", "art"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/131960334269.png"/>
+<img src="https://saturdayxiii.github.io/media/131960334269.png"/>
                                                                                           
 Nario is playing Goldeneye 64 on a Dance Pad today. <a href="http://itsalmo.st/#dancepadtime" target="_blank">http://itsalmo.st/#dancepadtime</a>
 

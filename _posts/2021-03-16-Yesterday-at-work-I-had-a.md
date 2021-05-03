@@ -5,32 +5,32 @@ tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/645836584988590080_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/>
                            
 
                                                                                                                       

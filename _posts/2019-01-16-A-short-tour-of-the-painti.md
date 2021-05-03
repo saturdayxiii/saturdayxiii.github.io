@@ -5,37 +5,37 @@ tags: ["art", "customizing", "ps2"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182065813689_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182065813689_7.jpg"/>
                            
 
                                                                                                                       

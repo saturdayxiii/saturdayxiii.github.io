@@ -5,12 +5,12 @@ tags: ["concert", "music"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/181058091284_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/181058091284_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/181058091284_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/181058091284_2.jpg"/>
                            
 
                                                                                                                       

@@ -3,7 +3,7 @@ type: img
 timestamp: October 27th, 2015 9:07am
 tags: ["seahorse", "scar", "scarification", "cutting", "blood", "scab", "tattoo", "art"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/132020150369.jpg"/>
+<img src="https://saturdayxiii.github.io/media/132020150369.jpg"/>
                                                                                           
 Scarification is hard.  I had to do this every month, but couldn’t get myself to cut deep enough for the lines to stay.  After several months I just stick poked it with purple ink.  I guess that’s more my style.
  

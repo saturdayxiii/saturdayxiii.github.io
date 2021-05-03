@@ -5,12 +5,12 @@ tags: ["art", "mod", "paint", "case", "neon"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/185573413369_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/185573413369_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/185573413369_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/185573413369_2.jpg"/>
                            
 
                                                                                                                       

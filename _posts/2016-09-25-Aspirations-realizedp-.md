@@ -5,12 +5,12 @@ tags: ["gamecube", "nintendo", "art"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/150924989914_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/150924989914_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/150924989914_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/150924989914_2.jpg"/>
                            
 
                                                                                                                       

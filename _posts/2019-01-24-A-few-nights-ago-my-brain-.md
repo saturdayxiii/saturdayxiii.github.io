@@ -5,42 +5,42 @@ tags: ["art", "comic", "dream", "thoughts"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_7.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/182284146754_8.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/182284146754_8.jpg"/>
                            
 
                                                                                                                       

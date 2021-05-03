@@ -3,7 +3,7 @@ type: img
 timestamp: January 9th, 2019 8:42pm
 tags: ["game"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/181886640029.gif"/>
+<img src="https://saturdayxiii.github.io/media/181886640029.gif"/>
                                                                                           
 <a href="http://hitchhiker-game.com" target="_blank">Humble Bundle’s Hitchiker: First Ride</a>.
 

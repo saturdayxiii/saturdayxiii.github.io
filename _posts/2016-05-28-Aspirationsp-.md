@@ -3,7 +3,7 @@ type: img
 timestamp: May 28th, 2016 12:00pm
 tags: ["gba", "nintendo", "sonic", "idea", "art"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/145061451694.jpg"/>
+<img src="https://saturdayxiii.github.io/media/145061451694.jpg"/>
                                                                                           
 Aspirations.
  

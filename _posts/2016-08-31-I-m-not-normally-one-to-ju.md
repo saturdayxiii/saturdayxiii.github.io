@@ -5,17 +5,17 @@ tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/149754879401_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149754879401_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149754879401_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149754879401_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/149754879401_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/149754879401_3.jpg"/>
                            
 
                                                                                                                       

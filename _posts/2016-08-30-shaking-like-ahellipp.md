@@ -3,7 +3,7 @@ type: img
 timestamp: August 30th, 2016 12:00pm
 tags: ["gif", "leaf", "nature", "wind", "photography"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/149707794087.gif"/>
+<img src="https://saturdayxiii.github.io/media/149707794087.gif"/>
                                                                                           
 shaking like a&hellip;
  

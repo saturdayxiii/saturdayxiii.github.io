@@ -5,52 +5,52 @@ tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_2.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_3.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_3.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_4.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_4.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_5.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_5.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_6.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_6.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_7.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_7.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_8.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_8.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_9.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_9.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/646509339504443392_10.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/646509339504443392_10.jpg"/>
                            
 
                                                                                                                       

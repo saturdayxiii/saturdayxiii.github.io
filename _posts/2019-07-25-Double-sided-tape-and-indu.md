@@ -5,12 +5,12 @@ tags: ["shows", "comic", "customizing"]
 ---
 
 
-                               <img src="https://saturdayxiii.github.io/media/media/186544581839_1.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/186544581839_1.jpg"/>
                            
 
                                                                                                                            
 
-                               <img src="https://saturdayxiii.github.io/media/media/186544581839_2.jpg"/>
+                               <img src="https://saturdayxiii.github.io/media/186544581839_2.jpg"/>
                            
 
                                                                                                                       

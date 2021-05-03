@@ -3,7 +3,7 @@ type: img
 timestamp: September 1st, 2016 12:00pm
 tags: ["moth", "bug", "insect", "macro", "photography"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/149801109387.jpg"/>
+<img src="https://saturdayxiii.github.io/media/149801109387.jpg"/>
                                                                                           
 Where I hang.
 

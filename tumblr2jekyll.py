@@ -59,7 +59,7 @@ for file in directory:
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #
-    read_file = re.sub('<img src="../../','<img src="https://saturdayxiii.github.io/media/',read_file)
+    read_file = re.sub('<img src="../../','<img src="https://saturdayxiii.github.io/',read_file)
     #gifs are different, see kvass post
     #fix video urls.  Do they need it? Yes.
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
@@ -117,6 +117,7 @@ for file in directory:
     #add front matter
     fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
     read_file = fmatt + read_file + "\n" + source
+    #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 
     #

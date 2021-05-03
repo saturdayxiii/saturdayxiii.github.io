@@ -3,7 +3,7 @@ type: img
 timestamp: June 5th, 2016 12:00pm
 tags: ["photo", "pets", "snake", "photography"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/145463187950.jpg"/>
+<img src="https://saturdayxiii.github.io/media/145463187950.jpg"/>
                                                                                           
 You’ve been here already.
  

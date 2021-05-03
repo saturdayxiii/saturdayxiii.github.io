@@ -3,7 +3,7 @@ type: img
 timestamp: January 10th, 2019 3:21pm
 tags: ["review", "recommended", "game"]
 ---
-<img src="https://saturdayxiii.github.io/media/media/181907012504.jpg"/>
+<img src="https://saturdayxiii.github.io/media/181907012504.jpg"/>
                                                                                           
 I fell in love with <a href="https://www.haikugamesco.com/" target="_blank">Haiku Games</a> for a little bit thanks to <a href="https://play.google.com/store/apps/details?id=com.haikugamesco.escape16&amp;hl" target="_blank">Dark Ruins</a>.  Few things have such a negative stimga these days as mobile games and modernized point and click adventure, but the markets are massive.  People want to love these games.  So when a publisher shows some competence, their products really shine.  
 
