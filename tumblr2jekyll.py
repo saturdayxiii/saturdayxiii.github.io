@@ -109,14 +109,14 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>'] # '####' needs to be before html?
+    erases = ['<div>', '</div>', '####'] # '####' needs to be before html for html to work, we'll add it later.
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
     fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
-    read_file = fmatt + read_file + "\n" + source
+    read_file = fmatt + "####\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 

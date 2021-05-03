@@ -3,6 +3,7 @@ type: img
 timestamp: February 19th, 2017 2:04pm
 tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 ---
+####
 <img src="https://saturdayxiii.github.io/media/157453831474.jpg"/>
                                                                                           
 Sketching some pies.

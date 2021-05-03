@@ -4,6 +4,7 @@ timestamp: April 16th, 2021 9:49pm
 tags: ["marker", "sketch", "freehand", "portraits", "ink", "art", "progress"]
 ---
 ####
+
                     <img src="https://64.media.tumblr.com/3d39264bd7140827aae5190b866799c3/d7a02325e9927097-0d/s640x960/4cc06ffe2a11e17841f9da040763931289f98784.jpg" data-orig-height="2878" data-orig-width="3836"/></figure>
 I'm like: It's Wednesday.  I'm late for uploading my weekly portraits update.  But actually it's Friday.
 

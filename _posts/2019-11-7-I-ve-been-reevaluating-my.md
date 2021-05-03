@@ -3,6 +3,7 @@ type: post
 timestamp: November 7th, 2019 3:33pm
 tags: ["opera", "vivaldi"]
 ---
+####
 ##I’m back on Opera.  I never left Opera.##
                     
 I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effort.

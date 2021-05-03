@@ -3,6 +3,7 @@ type: img
 timestamp: May 18th, 2016 12:00pm
 tags: ["photo", "hawaii", "grasshopper", "pointy", "bastard", "insect", "photography"]
 ---
+####
 <img src="https://saturdayxiii.github.io/media/144561714036.jpg"/>
                                                                                           
 Sword-bearing Conehead.  The closest wiki I could find to it. 

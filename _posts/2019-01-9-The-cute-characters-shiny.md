@@ -3,6 +3,7 @@ type: img
 timestamp: January 9th, 2019 4:39pm
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 ---
+####
 <img src="https://saturdayxiii.github.io/media/181881333409.png"/>
                                                                                           
 The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with this title.

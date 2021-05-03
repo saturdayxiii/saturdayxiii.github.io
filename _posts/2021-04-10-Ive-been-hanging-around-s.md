@@ -4,6 +4,7 @@ timestamp: April 10th, 2021 12:00pm
 tags: ["ps1", "sentient", "game", "gaming", "show", "recommended"]
 ---
 ####
+
                     <p class="npf_link" data-npf='{"type":"link","url":"https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N","display_url":"https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N","title":"Bumbling Through Sentient","site_name":"YouTube","poster":[{"media_key":"d2e92f38a62c9b0baa3f9854e28a96af:9b1c32f5ffb91e76-d2","type":"image/jpeg","width":168,"height":94}]}'><a href="https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N" target="_blank">Bumbling Through Sentient</a>
 
 I've been hanging around some ps1 communities, and no one talks about Sentient, but I still think about it regularly.  
