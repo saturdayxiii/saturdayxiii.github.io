@@ -3,7 +3,7 @@ type: post
 timestamp: October 3rd, 2017 12:33pm
 tags: ["story", "sketch", "brainstorm"]
 ---
-####
+post
 ##Reincarnation Game - Story##
                     
 Overall: the world will end.  Start with player saving food production for their nation.  This introduces the mechanics, of course, and the player dies at the end.  This same device that the player dies for is what kills the entire planet in the end.

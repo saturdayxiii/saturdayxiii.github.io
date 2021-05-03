@@ -3,7 +3,7 @@ type: post
 timestamp: November 24th, 2015 8:00am
 tags: ["hypocrisy", "Thoughts"]
 ---
-####
+post
 ##I’ve noticed something.##
                     
 1. Deny climate change.

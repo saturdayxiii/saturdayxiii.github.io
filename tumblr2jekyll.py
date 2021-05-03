@@ -19,6 +19,8 @@ for file in directory:
     #open_file = open(file,'r')#easy way, but
     with io.open(file,'r',encoding='utf8') as open_file:
         read_file = open_file.read()
+    #post needs to be manually repaired?
+    print(re.search('href\.li/',read_file))
     #convert time stamp to potential filename
     date = re.findall('timestamp"> (.*) <', read_file)
     #convert to string
@@ -116,7 +118,7 @@ for file in directory:
     read_file = re.sub(codebit, '', read_file)
     #add front matter
     fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
-    read_file = fmatt + "####\n" + read_file + "\n" + source
+    read_file = fmatt + post + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 

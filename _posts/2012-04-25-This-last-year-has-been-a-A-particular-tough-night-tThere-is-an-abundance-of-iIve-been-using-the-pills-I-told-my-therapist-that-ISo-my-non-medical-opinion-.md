@@ -3,7 +3,7 @@ type: post
 timestamp: April 25th, 2012 12:38pm
 tags: ["Thoughts"]
 ---
-####
+post
 ##My Initial Responce to 5-HTP##
                     
 This last year has been a rough one.  I developed an emotional problem that effected every aspect of my life.  Up until recently I couldn't pin point when I got the problem.  I've always had a critical perspective on my life.  I've often had troubles with loneliness and depression but I've always pulled through.  This year however, for the entire year, that didn't feel to be the case.  I figured it was just a build up of all the depression spirals of my life swelling to a final climax.  More than once I was certain that I wouldn't be able to allow myself to survive through the night. 

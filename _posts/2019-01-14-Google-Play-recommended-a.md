@@ -3,7 +3,7 @@ type: img
 timestamp: January 14th, 2019 11:36am
 tags: ["meh", "game"]
 ---
-####
+img
 <img src="https://saturdayxiii.github.io/media/182010017489.gif"/>
                                                                                           
 Google Play recommended <a href="https://play.google.com/store/apps/details?id=com.pinestreetcodeworks.TinyBubbles" target="_blank">Tiny Bubbles</a>.  It looked nice and boasted a bunch of “awards”, so I figured I’d give it a shot.  I later uninstalled with a resounding “meh”.

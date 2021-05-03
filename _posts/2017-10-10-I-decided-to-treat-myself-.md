@@ -3,7 +3,7 @@ type: post
 timestamp: October 10th, 2017 2:51pm
 tags: [""]
 ---
-####
+post
 ##Vector illustration apps for android##
                     ###Pramble:###
 I decided to treat myself and upgrade my laptop/drawing tablet combo.  I’ve found lots of comprehensive reviews for hardware and software and have happily purchased a Samsung Galaxy Tab S3.  While it will take a good long while of actually using the tablet to determine how well it can replace my old laptop, I am very optimistic.  I’ve found lots of recommendations for drawing and photo apps, but something I haven’t been coming across is apps for working with vector art.  So I’m going to compose a non-comprehensive list of the apps that look useful to me and will report what apps I stick with.<br/><br/>As I stated, I have a Samsung Galaxy Tab S3, the SM-T820 something something, running stock Nougat 7.0.  The double edge sword of running android is that the OS and the apps change so quickly, so if you find this list somewhere at sometime, you should know that nothing is guaranteed.  Part of how I will grade apps is by how recently they were updated in the app store.  So even my opinions are related to this time in October 2017.  

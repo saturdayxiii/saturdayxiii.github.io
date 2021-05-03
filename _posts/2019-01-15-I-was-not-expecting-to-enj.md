@@ -3,7 +3,7 @@ type: img
 timestamp: January 15th, 2019 9:02pm
 tags: ["show", "amazon", "recommended"]
 ---
-####
+img
 <img src="https://saturdayxiii.github.io/media/182048488999.gif"/>
                                                                                           
 I was not expecting to enjoy the second season of <a href="https://en.wikipedia.org/wiki/One_Mississippi_(TV_series)" target="_blank">One Mississippi</a> as much as I did.  The first season was alright, something to have on while I concentrated on another task.  It started strong on the topic of loss, and the whole show is caked with bitter wit.  However, I thought the “mom’s not as perfect as we thought” bit was rather played; they didn’t even bring it up again in later episodes, and I really didn’t know what they were trying to do with the child molestation aspects.

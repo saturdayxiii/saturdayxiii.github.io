@@ -3,7 +3,7 @@ type: post
 timestamp: October 17th, 2016 2:07pm
 tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie"]
 ---
-####
+post
 ##Laputa and self reflection regarding anime [journal]##
                     <figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/></figure>
 Yesterday I saw Castle in the Sky at my local Theatre.<br/>

@@ -3,7 +3,7 @@ type: img
 timestamp: June 16th, 2016 12:00pm
 tags: ["photo", "bark", "texture", "photography"]
 ---
-####
+img
 <img src="https://saturdayxiii.github.io/media/146020178743.jpg"/>
                                                                                           
 Don’t be knotty.

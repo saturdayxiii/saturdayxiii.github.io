@@ -3,7 +3,7 @@ type: post
 timestamp: May 30th, 2019 7:42am
 tags: ["game", "achievements", "exophase", "idea"]
 ---
-####
+post
 ##A Couple of Desires for Video Game Achievements##
                     
 I’ve seen some people who can’t stand video game achievements, I’ve seen others who won’t play games without them and won’t play another game until they’ve hundred percented all the cheevies.  Like most aspects of my life I fall in the middle, and to a more casual side of the matter.  I definitely gravitate to games that mark my achievements, but I also have little problem ignoring cheevies that I don’t accomplish after a casual play through.  With that angle being disclosed, here’s two features that I wish achievement systems would adopt.

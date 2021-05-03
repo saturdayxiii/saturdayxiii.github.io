@@ -3,7 +3,7 @@ type: vid
 timestamp: January 17th, 2019 3:33pm
 tags: ["show", "documentary", "insights"]
 ---
-####
+vid
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/YdSdvIRkkDY?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
                                             
 An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be talked about more often.
