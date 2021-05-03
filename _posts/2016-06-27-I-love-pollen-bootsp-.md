@@ -25,7 +25,7 @@ tags: ["insect", "wasp", "macro", "flower", "garden", "tiny", "pollen", "photogr
                                <img src="../media/146551152379_4.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 I love pollen boots!
  
                                     

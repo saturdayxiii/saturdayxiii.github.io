@@ -55,7 +55,7 @@ tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
                                <img src="../media/646509339504443392_10.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Here’s a week of progress.  Drawing at least one quick portrait every day.  I’ve gotten more used to my tool of choice.  Now if only I could be a better artist.
 
 I am feeling a little more controlled.  Feeling more successful in small areas.  I’ll keep it up and see what happens.

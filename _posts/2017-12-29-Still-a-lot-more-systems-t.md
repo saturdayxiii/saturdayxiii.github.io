@@ -6,7 +6,7 @@ summary: Still a lot more systems to do retrogaming gamerdecor  at Edmonton Albe
 tags: ["retrogaming", "gamerdecor"]
 ---
 <a href="https://www.instagram.com/p/BdUKGd2HGCi/ "></a>
-                                                                                          <div class="caption">
+                                                                                          
 Still a lot more systems to do. #retrogaming #gamerdecor  (at Edmonton, Alberta)
  
                                     

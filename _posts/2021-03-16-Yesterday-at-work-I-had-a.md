@@ -35,7 +35,7 @@ tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
                                <img src="../media/645836584988590080_6.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
 
 Why did it go so horribly?

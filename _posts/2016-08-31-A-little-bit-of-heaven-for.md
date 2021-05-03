@@ -6,7 +6,7 @@ summary: A little bit of heaven for the captainp
 tags: ["liquor", "plush", "edible"]
 ---
 <img src="../media/149770647029.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A little bit of heaven for the captain.
  
                                     

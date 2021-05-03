@@ -6,7 +6,7 @@ summary: When you have a favorite cozy but it’s not really that cozyp
 tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]
 ---
 <img src="../media/148502555644.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 When you have a favorite cozy, but it’s not really that cozy.
  
                                     

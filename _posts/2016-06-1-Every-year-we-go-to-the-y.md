@@ -6,7 +6,7 @@ summary: Every year we go to the yegrivervalley just to see the wormiesp
 tags: ["photo", "wormies", "insect", "caterpillar", "photography"]
 ---
 <img src="../media/145264893918.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Every year we go to the #yegrivervalley just to see the wormies.
  
                                     

@@ -6,7 +6,7 @@ summary: Werewolf bugman vampirehellip original characters reallyp
 tags: ["illustration", "car", "werewolf", "vampire", "drawing", "ink", "art"]
 ---
 <img src="../media/144915373212.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Werewolf, bugman, vampire&hellip; original characters, really?
  
                                     

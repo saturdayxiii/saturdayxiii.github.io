@@ -6,7 +6,7 @@ summary: You’ve been here alreadyp
 tags: ["photo", "pets", "snake", "photography"]
 ---
 <img src="../media/145463187950.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 You’ve been here already.
  
                                     

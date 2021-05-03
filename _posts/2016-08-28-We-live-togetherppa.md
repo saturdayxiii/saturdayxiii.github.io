@@ -25,7 +25,7 @@ tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
                                <img src="../media/149610653063_4.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 We live together.
 
 <a href="https://en.wikipedia.org/wiki/Plecoptera" target="_blank">https://en.wikipedia.org/wiki/Plecoptera</a><br/>

@@ -6,7 +6,7 @@ summary: I played the nude Valkyriep
 tags: ["Game", "beercade", "yeg"]
 ---
 <img src="../media/182623849724.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 I played the nude Valkyrie.
  
                                     

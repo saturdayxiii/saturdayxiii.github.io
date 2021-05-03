@@ -30,7 +30,7 @@ tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets"]
                                <img src="../media/160594157914_5.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Finished product.  Needs a bit of improvement: a couple inches wider, lost some air holes somewhere but accidentally made some unplanned ones elsewhere.  Works out.
  
                                     

@@ -6,7 +6,7 @@ summary: Espress yourselfp
 tags: ["capuccino", "flower", "coffee", "edible", "art"]
 ---
 <img src="../media/144815258057.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Espress yourself.
  
                                     

@@ -6,7 +6,7 @@ summary: A Fancy Triopppa hrefhttpfavmeddb8ial targetblankhttpfavmeddb8ialabrppa
 tags: ["triops", "ibispaintx", "art"]
 ---
 <img src="../media/186155863744.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 A Fancy Triop.
 
 <a href="http://fav.me/ddb8ial" target="_blank">http://fav.me/ddb8ial</a><br/>

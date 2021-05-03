@@ -6,7 +6,7 @@ summary: Is this show still onp
 tags: ["childrens", "tv", "fun", "art", "show"]
 ---
 <img src="../media/133557827039.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Is this show still on?
  
                                     

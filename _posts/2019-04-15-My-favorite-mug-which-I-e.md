@@ -6,7 +6,7 @@ summary: My favorite mug which I expertly painted has a crack in it and will soo
 tags: ["art", "mug", "pastel", "paint", "ceramic", "crankpots"]
 ---
 <img src="../media/184207088519.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 My favorite mug, which I expertly painted, has a crack in it and will soon be RIP.
 
 May it forever be remembered here.

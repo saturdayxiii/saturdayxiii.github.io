@@ -15,7 +15,7 @@ tags: ["music"]
                                <img src="../media/185186455519_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it.  Great show at The Tavern.
  
                                     

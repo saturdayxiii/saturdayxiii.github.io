@@ -20,7 +20,7 @@ tags: ["spider", "arachnid", "macro", "web", "photography"]
                                <img src="../media/149470001853_3.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Unfortunately I couldn’t get the focus to cooperate.
 
 <br/>

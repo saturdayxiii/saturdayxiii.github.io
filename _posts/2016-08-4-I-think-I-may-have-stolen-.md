@@ -6,7 +6,7 @@ summary: I think I may have stolen this idea from somewherehellip or a few place
 tags: ["pixel", "graphics", "tiny", "art"]
 ---
 <img src="../media/148460620264.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 I think I may have stolen this idea from somewhere&hellip; or a few places.
  
                                     

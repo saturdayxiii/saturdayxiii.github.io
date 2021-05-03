@@ -15,7 +15,7 @@ tags: ["game", "animation", "design"]
                                <img src="../media/183586901534_2.gif"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Oh, I guess I should cross post this.
 
 After a month of hard work on an entry for <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.thenew8bitheroes.com%2F&amp;t=ZDI3NDFjOTUzYzRlYjJjODJkNmFjZDZiOWJhYzQ0ZjMyZmNjMDRjZCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">NESMaker’s Byte Off</a> competition, <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fsaturdayxiii.itch.io%2Fpingback&amp;t=OWY2ZDFhZGRiMjg4OGI0OWQ3NjAyNmYxZWEyMWIxMDUwZTY0YjM4OCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">Pingback</a> is playable.

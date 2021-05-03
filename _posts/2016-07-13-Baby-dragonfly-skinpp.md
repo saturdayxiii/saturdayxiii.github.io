@@ -6,7 +6,7 @@ summary: Baby dragonfly skinppDrastically overcompensates for the lack of focusp
 tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography"]
 ---
 <img src="../media/147350957170.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Baby dragonfly skin!
 
 *Drastically overcompensates for the lack of focus*

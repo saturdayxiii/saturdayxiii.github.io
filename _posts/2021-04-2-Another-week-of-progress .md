@@ -40,7 +40,7 @@ tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
                                <img src="../media/647412041409232896_7.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Another week of progress.  Kind of peaking, unfortunately.<br/>
  
                                     

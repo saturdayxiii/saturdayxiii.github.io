@@ -6,7 +6,7 @@ summary: A big reminder to myself not to run disk checksrepairs on a glitchy hdd
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 ---
 <img src="../media/190913838744.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off.  RIP lossless, extended Escaflowne movie ost.<br/>
 
 A detailed account in hopes that I don’t forget:<br/>I had a large EXT4 HDD disappear off my Rpi nas (lol, so l337).  Restarted a couple times with no change.  Plugged in the drive after a bootup and got an error saying that the mount point was already taken.  Remove the drive from fstab and the error persists, but oddly enough the drive still shows up in the file manager, albeit devoid of content.

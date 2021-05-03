@@ -6,7 +6,7 @@ summary: The cute characters shiny art and exploration premise drew me into watc
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 ---
 <img src="../media/181881333409.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with this title.
 
 I understand that it’s a pretty well loved show.  I can see why, but after having watched it I don’t understand why.  If I wasn’t aware of its popularity I’d tell the uninitiated that it’s a pretty show, but definitely not a “must see”.  However, knowing that it’s considered the “best anime of 2017″ makes me want to recommend… that people pay attention to how bad it is.  The fact that shows like this are considered the “best” is why I rarely watch anime anymore.  Made in Abyss definitely contributes to my list of reasons to not like anime.

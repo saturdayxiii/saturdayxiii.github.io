@@ -30,7 +30,7 @@ tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", 
                                <img src="../media/135414361959_5.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Look!  It’s PokePark on the Wii!
  
                                     

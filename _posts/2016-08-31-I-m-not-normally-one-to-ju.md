@@ -20,7 +20,7 @@ tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography"]
                                <img src="../media/149754879401_3.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 I’m not normally one to judge by appearances, but these things are probably evil.
  
                                     

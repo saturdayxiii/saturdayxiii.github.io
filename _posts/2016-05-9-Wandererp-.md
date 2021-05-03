@@ -6,7 +6,7 @@ summary: Wandererp
 tags: ["ladybug", "ladybird", "beetle", "spots", "macro", "gif", "cute", "insect", "bug", "crawl", "photography"]
 ---
 <img src="../media/144104657039.gif"/>
-                                                                                          <div class="caption">
+                                                                                          
 Wanderer.
  
                                     

@@ -6,7 +6,7 @@ summary: Im down with the Dragon Series but unfortunately half the time my tongu
 tags: ["Alleykat", "yeg", "edible", "beer", "Denali"]
 ---
 <img src="../media/183992026209.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 I'm down with the Dragon Series, but unfortunately, half the time, my tongue is not nuanced enough to tell the difference in hops.  This was one of those times.
  
                                     

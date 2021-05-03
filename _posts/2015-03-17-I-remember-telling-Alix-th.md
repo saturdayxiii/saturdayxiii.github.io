@@ -15,7 +15,7 @@ tags: ["art", "mod", "paint", "case", "neon"]
                                <img src="../media/185573413369_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 I remember telling Alix that the face on my phone case wasn't a self portrait.  Now. I think. I can only describe it as a self portrait.
  
                                     

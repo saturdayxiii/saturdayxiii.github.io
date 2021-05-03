@@ -45,7 +45,7 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
                                                            
 ' .The original design.  . 
 ;
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Here’s my custom gaming shelf that I designed to meet my needs.
  
                                     

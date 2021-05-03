@@ -6,7 +6,7 @@ summary: Where I hangppbrppOne of these two I guess ppa hrefhttpsenwikipediaorg
 tags: ["moth", "bug", "insect", "macro", "photography"]
 ---
 <img src="../media/149801109387.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Where I hang.
 
 <br/>

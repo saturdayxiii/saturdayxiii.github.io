@@ -6,7 +6,7 @@ summary: Its modified  I swear  Its shiny snes customcase  at Edmonton Albertap
 tags: ["snes", "photo", "edmonton", "custom", "art"]
 ---
 <a href="https://www.instagram.com/p/Bb0siLFHdU1/ "></a>
-                                                                                          <div class="caption">
+                                                                                          
 It's modified.  I swear.  (It's shiny) #snes #customcase  (at Edmonton, Alberta)
  
                                     

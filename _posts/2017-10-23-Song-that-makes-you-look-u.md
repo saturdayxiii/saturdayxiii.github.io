@@ -7,7 +7,7 @@ tags: ["recommended", "music"]
 ---
 <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2861756721&amp;ts=1618890940&amp;t=446bc89c61979b040ad147fa62d6702f5e45c846"></embed>
                     
-                                               <div class="caption">
+                                               
 Song that makes you look up the lyrics and sing along upon the first listen.
  
                                     

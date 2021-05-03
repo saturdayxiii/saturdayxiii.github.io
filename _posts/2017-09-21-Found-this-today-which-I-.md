@@ -6,7 +6,7 @@ summary: Found this today which I had previously forgotten aboutppa hrefhttpfavm
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art"]
 ---
 <img src="../media/165590796589.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Found this today, which I had previously forgotten about.
 
 <a href="http://fav.me/d6z8121" target="_blank">http://fav.me/d6z8121</a><br/>

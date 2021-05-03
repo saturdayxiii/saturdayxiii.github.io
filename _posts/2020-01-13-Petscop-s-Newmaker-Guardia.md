@@ -6,7 +6,7 @@ summary: Petscop’s Newmaker Guardianbrp
 tags: ["art"]
 ---
 <img src="../media/190247453939.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Petscop’s Newmaker Guardian.<br/>
  
                                     

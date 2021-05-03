@@ -6,7 +6,7 @@ summary: Pixelized a friend’s profile photop
 tags: ["pixel", "digital", "art"]
 ---
 <img src="../media/151441183214.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 Pixelized a friend’s profile photo.
  
                                     

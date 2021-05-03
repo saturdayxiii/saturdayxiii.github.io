@@ -15,7 +15,7 @@ tags: ["insect", "bug", "macro", "tiny", "beetle", "photography"]
                                <img src="../media/146603521059_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Scout.
 
 <a href="http://bugguide.net/node/view/50621" target="_blank">http://bugguide.net/node/view/50621</a><br/>

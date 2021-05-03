@@ -6,7 +6,7 @@ summary: Enhancing textbooks withhellip what is that  Anime  Grossp
 tags: ["illustration", "ink", "sketch", "art"]
 ---
 <img src="../media/145667317283.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Enhancing textbooks with&hellip; what is that?  Anime?  Gross.
  
                                     

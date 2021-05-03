@@ -6,7 +6,7 @@ summary: Are you sad at Edmonton Albertap
 tags: ["edmonton", "photography"]
 ---
 <a href="https://www.instagram.com/p/BbGU8LMnBB8/ "></a>
-                                                                                          <div class="caption">
+                                                                                          
 Are you sad?! (at Edmonton, Alberta)
  
                                     

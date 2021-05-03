@@ -6,7 +6,7 @@ summary: Yay  Having a long stay at Beercade for the Twitch meetup and they put 
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 ---
 <img src="../media/185617874449.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Yay!  Having a long stay at Beercade for the Twitch meetup and they put out art supplies.  Makes me happy.
  
                                     

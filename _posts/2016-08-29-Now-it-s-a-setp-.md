@@ -20,7 +20,7 @@ tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography"]
                                <img src="../media/149662527124_3.gif"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Now it’s a set!
  
                                     

@@ -6,7 +6,7 @@ summary: Spider toesp
 tags: ["spider", "tarantula", "toes", "feet", "macro", "photography"]
 ---
 <img src="../media/152390147284.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Spider toes!
  
                                     

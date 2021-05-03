@@ -106,10 +106,10 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '####']
+    erases = ['<div>', '</div>'] # '####' needs to be before html?
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
-    codebit = re.compile('<div class="w+">')
+    codebit = re.compile('<div class=".*">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
     fmatt = "---\ntype: " + post + "\ntitle: " + no_punc + "\ntimestamp: " + time + "\nsummary: " + summ + "\ntags: [" + tags + '"]\n---\n'

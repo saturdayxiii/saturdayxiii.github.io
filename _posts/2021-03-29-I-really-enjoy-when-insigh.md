@@ -6,7 +6,7 @@ summary: I really enjoy when insightful videos about the original Blair Witch Pr
 tags: ["recommended", "movie", "thoughts", "cinema"]
 ---
 <iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
-                                            <div class="caption">
+                                            
 I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
 
 This one gets rather exhaustive on how imagery in the initial scenes reinforce the theme of the film.  It honestly gets rather listy, and suggests that the film was much more controlled and intentional than was let on.  Which I think is a valid insight, but not the extent of which is implied in this video.  I really like what it means for themes and how it relates to author intention.  

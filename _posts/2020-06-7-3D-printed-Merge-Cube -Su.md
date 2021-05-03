@@ -6,7 +6,7 @@ summary: 3D printed Merge Cube  Super happy that turned outbrp
 tags: [""]
 ---
 <img src="../media/620327675644592128.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 3D printed Merge Cube.  Super happy that turned out.<br/>
  
                                     

@@ -6,7 +6,7 @@ summary: An upgrade in every way except for the lack of a graphics cardppI’m h
 tags: ["update", "life", "computer", "purchase", "product"]
 ---
 <img src="../media/182502592759.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 
 
 The old beast is being replaced by the new hotness.

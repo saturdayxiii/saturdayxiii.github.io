@@ -6,7 +6,7 @@ summary: Going through the tutorials for a hrefhttpwwwthenew8bitheroescom target
 tags: ["software", "game", "recommended", "nesmaker"]
 ---
 <img src="../media/182126624604.gif"/>
-                                                                                          <div class="caption">
+                                                                                          
 Going through the tutorials for <a href="http://www.thenew8bitheroes.com" target="_blank">NESMaker</a> again, and its features are still giving me chills.
  
                                     

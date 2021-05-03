@@ -6,7 +6,7 @@ summary: Don’t be knottyp
 tags: ["photo", "bark", "texture", "photography"]
 ---
 <img src="../media/146020178743.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Don’t be knotty.
  
                                     

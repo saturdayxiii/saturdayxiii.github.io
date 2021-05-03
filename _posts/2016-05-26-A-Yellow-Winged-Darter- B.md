@@ -6,7 +6,7 @@ summary: A Yellow Winged Darter  But this is Canadappa hrefhttpsenwikipediaorgw
 tags: ["photo", "dragonfly", "insect", "bug", "photography"]
 ---
 <img src="../media/144974648089.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A Yellow Winged Darter?  But this is Canada.
 
 <a href="https://en.wikipedia.org/wiki/Yellow-winged_darter" target="_blank">https://en.wikipedia.org/wiki/Yellow-winged_darter</a><br/>

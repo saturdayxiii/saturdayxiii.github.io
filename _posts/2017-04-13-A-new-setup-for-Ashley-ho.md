@@ -6,7 +6,7 @@ summary: A new setup for Ashley hopefully  The only way to test it is to build 
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]
 ---
 <img src="../media/159536973094.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A new setup for Ashley, hopefully.  The only way to test it is to build it.
  
                                     

@@ -6,7 +6,7 @@ summary: Audio hack if you’re a fan of speaker spikes but don’t like paying 
 tags: ["audiophile", "hacks", "recommended", "cheap", "stereo"]
 ---
 <img src="../media/184397769579.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Audio hack: if you’re a fan of speaker spikes, but don’t like paying the big bucks: install some 3D printer nozzles.
  
                                     

@@ -6,7 +6,7 @@ summary: Hang on a minuteppbrppa hrefhttpsenwikipediaorgwikiForesttentcaterpilla
 tags: ["photo", "moth", "insect", "photography"]
 ---
 <img src="../media/145412487706.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Hang on a minute.
 
 <br/>

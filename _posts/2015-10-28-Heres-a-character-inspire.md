@@ -6,7 +6,7 @@ summary: Heres a character inspired by all the Sega games I played on the plane 
 tags: ["character", "sketch", "design", "ink", "drawing", "sega", "art"]
 ---
 <img src="../media/132093594809.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Here's a character inspired by all the Sega games I played on the plane, like Puyo Pop.  You can tell because, you know, the gloves and stuff&hellip;
  
                                     

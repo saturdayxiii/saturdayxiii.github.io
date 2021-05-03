@@ -6,7 +6,7 @@ summary: I think that the Sonic the Hedgehog 20th anniversary redesign was a mis
 tags: ["sonic", "redesign", "2014", "sketch", "drawing", "ink", "art"]
 ---
 <img src="../media/75910281418.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 I think that the Sonic the Hedgehog 20th anniversary redesign was a missed opportunity for a more competent female protagonist.
  
                                     

@@ -6,7 +6,7 @@ summary: None of itp
 tags: ["photo", "snake", "pets", "photography"]
 ---
 <img src="../media/145866810270.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 None of it.
  
                                     

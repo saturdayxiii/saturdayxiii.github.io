@@ -6,7 +6,7 @@ summary: High Resolution Graphicsppa hrefhttpswwwyoutubecomwatchvIAVUzjXgZg targ
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
 ---
 <img src="../media/134745252369.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 High Resolution Graphics
 
 <a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a><br/>

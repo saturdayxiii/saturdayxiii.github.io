@@ -6,7 +6,7 @@ summary: Wicker 20 More effective or too repetitive pixelart tile pixly  at Edmo
 tags: ["pixly", "tile", "pattern", "art"]
 ---
 <a href="https://www.instagram.com/p/BcF9-QoHWO3/ "></a>
-                                                                                          <div class="caption">
+                                                                                          
 Wicker 2.0. More effective, or too repetitive? #pixelart #tile #pixly  (at Edmonton, Alberta)
  
                                     

@@ -45,7 +45,7 @@ tags: ["art", "covers", "pixel", "retro"]
                                <img src="../media/186843420859_8.png"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Track art for <a href="https://saturdayxiii.bandcamp.com/album/low-bit-adventure" target="_blank">Low Bit Adventure</a>
  
                                     

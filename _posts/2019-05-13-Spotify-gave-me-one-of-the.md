@@ -6,7 +6,7 @@ summary: Spotify gave me one of the best radio playlists I ever listened to  Th
 tags: ["recommended", "music", "pop"]
 ---
 <iframe width="500" height="375"  id="youtube_iframe" src="https://www.youtube.com/embed/7LvayVk_7GU?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
-                                            <div class="caption">
+                                            
 Spotify gave me one of the best radio playlists I ever listened to.  This was one of the major highlights.
  
                                                     

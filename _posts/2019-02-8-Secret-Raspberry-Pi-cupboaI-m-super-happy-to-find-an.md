@@ -6,7 +6,7 @@ summary: Secret Raspberry Pi cupboard with 10Tb of cloud storageI’m super happ
 tags: ["product", "purchase"]
 ---
 <img src="../media/182671455654.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Secret Raspberry Pi cupboard with 10Tb of cloud storage.
 
 

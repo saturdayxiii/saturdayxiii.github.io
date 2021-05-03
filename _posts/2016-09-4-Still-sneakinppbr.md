@@ -6,7 +6,7 @@ summary: Still sneakinppbrppa hrefhttpsenwikipediaorgwikiMisumenavatia targetbla
 tags: ["spider", "arachnid", "macro", "whenisawit", "photography"]
 ---
 <img src="../media/149940042190.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Still sneakin.
 
 <br/>

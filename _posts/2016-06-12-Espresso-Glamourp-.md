@@ -6,7 +6,7 @@ summary: Espresso Glamourp
 tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon"]
 ---
 <img src="../media/145813300168.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Espresso Glamour.
  
                                     

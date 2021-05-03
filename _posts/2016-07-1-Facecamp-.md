@@ -6,7 +6,7 @@ summary: Facecamp
 tags: ["snake", "pets", "photography"]
 ---
 <img src="../media/146761127860.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Facecam.
  
                                     

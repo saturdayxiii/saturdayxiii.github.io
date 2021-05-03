@@ -6,7 +6,7 @@ summary: Keep me fungusp
 tags: ["photo", "mushroom", "fungus", "plant", "photography"]
 ---
 <img src="../media/144762384055.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Keep me fungus.
  
                                     

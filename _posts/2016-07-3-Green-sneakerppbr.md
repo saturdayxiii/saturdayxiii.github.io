@@ -15,7 +15,7 @@ tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]
                                <img src="../media/146855380840_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Green sneaker.
 
 <br/>

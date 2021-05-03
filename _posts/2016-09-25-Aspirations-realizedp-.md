@@ -15,7 +15,7 @@ tags: ["gamecube", "nintendo", "art"]
                                <img src="../media/150924989914_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Aspirations realized.
  
                                     

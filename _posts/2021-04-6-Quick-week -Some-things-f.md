@@ -40,7 +40,7 @@ tags: ["art", "sketch", "progress", "ink", "practise", "portrait", "marker"]
                                <img src="../media/647781832275984384_7.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Quick week.  Some things feel better, other things feel drastically worse.  Big focus on head shapes, I think.  Seems to mean I lost focus on feature proportions.<br/>
  
                                     

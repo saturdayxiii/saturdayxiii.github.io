@@ -6,7 +6,7 @@ summary: Jalapeno graveyardI love jalapeno poppers but I’ll be damned if I’m
 tags: ["Edible", "jalapeno", "dip", "photography"]
 ---
 <img src="../media/182175873024.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Jalapeno graveyard.
 
 

@@ -6,7 +6,7 @@ summary: 3D scanning nopep
 tags: ["yoshi", "qlone", "misc"]
 ---
 <img src="../media/182299758994.png"/>
-                                                                                          <div class="caption">
+                                                                                          
 3D scanning nope
  
                                     

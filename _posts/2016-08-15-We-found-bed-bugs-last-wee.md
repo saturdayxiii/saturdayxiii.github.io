@@ -21,7 +21,7 @@ tags: ["bugs", "pest", "egg", "insect", "macro", "photography"]
                                                            
 ' .Snug as a bug in my bed.  . 
 ;
-                                                                                                                      <div class="caption">
+                                                                                                                      
 We found bed bugs last week, and it couldn’t have happened to a nicer guy, if I do say so myself.
  
                                     

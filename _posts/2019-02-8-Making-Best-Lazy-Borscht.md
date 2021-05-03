@@ -15,7 +15,7 @@ tags: ["edible", "borscht"]
                                <img src="../media/182664450609_2.gif"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Making Best Lazy Borscht.
  
                                     

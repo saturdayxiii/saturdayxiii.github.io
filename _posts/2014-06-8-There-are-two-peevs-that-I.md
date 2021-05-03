@@ -6,7 +6,7 @@ summary: There are two peevs that Ive come across in my hour of playing br1 Ene
 tags: ["review", "indie", "game"]
 ---
 <img src="../media/182012762084.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 <a href="https://store.steampowered.com/app/291290/Motte_Island/" target="_blank">Motte Island</a> is alright, but there's a pretty big 
 
 asterisk

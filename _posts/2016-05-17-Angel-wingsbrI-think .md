@@ -6,7 +6,7 @@ summary: Angel wingsbrI think a hrefhttpsenwikipediaorgwikiYellowwingeddarter t
 tags: ["photo", "dragonfly", "insect", "sun", "summer", "spring", "photography"]
 ---
 <img src="../media/144511828673.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Angel wings.<br/>I think <a href="https://en.wikipedia.org/wiki/Yellow-winged_darter" target="_blank">https://en.wikipedia.org/wiki/Yellow-winged_darter</a> ?
  
                                     

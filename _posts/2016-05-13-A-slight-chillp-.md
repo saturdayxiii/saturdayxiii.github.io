@@ -6,7 +6,7 @@ summary: A slight chillp
 tags: ["photo", "edmonton", "bridge", "ice", "water", "river", "cold", "photography"]
 ---
 <img src="../media/144305857302.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A slight chill.
  
                                     

@@ -6,7 +6,7 @@ summary: My first instructionless electronics fix  Worked out purely by luck but
 tags: ["photo"]
 ---
 <img src="../media/163432477994.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 My first instructionless electronics fix.  Worked out purely by luck, but I typically can't hope for better.
 
 

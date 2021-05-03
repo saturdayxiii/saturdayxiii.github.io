@@ -6,7 +6,7 @@ summary: Hanging outp
 tags: ["spider", "arachnid", "macro", "nature", "photography"]
 ---
 <img src="../media/149230541170.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Hanging out
  
                                     

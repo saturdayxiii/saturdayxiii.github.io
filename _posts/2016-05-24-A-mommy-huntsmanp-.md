@@ -6,7 +6,7 @@ summary: A mommy huntsmanp
 tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography"]
 ---
 <img src="../media/144865619215.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 A mommy huntsman!
  
                                     

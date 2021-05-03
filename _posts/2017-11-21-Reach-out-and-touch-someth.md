@@ -6,7 +6,7 @@ summary: Reach out and touch something at Edmonton Albertap
 tags: ["photo", "edmonton", "photography"]
 ---
 <a href="https://www.instagram.com/p/Bbx4Dg_neWK/ "></a>
-                                                                                          <div class="caption">
+                                                                                          
 Reach out and touch something. (at Edmonton, Alberta)
  
                                     

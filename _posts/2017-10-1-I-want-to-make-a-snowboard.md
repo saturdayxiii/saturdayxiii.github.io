@@ -6,7 +6,7 @@ summary: I want to make a snowboard kids knock off  so I’m just stashing some
 tags: ["brainstorm", "levels", "downhill"]
 ---
 <img src="../media/165936346764.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 I want to make a snowboard kids knock off.  so I’m just stashing some ideas here for later use.  Tagging: Downhill…something… need a more descriptive project title.<br/>
 
 Level idea: Rail sliding in Chittogarh?

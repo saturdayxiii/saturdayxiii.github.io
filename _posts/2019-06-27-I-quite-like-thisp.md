@@ -6,7 +6,7 @@ summary: I quite like this
 tags: ["sgdq2019", "art", "crayola"]
 ---
 <img src="../media/190407228749.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 I quite like this.
 
 

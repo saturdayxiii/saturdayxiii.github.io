@@ -15,7 +15,7 @@ tags: ["spider", "arachnid", "macro", "photography"]
                                <img src="../media/152434361519_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 Between the the sheaves.
  
                                     

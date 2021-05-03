@@ -15,7 +15,7 @@ tags: ["shows", "comic", "customizing"]
                                <img src="../media/186544581839_2.jpg"/>
                            
 
-                                                                                                                      <div class="caption">
+                                                                                                                      
 
 
 Over the Garden Wall’s 4 issue mini series re-bound in an engraved aluminium cover.

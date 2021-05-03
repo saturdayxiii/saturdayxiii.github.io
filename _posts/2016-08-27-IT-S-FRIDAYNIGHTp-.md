@@ -6,7 +6,7 @@ summary: IT”S FRIDAYNIGHTp
 tags: ["snake", "snek", "mouse", "feed", "reptile", "photography"]
 ---
 <img src="../media/149562517985.gif"/>
-                                                                                          <div class="caption">
+                                                                                          
 IT”S FRIDAYNIGHT!!
  
                                     

@@ -6,7 +6,7 @@ summary: Beautiesppbrppmaybe a hrefhttpsenwikipediaorgwikiHyalophoracolumbia ta
 tags: ["photo", "moth", "park", "insect", "photography"]
 ---
 <img src="../media/145763608733.jpg"/>
-                                                                                          <div class="caption">
+                                                                                          
 Beauties.
 
 <br/>

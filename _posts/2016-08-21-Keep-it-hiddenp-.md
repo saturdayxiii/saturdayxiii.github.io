@@ -6,7 +6,7 @@ summary: Keep it hiddenp
 tags: ["beetle", "bug", "insect", "leaf", "green", "macro", "gif", "photography"]
 ---
 <img src="../media/149279138256.gif"/>
-                                                                                          <div class="caption">
+                                                                                          
 Keep it hidden.
  
                                     
