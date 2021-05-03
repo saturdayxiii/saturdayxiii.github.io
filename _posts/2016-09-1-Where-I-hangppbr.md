@@ -5,11 +5,7 @@ timestamp: September 1st, 2016 12:00pm
 summary: Where I hangppbrppOne of these two I guess ppa hrefhttpsenwikipediaorgwikiClepsisclemensiana targetblankhttpsen
 tags: ["moth", "bug", "insect", "macro", "photography"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/149801109387.jpg"/>
+<img src="../media/149801109387.jpg"/>
                                                                                           <div class="caption"><p>Where I hang.</p><p><br/></p><p>One of these two I guess: </p><p><a href="https://en.wikipedia.org/wiki/Clepsis_clemensiana" target="_blank">https://en.wikipedia.org/wiki/Clepsis_clemensian</a>a </p><p><a href="https://en.wikipedia.org/wiki/Agriphila_ruricolella" target="_blank">https://en.wikipedia.org/wiki/Agriphila_ruricolella</a><br/></p> </div>
                                     
                 

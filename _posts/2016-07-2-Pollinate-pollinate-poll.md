@@ -5,11 +5,7 @@ timestamp: July 2nd, 2016 12:00pm
 summary: Pollinate pollinate pollinatep 
 tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/146807870671.gif"/>
+<img src="../media/146807870671.gif"/>
                                                                                           <div class="caption"><p>Pollinate, pollinate, pollinate.</p> </div>
                                     
                 

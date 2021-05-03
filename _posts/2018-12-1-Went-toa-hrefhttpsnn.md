@@ -5,11 +5,7 @@ timestamp: December 1st, 2018 12:28am
 summary: Went toa hrefhttpsnnedmontonbandcampcom targetblank NNa’s final show  It was great  Not sure if I’ve ever gotten “in to it” so hard NN hadn’t changed at all since my girlfriend and I saw them while on our first concert date excluding the concert we decided to start dating at  She
 tags: ["concert", "music"]
 ---
-
-                
-                
-                
-                                                                                       <p>
+<p>
                                <img src="../media/181058091284_1.jpg"/>
                            </p>
                                                                                                                            <p>

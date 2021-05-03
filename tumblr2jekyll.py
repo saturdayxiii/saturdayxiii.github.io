@@ -3,6 +3,7 @@ to the first 2 lines
 !/usr/bin/python
  -*- coding: UTF-8 -*-'''
 #all html showing up as a code block
+#convert links to []() format
 #youtube vids and media vids exist and need fixing
 #group img thumbnails are probably different
 import os,re,io
@@ -25,16 +26,11 @@ for file in directory:
 	time = date #preserve timestamp in front matter
 	date = date.split(' ')
 	del date[3]
-        #make day always 2 digits pls
+        #to do: make day always 2 digits pls
 	reorder = [2,0,1]
 	date = [date[i] for i in reorder]
 	date = ''.join(date)
 	#reformat
-	date = re.sub("th","-",date)
-	date = re.sub("st","-",date)
-	date = re.sub("nd","-",date)
-	date = re.sub("rd","-",date)
-	date = re.sub(",","",date)
 	date = re.sub("January","-01-",date)
 	date = re.sub("February","-02-",date)
 	date = re.sub("March","-03-",date)
@@ -47,13 +43,22 @@ for file in directory:
 	date = re.sub("October","-10-",date)
 	date = re.sub("November","-11-",date)
 	date = re.sub("December","-12-",date)
+	#these have to go after month changes
+	date = re.sub("th","-",date)
+	date = re.sub("st","-",date)
+	date = re.sub("nd","-",date)
+	date = re.sub("rd","-",date)
+	date = re.sub(",","",date)
 	#shift h tags
 	read_file = re.sub("<h2>","###",read_file)
 	read_file = re.sub("</h2>","###",read_file)
 	read_file = re.sub("<h1>","##",read_file)
 	read_file = re.sub("</h1>","##",read_file)
 	#fix img urls
-	#temp fix to new directory, bah
+	#first get filname
+	#images = re.findall('<img src="../../(.+)"', read_file)
+    #this shouldn't be necessary... try fixing html first
+	#
 	read_file = re.sub('<img src="../../','<img src="../',read_file)
 	#fix video urls.  Do they need it? Yes.
 	#identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
@@ -77,7 +82,6 @@ for file in directory:
 	for char in title:
 		if char not in punc:
 			no_punc = no_punc + char
-        #missing vwxyz.... U00af?
 	no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
 	no_punc = re.sub(" ","-",no_punc)
 	date += no_punc
@@ -97,7 +101,7 @@ for file in directory:
 	#delete html but preserve <h> and <p>?
 	#how?
 	#remove footer/head is easy I guess.
-	head = re.match('^.*<body>',read_file, re.DOTALL)
+	head = re.match('^.*<body>\s+',read_file, re.DOTALL)
 	read_file = re.sub(head.group(0),"",read_file)
 	foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
 	read_file = re.sub(foot.group(1),"",read_file)
@@ -116,4 +120,4 @@ for file in directory:
 	#encoding? do this for "open_file" too
 	with io.open(date,'w', encoding='utf8') as write_file:
 		write_file.write(read_file)
-	break
+	#break

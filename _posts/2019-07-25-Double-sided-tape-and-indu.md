@@ -5,11 +5,7 @@ timestamp: July 25th, 2019 1:10pm
 summary: Double sided tape and industrial hot glue seems to work the best for holding things togetherp 
 tags: ["shows", "comic", "customizing"]
 ---
-
-                
-                
-                
-                                                                                       <p>
+<p>
                                <img src="../media/186544581839_1.jpg"/>
                            </p>
                                                                                                                            <p>

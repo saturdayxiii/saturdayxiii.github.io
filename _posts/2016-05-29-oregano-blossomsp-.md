@@ -5,11 +5,7 @@ timestamp: May 29th, 2016 12:00pm
 summary: oregano blossomsp 
 tags: ["photo", "oregano", "flower", "macro", "photography"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/145111033223.jpg"/>
+<img src="../media/145111033223.jpg"/>
                                                                                           <div class="caption"><p>oregano blossoms</p> </div>
                                     
                 

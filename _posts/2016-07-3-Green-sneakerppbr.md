@@ -5,11 +5,7 @@ timestamp: July 3rd, 2016 12:00pm
 summary: Green sneakerppbrppa hrefhttpsenwikipediaorgwikiMisumenavatia targetblankhttpsenwikipediaorgwikiMisumenavatiaa
 tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]
 ---
-
-                
-                
-                
-                                                                                       <p>
+<p>
                                <img src="../media/146855380840_1.jpg"/>
                            </p>
                                                                                                                            <p>

@@ -5,11 +5,7 @@ timestamp: May 28th, 2016 12:00pm
 summary: Aspirationsp 
 tags: ["gba", "nintendo", "sonic", "idea", "art"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/145061451694.jpg"/>
+<img src="../media/145061451694.jpg"/>
                                                                                           <div class="caption"><p>Aspirations.</p> </div>
                                     
                 

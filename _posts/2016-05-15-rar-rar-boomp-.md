@@ -5,11 +5,7 @@ timestamp: May 15th, 2016 12:00pm
 summary: rar rar boomp 
 tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/144408396688.jpg"/>
+<img src="../media/144408396688.jpg"/>
                                                                                           <div class="caption"><p>rar rar boom!</p> </div>
                                     
                 

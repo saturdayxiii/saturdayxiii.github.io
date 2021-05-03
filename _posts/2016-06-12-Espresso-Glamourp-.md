@@ -5,11 +5,7 @@ timestamp: June 12th, 2016 12:00pm
 summary: Espresso Glamourp 
 tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/145813300168.jpg"/>
+<img src="../media/145813300168.jpg"/>
                                                                                           <div class="caption"><p>Espresso Glamour.</p> </div>
                                     
                 

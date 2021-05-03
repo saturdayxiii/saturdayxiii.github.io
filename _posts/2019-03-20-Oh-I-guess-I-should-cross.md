@@ -5,11 +5,7 @@ timestamp: March 20th, 2019 9:32am
 summary: Oh I guess I should cross post thisppAfter a month of hard work on an entry for a hrefhttpstumblrcomredirectzhttp3A2F2Fwwwthenew8Coming up with music that was actually listenable was probably my favorite part of the projectppPlease check out all the entries a hrefhttps
 tags: ["game", "animation", "design"]
 ---
-
-                
-                
-                
-                                                                                       <p>
+<p>
                                <img src="../media/183586901534_1.gif"/>
                            </p>
                                                                                                                            <p>

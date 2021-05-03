@@ -5,11 +5,7 @@ timestamp: July 1st, 2016 12:00pm
 summary: Facecamp 
 tags: ["snake", "pets", "photography"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/146761127860.jpg"/>
+<img src="../media/146761127860.jpg"/>
                                                                                           <div class="caption"><p>Facecam.</p> </div>
                                     
                 

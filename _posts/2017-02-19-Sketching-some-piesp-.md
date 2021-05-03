@@ -5,11 +5,7 @@ timestamp: February 19th, 2017 2:04pm
 summary: Sketching some piesp 
 tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/157453831474.jpg"/>
+<img src="../media/157453831474.jpg"/>
                                                                                           <div class="caption"><p>Sketching some pies.</p> </div>
                                     
                 

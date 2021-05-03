@@ -5,11 +5,7 @@ timestamp: January 16th, 2019 8:42am
 summary: A short tour of the painting process of the a hrefhttpheavyhandedcapost181056446837ps2casemodartworkofslycoopertemplated targetbla
 tags: ["art", "customizing", "ps2"]
 ---
-
-                
-                
-                
-                                                                                       <p>
+<p>
                                <img src="../media/182065813689_1.jpg"/>
                            </p>
                                                                                                                            <p>

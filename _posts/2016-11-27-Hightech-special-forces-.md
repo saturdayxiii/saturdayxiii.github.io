@@ -5,11 +5,7 @@ timestamp: November 27th, 2016 12:33pm
 summary: Hightech special forces Star Foxp 
 tags: ["painting", "acrylic", "Nintendo", "mgs", "konami", "art", "game"]
 ---
-
-                
-                
-                
-                                                                                        <img src="../media/153740564569.jpg"/>
+<img src="../media/153740564569.jpg"/>
                                                                                           <div class="caption"><p>High-tech special forces, Star Fox.</p> </div>
                                     
                 
