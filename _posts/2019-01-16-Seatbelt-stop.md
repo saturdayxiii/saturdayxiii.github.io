@@ -1,5 +1,6 @@
 ---
 type: post
+title: Seatbelt Stop
 timestamp: January 16th, 2019 9:26am
 tags: ["things"]
 ---
