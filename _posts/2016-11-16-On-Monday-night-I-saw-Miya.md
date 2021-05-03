@@ -4,7 +4,7 @@ timestamp: November 16th, 2016 4:02pm
 tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie"]
 ---
 post
-##Further topicless ramblings about select cartoons [journal]##
+## Further topicless ramblings about select cartoons [journal] ##
                     
 On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre.  So this is a follow up post to the one I’ve made in reaction to <a href="http://saturdayxiii.tumblr.com/post/151944972574/laputa-and-self-reflection-regarding-anime" target="_blank">Laputa: Castle in the Sky</a>.  I also thought it would be fun to attempt drawing in the dark theatre as the movie played.  So enjoy my renditions of certain “key” scenes.
 <figure data-orig-width="2841" data-orig-height="3958" class="tmblr-full"><img src="https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg" alt="image" data-orig-width="2841" data-orig-height="3958"/></figure>

@@ -4,7 +4,7 @@ timestamp: October 3rd, 2017 7:38am
 tags: ["brainstorm", "ideas"]
 ---
 post
-##Reincarnation Game first thoughts##
+## Reincarnation Game first thoughts ##
                     
 Using this space to develop game concept ideas.
 
@@ -13,9 +13,9 @@ A game with reincarnation as a mechanic.  The player doesn’t know at the star
   Compassion points are earned or lost during specific encounters of animals that are in need, and by how the player interacts with enemies.  Higher compassion points means that the player will get a character with increased movement abilities, faster, jumping, flying, etc.  Lower compassion points gets the player a character with slower, more restricted movement.  To the point of becoming a crawling grub with no abilities.  However there will be more chances to increase your compassion points while playing a restricted character (time based compassion events?).  By the end of the game, the world is destroyed and you become a star, no matter how you played. 
 
 Motivation will be the story and world exploration, as you will need a high movement character to keep up with characters, events, and reach certain locations.  Story characters should also remember player interactions and what animal the player was a the time of interaction.
-###Story###
+### Story ###
 Story is central to everything.  The story plays out regardless of player interaction, but the player should be rewarded for keeping up and seeking interaction with main characters.  Story enriching scenes could depend on a mix of time and compassion point restraints, while a more general story is presented to a player that takes their time or has less than ideal CP.  It may be an option to ignore the story entirely for players purposely playing “badly”.
-<ul><li>Needs to be events that will require interaction from player and characters will remember what the player does as well as what form the player is in.</li><li>characters should reference past player lives often</li><li>if the player performs well in game, characters will become more attached, and distraught should the player die.  Possibly effecting the story in key scenes.</li><li>slow player movement speed, or inability to jump/fly, will bar them from more detailed scenes and character development</li><li>option to follow different characters?</li><li>There should be some story benefits to being a character with restricted movements, for replayability sake.  Maybe a non interactive side story?</li></ul>###Mechanics:###
+<ul><li>Needs to be events that will require interaction from player and characters will remember what the player does as well as what form the player is in.</li><li>characters should reference past player lives often</li><li>if the player performs well in game, characters will become more attached, and distraught should the player die.  Possibly effecting the story in key scenes.</li><li>slow player movement speed, or inability to jump/fly, will bar them from more detailed scenes and character development</li><li>option to follow different characters?</li><li>There should be some story benefits to being a character with restricted movements, for replayability sake.  Maybe a non interactive side story?</li></ul>### Mechanics: ###
 I imagine isometric world, but that’s not especially important.
 
 The world should have lots of enemies and traps.  Platforming style gameplay. It should be very difficult to stay alive.  Defending yourself from an attacking enemy won’t effect your compassion points, but attacking an idle enemy will. 

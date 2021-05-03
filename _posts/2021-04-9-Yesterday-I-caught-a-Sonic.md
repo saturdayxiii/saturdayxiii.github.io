@@ -4,7 +4,7 @@ timestamp: April 9th, 2021 2:08pm
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 ---
 post
-
+##  ##
                     <figure class="tmblr-full tmblr-embed" data-provider="youtube" data-url="https://www.youtube.com/watch?v=hIo3Gi7Tn2A" data-orig-width="356" data-orig-height="200"><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/hIo3Gi7Tn2A?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 Yesterday I caught a Sonic Advance race on <a href="https://www.twitch.tv/gamesdonequick" target="_blank">GamesDoneQuick</a>.  It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how amazing it is.
 

@@ -52,10 +52,16 @@ for file in directory:
     date = re.sub("rd","-",date)
     date = re.sub(",","",date)
     #shift h tags
-    read_file = re.sub("<h2>","###",read_file)
-    read_file = re.sub("</h2>","###",read_file)
-    read_file = re.sub("<h1>","##",read_file)
-    read_file = re.sub("</h1>","##",read_file)
+    read_file = re.sub("<h2>","### ",read_file)
+    read_file = re.sub("</h2>"," ###",read_file)
+    read_file = re.sub("<h1>","## ",read_file)
+    read_file = re.sub("</h1>"," ##",read_file)
+    #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
+    post = "post"
+    if re.search("body>\s*<img",read_file):
+        post = "img"
+    if re.search("body>\s*<iframe",read_file):
+        post = "vid"
     #fix img urls
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
@@ -66,12 +72,7 @@ for file in directory:
     #fix video urls.  Do they need it? Yes.
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
     #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
-    #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
-    post = "post"
-    if re.search("body>\s*<img",read_file):
-        post = "img"
-    if re.search("body>\s*<iframe",read_file):
-        post = "vid"
+    #
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -111,10 +112,10 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '####'] # '####' needs to be before html for html to work, we'll add it later.
+    erases = ['<div>', '</div>', '####'] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
-    codebit = re.compile('<div class=".*">')
+    codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
     fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'

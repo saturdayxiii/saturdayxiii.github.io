@@ -4,7 +4,7 @@ timestamp: December 27th, 2018 2:44pm
 tags: ["review"]
 ---
 post
-##Red Crimes: Hidden Murders##
+## Red Crimes: Hidden Murders ##
                     
 I wanted to try out <a href="https://play.google.com/store/apps/details?id=com.gamaga.RedCrimesHM" target="_blank">Red Crimes: Hidden Murders</a> because it was produced by Discovery Channel’s forensic mystery channel thing; Identification Discovery, advertised somewhat real forensics, and it has very pretty artwork.<br/><br/>So I did, and unfortunately I have nothing special to report.  It’s a typical freemium game in the most generic way.
 <a href="https://66.media.tumblr.com/80371f10f451fcf3059e0f5261889e50/tumblr_inline_pkezw2gKyp1rnrp45_1280.jpg" target="_blank" alt="Red Crimes Hidden Murders Screenshot"><figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/80371f10f451fcf3059e0f5261889e50/tumblr_inline_pkezw2gKyp1rnrp45_540.jpg" alt="image" data-orig-width="500" data-orig-height="375"/></figure></a>

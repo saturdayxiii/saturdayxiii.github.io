@@ -4,7 +4,7 @@ timestamp: April 25th, 2012 11:25am
 tags: [""]
 ---
 post
-##.together.##
+## .together. ##
                     
 I got my first girlfriend and lost my virginity at the age of 25.  Being in this kind of minority might automatically make my feelings toward sex null and void for the average human but I think I've come to a certain clarity of something that I'm vulnerable to.
 
