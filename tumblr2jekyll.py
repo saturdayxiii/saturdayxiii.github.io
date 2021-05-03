@@ -1,7 +1,7 @@
 '''move these 2 lines
 to the first 2 lines
 !/usr/bin/python
- -*- coding: UTF-8 -*-'''
+-*- coding: UTF-8 -*-'''
 #all html showing up as a code block
 #convert links to []() format
 #youtube vids and media vids exist and need fixing
@@ -59,7 +59,7 @@ for file in directory:
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #
-    read_file = re.sub('<img src="../../','<img src="https://saturdayxiii.github.io/',read_file)
+    read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
     #gifs are different, see kvass post
     #fix video urls.  Do they need it? Yes.
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
