@@ -6,7 +6,9 @@ summary: Aspirationsp
 tags: ["gba", "nintendo", "sonic", "idea", "art"]
 ---
 <img src="../media/145061451694.jpg"/>
-                                                                                          <div class="caption"><p>Aspirations.</p> </div>
+                                                                                          <div class="caption">
+Aspirations.
+ 
                                     
                 
                 

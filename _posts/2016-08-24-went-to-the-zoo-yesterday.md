@@ -6,7 +6,9 @@ summary: went to the zoo yesterday buildingourzoop
 tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 ---
 <img src="../media/149423030176.gif"/>
-                                                                                          <div class="caption"><p>went to the zoo yesterday. @buildingourzoo</p> </div>
+                                                                                          <div class="caption">
+went to the zoo yesterday. @buildingourzoo
+ 
                                     
                 
                 

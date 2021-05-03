@@ -5,8 +5,10 @@ timestamp: October 26th, 2015 12:13pm
 summary: The word “healthy” should just be replaced with “won’t kill you quite as fast”
 tags: ["truth", "turth", "Thoughts"]
 ---
-####
-                    <p>The word “healthy” should just be replaced with “won’t kill you quite as fast.”</p>
+
+                    
+The word “healthy” should just be replaced with “won’t kill you quite as fast.”
+
                 
                 
                 

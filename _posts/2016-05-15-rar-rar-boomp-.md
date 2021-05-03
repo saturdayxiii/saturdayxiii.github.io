@@ -6,7 +6,9 @@ summary: rar rar boomp
 tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]
 ---
 <img src="../media/144408396688.jpg"/>
-                                                                                          <div class="caption"><p>rar rar boom!</p> </div>
+                                                                                          <div class="caption">
+rar rar boom!
+ 
                                     
                 
                 

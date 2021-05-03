@@ -6,7 +6,11 @@ summary: Sonic amp Knuckles keychainppa hrefhttpswwwthingiversecomthing4119050 t
 tags: [""]
 ---
 <img src="../media/190408289769.jpg"/>
-                                                                                          <div class="caption"><p>Sonic &amp; Knuckles keychain</p><p><a href="https://www.thingiverse.com/thing:4119050" target="_blank">https://www.thingiverse.com/thing:4119050</a><br/></p> </div>
+                                                                                          <div class="caption">
+Sonic &amp; Knuckles keychain
+
+<a href="https://www.thingiverse.com/thing:4119050" target="_blank">https://www.thingiverse.com/thing:4119050</a><br/>
+ 
                                     
                 
                 

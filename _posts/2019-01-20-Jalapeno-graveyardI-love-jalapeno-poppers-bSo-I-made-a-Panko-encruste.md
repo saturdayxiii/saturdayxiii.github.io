@@ -6,11 +6,17 @@ summary: Jalapeno graveyardI love jalapeno poppers but I’ll be damned if I’m
 tags: ["Edible", "jalapeno", "dip", "photography"]
 ---
 <img src="../media/182175873024.jpg"/>
-                                                                                          <div class="caption"><p>Jalapeno graveyard.</p>
+                                                                                          <div class="caption">
+Jalapeno graveyard.
 
-<p>I love jalapeno poppers, but I’ll be damned if I’m going to sit there and stuff peppers or pay $10 for a small frozen portion.</p>
 
-<p>So I made a Panko encrusted cheese dip for my delicious green goodies.</p> </div>
+
+I love jalapeno poppers, but I’ll be damned if I’m going to sit there and stuff peppers or pay $10 for a small frozen portion.
+
+
+
+So I made a Panko encrusted cheese dip for my delicious green goodies.
+ 
                                     
                 
                 

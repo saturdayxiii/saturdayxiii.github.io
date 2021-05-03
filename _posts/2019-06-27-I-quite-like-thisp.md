@@ -6,10 +6,14 @@ summary: I quite like this
 tags: ["sgdq2019", "art", "crayola"]
 ---
 <img src="../media/190407228749.jpg"/>
-                                                                                          <div class="caption"><p>I quite like this.</p><p>
+                                                                                          <div class="caption">
+I quite like this.
+
+
 Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019
 
-<br/></p> </div>
+<br/>
+ 
                                     
                 
                 

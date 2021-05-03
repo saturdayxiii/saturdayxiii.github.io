@@ -6,7 +6,9 @@ summary: Pollinate pollinate pollinatep
 tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"]
 ---
 <img src="../media/146807870671.gif"/>
-                                                                                          <div class="caption"><p>Pollinate, pollinate, pollinate.</p> </div>
+                                                                                          <div class="caption">
+Pollinate, pollinate, pollinate.
+ 
                                     
                 
                 

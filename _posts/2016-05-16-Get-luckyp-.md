@@ -6,7 +6,9 @@ summary: Get luckyp
 tags: ["photo", "lucky", "clover", "triplets", "photography"]
 ---
 <img src="../media/144461309383.jpg"/>
-                                                                                          <div class="caption"><p>Get lucky.</p> </div>
+                                                                                          <div class="caption">
+Get lucky.
+ 
                                     
                 
                 

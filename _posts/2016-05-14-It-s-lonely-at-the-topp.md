@@ -6,7 +6,9 @@ summary: It’s lonely at the topp
 tags: ["photo", "clouds", "flying", "sunset", "sunrise", "sky", "photography"]
 ---
 <img src="../media/144355354663.jpg"/>
-                                                                                          <div class="caption"><p>It’s lonely at the top.</p> </div>
+                                                                                          <div class="caption">
+It’s lonely at the top.
+ 
                                     
                 
                 

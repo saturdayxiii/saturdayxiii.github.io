@@ -6,7 +6,9 @@ summary: These days I’m always out of practice  And I can never draw spiders 
 tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustration", "art"]
 ---
 <img src="../media/152983433934.png"/>
-                                                                                          <div class="caption"><p>These days I’m always out of practice.  And I can never draw spiders accurately anyway.</p> </div>
+                                                                                          <div class="caption">
+These days I’m always out of practice.  And I can never draw spiders accurately anyway.
+ 
                                     
                 
                 

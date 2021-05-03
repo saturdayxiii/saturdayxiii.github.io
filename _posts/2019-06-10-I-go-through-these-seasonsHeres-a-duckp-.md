@@ -6,9 +6,13 @@ summary: I go through these seasons where I just got to createhellip anything  N
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
 ---
 <img src="../media/185510960669.jpg"/>
-                                                                                          <div class="caption"><p>I go through these seasons where I just got to create&hellip; anything.  Nothing ever seems to come from it, and I just end up getting stuck again, but still I got to do it.</p>
+                                                                                          <div class="caption">
+I go through these seasons where I just got to create&hellip; anything.  Nothing ever seems to come from it, and I just end up getting stuck again, but still I got to do it.
 
-<p>Here's a duck.</p> </div>
+
+
+Here's a duck.
+ 
                                     
                 
                 

@@ -6,7 +6,9 @@ summary: Inspired by DaDeO’s blackened tofu po’boy I attempted my own on a c
 tags: ["edible", "sandwich", "tofu", "food", "recommended", "photography"]
 ---
 <img src="../media/184230308926.jpg"/>
-                                                                                          <div class="caption"><p>Inspired by DaDeO’s blackened tofu po’boy I attempted my own on a croissant.  The tofu was more brown than blackened, but it was still good and my pan is ruined.</p> </div>
+                                                                                          <div class="caption">
+Inspired by DaDeO’s blackened tofu po’boy I attempted my own on a croissant.  The tofu was more brown than blackened, but it was still good and my pan is ruined.
+ 
                                     
                 
                 

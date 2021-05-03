@@ -6,7 +6,9 @@ summary: Slime cows medibang art slugs at Edmonton Albertap
 tags: ["medibang", "slugs", "edmonton", "art"]
 ---
 <a href="https://www.instagram.com/p/BanW2-1HFBN/ "></a>
-                                                                                          <div class="caption"><p>Slime cows #medibang #art #slugs (at Edmonton, Alberta)</p> </div>
+                                                                                          <div class="caption">
+Slime cows #medibang #art #slugs (at Edmonton, Alberta)
+ 
                                     
                 
                 

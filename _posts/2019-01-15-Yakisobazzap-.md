@@ -6,7 +6,9 @@ summary: Yakisobazzap
 tags: ["Edible", "food", "pizza"]
 ---
 <img src="../media/182050264469.jpg"/>
-                                                                                          <div class="caption"><p>Yakisoba'zza</p> </div>
+                                                                                          <div class="caption">
+Yakisoba'zza
+ 
                                     
                 
                 

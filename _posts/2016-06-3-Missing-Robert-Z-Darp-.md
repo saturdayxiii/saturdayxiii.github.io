@@ -6,7 +6,9 @@ summary: Missing Robert Z’Darp
 tags: ["painting", "digital", "art", "Movie"]
 ---
 <img src="../media/145363605283.jpg"/>
-                                                                                          <div class="caption"><p>Missing Robert Z’Dar</p> </div>
+                                                                                          <div class="caption">
+Missing Robert Z’Dar
+ 
                                     
                 
                 

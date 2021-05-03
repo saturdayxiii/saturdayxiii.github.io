@@ -6,11 +6,19 @@ summary: Step 2 Put it in everythingppStep 3  Kickstarter
 tags: ["advice", "Thoughts"]
 ---
 ##The Plan##
-                    <p>
+                    
 
-Step 1: Figure out how to levitate things with magnets.</p><p>Step 2: Put it in everything.</p><p>Step 3: ?????? (Kickstarter)</p><p>Step 4: Profit!
 
-<br/></p>
+Step 1: Figure out how to levitate things with magnets.
+
+Step 2: Put it in everything.
+
+Step 3: ?????? (Kickstarter)
+
+Step 4: Profit!
+
+<br/>
+
                 
                 
                 

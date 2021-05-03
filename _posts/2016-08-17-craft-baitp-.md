@@ -6,7 +6,9 @@ summary: craft baitp
 tags: ["flower", "photography", "macro"]
 ---
 <img src="../media/149087666693.jpg"/>
-                                                                                          <div class="caption"><p>craft bait.</p> </div>
+                                                                                          <div class="caption">
+craft bait.
+ 
                                     
                 
                 

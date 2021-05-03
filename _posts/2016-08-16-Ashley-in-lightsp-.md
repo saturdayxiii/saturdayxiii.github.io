@@ -6,7 +6,9 @@ summary: Ashley in lightsp
 tags: ["tarantula", "blacklight", "photography"]
 ---
 <img src="../media/149034981519.jpg"/>
-                                                                                          <div class="caption"><p>Ashley in lights.</p> </div>
+                                                                                          <div class="caption">
+Ashley in lights.
+ 
                                     
                 
                 

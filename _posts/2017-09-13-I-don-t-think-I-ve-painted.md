@@ -6,7 +6,9 @@ summary: I don’t think I’ve painted in a looong timep
 tags: ["sweetie", "painting", "edmonton", "art"]
 ---
 <img src="../media/165301193429.jpg"/>
-                                                                                          <div class="caption"><p>I don’t think I’ve painted in a looong time.</p> </div>
+                                                                                          <div class="caption">
+I don’t think I’ve painted in a looong time.
+ 
                                     
                 
                 

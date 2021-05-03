@@ -5,13 +5,19 @@ timestamp: October 28th, 2016 1:44pm
 summary: Between the the sheavesp 
 tags: ["spider", "arachnid", "macro", "photography"]
 ---
-<p>
+
+
                                <img src="../media/152434361519_1.jpg"/>
-                           </p>
-                                                                                                                           <p>
+                           
+
+                                                                                                                           
+
                                <img src="../media/152434361519_2.jpg"/>
-                           </p>
-                                                                                                                      <div class="caption"><p>Between the the sheaves.</p> </div>
+                           
+
+                                                                                                                      <div class="caption">
+Between the the sheaves.
+ 
                                     
                 
                 

@@ -6,7 +6,9 @@ summary: Birds Bear Arms were amazing at the Sewing Machine Factory yesterdayp
 tags: ["music", "concert", "event", "photography"]
 ---
 <img src="../media/183530324689.jpg"/>
-                                                                                          <div class="caption"><p>Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.</p> </div>
+                                                                                          <div class="caption">
+Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
+ 
                                     
                 
                 

@@ -6,7 +6,9 @@ summary: How about pixel aspen panelling pixelart  tile pyxeledit  at Edmonton A
 tags: ["pyxeledit", "tile", "pattern", "art"]
 ---
 <a href="https://www.instagram.com/p/BcGpv-inPfr/ "></a>
-                                                                                          <div class="caption"><p>How about pixel aspen panelling? #pixelart  #tile #pyxeledit  (at Edmonton, Alberta)</p> </div>
+                                                                                          <div class="caption">
+How about pixel aspen panelling? #pixelart  #tile #pyxeledit  (at Edmonton, Alberta)
+ 
                                     
                 
                 

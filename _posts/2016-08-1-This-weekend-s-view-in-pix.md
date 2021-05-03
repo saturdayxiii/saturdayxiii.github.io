@@ -6,7 +6,9 @@ summary: This weekend’s view in pixels  Zoom in recommended to see all the sq
 tags: ["lake", "dock", "yard", "art", "photography"]
 ---
 <img src="../media/148333815754.png"/>
-                                                                                          <div class="caption"><p>This weekend’s view in pixels.  Zoom in recommended to see all the squareness.</p> </div>
+                                                                                          <div class="caption">
+This weekend’s view in pixels.  Zoom in recommended to see all the squareness.
+ 
                                     
                 
                 

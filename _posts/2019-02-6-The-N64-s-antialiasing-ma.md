@@ -6,7 +6,9 @@ summary: The N64′s antialiasing makes it the least satisfying console to add R
 tags: ["nintendo", "rbg"]
 ---
 <img src="../media/182613913184.jpg"/>
-                                                                                          <div class="caption"><p>The N64′s anti-aliasing makes it the least satisfying console to add RBG capabilities to.</p> </div>
+                                                                                          <div class="caption">
+The N64′s anti-aliasing makes it the least satisfying console to add RBG capabilities to.
+ 
                                     
                 
                 

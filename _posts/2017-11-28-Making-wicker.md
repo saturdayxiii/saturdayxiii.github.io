@@ -6,8 +6,12 @@ summary: Making wicker
 tags: ["pixly", "edmonton", "pattern", "64x64", "16bit", "tile", "texture", "art"]
 ---
 <a href="https://www.instagram.com/p/BcEMnH2nrMF/ "></a>
-                                                                                          <div class="caption"><p>Making wicker</p>
-<p><a href="https://photos.app.goo.gl/2JFeziVRJUFJUxP52" target="_blank">Pattern Download</a></p> </div>
+                                                                                          <div class="caption">
+Making wicker
+
+
+<a href="https://photos.app.goo.gl/2JFeziVRJUFJUxP52" target="_blank">Pattern Download</a>
+ 
                                     
                 
                 

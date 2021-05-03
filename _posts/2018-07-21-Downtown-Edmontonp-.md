@@ -6,7 +6,9 @@ summary: Downtown Edmontonp
 tags: ["photography", "edmonton", "alberta", "street"]
 ---
 <img src="../media/182065701899.jpg"/>
-                                                                                          <div class="caption"><p>Downtown Edmonton</p> </div>
+                                                                                          <div class="caption">
+Downtown Edmonton
+ 
                                     
                 
                 

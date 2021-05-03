@@ -6,7 +6,9 @@ summary: Maybe somedayp
 tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 ---
 <img src="../media/145516013259.jpg"/>
-                                                                                          <div class="caption"><p>Maybe someday.</p> </div>
+                                                                                          <div class="caption">
+Maybe someday.
+ 
                                     
                 
                 

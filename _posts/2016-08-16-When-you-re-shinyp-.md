@@ -6,7 +6,9 @@ summary: When you’re shinyp
 tags: ["Spider", "macro", "photography"]
 ---
 <img src="../media/149038615983.jpg"/>
-                                                                                          <div class="caption"><p>When you’re shiny.</p> </div>
+                                                                                          <div class="caption">
+When you’re shiny.
+ 
                                     
                 
                 

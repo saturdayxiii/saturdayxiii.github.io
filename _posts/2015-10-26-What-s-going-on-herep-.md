@@ -6,7 +6,9 @@ summary: What’s going on herep
 tags: ["marle", "snes", "japanese", "games", "box", "art", "character"]
 ---
 <img src="../media/131960088469.jpg"/>
-                                                                                          <div class="caption"><p>What’s going on here?</p> </div>
+                                                                                          <div class="caption">
+What’s going on here?
+ 
                                     
                 
                 

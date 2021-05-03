@@ -6,7 +6,9 @@ summary: Always look at the bright side of the shellp
 tags: ["photo", "crab", "photography"]
 ---
 <img src="../media/144256891142.jpg"/>
-                                                                                          <div class="caption"><p>Always look at the bright side of the shell.</p> </div>
+                                                                                          <div class="caption">
+Always look at the bright side of the shell.
+ 
                                     
                 
                 

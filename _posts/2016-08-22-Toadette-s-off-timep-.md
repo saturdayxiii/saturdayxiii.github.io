@@ -6,7 +6,9 @@ summary: Toadette’s off timep
 tags: ["toadette", "game", "nintendo", "painting", "acrylic", "wii", "art"]
 ---
 <img src="../media/149328992985.jpg"/>
-                                                                                          <div class="caption"><p>Toadette’s off time.</p> </div>
+                                                                                          <div class="caption">
+Toadette’s off time.
+ 
                                     
                 
                 

@@ -6,7 +6,13 @@ summary: A Fancy Triopppa hrefhttpfavmeddb8ial targetblankhttpfavmeddb8ialabrppa
 tags: ["triops", "ibispaintx", "art"]
 ---
 <img src="../media/186155863744.png"/>
-                                                                                          <div class="caption"><p>A Fancy Triop.</p><p><a href="http://fav.me/ddb8ial" target="_blank">http://fav.me/ddb8ial</a><br/></p><p><a href="https://youtu.be/1jxa4Z3j7H8" target="_blank">https://youtu.be/1jxa4Z3j7H8</a><br/></p> </div>
+                                                                                          <div class="caption">
+A Fancy Triop.
+
+<a href="http://fav.me/ddb8ial" target="_blank">http://fav.me/ddb8ial</a><br/>
+
+<a href="https://youtu.be/1jxa4Z3j7H8" target="_blank">https://youtu.be/1jxa4Z3j7H8</a><br/>
+ 
                                     
                 
                 

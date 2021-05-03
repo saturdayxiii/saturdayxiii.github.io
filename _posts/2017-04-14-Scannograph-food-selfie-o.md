@@ -6,7 +6,9 @@ summary: Scannograph food selfie or whatever they call emp
 tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography"]
 ---
 <img src="../media/159572020123.png"/>
-                                                                                          <div class="caption"><p>Scannograph food selfie! or whatever they call em.</p> </div>
+                                                                                          <div class="caption">
+Scannograph food selfie! or whatever they call em.
+ 
                                     
                 
                 

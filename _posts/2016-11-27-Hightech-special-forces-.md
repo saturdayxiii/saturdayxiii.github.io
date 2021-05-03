@@ -6,7 +6,9 @@ summary: Hightech special forces Star Foxp
 tags: ["painting", "acrylic", "Nintendo", "mgs", "konami", "art", "game"]
 ---
 <img src="../media/153740564569.jpg"/>
-                                                                                          <div class="caption"><p>High-tech special forces, Star Fox.</p> </div>
+                                                                                          <div class="caption">
+High-tech special forces, Star Fox.
+ 
                                     
                 
                 

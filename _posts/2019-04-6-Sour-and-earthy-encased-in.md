@@ -6,7 +6,9 @@ summary: Sour and earthy encased in ruby  True to formp
 tags: ["Edible", "beer", "yeg", "townsquare", "beets"]
 ---
 <img src="../media/183999761984.jpg"/>
-                                                                                          <div class="caption"><p>Sour and earthy encased in ruby.  True to form.</p> </div>
+                                                                                          <div class="caption">
+Sour and earthy encased in ruby.  True to form.
+ 
                                     
                 
                 

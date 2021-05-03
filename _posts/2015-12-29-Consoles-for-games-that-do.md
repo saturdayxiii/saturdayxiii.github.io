@@ -6,7 +6,13 @@ summary: Consoles for games that don’t existppBat Hunt a hrefhttpswwwyoutubec
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
 ---
 <img src="../media/136184969694.jpg"/>
-                                                                                          <div class="caption"><p>Consoles for games that don’t exist.</p><p>Bat Hunt: <a href="https://www.youtube.com/watch?v=ntmhiRqTM_M" target="_blank">https://www.youtube.com/watch?v=ntmhiRqTM_M</a></p><p>Carbarian: <a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a></p> </div>
+                                                                                          <div class="caption">
+Consoles for games that don’t exist.
+
+Bat Hunt: <a href="https://www.youtube.com/watch?v=ntmhiRqTM_M" target="_blank">https://www.youtube.com/watch?v=ntmhiRqTM_M</a>
+
+Carbarian: <a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a>
+ 
                                     
                 
                 

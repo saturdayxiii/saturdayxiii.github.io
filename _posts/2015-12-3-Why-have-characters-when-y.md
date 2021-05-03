@@ -6,7 +6,9 @@ summary: Why have characters when you can have tropesp
 tags: ["gurumin", "anime", "japanese", "drawing", "painting", "art", "game"]
 ---
 <img src="../media/134502569594.png"/>
-                                                                                          <div class="caption"><p>Why have characters when you can have tropes?</p> </div>
+                                                                                          <div class="caption">
+Why have characters when you can have tropes?
+ 
                                     
                 
                 

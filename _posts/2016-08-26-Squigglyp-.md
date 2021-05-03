@@ -6,7 +6,9 @@ summary: Squigglyp
 tags: ["bug", "insect", "macro", "flower", "pollen", "photography"]
 ---
 <img src="../media/149516566940.jpg"/>
-                                                                                          <div class="caption"><p>Squiggly.</p> </div>
+                                                                                          <div class="caption">
+Squiggly.
+ 
                                     
                 
                 

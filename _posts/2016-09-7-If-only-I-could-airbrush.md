@@ -6,7 +6,9 @@ summary: If only I could airbrushp
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 ---
 <img src="../media/150081411419.png"/>
-                                                                                          <div class="caption"><p>If only I could airbrush.</p> </div>
+                                                                                          <div class="caption">
+If only I could airbrush.
+ 
                                     
                 
                 

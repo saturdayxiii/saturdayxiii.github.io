@@ -6,7 +6,9 @@ summary: When youre a muu you can have a castle too  O  O pets cornsnake  at Edm
 tags: ["pets", "photo", "edmonton", "photography"]
 ---
 <a href="https://www.instagram.com/p/BaZzs9xH1ih/ "></a>
-                                                                                          <div class="caption"><p>When you're a muu, you can have a castle too.  O . O #pets #cornsnake  (at Edmonton, Alberta)</p> </div>
+                                                                                          <div class="caption">
+When you're a muu, you can have a castle too.  O . O #pets #cornsnake  (at Edmonton, Alberta)
+ 
                                     
                 
                 

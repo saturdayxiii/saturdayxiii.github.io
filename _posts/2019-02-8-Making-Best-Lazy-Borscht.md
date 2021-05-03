@@ -5,13 +5,19 @@ timestamp: February 8th, 2019 1:58pm
 summary: Making Best Lazy Borschtp 
 tags: ["edible", "borscht"]
 ---
-<p>
+
+
                                <img src="../media/182664450609_1.jpg"/>
-                           </p>
-                                                                                                                           <p>
+                           
+
+                                                                                                                           
+
                                <img src="../media/182664450609_2.gif"/>
-                           </p>
-                                                                                                                      <div class="caption"><p>Making Best Lazy Borscht.</p> </div>
+                           
+
+                                                                                                                      <div class="caption">
+Making Best Lazy Borscht.
+ 
                                     
                 
                 

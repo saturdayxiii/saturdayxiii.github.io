@@ -6,7 +6,11 @@ summary: Thoughtspp a hrefhttpacryptozootumblrcompost163647622875mexorchestiaca
 tags: ["acryptozoo", "talitrid", "dress", "sketch", "illustration", "edmonton", "art"]
 ---
 <img src="../media/166054332554.png"/>
-                                                                                          <div class="caption"><p>Thoughts?</p><p>( <a href="http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county" target="_blank">http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county</a> )</p> </div>
+                                                                                          <div class="caption">
+Thoughts?
+
+( <a href="http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county" target="_blank">http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county</a> )
+ 
                                     
                 
                 

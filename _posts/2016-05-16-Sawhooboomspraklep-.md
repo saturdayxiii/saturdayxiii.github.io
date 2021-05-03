@@ -6,7 +6,9 @@ summary: Sawhooboomspraklep
 tags: ["fireworks", "hokkaido", "hanabi", "photography"]
 ---
 <img src="../media/144458734159.jpg"/>
-                                                                                          <div class="caption"><p>Sawhoo~boom-sprakle!</p> </div>
+                                                                                          <div class="caption">
+Sawhoo~boom-sprakle!
+ 
                                     
                 
                 

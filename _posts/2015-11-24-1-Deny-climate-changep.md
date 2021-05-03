@@ -6,7 +6,11 @@ summary: 1 Deny climate changepp2 Secretly prepare for zombie apocalypse
 tags: ["hypocrisy", "Thoughts"]
 ---
 ##I’ve noticed something.##
-                    <p>1. Deny climate change.</p><p>2. Secretly prepare for zombie apocalypse.</p>
+                    
+1. Deny climate change.
+
+2. Secretly prepare for zombie apocalypse.
+
                 
                 
                 

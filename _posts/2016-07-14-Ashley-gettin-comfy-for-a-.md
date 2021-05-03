@@ -6,7 +6,9 @@ summary: Ashley gettin comfy for a moltp
 tags: ["tarantula", "shed", "insect", "photography"]
 ---
 <img src="../media/147403431858.jpg"/>
-                                                                                          <div class="caption"><p>Ashley gettin comfy for a molt.</p> </div>
+                                                                                          <div class="caption">
+Ashley gettin comfy for a molt.
+ 
                                     
                 
                 

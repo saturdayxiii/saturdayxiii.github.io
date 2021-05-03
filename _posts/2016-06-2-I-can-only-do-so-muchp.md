@@ -6,7 +6,9 @@ summary: I can only do so muchp
 tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography"]
 ---
 <img src="../media/145314581795.jpg"/>
-                                                                                          <div class="caption"><p>I can only do so much.</p> </div>
+                                                                                          <div class="caption">
+I can only do so much.
+ 
                                     
                 
                 

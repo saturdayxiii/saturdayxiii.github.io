@@ -6,7 +6,9 @@ summary: I breathe through my butt yes I dop
 tags: ["pillbug", "macro", "photography"]
 ---
 <img src="../media/149135903859.jpg"/>
-                                                                                          <div class="caption"><p>I breathe through my butt, yes I do.</p> </div>
+                                                                                          <div class="caption">
+I breathe through my butt, yes I do.
+ 
                                     
                 
                 

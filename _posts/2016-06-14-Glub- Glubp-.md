@@ -6,7 +6,9 @@ summary: Glub  Glubp
 tags: ["photo", "fish", "frog", "underwater", "aquarium", "photography"]
 ---
 <img src="../media/145918742144.jpg"/>
-                                                                                          <div class="caption"><p>Glub.  Glub.</p> </div>
+                                                                                          <div class="caption">
+Glub.  Glub.
+ 
                                     
                 
                 

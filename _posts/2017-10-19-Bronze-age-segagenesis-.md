@@ -6,7 +6,9 @@ summary: Bronze age segagenesis consolemod casemod videogames  at Edmonton Alber
 tags: ["segagenesis", "consolemod", "photo", "edmonton", "art"]
 ---
 <a href="https://www.instagram.com/p/Bac4PsuHfln/ "></a>
-                                                                                          <div class="caption"><p>Bronze age. #segagenesis #consolemod #casemod #videogames  (at Edmonton, Alberta)</p> </div>
+                                                                                          <div class="caption">
+Bronze age. #segagenesis #consolemod #casemod #videogames  (at Edmonton, Alberta)
+ 
                                     
                 
                 

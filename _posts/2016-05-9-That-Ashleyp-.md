@@ -6,7 +6,9 @@ summary: That Ashleyp
 tags: ["tarantula", "spider", "cute", "eyes", "macro", "gif", "photography"]
 ---
 <img src="../media/144101661784.gif"/>
-                                                                                          <div class="caption"><p>That Ashley.</p> </div>
+                                                                                          <div class="caption">
+That Ashley.
+ 
                                     
                 
                 

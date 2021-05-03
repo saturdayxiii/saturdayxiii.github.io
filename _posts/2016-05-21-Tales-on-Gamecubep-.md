@@ -6,7 +6,9 @@ summary: Tales on Gamecubep
 tags: ["photography", "photo", "painting", "gamecube", "nintendo", "symphonia", "mod", "art", "game"]
 ---
 <img src="../media/144710201771.jpg"/>
-                                                                                          <div class="caption"><p>Tales on Gamecube.</p> </div>
+                                                                                          <div class="caption">
+Tales on Gamecube.
+ 
                                     
                 
                 

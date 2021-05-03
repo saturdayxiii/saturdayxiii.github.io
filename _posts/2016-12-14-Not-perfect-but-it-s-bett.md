@@ -6,7 +6,9 @@ summary: Not perfect but it’s better than the coffee tablep
 tags: ["frame", "controllers", "xbox", "organizing", "organization", "framing"]
 ---
 <img src="../media/154473092964.jpg"/>
-                                                                                          <div class="caption"><p>Not perfect, but it’s better than the coffee table.</p> </div>
+                                                                                          <div class="caption">
+Not perfect, but it’s better than the coffee table.
+ 
                                     
                 
                 

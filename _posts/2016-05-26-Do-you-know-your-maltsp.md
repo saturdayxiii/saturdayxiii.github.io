@@ -6,7 +6,9 @@ summary: Do you know your maltsp
 tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]
 ---
 <img src="../media/144964873176.jpg"/>
-                                                                                          <div class="caption"><p>Do you know your malts?</p> </div>
+                                                                                          <div class="caption">
+Do you know your malts?
+ 
                                     
                 
                 
