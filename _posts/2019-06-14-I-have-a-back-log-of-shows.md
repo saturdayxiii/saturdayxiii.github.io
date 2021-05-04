@@ -16,8 +16,7 @@ I felt the feels for Sam’s reading of Paige’s speech, but I don’t have a g
 
 I love where the relationships are going.  I also hate Elsa, if that’s by design then cudos to the writers.  
 
-This show regularly has me asking questions, particularly about accuracy, which I don’t consider a good thing, but the show wins in so many ways I think it’s worthy of treading the territory without too much condemnation.  Overall I want to know how representative is Sam, really?  He is very functioning and expressive compared to his fellow support group members, whom I ignorantly consider to be better representations. Would the show have the same impact if any of them were the main characters instead?
-
+This show regularly has me asking questions, particularly about accuracy, which I don’t consider a good thing, but the show wins in so many ways I think it’s worthy of treading the territory without too much condemnation.  Overall I want to know how representative is Sam, really\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)>
 In particular to this episode, and maybe it’s because I watched in in isolation, having took a few weeks break since watching the second last episode, but I don’t find Cassey and Izzie’s relationship very believable.  At least not in the way it’s been written.  It was just too sudden.  Assuming I didn't flat out miss the signs (very possible), but they were both pretty heterotypical until they randomly kissed.  Now Casey shares stories of her newly developed sexual experiences involving her boyfriend with an uncomfortable Izzie who gains support by holding hands.  I have no problem with this outcome, I think the characters even had groundwork laid for it, but I didn’t see that groundwork actually grow.  It just seemed to happen because that’s the way it always happens on TV, or netflix, or whatever.
 
 But I guess I should trust the writers a little.  Elsa’s affair had the same lack of backing, but its become pretty well established that her character has a petty duality.  The writing strikes me as really sophisticated to have developed her as subtly and consistently as it has.  Maybe I don’t need to judge this as sharply as other shows and perhaps I’ll learn some qualities about these characters that I didn't notice at first.
@@ -30,5 +29,15 @@ Heck, now having worked through some of these thoughts, I have a greater appreci
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> June 14th, 2019 12:40pm </span>
+                                                          <span class="tag">netflix</span>
+                                          <span class="tag">atypical</span>
+                                          <span class="tag">show</span>
+                                          <span class="tag">recommended</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/185591786294</small>

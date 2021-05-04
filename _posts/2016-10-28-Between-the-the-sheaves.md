@@ -22,5 +22,15 @@ Between the the sheaves.
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> October 28th, 2016 1:44pm </span>
+                                                          <span class="tag">spider</span>
+                                          <span class="tag">arachnid</span>
+                                          <span class="tag">macro</span>
+                                          <span class="tag">photography</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/152434361519</small>

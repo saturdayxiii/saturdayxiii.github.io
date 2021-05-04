@@ -24,5 +24,14 @@ NN hadn’t changed at all since my girlfriend and I saw them while on our first
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> December 1st, 2018 12:28am </span>
+                                                          <span class="tag">edmonton music</span>
+                                          <span class="tag">concert</span>
+                                          <span class="tag">music</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/181058091284</small>

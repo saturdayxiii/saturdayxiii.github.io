@@ -19,5 +19,17 @@ Unfortunately Tig reminds me a lot of Brent Butt when he always seemed to star i
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> January 15th, 2019 9:02pm </span>
+                                                          <span class="tag">show</span>
+                                          <span class="tag">one mississippi</span>
+                                          <span class="tag">tig notaro</span>
+                                          <span class="tag">amazon</span>
+                                          <span class="tag">prime video</span>
+                                          <span class="tag">recommended</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/182048488999</small>

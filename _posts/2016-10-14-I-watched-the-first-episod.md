@@ -4,7 +4,7 @@ timestamp: October 14th, 2016 12:53pm
 tags: ["opinion", "tv", "show"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)></iframe>                    
                                             
 I watched the first episode of Channel Zero and I’m intrigued.
 
@@ -22,5 +22,16 @@ Having typed this out, I am less optimistic as to what the show realistically ha
 
 Despite my tone and concerns, I am optimistic and I aim to enjoy whatever is presented until it either pays off, or until I simply can’t.
  
+                                                    <div id="footer">
+                <span id="timestamp"> October 14th, 2016 12:53pm </span>
+                                                          <span class="tag">opinion</span>
+                                          <span class="tag">tv</span>
+                                          <span class="tag">show</span>
+                                          <span class="tag">Candle cove</span>
+                                          <span class="tag">Creepy pasta</span>
                                                     
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/151803373179</small>

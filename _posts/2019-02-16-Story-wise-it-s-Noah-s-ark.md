@@ -10,18 +10,23 @@ img
 
 The A E S T H I T I C of <a href="https://store.steampowered.com/app/493710/Laraan/" target="_blank">Laraan</a> makes if very difficult to tell how far away things are, which is a bad thing for platforming. There's also very floaty hit detection, like hit boxes are a ways outside of the physical objects; and the camera, which controls like it's buoyantly moving through jelly, frequently jumps up close to the character which doesn’t let you see what's in front of you. 
 <figure data-orig-width="500" data-orig-height="339" class="tmblr-full"><img src="https://64.media.tumblr.com/44f5fac3b2993827cf28ae41667330fc/tumblr_inline_pn1yntEaV31rnrp45_540.gif" alt="image" data-orig-width="500" data-orig-height="339"/></figure>
-Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone, now bring me shiny things or die trying.”  There’s visual elements of a backstory, but what am I supposed to feel?  My only goal is to get shiny things.  Am I trying to please this menacing god?
-
-  Do I care for revenge?
-
-  Maybe my real motivation is just to find more sweet hover bikes that explode when rocks look at them funny.  Not a lot going on here for a game that performs so frustratingly.
-
-<br/>
+Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone, now bring me shiny things or die trying.”  There’s visual elements of a backstory, but what am I supposed to feel\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)>
 <figure data-orig-width="500" data-orig-height="400" class="tmblr-full"><img src="https://64.media.tumblr.com/38dff7f0616f3a96cceea172a6c5afe5/tumblr_inline_pn1yutYMAs1rnrp45_540.gif" alt="image" data-orig-width="500" data-orig-height="400"/></figure> 
                                     
                 
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> February 16th, 2019 8:49pm </span>
+                                                          <span class="tag">game</span>
+                                          <span class="tag">review</span>
+                                          <span class="tag">not recommended</span>
+                                          <span class="tag">laraan</span>
+                                          <span class="tag">video game</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/182860107679</small>

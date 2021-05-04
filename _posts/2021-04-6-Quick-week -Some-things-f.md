@@ -47,5 +47,18 @@ Quick week.  Some things feel better, other things feel drastically worse.  Bi
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> April 6th, 2021 11:21pm </span>
+                                                          <span class="tag">art</span>
+                                          <span class="tag">sketch</span>
+                                          <span class="tag">progress</span>
+                                          <span class="tag">ink</span>
+                                          <span class="tag">practise</span>
+                                          <span class="tag">portrait</span>
+                                          <span class="tag">marker</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/647781832275984384</small>

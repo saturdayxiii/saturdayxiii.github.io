@@ -37,5 +37,22 @@ Look!  It’s PokePark on the Wii!
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> December 17th, 2015 6:27pm </span>
+                                                          <span class="tag">pokepark</span>
+                                          <span class="tag">pokemon</span>
+                                          <span class="tag">nintendo</span>
+                                          <span class="tag">wii</span>
+                                          <span class="tag">console</span>
+                                          <span class="tag">mod</span>
+                                          <span class="tag">console mod</span>
+                                          <span class="tag">engraving</span>
+                                          <span class="tag">paint</span>
+                                          <span class="tag">pikachu</span>
+                                          <span class="tag">art</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/135414361959</small>

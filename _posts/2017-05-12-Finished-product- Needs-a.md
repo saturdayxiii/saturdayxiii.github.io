@@ -37,5 +37,18 @@ Finished product.  Needs a bit of improvement: a couple inches wider, lost some
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> May 12th, 2017 1:41pm </span>
+                                                          <span class="tag">tarantula</span>
+                                          <span class="tag">tank</span>
+                                          <span class="tag">cage</span>
+                                          <span class="tag">spider</span>
+                                          <span class="tag">habitat</span>
+                                          <span class="tag">arachnid</span>
+                                          <span class="tag">pets</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/160594157914</small>

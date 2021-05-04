@@ -13,5 +13,30 @@ Showing off some mods and selling a few lesser wares this weekend at the Classic
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> November 23rd, 2016 9:44pm </span>
+                                                          <span class="tag">cvgc</span>
+                                          <span class="tag">Console mod</span>
+                                          <span class="tag">controller</span>
+                                          <span class="tag">paint</span>
+                                          <span class="tag">custom</span>
+                                          <span class="tag">metallic</span>
+                                          <span class="tag">convention</span>
+                                          <span class="tag">edmonton</span>
+                                          <span class="tag">alberta</span>
+                                          <span class="tag">nait</span>
+                                          <span class="tag">retro</span>
+                                          <span class="tag">championships</span>
+                                          <span class="tag">classic</span>
+                                          <span class="tag">sega</span>
+                                          <span class="tag">ninetendo</span>
+                                          <span class="tag">nes</span>
+                                          <span class="tag">snes</span>
+                                          <span class="tag">gens</span>
+                                          <span class="tag">video game</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/153587983579</small>

@@ -13,5 +13,18 @@ Yay!  Having a long stay at Beercade for the Twitch meetup and they put out art 
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> June 15th, 2019 4:27pm </span>
+                                                          <span class="tag">Yeg</span>
+                                          <span class="tag">beercade</span>
+                                          <span class="tag">Nintendo</span>
+                                          <span class="tag">Mario</span>
+                                          <span class="tag">Mario Kart</span>
+                                          <span class="tag">art</span>
+                                          <span class="tag">pencil crayons</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/185617874449</small>

@@ -4,7 +4,7 @@ timestamp: March 29th, 2021 1:26pm
 tags: ["recommended", "movie", "thoughts", "cinema"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)></iframe>                    
                                             
 I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
 
@@ -18,5 +18,16 @@ Having clear themes and intentions decided in the beginning of production allowe
 
 I’d be interested in taking an exhaustive look at one of the many films of the 2010 era that clearly had a poor time reinforcing theme, and see what can be gleamed of the clarity and intention put forth by their creators.
  
+                                                    <div id="footer">
+                <span id="timestamp"> March 29th, 2021 1:26pm </span>
+                                                          <span class="tag">recommended</span>
+                                          <span class="tag">movie</span>
+                                          <span class="tag">thoughts</span>
+                                          <span class="tag">blair witch project</span>
+                                          <span class="tag">cinema</span>
                                                     
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/647019646909841408</small>

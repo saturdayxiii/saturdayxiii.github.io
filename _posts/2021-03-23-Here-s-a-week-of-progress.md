@@ -66,5 +66,18 @@ I really think I’m on to something with these small 20 minute projects.  At l
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> March 23rd, 2021 10:15pm </span>
+                                                          <span class="tag">art</span>
+                                          <span class="tag">thoughts</span>
+                                          <span class="tag">progress</span>
+                                          <span class="tag">portrait</span>
+                                          <span class="tag">sketch</span>
+                                          <span class="tag">ink</span>
+                                          <span class="tag">art practice</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/646509339504443392</small>

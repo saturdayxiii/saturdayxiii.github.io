@@ -10,7 +10,7 @@ Yesterday I saw Castle in the Sky at my local Theatre.<br/>
 
 I’ve gone to the theatre to see a couple Studio Ghibli films, as well as a select few other anime movies, and each time it poises a small conundrum for me; I can’t stand anime, but I enjoy seeing these films.
 
-I’ve felt this way for about half a decade now, but for the rest of my life I’ve adored anime.  I was raised on Wizard of Oz, Bumpety-Boo, Mrs. Spoon, and regularly demanded that <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPbSIsDRiuTw&amp;t=ZWE0M2M3YjUyY2NmNjRmYmRiMDAwOTNjOTA1YjcwYzkzNGIwODEwZSxFQTAzVlRCcw%3D%3D&amp;b=t%3A4Dx-RtxNVkeJxeOPkCZIPA&amp;m=1" target="_blank">Serendipity the Pink Dragon</a> be rented for me.  Once I was old enough to recognize “anime” as a branding term I wholeheartedly subscribed to the otaku way.  Now, however, I can’t make it 3 episodes into any new anime without getting angry.  Nor can I dedicate time to my previous favorites without getting bored. So when I opt to pay money to watch a film in theatre and find myself being entertained it’s confusing.
+I’ve felt this way for about half a decade now, but for the rest of my life I’ve adored anime.  I was raised on Wizard of Oz, Bumpety-Boo, Mrs. Spoon, and regularly demanded that <a href="http://t.umblr.com/redirect\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)>Serendipity the Pink Dragon</a> be rented for me.  Once I was old enough to recognize “anime” as a branding term I wholeheartedly subscribed to the otaku way.  Now, however, I can’t make it 3 episodes into any new anime without getting angry.  Nor can I dedicate time to my previous favorites without getting bored. So when I opt to pay money to watch a film in theatre and find myself being entertained it’s confusing.
 
 Studio Ghibli is not exempt from the things I think I hate about anime.  Their films are rife with recycled voice actors, swap-able soundtracks, repeating character designs, and reoccurring personalities.  While I am safe from nose-picking heroes riddled with inner turmoil, and obligatory panty jokes, the stories of Ghibli movies are some of the least dynamic I’ve ever seen (you’d think that they made these movies for children, or something), and don’t let that message of environmentalism hit you too hard on the way through.  Yet when they come to my local big screen, I look forward to participating in the experience.
 
@@ -24,5 +24,22 @@ So, I went and saw Laputa: Castle in the Sky yesterday.  The artwork was wonder
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> October 17th, 2016 2:07pm </span>
+                                                          <span class="tag">studio ghibli</span>
+                                          <span class="tag">anime</span>
+                                          <span class="tag">animation</span>
+                                          <span class="tag">disney</span>
+                                          <span class="tag">laputa</span>
+                                          <span class="tag">castle in the sky</span>
+                                          <span class="tag">review</span>
+                                          <span class="tag">opinion</span>
+                                          <span class="tag">journal</span>
+                                          <span class="tag">Thoughts</span>
+                                          <span class="tag">movie</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/151944972574</small>

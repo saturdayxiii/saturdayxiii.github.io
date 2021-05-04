@@ -4,8 +4,8 @@ timestamp: April 9th, 2021 2:08pm
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 ---
 post
-##  ##
-                    <figure class="tmblr-full tmblr-embed" data-provider="youtube" data-url="https://www.youtube.com/watch?v=hIo3Gi7Tn2A" data-orig-width="356" data-orig-height="200"><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/hIo3Gi7Tn2A?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+
+                    \[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\) data-orig-width="356" data-orig-height="200"><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/hIo3Gi7Tn2A\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)></iframe></figure>
 Yesterday I caught a Sonic Advance race on <a href="https://www.twitch.tv/gamesdonequick" target="_blank">GamesDoneQuick</a>.  It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how amazing it is.
 
 Maybe "under appreciated" is the wrong term, perhaps its too accepted.  Not controversial enough.  Sonic is a huge brand, so even though the Advance games are an offshoot, there is still a huge amount of people who have played them, and I'm under the impression that the majority have enjoyed it.  But when people speculate, albeit less so since Sonic Mania, how Sonic games haven't really improved since the Genesis days, Sonic Advance is still regularly overlooked.
@@ -20,5 +20,20 @@ Anyway, here's an old vid by the Geek Critique which I don't agree with, but he 
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> April 9th, 2021 2:08pm </span>
+                                                          <span class="tag">sonic the hedgehog</span>
+                                          <span class="tag">sonic advance 2</span>
+                                          <span class="tag">sonic team</span>
+                                          <span class="tag">dimps</span>
+                                          <span class="tag">recommended</span>
+                                          <span class="tag">show</span>
+                                          <span class="tag">games</span>
+                                          <span class="tag">gaming</span>
+                                          <span class="tag">Youtube</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/648018812796600320</small>

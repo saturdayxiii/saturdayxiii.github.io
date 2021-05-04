@@ -13,5 +13,14 @@ Reach out and touch something. (at Edmonton, Alberta)
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> November 21st, 2017 6:37pm </span>
+                                                          <span class="tag">photo</span>
+                                          <span class="tag">edmonton</span>
+                                          <span class="tag">photography</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/167752516689</small>

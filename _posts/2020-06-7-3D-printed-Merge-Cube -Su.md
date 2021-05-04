@@ -13,5 +13,13 @@ img
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> June 7th, 2020 10:29pm </span>
+                                                          <span class="tag">3D Printing</span>
+                                          <span class="tag">video games</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/620327675644592128</small>

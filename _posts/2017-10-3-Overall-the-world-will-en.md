@@ -20,5 +20,15 @@ Possible main characters and story angles:
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> October 3rd, 2017 12:33pm </span>
+                                                          <span class="tag">game development</span>
+                                          <span class="tag">story</span>
+                                          <span class="tag">sketch</span>
+                                          <span class="tag">brainstorm</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/166013183424</small>

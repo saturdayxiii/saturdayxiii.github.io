@@ -12,8 +12,7 @@ I prize ease of use, but also wanted to try something I haven’t before, so aft
 
 The desktop is a different beast.  It’s a hodge podge of an AMD FX6200 processor, Nvidia 1060 video card, and an M-Audio analogue soundcard.  With such a configuration I thought it best to try out the most supported and convenient distribution: Ubuntu 16 LTS.  What a load.
 
-It seems like nothing has changed since 10 years ago.  It took 8 attempts to get the OS to install properly, the default video driver did next to nothing for my card (to be expected, honestly), and my soundcard was recognized, but I had to install extra software to unmute it.  What?  It’s been nearly a week of configuring and I've barely gotten any of my main programs installed because absolutely nothing has worked through the Software Center.  At least with Manjaro I only had to Google for the software I wanted and not have to explore 4 or 5 forums worth of troubleshooting.
-
+It seems like nothing has changed since 10 years ago.  It took 8 attempts to get the OS to install properly, the default video driver did next to nothing for my card (to be expected, honestly), and my soundcard was recognized, but I had to install extra software to unmute it.  What\[!\[thumbnail\]\(http://i3.ytimg.com/vi//maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\)>
 I’ve started writing this rather prematurely, because I don’t have a solution, nor have I given up yet.  What does work in Ubuntu works very well, so I’m  going try a few more things before exploring other options.  I like Manjaro on my laptop, so on that level Arch Linux sounds good for my desktop, but that’s a joke if I can’t even handle configuring Ubuntu.  Manjaro was such a great experience, but Ubuntu is supposed to be the more “beginner friendly” distribution.  It’s possible that my AMD/Nvidia combo-ed desktop is just going to make things an uphill battle no matter what.  But, sheesh, even having tasted a broken Ubuntu, I’m not looking forward to being stuck with “Windoze” again.
 
                 
@@ -22,5 +21,23 @@ I’ve started writing this rather prematurely, because I don’t have a solutio
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> July 12th, 2017 12:38pm </span>
+                                                          <span class="tag">linux</span>
+                                          <span class="tag">ubuntu</span>
+                                          <span class="tag">manjaro</span>
+                                          <span class="tag">arch</span>
+                                          <span class="tag">os</span>
+                                          <span class="tag">operating system</span>
+                                          <span class="tag">rant</span>
+                                          <span class="tag">journal</span>
+                                          <span class="tag">windows</span>
+                                          <span class="tag">computers</span>
+                                          <span class="tag">n00b</span>
+                                          <span class="tag">Thoughts</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/162908189184</small>

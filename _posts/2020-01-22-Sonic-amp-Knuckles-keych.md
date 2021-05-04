@@ -15,5 +15,15 @@ Sonic &amp; Knuckles keychain
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> January 22nd, 2020 2:01pm </span>
+                                                          <span class="tag">sonic the hedgehog</span>
+                                          <span class="tag">3D Printing</span>
+                                          <span class="tag">sonic 3</span>
+                                          <span class="tag">sonic &amp; knuckles</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/190408289769</small>

@@ -13,5 +13,16 @@ I'm down with the Dragon Series, but unfortunately, half the time, my tongue is 
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> April 6th, 2019 1:11pm </span>
+                                                          <span class="tag">Alleykat</span>
+                                          <span class="tag">yeg</span>
+                                          <span class="tag">edible</span>
+                                          <span class="tag">beer</span>
+                                          <span class="tag">Denali</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/183992026209</small>

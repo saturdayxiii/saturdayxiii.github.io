@@ -26,5 +26,17 @@ Green sneaker.
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> July 3rd, 2016 12:00pm </span>
+                                                          <span class="tag">arachnid</span>
+                                          <span class="tag">spider</span>
+                                          <span class="tag">macro</span>
+                                          <span class="tag">camoflauge</span>
+                                          <span class="tag">misumena vatia</span>
+                                          <span class="tag">photography</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/146855380840</small>

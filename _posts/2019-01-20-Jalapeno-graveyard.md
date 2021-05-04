@@ -21,5 +21,15 @@ So I made a Panko encrusted cheese dip for my delicious green goodies.
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> January 20th, 2019 5:04pm </span>
+                                                          <span class="tag">Edible</span>
+                                          <span class="tag">jalapeno</span>
+                                          <span class="tag">dip</span>
+                                          <span class="tag">photography</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/182175873024</small>

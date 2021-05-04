@@ -62,6 +62,8 @@ for file in directory:
         post = "img"
     if re.search("body>\s*<iframe",read_file):
         post = "vid"
+    if re.search('body>\s*<figure class="tmblr-full tmblr-embed"',read_file):
+        post = "vid"
     #fix img urls
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
@@ -72,7 +74,8 @@ for file in directory:
     #fix video urls.  Do they need it? Yes.
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
     #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
-    #
+    #what was I doing? try this
+    read_file = re.sub('<figure class[^>]*youtube.com.*?=(.+?)"|\?[^>]*','\[!\[thumbnail\]\(http://i3.ytimg.com/vi/\1/maxresdefault.jpg\)\]\(https://www.youtube.com/watch\?v=\1\)',read_file)
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -81,8 +84,10 @@ for file in directory:
     read_file = re.sub("&ldquo;",'"',read_file)#adding these quotes replacements
     read_file = re.sub("&rdquo;",'"',read_file)#suddenly added / to quotes... what...  non-ascii is visible when "print"-ed.
     #get title - do after text corrections, but before html remove
-    title = re.findall('<p>(\w.{0,25}).*<', read_file)
-    title = ''.join(title)
+    titlelong = re.findall('<p>(\w.{0,25}).*?<', read_file)
+    titlelong.append('')
+    titleless = titlelong[0]
+    title = ''.join(titleless)
     punc = '''!()-[]{};:'"\,<>./?@#$%^&*_=~`'''
     no_punc = ""
     for char in title:
@@ -93,7 +98,9 @@ for file in directory:
     date += no_punc
     #date is now title I guess
     #make a summary
-    summ1 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
+    summ2 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
+    summ2.append('')
+    summ1 = summ2[0]
     summ1 = ''.join(summ1)
     summ = ""
     for char in summ1:
@@ -108,11 +115,13 @@ for file in directory:
     head = re.match('^.*<body>\s+',read_file, re.DOTALL)
     read_file = re.sub(head.group(0),"",read_file)
     foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
-    read_file = re.sub(foot.group(1),"",read_file)
+    #print (foot)
+    #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
+    read_file = re.sub('<div id="footer">.*$','',read_file)
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '####'] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
+    erases = ['<div>', '</div>', '##  ##'] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')

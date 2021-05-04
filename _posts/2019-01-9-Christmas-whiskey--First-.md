@@ -17,5 +17,16 @@ It came with a custom glass! Which has fast become a favorite of mine.  Fat bott
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> January 9th, 2019 6:40pm </span>
+                                                          <span class="tag">Alcohol</span>
+                                          <span class="tag">whiskey</span>
+                                          <span class="tag">knob Creek</span>
+                                          <span class="tag">glassware</span>
+                                          <span class="tag">edible</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/181884034944</small>

@@ -26,5 +26,11 @@ That's unfair.  She's the love of my life.  She feels awful because I feel thi
                 
                 
                 
+                                <div id="footer">
+                <span id="timestamp"> April 25th, 2012 11:25am </span>
                                 
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/21789806557</small>

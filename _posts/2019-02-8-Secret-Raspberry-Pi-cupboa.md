@@ -17,5 +17,16 @@ I’m super happy to find an <a href="https://www.aliexpress.com/item/Raspberry-
                 
                 
                 
-                                
+                                <div id="footer">
+                <span id="timestamp"> February 8th, 2019 7:48pm </span>
+                                                          <span class="tag">Raspberry Pi</span>
+                                          <span class="tag">cloud computer</span>
+                                          <span class="tag">small technology</span>
+                                          <span class="tag">product</span>
+                                          <span class="tag">purchase</span>
+                                                    
+            </body>
+        </html>
+
+        
 <small>source: https://saturdayxiii.tumblr.com/post/182671455654</small>
