@@ -15,14 +15,5 @@ I hope you can hear it.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> January 16th, 2020 10:23am </span>
-                                                          <span class="tag">petscop</span>
-                                          <span class="tag">3D Printing</span>
-                                          <span class="tag">garalina</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/190292235709</small>

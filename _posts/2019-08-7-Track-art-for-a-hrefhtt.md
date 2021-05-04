@@ -52,16 +52,5 @@ Track art for <a href="https://saturdayxiii.bandcamp.com/album/low-bit-adventure
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> August 7th, 2019 12:00pm </span>
-                                                          <span class="tag">art</span>
-                                          <span class="tag">covers</span>
-                                          <span class="tag">music art</span>
-                                          <span class="tag">pixel</span>
-                                          <span class="tag">retro</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186843420859</small>

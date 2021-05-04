@@ -17,16 +17,5 @@ I wasn’t expecting this to be anything more than an afternoon dip, but I’m s
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 18th, 2019 12:42pm </span>
-                                                          <span class="tag">games</span>
-                                          <span class="tag">video games</span>
-                                          <span class="tag">kongregate</span>
-                                          <span class="tag">aground</span>
-                                          <span class="tag">recommended</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186380577444</small>

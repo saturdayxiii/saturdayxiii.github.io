@@ -20,18 +20,5 @@ oh well, we'll see
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> April 16th, 2021 9:49pm </span>
-                                                          <span class="tag">marker</span>
-                                          <span class="tag">sketch</span>
-                                          <span class="tag">freehand</span>
-                                          <span class="tag">portraits</span>
-                                          <span class="tag">ink</span>
-                                          <span class="tag">art</span>
-                                          <span class="tag">progress</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/648681988194205696</small>

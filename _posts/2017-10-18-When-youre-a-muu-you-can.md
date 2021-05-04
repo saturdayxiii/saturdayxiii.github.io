@@ -13,16 +13,5 @@ When you're a muu, you can have a castle too.  O . O #pets #cornsnake  (at Edmon
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> October 18th, 2017 2:45pm </span>
-                                                          <span class="tag">pets</span>
-                                          <span class="tag">corn snake</span>
-                                          <span class="tag">photo</span>
-                                          <span class="tag">edmonton</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/166546368264</small>

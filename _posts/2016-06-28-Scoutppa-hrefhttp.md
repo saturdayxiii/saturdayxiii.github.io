@@ -24,18 +24,5 @@ Scout.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 28th, 2016 7:41am </span>
-                                                          <span class="tag">insect</span>
-                                          <span class="tag">bug</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">tiny</span>
-                                          <span class="tag">beetle</span>
-                                          <span class="tag">scarlet malachite</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/146603521059</small>

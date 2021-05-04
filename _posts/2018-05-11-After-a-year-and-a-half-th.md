@@ -67,14 +67,5 @@ However, printing off a copy of <a href="https://www.thingiverse.com/thing:26565
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> May 11th, 2018 11:09am </span>
-                                                          <span class="tag">snapmaker</span>
-                                          <span class="tag">3d printing</span>
-                                          <span class="tag">new toys</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/173801922419</small>

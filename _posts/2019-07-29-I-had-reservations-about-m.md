@@ -13,16 +13,5 @@ I had reservations about my anise soda, especially since I don't have any mint a
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 29th, 2019 8:09pm </span>
-                                                          <span class="tag">Soda</span>
-                                          <span class="tag">edible</span>
-                                          <span class="tag">recommended</span>
-                                          <span class="tag">anise soda</span>
-                                          <span class="tag">drink</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186643242349</small>

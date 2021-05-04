@@ -13,14 +13,5 @@ The N64′s anti-aliasing makes it the least satisfying console to add RBG capab
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> February 6th, 2019 2:21pm </span>
-                                                          <span class="tag">nintendo</span>
-                                          <span class="tag">rbg</span>
-                                          <span class="tag">Console mod</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/182613913184</small>

@@ -17,15 +17,5 @@ Hang on a minute.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 4th, 2016 12:00pm </span>
-                                                          <span class="tag">photo</span>
-                                          <span class="tag">moth</span>
-                                          <span class="tag">insect</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/145412487706</small>

@@ -28,15 +28,5 @@ Vivaldi, if you want to be my savior: get on that portability, please.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> November 7th, 2019 3:33pm </span>
-                                                          <span class="tag">web browser</span>
-                                          <span class="tag">opera</span>
-                                          <span class="tag">vivaldi</span>
-                                          <span class="tag">mozila firefox</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/188888561964</small>

@@ -32,15 +32,5 @@ Once again the light was too low to give me enough focal range, but he’s still
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> September 2nd, 2016 12:00pm </span>
-                                                          <span class="tag">spider</span>
-                                          <span class="tag">arachnid</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/149846307006</small>

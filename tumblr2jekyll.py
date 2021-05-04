@@ -2,6 +2,7 @@
 to the first 2 lines
 !/usr/bin/python
 -*- coding: UTF-8 -*-'''
+#once this works, I have no plans to clean it up.
 #all html showing up as a code block
 #convert links to []() format
 #youtube vids and media vids exist and need fixing
@@ -75,7 +76,8 @@ for file in directory:
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
     #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
     #what was I doing? try this
-    read_file = re.sub('<figure class[^>]*youtube.com.*?=(.+?)"|\?[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\0/maxresdefault.jpg)](https://www.youtube.com/watch?v=\0)',read_file)
+    read_file = re.sub('<figure class[^>]*youtube.com.*?=(.+?)"|\?[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\2/maxresdefault.jpg)](https://www.youtube.com/watch?v=\2)',read_file)
+    # ^ (.+?) probably isn't working
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -117,7 +119,8 @@ for file in directory:
     foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
     #print (foot)
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
-    read_file = re.sub('<div id="footer">.*$','',read_file, re.DOTALL)
+    replacefoot = re.compile('<div id="footer">[^\.]*$', flags=re.S)
+    read_file = re.sub(replacefoot,'',read_file)
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)

@@ -34,19 +34,5 @@ We live together.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> August 28th, 2016 12:00pm </span>
-                                                          <span class="tag">bugs</span>
-                                          <span class="tag">fly</span>
-                                          <span class="tag">insect</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">green stonefly</span>
-                                          <span class="tag">giant stonefly</span>
-                                          <span class="tag">salmonfly</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/149610653063</small>

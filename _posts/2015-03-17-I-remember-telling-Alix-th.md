@@ -22,16 +22,5 @@ I remember telling Alix that the face on my phone case wasn't a self portrait. 
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> March 17th, 2015 4:27pm </span>
-                                                          <span class="tag">art</span>
-                                          <span class="tag">mod</span>
-                                          <span class="tag">paint</span>
-                                          <span class="tag">case</span>
-                                          <span class="tag">neon</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/185573413369</small>

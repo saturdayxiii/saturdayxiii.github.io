@@ -14,14 +14,5 @@ you walk into a room to avoid social contact, but there is someone else in the r
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> October 26th, 2016 1:21pm </span>
-                                                          <span class="tag">tfw</span>
-                                          <span class="tag">face</span>
-                                          <span class="tag">Thoughts</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/152346537089</small>

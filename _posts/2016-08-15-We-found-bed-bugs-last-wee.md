@@ -28,18 +28,5 @@ We found bed bugs last week, and it couldn’t have happened to a nicer guy, if 
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> August 15th, 2016 10:16am </span>
-                                                          <span class="tag">bed bugs</span>
-                                          <span class="tag">bugs</span>
-                                          <span class="tag">pest</span>
-                                          <span class="tag">egg</span>
-                                          <span class="tag">insect</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/148986095554</small>

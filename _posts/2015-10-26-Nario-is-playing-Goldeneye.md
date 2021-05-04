@@ -15,26 +15,5 @@ Nario is playing Goldeneye 64 on a Dance Pad today. <a href="http://itsalmo.st/
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> October 26th, 2015 11:26am </span>
-                                                          <span class="tag">nario</span>
-                                          <span class="tag">dance pad</span>
-                                          <span class="tag">dance mat</span>
-                                          <span class="tag">dancepad</span>
-                                          <span class="tag">ddr</span>
-                                          <span class="tag">n64</span>
-                                          <span class="tag">goldeneye</span>
-                                          <span class="tag">007</span>
-                                          <span class="tag">retro</span>
-                                          <span class="tag">video game</span>
-                                          <span class="tag">game</span>
-                                          <span class="tag">stream</span>
-                                          <span class="tag">live</span>
-                                          <span class="tag">twitch</span>
-                                          <span class="tag">art</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/131960334269</small>

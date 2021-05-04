@@ -54,15 +54,5 @@ Also it’s really hard to find stock footage of people with legs visible beneat
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> January 24th, 2019 7:12pm </span>
-                                                          <span class="tag">art</span>
-                                          <span class="tag">comic</span>
-                                          <span class="tag">dream</span>
-                                          <span class="tag">thoughts</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/182284146754</small>

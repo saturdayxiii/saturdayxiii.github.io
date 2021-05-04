@@ -28,16 +28,5 @@ Double sided tape and industrial hot glue seems to work the best for holding thi
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 25th, 2019 1:10pm </span>
-                                                          <span class="tag">shows</span>
-                                          <span class="tag">over the garden wall</span>
-                                          <span class="tag">comic</span>
-                                          <span class="tag">book binding</span>
-                                          <span class="tag">customizing</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186544581839</small>

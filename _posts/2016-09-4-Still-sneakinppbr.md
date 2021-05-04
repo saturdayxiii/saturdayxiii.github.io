@@ -17,17 +17,5 @@ Still sneakin.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> September 4th, 2016 12:00pm </span>
-                                                          <span class="tag">spider</span>
-                                          <span class="tag">arachnid</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">whenisawit</span>
-                                          <span class="tag">misumena vatia</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/149940042190</small>

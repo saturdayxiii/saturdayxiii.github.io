@@ -22,17 +22,5 @@ Best part about living downtown: if you need live music, typically all you have 
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> May 26th, 2019 1:27am </span>
-                                                          <span class="tag">music</span>
-                                          <span class="tag">tavern on whyte</span>
-                                          <span class="tag">mistaken point</span>
-                                          <span class="tag">yeg music</span>
-                                          <span class="tag">yyc music</span>
-                                          <span class="tag">citizen rage</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/185186455519</small>

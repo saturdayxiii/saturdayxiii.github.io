@@ -17,17 +17,5 @@ Here's a duck.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 10th, 2019 9:33pm </span>
-                                                          <span class="tag">art</span>
-                                          <span class="tag">pencil</span>
-                                          <span class="tag">drawing</span>
-                                          <span class="tag">yeg art</span>
-                                          <span class="tag">charcoal</span>
-                                          <span class="tag">duck</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/185510960669</small>

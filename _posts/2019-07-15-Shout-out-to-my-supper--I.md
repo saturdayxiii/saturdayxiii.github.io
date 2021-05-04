@@ -14,15 +14,5 @@ Shout out to my supper.  I oil fried my remaining tofu puffs and decided to have
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 15th, 2019 5:39pm </span>
-                                                          <span class="tag">recommended</span>
-                                          <span class="tag">bahn mi</span>
-                                          <span class="tag">maybe</span>
-                                          <span class="tag">edible</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186315740519</small>

@@ -13,16 +13,5 @@ oregano blossoms
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> May 29th, 2016 12:00pm </span>
-                                                          <span class="tag">photo</span>
-                                          <span class="tag">oregano</span>
-                                          <span class="tag">flower</span>
-                                          <span class="tag">macro</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/145111033223</small>

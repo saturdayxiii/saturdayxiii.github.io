@@ -13,16 +13,5 @@ Every year we go to the #yegrivervalley just to see the wormies.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 1st, 2016 12:00pm </span>
-                                                          <span class="tag">photo</span>
-                                          <span class="tag">wormies</span>
-                                          <span class="tag">insect</span>
-                                          <span class="tag">caterpillar</span>
-                                          <span class="tag">photography</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/145264893918</small>

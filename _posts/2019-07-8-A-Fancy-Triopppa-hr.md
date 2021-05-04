@@ -17,16 +17,5 @@ A Fancy Triop.
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 8th, 2019 9:32pm </span>
-                                                          <span class="tag">triops</span>
-                                          <span class="tag">top hat</span>
-                                          <span class="tag">ibispaintx</span>
-                                          <span class="tag">art</span>
-                                          <span class="tag">digital art</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/186155863744</small>

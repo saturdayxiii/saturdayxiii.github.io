@@ -17,12 +17,5 @@ Had a lcd driver board arrive dead.  With inspection I noticed that one of its c
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> July 25th, 2017 9:34pm </span>
-                                                          <span class="tag">photo</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/163432477994</small>

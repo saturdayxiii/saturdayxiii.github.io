@@ -13,13 +13,5 @@ Just read through <a href="https://www.unicornjelly.com" target="_blank">Unicorn
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> May 9th, 2020 12:34am </span>
-                                                          <span class="tag">recommended</span>
-                                          <span class="tag">comic</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/617617631853346817</small>

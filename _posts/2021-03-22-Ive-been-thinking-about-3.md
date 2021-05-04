@@ -14,18 +14,5 @@ I've been thinking about 3d modeling a lot lately.  I decided to try and do Sick
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> March 22nd, 2021 10:55am </span>
-                                                          <span class="tag">Thoughts</span>
-                                          <span class="tag">Art</span>
-                                          <span class="tag">Low poly</span>
-                                          <span class="tag">3d model</span>
-                                          <span class="tag">3d scene</span>
-                                          <span class="tag">Cave</span>
-                                          <span class="tag">low resolution</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/646375949032620032</small>

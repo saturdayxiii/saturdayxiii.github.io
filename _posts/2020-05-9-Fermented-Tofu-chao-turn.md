@@ -14,18 +14,5 @@ Fermented Tofu, chao, turned out really well.  It's like a crumbly cheddar.  Sup
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> May 9th, 2020 12:23pm </span>
-                                                          <span class="tag">food</span>
-                                          <span class="tag">reccommended</span>
-                                          <span class="tag">chao</span>
-                                          <span class="tag">fermented bean curd</span>
-                                          <span class="tag">fermented tofu</span>
-                                          <span class="tag">recipe</span>
-                                          <span class="tag">edible</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/617662256313991169</small>

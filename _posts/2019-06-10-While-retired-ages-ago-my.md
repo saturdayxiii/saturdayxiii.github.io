@@ -22,18 +22,5 @@ While retired ages ago, my heavily modded binder-bag has finally made it’s way
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 10th, 2019 3:16pm </span>
-                                                          <span class="tag">art</span>
-                                          <span class="tag">journal</span>
-                                          <span class="tag">memories</span>
-                                          <span class="tag">mod</span>
-                                          <span class="tag">bag</span>
-                                          <span class="tag">fashion</span>
-                                          <span class="tag">paint</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/185503955994</small>

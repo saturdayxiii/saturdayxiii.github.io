@@ -19,16 +19,5 @@ I’m now prepared to do proper back ups, but really, maybe it’s time I just s
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> February 19th, 2020 9:52am </span>
-                                                          <span class="tag">trouble shoot</span>
-                                          <span class="tag">computer</span>
-                                          <span class="tag">ext4</span>
-                                          <span class="tag">e2fsck</span>
-                                          <span class="tag">ext2fsd</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/190913838744</small>

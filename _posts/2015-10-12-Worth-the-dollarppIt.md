@@ -15,14 +15,5 @@ It's hard to review hidden object games because I don't really believe anyone ex
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> October 12th, 2015 7:34pm </span>
-                                                          <span class="tag">game</span>
-                                          <span class="tag">hidden object</span>
-                                          <span class="tag">sinister city</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/182151348049</small>

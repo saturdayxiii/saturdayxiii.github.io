@@ -12,16 +12,5 @@ I’m happy to add Kvass to my collection of circulating fermented drinks.  It�
 
 I used the recipe from <a href="https://domesticdreamboat.com/bread-kvass/" target="_blank">Domestic Dreamboat</a>, but essentially it’s just soak plain, stale, toasted bread in hot water for a while.  Filter out the bread, then add honey, sugar, mint, and a bit of sourdough starter (I’m sure you could use regular yeast from a package too).  When it bubbles, strain and bottle.  It’ll carbonate and get less sweet over time.  If you make it again, you don’t need new yeast, just use the sediment from the bottles.
  
-                                                    <div id="footer">
-                <span id="timestamp"> March 25th, 2021 6:30pm </span>
-                                                          <span class="tag">food</span>
-                                          <span class="tag">recommended</span>
-                                          <span class="tag">kvass</span>
-                                          <span class="tag">post baking</span>
-                                          <span class="tag">wet toast</span>
                                                     
-            </body>
-        </html>
-
-        
 <small>source: https://saturdayxiii.tumblr.com/post/646676325321605120</small>

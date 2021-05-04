@@ -18,15 +18,5 @@ Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> June 27th, 2019 12:37pm </span>
-                                                          <span class="tag">sgdq2019</span>
-                                          <span class="tag">art</span>
-                                          <span class="tag">crayola</span>
-                                          <span class="tag">dark souls</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/190407228749</small>

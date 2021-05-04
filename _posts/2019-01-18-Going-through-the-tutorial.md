@@ -13,16 +13,5 @@ Going through the tutorials for <a href="http://www.thenew8bitheroes.com" target
                 
                 
                 
-                                <div id="footer">
-                <span id="timestamp"> January 18th, 2019 8:39pm </span>
-                                                          <span class="tag">software</span>
-                                          <span class="tag">game</span>
-                                          <span class="tag">recommended</span>
-                                          <span class="tag">game development</span>
-                                          <span class="tag">nesmaker</span>
-                                                    
-            </body>
-        </html>
-
-        
+                                
 <small>source: https://saturdayxiii.tumblr.com/post/182126624604</small>
