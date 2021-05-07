@@ -76,8 +76,7 @@ for file in directory:
     #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
     #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
     #what was I doing? try this
-    read_file = re.sub('<figure class[^>]*youtube.com.*?=(.+?)"|\?[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\2/maxresdefault.jpg)](https://www.youtube.com/watch?v=\2)',read_file)
-    # ^ (.+?) probably isn't working
+    read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)

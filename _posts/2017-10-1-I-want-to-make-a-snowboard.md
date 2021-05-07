@@ -8,7 +8,8 @@ img
                                                                                           
 I want to make a snowboard kids knock off.  so I’m just stashing some ideas here for later use.  Tagging: Downhill…something… need a more descriptive project title.<br/>
 
-Level idea: Rail sliding in Chittogarh[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Level idea: Rail sliding in Chittogarh?
+ 
                                     
                 
                 

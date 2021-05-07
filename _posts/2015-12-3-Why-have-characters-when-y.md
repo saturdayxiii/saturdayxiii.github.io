@@ -6,7 +6,8 @@ tags: ["gurumin", "anime", "japanese", "drawing", "painting", "art", "game"]
 img
 <img src="https://saturdayxiii.github.io/media/134502569594.png"/>
                                                                                           
-Why have characters when you can have tropes[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Why have characters when you can have tropes?
+ 
                                     
                 
                 

@@ -4,9 +4,9 @@ timestamp: June 7th, 2019 2:29pm
 tags: ["show", "recommended"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/kaPgQrw_Ywk[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)></iframe>                    
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/kaPgQrw_Ywk?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
                                             
-Last night I finally sat down and played a bit of <a href="https://www.gog.com/game/sanitarium" target="_blank">Sanitarium </a>for the first time.  I’ve never felt a strong need to play it because <a href="https://www.youtube.com/playlist[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>Adkit2′s 2009 playthrough</a> is one of my favorite Let’s Plays and I've watched it through countless times, night after night.
+Last night I finally sat down and played a bit of <a href="https://www.gog.com/game/sanitarium" target="_blank">Sanitarium </a>for the first time.  I’ve never felt a strong need to play it because <a href="https://www.youtube.com/playlist?list=PLE50D27DF4F83907F" target="_blank">Adkit2′s 2009 playthrough</a> is one of my favorite Let’s Plays and I've watched it through countless times, night after night.
 
 It’s definitely an interesting experience 
 

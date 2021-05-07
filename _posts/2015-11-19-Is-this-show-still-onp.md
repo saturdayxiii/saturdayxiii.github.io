@@ -6,7 +6,8 @@ tags: ["childrens", "tv", "fun", "art", "show"]
 img
 <img src="https://saturdayxiii.github.io/media/133557827039.jpg"/>
                                                                                           
-Is this show still on[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Is this show still on?
+ 
                                     
                 
                 

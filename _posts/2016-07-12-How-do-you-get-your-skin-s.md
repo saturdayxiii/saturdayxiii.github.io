@@ -6,7 +6,8 @@ tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]
 img
 <img src="https://saturdayxiii.github.io/media/147298958206.jpg"/>
                                                                                           
-How do you get your skin so velvety[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+How do you get your skin so velvety?
+ 
                                     
                 
                 

@@ -8,9 +8,9 @@ img
                                                                                           
 Consoles for games that don’t exist.
 
-Bat Hunt: <a href="https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>
+Bat Hunt: <a href="https://www.youtube.com/watch?v=ntmhiRqTM_M" target="_blank">https://www.youtube.com/watch?v=ntmhiRqTM_M</a>
 
-Carbarian: <a href="https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>
+Carbarian: <a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a>
  
                                     
                 

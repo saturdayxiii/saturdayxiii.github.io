@@ -8,7 +8,7 @@ img
                                                                                           
 High Resolution Graphics
 
-<a href="https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>https://www.youtube.com/watch[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)><br/>
+<a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a><br/>
  
                                     
                 

@@ -10,7 +10,8 @@ Beauties.
 
 <br/>
 
-maybe <a href="https://en.wikipedia.org/wiki/Hyalophora_columbia" target="_blank">https://en.wikipedia.org/wiki/Hyalophora_columbia</a> [![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+maybe <a href="https://en.wikipedia.org/wiki/Hyalophora_columbia" target="_blank">https://en.wikipedia.org/wiki/Hyalophora_columbia</a> ?
+ 
                                     
                 
                 

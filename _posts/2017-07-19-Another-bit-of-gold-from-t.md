@@ -4,7 +4,7 @@ timestamp: July 19th, 2017 9:26am
 tags: ["radio", "recommended", "music"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/bcnIhzaDTd0[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)></iframe>                    
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/bcnIhzaDTd0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
                                             
 Another bit of gold from the radio this morning.
 

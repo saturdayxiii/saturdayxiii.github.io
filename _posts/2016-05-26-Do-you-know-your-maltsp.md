@@ -6,7 +6,8 @@ tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]
 img
 <img src="https://saturdayxiii.github.io/media/144964873176.jpg"/>
                                                                                           
-Do you know your malts[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Do you know your malts?
+ 
                                     
                 
                 

@@ -6,7 +6,8 @@ tags: ["edmonton", "photography"]
 post
 <a href="https://www.instagram.com/p/BbGU8LMnBB8/ "></a>
                                                                                           
-Are you sad[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Are you sad?! (at Edmonton, Alberta)
+ 
                                     
                 
                 

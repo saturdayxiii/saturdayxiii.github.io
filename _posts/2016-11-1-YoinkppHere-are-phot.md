@@ -4,7 +4,7 @@ timestamp: November 1st, 2016 2:37pm
 tags: ["spider", "wasp", "arachnid", "insect", "predator", "prey", "strike", "Camoflauge", "macro", "photography"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/lJ2PsS-DpRw[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)></iframe>                    
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/lJ2PsS-DpRw?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
                                             
 Yoink.
 

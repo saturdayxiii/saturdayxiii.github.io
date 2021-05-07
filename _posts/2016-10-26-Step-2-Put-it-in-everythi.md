@@ -12,7 +12,8 @@ Step 1: Figure out how to levitate things with magnets.
 
 Step 2: Put it in everything.
 
-Step 3: [![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>
+Step 3: ?????? (Kickstarter)
+
 Step 4: Profit!
 
 <br/>

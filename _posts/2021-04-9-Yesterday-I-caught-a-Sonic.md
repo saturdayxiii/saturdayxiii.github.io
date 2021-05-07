@@ -5,7 +5,7 @@ tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 ---
 post
 
-                    [![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=) data-orig-width="356" data-orig-height="200"><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/hIo3Gi7Tn2A[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)></iframe></figure>
+                    [![thumbnail](http://i3.ytimg.com/vi/hIo3Gi7Tn2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=hIo3Gi7Tn2A)><iframe width="540" height="304" id="youtube_iframe" src="https://www.youtube.com/embed/hIo3Gi7Tn2A?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 Yesterday I caught a Sonic Advance race on <a href="https://www.twitch.tv/gamesdonequick" target="_blank">GamesDoneQuick</a>.  It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how amazing it is.
 
 Maybe "under appreciated" is the wrong term, perhaps its too accepted.  Not controversial enough.  Sonic is a huge brand, so even though the Advance games are an offshoot, there is still a huge amount of people who have played them, and I'm under the impression that the majority have enjoyed it.  But when people speculate, albeit less so since Sonic Mania, how Sonic games haven't really improved since the Genesis days, Sonic Advance is still regularly overlooked.

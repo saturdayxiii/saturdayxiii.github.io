@@ -16,7 +16,8 @@ I don’t see why achievement systems don’t already reflect this.  The trophy
 
 Here’s another preface for my second feature request.  It can only be applied at the platform, or achievement service level, and one has to acknowledge that achievements can’t be taken too seriously.  I know all platforms strive to fight against cheaters, but really I don’t think it’s extensively worthwhile.  The higher the value we place on achievements the harder cheaters will try to find illegitimate ways of gaining them, and they will.  There is no sure way to bar someone from something in a digital medium.  So clearly this feature is going to be a stretch, but if you can’t get behind the idea that all achievements are exploitable then you might as well consider this the end of my article.
 
-Still here[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)>
+Still here?
+
 Thanks for hearing me out.
 
 2. Achievements from pre-recorded footage.

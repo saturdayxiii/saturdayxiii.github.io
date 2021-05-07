@@ -6,7 +6,8 @@ tags: ["pixly", "tile", "pattern", "art"]
 post
 <a href="https://www.instagram.com/p/BcF9-QoHWO3/ "></a>
                                                                                           
-Wicker 2.0. More effective, or too repetitive[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Wicker 2.0. More effective, or too repetitive? #pixelart #tile #pixly  (at Edmonton, Alberta)
+ 
                                     
                 
                 

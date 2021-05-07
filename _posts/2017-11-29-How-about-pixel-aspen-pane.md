@@ -6,7 +6,8 @@ tags: ["pyxeledit", "tile", "pattern", "art"]
 post
 <a href="https://www.instagram.com/p/BcGpv-inPfr/ "></a>
                                                                                           
-How about pixel aspen panelling[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+How about pixel aspen panelling? #pixelart  #tile #pyxeledit  (at Edmonton, Alberta)
+ 
                                     
                 
                 

@@ -6,7 +6,8 @@ tags: ["illustration", "ink", "sketch", "art"]
 img
 <img src="https://saturdayxiii.github.io/media/145667317283.jpg"/>
                                                                                           
-Enhancing textbooks with&hellip; what is that[![thumbnail](http://i3.ytimg.com/vi//maxresdefault.jpg)](https://www.youtube.com/watch?v=)> 
+Enhancing textbooks with&hellip; what is that?  Anime?  Gross.
+ 
                                     
                 
                 
