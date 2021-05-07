@@ -4,8 +4,8 @@ timestamp: March 29th, 2021 1:26pm
 tags: ["recommended", "movie", "thoughts", "cinema"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
-                                            
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
 
 This one gets rather exhaustive on how imagery in the initial scenes reinforce the theme of the film.  It honestly gets rather listy, and suggests that the film was much more controlled and intentional than was let on.  Which I think is a valid insight, but not the extent of which is implied in this video.  I really like what it means for themes and how it relates to author intention.  
@@ -18,5 +18,5 @@ Having clear themes and intentions decided in the beginning of production allowe
 
 I’d be interested in taking an exhaustive look at one of the many films of the 2010 era that clearly had a poor time reinforcing theme, and see what can be gleamed of the clarity and intention put forth by their creators.
  
-                                                    
+  
 <small>source: https://saturdayxiii.tumblr.com/post/647019646909841408</small>

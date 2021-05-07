@@ -5,7 +5,7 @@ tags: ["Thoughts"]
 ---
 post
 ## My Initial Responce to 5-HTP ##
-                    
+
 This last year has been a rough one.  I developed an emotional problem that effected every aspect of my life.  Up until recently I couldn't pin point when I got the problem.  I've always had a critical perspective on my life.  I've often had troubles with loneliness and depression but I've always pulled through.  This year however, for the entire year, that didn't feel to be the case.  I figured it was just a build up of all the depression spirals of my life swelling to a final climax.  More than once I was certain that I wouldn't be able to allow myself to survive through the night. 
 
 
@@ -23,11 +23,11 @@ I told my therapist that I was insecure about taking medication because I didn't
 
 So my non medical opinion based on my first week of these drugs is: if you're hurting enough to consider supplements, try 5-HTP and rhodiola rosea.  My personal goal is to use them steadily together for a month then test my progress.  Hopefully I'll be able to stay off both for a while.  If not, I'll try doing rhodiola rosea solo and report my experience.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/21793003816</small>

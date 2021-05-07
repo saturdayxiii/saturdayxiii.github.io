@@ -5,7 +5,7 @@ tags: [""]
 ---
 post
 ## .together. ##
-                    
+
 I got my first girlfriend and lost my virginity at the age of 25.  Being in this kind of minority might automatically make my feelings toward sex null and void for the average human but I think I've come to a certain clarity of something that I'm vulnerable to.
 
 
@@ -20,11 +20,11 @@ What really bothers me is these first time and important experiences that I can 
 
 That's unfair.  She's the love of my life.  She feels awful because I feel this way and she says she'd change time if she could.  She promises that it's always been different with me; we have and we always will do things truly together.  I believe her.  She makes me feel better and safe.  I'm just writing this here because I know the past always bothers me but if I can keep my fears written plainly and her hope with me, I can and will move on.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/21789806557</small>

@@ -5,13 +5,13 @@ tags: ["character", "sketch", "design", "ink", "drawing", "sega", "art"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/132093594809.jpg"/>
-                                                                                          
+
 Here's a character inspired by all the Sega games I played on the plane, like Puyo Pop.  You can tell because, you know, the gloves and stuff&hellip;
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/132093594809</small>

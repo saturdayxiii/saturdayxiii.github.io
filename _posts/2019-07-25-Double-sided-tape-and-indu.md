@@ -6,15 +6,15 @@ tags: ["shows", "comic", "customizing"]
 post
 
 
-                               <img src="https://saturdayxiii.github.io/media/186544581839_1.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/186544581839_1.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/186544581839_2.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/186544581839_2.jpg"/>
+       
 
-                                                                                                                      
+        
 
 
 Over the Garden Wall’s 4 issue mini series re-bound in an engraved aluminium cover.
@@ -23,10 +23,10 @@ Over the Garden Wall’s 4 issue mini series re-bound in an engraved aluminium c
 
 Double sided tape and industrial hot glue seems to work the best for holding things together.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/186544581839</small>

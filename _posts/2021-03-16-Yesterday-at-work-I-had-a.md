@@ -6,35 +6,35 @@ tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 post
 
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/>
+       
 
-                                                                                                                      
+        
 Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
 
 Why did it go so horribly?
@@ -61,10 +61,10 @@ Hopefully this word vomit cleanses me, or something.  Though why would it?  I 
 
 *sigh*, maybe at some decade in my life I’ll be able to do consistent work of an adequate quality, or at least perhaps the false hope will keep me from falling into complete anhedonia.  Maybe.<br/>
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/645836584988590080</small>

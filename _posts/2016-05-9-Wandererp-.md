@@ -5,13 +5,13 @@ tags: ["ladybug", "ladybird", "beetle", "spots", "macro", "gif", "cute", "insect
 ---
 img
 <img src="https://saturdayxiii.github.io/media/144104657039.gif"/>
-                                                                                          
+
 Wanderer.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/144104657039</small>

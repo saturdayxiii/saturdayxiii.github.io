@@ -5,7 +5,7 @@ tags: ["review", "recommended", "game"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/181907012504.jpg"/>
-                                                                                          
+
 I fell in love with <a href="https://www.haikugamesco.com/" target="_blank">Haiku Games</a> for a little bit thanks to <a href="https://play.google.com/store/apps/details?id=com.haikugamesco.escape16&amp;hl" target="_blank">Dark Ruins</a>.  Few things have such a negative stimga these days as mobile games and modernized point and click adventure, but the markets are massive.  People want to love these games.  So when a publisher shows some competence, their products really shine.  
 
 Definitely keep an eye on <a href="https://www.haikugamesco.com/blog" target="_blank">Haiku Games’s blog</a> if you’re interested in indie studios specializing in mobile games.  Their gleams into behind the scenes hit all the right inspirational notes for me.  I haven't played a lot of their catalogue, but even they seem to express that Dark Ruins is cream of their crop.  I hope they take what they’ve learned from it and apply it to all their future games.
@@ -16,10 +16,10 @@ An often neglected aspect of puzzle games is often the puzzles themselves, but I
 <a href="https://66.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_1280.jpg" target='_blank"'><figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg" alt="image" data-orig-width="2048" data-orig-height="1536"/></figure></a>
 Soooo, this still is a casual point-and-click puzzle game.  If you absolutely detest them, then know that this game isn’t breaking any new ground to win your heart.  However, if you’re open to them, then this one is definitely worth some hype.  And God knows I hate hype.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/181907012504</small>

@@ -6,21 +6,21 @@ tags: ["gamecube", "nintendo", "art"]
 post
 
 
-                               <img src="https://saturdayxiii.github.io/media/150924989914_1.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/150924989914_1.jpg"/>
+       
 
-                                                                                                                           
+   
 
-                               <img src="https://saturdayxiii.github.io/media/150924989914_2.jpg"/>
-                           
+ <img src="https://saturdayxiii.github.io/media/150924989914_2.jpg"/>
+       
 
-                                                                                                                      
+        
 Aspirations realized.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/150924989914</small>

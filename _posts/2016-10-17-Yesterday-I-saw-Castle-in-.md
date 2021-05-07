@@ -5,7 +5,7 @@ tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal",
 ---
 post
 ## Laputa and self reflection regarding anime [journal] ##
-                    <figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/></figure>
+<figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/></figure>
 Yesterday I saw Castle in the Sky at my local Theatre.<br/>
 
 I’ve gone to the theatre to see a couple Studio Ghibli films, as well as a select few other anime movies, and each time it poises a small conundrum for me; I can’t stand anime, but I enjoy seeing these films.
@@ -18,11 +18,11 @@ And it certainly is not the theatre experience that changes this for me.  I enj
 
 So, I went and saw Laputa: Castle in the Sky yesterday.  The artwork was wonderful, and the score was lovely.  The story wasn’t very interesting, and the characters didn’t develop, but it was exciting to see them chased into the awe-inspiring caverns of the earth, adventurously fly with pirates through the clouds, and I held my breath as they scaled the outer walls of the flying castle Lupita.  I would see it again, but preferably while I had something else to do, like chores, or an art project.  6 out of 10.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/151944972574</small>

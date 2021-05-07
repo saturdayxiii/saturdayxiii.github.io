@@ -5,7 +5,7 @@ tags: ["brainstorm", "ideas"]
 ---
 post
 ## Reincarnation Game first thoughts ##
-                    
+
 Using this space to develop game concept ideas.
 
 A game with reincarnation as a mechanic.  The player doesn’t know at the start, but the world will be destroyed by the end of the game, and if the player plays all the way through they will see it.  Death is inevitable, not just by game end, but during as well.  When you die, you come back as a new character. What kind of character will depend on how many compassion points you have.
@@ -26,11 +26,11 @@ Compassion Points 
 <ul><li>Can be earned or lost at key points in the story.  Heavy weighted scenes will sometimes result in scripted death of the player.</li><li>It will be compassion based on how many characters the choice affects during that scene, including unseen characters as long as they are directly implied.  IE: Buying all stock from a store despite shop keep warning that prices will increase for all customers.</li><li>Player speculation shouldn't be a factor.  If a player helps a npc in a scripted moment of need and that npc goes on to hurt other npcs in future scenes the player will still receive positive compassion points. For simplicity’s sake.<br/></li><li>There will be points on the map where players can help or harm animals or non-story characters to affect their CP.  If the player has a high movement character then these locations will be fewer and farther apart.  These locations will be pivitol for players getting the highest movement character type and unlocking the most intimate scenes of the story.</li></ul>
 Levels of compassion: a basic hierarchy from high movement to low:
 <ul><li>Bird - unlimited map access (except for isolated stories for players that play poorly)<br/></li><li>dog/cat - speedy and can jump small walls</li><li>rodent - decent speed but can’t jump</li><li>grasshopper/cricket - slow, but can jump</li><li>grub - slow, no jump</li></ul>
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/166005690104</small>

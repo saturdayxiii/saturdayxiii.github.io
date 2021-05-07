@@ -5,13 +5,13 @@ tags: ["photo", "mushroom", "fungus", "plant", "photography"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/144762384055.jpg"/>
-                                                                                          
+
 Keep me fungus.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/144762384055</small>

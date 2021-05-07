@@ -5,13 +5,13 @@ tags: ["Game", "beercade", "yeg"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/182623849724.jpg"/>
-                                                                                          
+
 I played the nude Valkyrie.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/182623849724</small>

@@ -5,7 +5,7 @@ tags: ["review"]
 ---
 post
 ## Red Crimes: Hidden Murders ##
-                    
+
 I wanted to try out <a href="https://play.google.com/store/apps/details?id=com.gamaga.RedCrimesHM" target="_blank">Red Crimes: Hidden Murders</a> because it was produced by Discovery Channel’s forensic mystery channel thing; Identification Discovery, advertised somewhat real forensics, and it has very pretty artwork.<br/><br/>So I did, and unfortunately I have nothing special to report.  It’s a typical freemium game in the most generic way.
 <a href="https://66.media.tumblr.com/80371f10f451fcf3059e0f5261889e50/tumblr_inline_pkezw2gKyp1rnrp45_1280.jpg" target="_blank" alt="Red Crimes Hidden Murders Screenshot"><figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/80371f10f451fcf3059e0f5261889e50/tumblr_inline_pkezw2gKyp1rnrp45_540.jpg" alt="image" data-orig-width="500" data-orig-height="375"/></figure></a>
 I played until the first criminal was arrested.  That’s as far as I could get after exhausting all my energy and gold points, which took about an hour and a half.  Not the worst demo.  Energy charges at 1 per 3 minutes, and you need 16 to play the next mini game.  However, running out of energy isn't the only concern.  There are timers all over the place that they want you to pay “gold” to skip.  As usual you can watch a video ad to get gold, but a 30 second ad gets you a whopping 3 pieces.  Can’t do anything with that.
@@ -22,11 +22,11 @@ While the artwork is pretty, you've seen all the good stuff already in the adver
 
 So the game is pretty sub par unless you’re really desperate, or this really hits a specific niche for you.  Overall it really doesn't feel like the developers want you to play their game.  All the dollar signs around the wait times feel like a warning rather than an invitation.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/181467903259</small>

@@ -4,6 +4,7 @@ timestamp: April 15th, 2021 8:43pm
 tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube"]
 ---
 post
+
 [![thumbnail](http://i3.ytimg.com/vi/iEvntSex-7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=iEvntSex-7Y)><iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/iEvntSex-7Y?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 I've always been a critical person and I've been trying to be less so, but I've got about 30 years of experience to walk back on.  I've been lucky enough to float around friend circles of a number of very, umm, un-critical (?) people, and I get to learn bits and pieces from them.  Part of the problem is I've always thought it to be smart to be critical, but clearly that's not entirely true and I'm not as smart as I thought I was.  
 
@@ -17,11 +18,11 @@ I'm loving the good vibes that are bringing about encouragement.  That's what I 
 
 As Minimme says, "Get yourself in a forgiving mood."
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/648587249729110018</small>

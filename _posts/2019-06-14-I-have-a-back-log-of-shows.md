@@ -5,7 +5,7 @@ tags: ["netflix", "atypical", "show", "recommended"]
 ---
 post
 ## Reaction to Atypical S02 Finale ##
-                    <figure class="tmblr-full" data-orig-height="222" data-orig-width="500"><img src="https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif" data-orig-height="222" data-orig-width="500"/></figure>
+<figure class="tmblr-full" data-orig-height="222" data-orig-width="500"><img src="https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif" data-orig-height="222" data-orig-width="500"/></figure>
 I have a back log of shows I want to at least give small shout outs to, but I just watched this and had the feels, so I’m sharing them.
 
 I will always watch things late. I know this show is well old and off the hype train, if there was one.  Heck, that’s the best time for me to watch so I can be unswayed by public opinions.  
@@ -24,11 +24,11 @@ But I guess I should trust the writers a little.  Elsa’s affair had the same 
 
 Heck, now having worked through some of these thoughts, I have a greater appreciation for the show than I did when I started this post.   Good stuff.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/185591786294</small>

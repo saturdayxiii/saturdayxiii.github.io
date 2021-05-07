@@ -5,13 +5,13 @@ tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", 
 ---
 img
 <img src="https://saturdayxiii.github.io/media/131959904749.jpg"/>
-                                                                                          
+
 They gave me a picture to color.  I color what I want.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/131959904749</small>

@@ -5,7 +5,7 @@ tags: ["opera", "vivaldi"]
 ---
 post
 ## I’m back on Opera.  I never left Opera. ##
-                    
+
 I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effort.
 
 I don’t consider myself to be very particular when it comes to browsers.  Just a browser out of the box is about all I need; maybe a last.fm extension installed.  I started using Chrome years ago because I was heavily dependent on Drive and Gmail anyway, so it was only natural to have everything synced together.  I’ve also used Opera Portable on a USB stick for when I’m on my low-powered work laptop.  I’ve had difficulties with all browsers in the past, which is the way of anything computer related really.  Use something exclusively until something big goes wrong, then scramble to find a replacement, get excited with the new find, discover its own problems, then go back to what’s familiar and start the cycle over.
@@ -22,11 +22,11 @@ So I’m back on Opera.  I’ve got sync set up and I’m feeling good.  I gue
 
 Vivaldi, if you want to be my savior: get on that portability, please.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/188888561964</small>

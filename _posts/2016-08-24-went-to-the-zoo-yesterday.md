@@ -5,13 +5,13 @@ tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/149423030176.gif"/>
-                                                                                          
+
 went to the zoo yesterday. @buildingourzoo
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/149423030176</small>

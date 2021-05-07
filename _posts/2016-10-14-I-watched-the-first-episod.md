@@ -4,8 +4,8 @@ timestamp: October 14th, 2016 12:53pm
 tags: ["opinion", "tv", "show"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
-                                            
+<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 I watched the first episode of Channel Zero and I’m intrigued.
 
 As soon as the show came out there was the usual mindless hype, then the first real reviews I saw were rather negative.  I’m not one to ever believe hype, but it has been an interesting puzzle to try and sort out my own opinions, which of course should be nigh impossible from only the first episode, but I damn well will try.
@@ -22,5 +22,5 @@ Having typed this out, I am less optimistic as to what the show realistically ha
 
 Despite my tone and concerns, I am optimistic and I aim to enjoy whatever is presented until it either pays off, or until I simply can’t.
  
-                                                    
+  
 <small>source: https://saturdayxiii.tumblr.com/post/151803373179</small>

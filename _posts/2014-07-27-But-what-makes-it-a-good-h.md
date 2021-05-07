@@ -5,7 +5,7 @@ tags: ["game", "review"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/182016633414.jpg"/>
-                                                                                          
+
 <a href="https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/" target="_blank">
 
 Hidden object, point and click</a>. If you like those, you will like this. If not, then no, you won't like this. 
@@ -16,10 +16,10 @@ Ehh, it's a fine hidden object, point and click game. If you're expecting someth
 
 <br/>
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/182016633414</small>

@@ -5,7 +5,7 @@ tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/190913838744.jpg"/>
-                                                                                          
+
 A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off.  RIP lossless, extended Escaflowne movie ost.<br/>
 
 A detailed account in hopes that I don’t forget:<br/>I had a large EXT4 HDD disappear off my Rpi nas (lol, so l337).  Restarted a couple times with no change.  Plugged in the drive after a bootup and got an error saying that the mount point was already taken.  Remove the drive from fstab and the error persists, but oddly enough the drive still shows up in the file manager, albeit devoid of content.
@@ -14,10 +14,10 @@ Enter command line, where accessing the directory straight up tells me there’s
 
 I’m now prepared to do proper back ups, but really, maybe it’s time I just stopped being such a digital horder.  Honestly, I use enough streaming media that I rarely go through my personal files. but still I’m worried that one day after the apocalypse of online entertainment services, I’ll desperately want to play that drm-free copy of Witcher 2.   Here’s hoping there’s still compatibility tutorials to get it working on Windows XX.<br/>
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/190913838744</small>

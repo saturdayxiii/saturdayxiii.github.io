@@ -5,7 +5,7 @@ tags: [""]
 ---
 post
 ## Vector illustration apps for android ##
-                    ### Pramble: ###
+### Pramble: ###
 I decided to treat myself and upgrade my laptop/drawing tablet combo.  I’ve found lots of comprehensive reviews for hardware and software and have happily purchased a Samsung Galaxy Tab S3.  While it will take a good long while of actually using the tablet to determine how well it can replace my old laptop, I am very optimistic.  I’ve found lots of recommendations for drawing and photo apps, but something I haven’t been coming across is apps for working with vector art.  So I’m going to compose a non-comprehensive list of the apps that look useful to me and will report what apps I stick with.<br/><br/>As I stated, I have a Samsung Galaxy Tab S3, the SM-T820 something something, running stock Nougat 7.0.  The double edge sword of running android is that the OS and the apps change so quickly, so if you find this list somewhere at sometime, you should know that nothing is guaranteed.  Part of how I will grade apps is by how recently they were updated in the app store.  So even my opinions are related to this time in October 2017.  
 ### Here’s what I’m looking for in a vector app: ###<ul><li>SVG export/import</li><li>Features.  The more the better, but useful basics will take priority.<br/></li><li>Ruler or ability to size specificly is the one feature that I really need.</li><li>It’s updated recently, in 2017 ideally.<br/></li><li>Reviews are positive or the developer engages with user issues.<br/></li></ul>### The trial candidates: ###<ul><li><a href="#adobeillustrator" target="_blank">Adobe Illustrator Draw</a></li><li><a href="#gimpinkscape" target="_blank">Gimp/Inkscape for Android</a></li><li><a href="#vectorpaint" target="_blank">Vector Paint</a></li><li><a href="#ivydraw" target="_blank">Ivy Draw</a><br/></li><li><a href="#graphicdesigner" target="_blank">Graphic Designer</a><br/></li><li><a href="#inker" target="_blank">Inker</a><br/></li><li><a href="#skedio" target="_blank">Skedio</a><br/></li></ul>### How’d they do? ###
 <a name="adobeillustrator" id="adobeillustrator">Adobe Illustrator</a><br/>I knew <a href="https://play.google.com/store/apps/details?id=com.adobe.creativeapps.draw" target="_blank">Adobe Illustrator Draw</a> was out of the question for me before I started.  I'm hesitant to buy cheap apps let alone subscribe to an expensive one.  That said, the pen tools are solid.  It might be worth coming back to this for sketching, exporting to png, then using bucket fill to vectorize in another app.  That's probably unnecessary though.  It's possible that this isn't even a vector app.  I can't tell for sure without getting Creative Cloud.<br/><b>Last updated?</b>  A week ago.<br/><b>Reviews? Engagable developer?</b>  Reviews are mostly positive, and of course Adobe doesn't engage the little people.<br/><b>Ads?</b>  No<br/><b>SVG Import/Export?</b>  Only if you export to desktop via Adobe's Creative Cloud&hellip; presumably.<br/><br/><b>Freehand drawing?</b> Fantastic, as to be expected.<br/><b>Brushes?</b> 5 in the free version plus&hellip; French Curves?<br/><b>Point Editing?</b> Basic options.<br/><b>Measuring?</b> None.<br/><b>Object alignment?</b> Yes!<br/><b>Text editing?</b> 
@@ -22,11 +22,11 @@ I decided to treat myself and upgrade my laptop/drawing tablet combo.  I’ve f
 
 <a name="skedio" id="skedio">Skedio</a><br/><a href="https://play.google.com/store/apps/details?id=com.shturmsoft.skedio&amp;hl=en" target="_blank">Skedio</a>.  Dang.  This one's close.  Finally something that lets me edit vector points, but am I missing something?  Is there no fill option, only outlining?  Odd.<br/><b>Last updated?</b>  10 months ago.<br/><b>Reviews? Engagable developer?</b>  Good reviews.  No sign of a developer presence.<br/><b>Ads?</b>  No<br/><b>SVG Import/Export?</b>  If paid for.<br/><b>Freehand drawing?</b> Feels great! Curves are smooth and accurate.<br/><b>Brushes?</b> No shapes, but there is width, pressure changes, and dashed line options.<br/><b>Point Editing?</b> Good. It has basic move, add, remove options. Or erase straight through everything!<br/><b>Measuring?</b> None.<br/><b>Object alignment?</b> Don't think so.  Though there is an angular button in the corner that I can't figure out what it does. <br/><b>Text editing?</b> Basic.
 
-                
-                
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/166264844829</small>

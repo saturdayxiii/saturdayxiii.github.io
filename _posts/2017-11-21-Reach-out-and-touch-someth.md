@@ -5,13 +5,13 @@ tags: ["photo", "edmonton", "photography"]
 ---
 post
 <a href="https://www.instagram.com/p/Bbx4Dg_neWK/ "></a>
-                                                                                          
+
 Reach out and touch something. (at Edmonton, Alberta)
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/167752516689</small>

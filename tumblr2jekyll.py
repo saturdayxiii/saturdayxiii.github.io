@@ -123,7 +123,7 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '##  ##'] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
+    erases = ['<div>', '</div>', '##  ##', '          '] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')

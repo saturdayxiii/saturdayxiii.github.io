@@ -5,7 +5,7 @@ tags: ["Edible", "jalapeno", "dip", "photography"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/182175873024.jpg"/>
-                                                                                          
+
 Jalapeno graveyard.
 
 
@@ -16,10 +16,10 @@ I love jalapeno poppers, but I’ll be damned if I’m going to sit there and st
 
 So I made a Panko encrusted cheese dip for my delicious green goodies.
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/182175873024</small>

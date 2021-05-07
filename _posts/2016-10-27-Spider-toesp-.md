@@ -5,13 +5,13 @@ tags: ["spider", "tarantula", "toes", "feet", "macro", "photography"]
 ---
 img
 <img src="https://saturdayxiii.github.io/media/152390147284.jpg"/>
-                                                                                          
+
 Spider toes!
  
-                                    
-                
-                
-                
-                
-                                
+      
+      
+      
+      
+      
+  
 <small>source: https://saturdayxiii.tumblr.com/post/152390147284</small>
