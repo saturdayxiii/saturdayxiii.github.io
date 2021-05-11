@@ -12,7 +12,7 @@ SuperGreatFriend recently <a href="https://www.youtube.com/watch?v=X-EyBetqar0" 
 I'm sharing iconoclast187's playthrough because I favor his knowledgeable explanations of what's actually going on.
 
 This movie version is also good.
-[![thumbnail](http://i3.ytimg.com/vi/-nLO2kz2Txs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-nLO2kz2Txs)><iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/-nLO2kz2Txs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+[![thumbnail](http://i3.ytimg.com/vi/-nLO2kz2Txs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-nLO2kz2Txs)>
 Neither is complete though.  100% playthroughs are not possible, and it's a shame to miss any of it.
 
       

@@ -4,7 +4,7 @@ timestamp: January 26th, 2019 4:09pm
 tags: ["show", "youtube", "game", "movie"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/SP8EoIBGog0?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![thumbnail](http://i3.ytimg.com/vi/SP8EoIBGog0/maxresdefault.jpg)](https://www.youtube.com/watch?v=SP8EoIBGog0)>
     
 Great insights on the relationships between critics and content producers and mob mentality.  
 

@@ -4,7 +4,7 @@ timestamp: March 29th, 2021 1:26pm
 tags: ["recommended", "movie", "thoughts", "cinema"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/rDkc2_phiJ4?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![thumbnail](http://i3.ytimg.com/vi/rDkc2_phiJ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=rDkc2_phiJ4)>
     
 I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
 

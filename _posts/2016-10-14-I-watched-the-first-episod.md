@@ -4,7 +4,7 @@ timestamp: October 14th, 2016 12:53pm
 tags: ["opinion", "tv", "show"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/z0t9pCnRW4o?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![thumbnail](http://i3.ytimg.com/vi/z0t9pCnRW4o/maxresdefault.jpg)](https://www.youtube.com/watch?v=z0t9pCnRW4o)>
     
 I watched the first episode of Channel Zero and I’m intrigued.
 

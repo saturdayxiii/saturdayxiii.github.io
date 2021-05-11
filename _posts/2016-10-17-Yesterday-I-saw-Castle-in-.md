@@ -5,7 +5,7 @@ tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal",
 ---
 post
 ## Laputa and self reflection regarding anime [journal] ##
-<figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/></figure>
+<figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/>
 Yesterday I saw Castle in the Sky at my local Theatre.<br/>
 
 I’ve gone to the theatre to see a couple Studio Ghibli films, as well as a select few other anime movies, and each time it poises a small conundrum for me; I can’t stand anime, but I enjoy seeing these films.

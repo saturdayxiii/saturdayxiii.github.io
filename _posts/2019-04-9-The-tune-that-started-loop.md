@@ -4,7 +4,7 @@ timestamp: April 9th, 2019 10:31am
 tags: ["vgm", "music", "recommended"]
 ---
 vid
-<iframe width="500" height="281"  id="youtube_iframe" src="https://www.youtube.com/embed/GtpaOi7Y-t8?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![thumbnail](http://i3.ytimg.com/vi/GtpaOi7Y-t8/maxresdefault.jpg)](https://www.youtube.com/watch?v=GtpaOi7Y-t8)>
     
 The tune that started looping in my head, seemingly from out of nowhere, today?
 
