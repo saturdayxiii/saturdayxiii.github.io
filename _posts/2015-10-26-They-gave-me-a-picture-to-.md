@@ -7,7 +7,5 @@ tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", 
 
 They gave me a picture to color.  I color what I want.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/131959904749</small>

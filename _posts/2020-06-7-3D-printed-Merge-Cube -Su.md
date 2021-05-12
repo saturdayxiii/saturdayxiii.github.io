@@ -7,7 +7,5 @@ tags: [""]
 
 3D printed Merge Cube.  Super happy that turned out.<br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/620327675644592128</small>

@@ -7,7 +7,5 @@ tags: ["bug", "insect", "macro", "flower", "pollen", "photography"]
 
 Squiggly.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149516566940</small>

@@ -7,7 +7,5 @@ tags: ["spider", "arachnid", "macro", "nature", "photography"]
 
 Hanging out
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149230541170</small>

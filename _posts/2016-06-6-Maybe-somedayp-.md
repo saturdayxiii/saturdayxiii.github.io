@@ -7,7 +7,5 @@ tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 
 Maybe someday.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145516013259</small>

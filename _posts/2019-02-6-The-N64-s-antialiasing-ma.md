@@ -7,7 +7,5 @@ tags: ["nintendo", "rbg"]
 
 The N64′s anti-aliasing makes it the least satisfying console to add RBG capabilities to.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182613913184</small>

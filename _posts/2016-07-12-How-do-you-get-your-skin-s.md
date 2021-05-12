@@ -7,7 +7,5 @@ tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]
 
 How do you get your skin so velvety?
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/147298958206</small>

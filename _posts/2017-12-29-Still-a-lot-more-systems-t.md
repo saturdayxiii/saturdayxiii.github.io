@@ -7,7 +7,5 @@ tags: ["retrogaming", "gamerdecor"]
 
 Still a lot more systems to do. #retrogaming #gamerdecor  (at Edmonton, Alberta)
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/169100695179</small>

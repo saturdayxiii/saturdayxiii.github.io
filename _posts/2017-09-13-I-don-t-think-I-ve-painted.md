@@ -7,8 +7,6 @@ tags: ["sweetie", "painting", "edmonton", "art"]
 
 I don’t think I’ve painted in a looong time.
  
-      
-      
   <div id="footer">
       <span id="timestamp"> September 13th, 2017 11:53am </span>
         <span class="tag">sweetie</span>

@@ -10,7 +10,5 @@ This carried over into the beginning of the second season.  I thought it was ju
 There’s a great mix of characters from all walks of life with strong personalities, and I love seeing them conflict then actually strive to accommodate each other.  The characters are actively interested in learning about each other and that is extremely refreshing.  By the end when the child molestation point was brought back, every character had some kind of struggle that tied into the analogy and it was displayed very intricate and delicately.
 Unfortunately Tig reminds me a lot of Brent Butt when he always seemed to star in shows that saw his character getting together with the cast’s most eligible bachelorette, but I’m now willing to bet that the writers are aware of this and will use this to further the story magnificently.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182048488999</small>

@@ -7,7 +7,5 @@ tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustr
 
 These days I’m always out of practice.  And I can never draw spiders accurately anyway.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/152983433934</small>

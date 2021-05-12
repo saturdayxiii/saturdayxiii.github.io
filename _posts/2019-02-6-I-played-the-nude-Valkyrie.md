@@ -7,7 +7,5 @@ tags: ["Game", "beercade", "yeg"]
 
 I played the nude Valkyrie.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182623849724</small>

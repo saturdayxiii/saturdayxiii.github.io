@@ -7,7 +7,5 @@ tags: ["photo", "pets", "snake", "photography"]
 
 You’ve been here already.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145463187950</small>

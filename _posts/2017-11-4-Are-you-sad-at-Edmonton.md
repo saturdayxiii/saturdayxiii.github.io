@@ -7,7 +7,5 @@ tags: ["edmonton", "photography"]
 
 Are you sad?! (at Edmonton, Alberta)
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/167143658889</small>

@@ -7,7 +7,5 @@ tags: ["photo", "bark", "texture", "photography"]
 
 Don’t be knotty.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/146020178743</small>

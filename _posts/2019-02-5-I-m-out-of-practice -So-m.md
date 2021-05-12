@@ -7,7 +7,5 @@ tags: ["design", "sketchup"]
 
 I’m out of practice.  So many revisions for a simple box.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182589004919</small>

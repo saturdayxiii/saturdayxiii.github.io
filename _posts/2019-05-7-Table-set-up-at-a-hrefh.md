@@ -7,7 +7,5 @@ tags: ["update", "yeg", "expo", "display", "presentation", "journal"]
 
 Table set up at <a href="https://www.direct-play.com/portfolio/direct-play-expo-spring-2019-2/" target="_blank">Direct Play Expo 2019</a>.  No side-hustle left behind.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/184715780939</small>

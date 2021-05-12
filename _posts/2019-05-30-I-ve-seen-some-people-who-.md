@@ -16,8 +16,5 @@ I am in the camp of folks that will sometimes not play a game because I can’t 
 Clearly this wouldn’t work for many stats based achievements, but any achievement that can be acknowledged from a menu or visual cue, like a life counter or stage title screen, should be trackable.  The system would parse a video frame by frame, and with Google Image-like AI it could be taught to recognize the visual cues of certain achievements.  It could even learn to apply certain standards to other games that might not support regular achievements.
 You might be thinking “But anyone can upload a video, if you’re going to be that lax about it, why not just mark off a public checklist”.  You’re essentially right.  If there’s a cheevie service that gives me acknowledgment just at my word, I’m down with that.  However, there still is legitimacy to uploading footage, after all, the speed running community does exactly this.  Some community scrutiny is required, and some cheaters do get through the system, but as previously declared: this will always be the case.
 There’s my long spiel for two rather mundane ideas.  There’s probably legitimate reasons why I’ve never heard anyone mention either before.  But I’m putting it out there.  Whether or not someone reads through this schlock or not, that’s a different matter.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/185247441974</small>

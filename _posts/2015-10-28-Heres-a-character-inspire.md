@@ -7,7 +7,5 @@ tags: ["character", "sketch", "design", "ink", "drawing", "sega", "art"]
 
 Here's a character inspired by all the Sega games I played on the plane, like Puyo Pop.  You can tell because, you know, the gloves and stuff&hellip;
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/132093594809</small>

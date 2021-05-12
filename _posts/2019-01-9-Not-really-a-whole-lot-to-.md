@@ -10,7 +10,5 @@ Not really a whole lot to say about it.  I just played it.  About half an hour
 It’s alright, if you must play your short stories rather than read them.
 Actually it’s a demo for a larger game, so that works.  I hope we’re not stuck in a car for the whole full length game, but I’m definitely interested in the “other gatekeepers” that this demo suggests we’ll come across.  I’ll keep an eye out for more news about this, but I’m not intrigued enough to chase it.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/181886640029</small>

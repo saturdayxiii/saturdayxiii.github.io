@@ -7,7 +7,5 @@ tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chi
 
 Scannograph food selfie! or whatever they call em.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/159572020123</small>

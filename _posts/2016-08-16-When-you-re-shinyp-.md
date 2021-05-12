@@ -7,7 +7,5 @@ tags: ["Spider", "macro", "photography"]
 
 When you’re shiny.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149038615983</small>

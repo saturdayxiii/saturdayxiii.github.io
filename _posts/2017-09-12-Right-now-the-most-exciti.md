@@ -11,7 +11,5 @@ Just take out the hard plastic housing that the fan is mounted to and mount it w
 I come from a background of high end speaker design where you depend on hard surfaces and solid mounts to drain vibrations out of a device. So the effectiveness of this mod is quite shocking to me, but makes complete sense in this application.
 Highly recommended!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/165261868799</small>

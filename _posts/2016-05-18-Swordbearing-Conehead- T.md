@@ -8,7 +8,5 @@ tags: ["photo", "hawaii", "grasshopper", "pointy", "bastard", "insect", "photogr
 Sword-bearing Conehead.  The closest wiki I could find to it. 
 -&gt; <a href="https://en.wikipedia.org/wiki/Nihoa_conehead_katydid" target="_blank">https://en.wikipedia.org/wiki/Nihoa_conehead_katydid</a>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144561714036</small>

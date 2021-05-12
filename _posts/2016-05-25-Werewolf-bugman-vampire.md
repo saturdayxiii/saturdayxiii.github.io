@@ -7,7 +7,5 @@ tags: ["illustration", "car", "werewolf", "vampire", "drawing", "ink", "art"]
 
 Werewolf, bugman, vampire&hellip; original characters, really?
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144915373212</small>

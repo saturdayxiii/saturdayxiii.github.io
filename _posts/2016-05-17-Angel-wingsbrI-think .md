@@ -7,7 +7,5 @@ tags: ["photo", "dragonfly", "insect", "sun", "summer", "spring", "photography"]
 
 Angel wings.<br/>I think <a href="https://en.wikipedia.org/wiki/Yellow-winged_darter" target="_blank">https://en.wikipedia.org/wiki/Yellow-winged_darter</a> ?
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144511828673</small>

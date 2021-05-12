@@ -7,7 +7,5 @@ tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 
 Yay!  Having a long stay at Beercade for the Twitch meetup and they put out art supplies.  Makes me happy.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/185617874449</small>

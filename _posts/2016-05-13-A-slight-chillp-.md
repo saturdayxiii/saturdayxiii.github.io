@@ -7,7 +7,5 @@ tags: ["photo", "edmonton", "bridge", "ice", "water", "river", "cold", "photogra
 
 A slight chill.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144305857302</small>

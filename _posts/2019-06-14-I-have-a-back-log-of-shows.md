@@ -14,8 +14,5 @@ This show regularly has me asking questions, particularly about accuracy, which 
 In particular to this episode, and maybe it’s because I watched in in isolation, having took a few weeks break since watching the second last episode, but I don’t find Cassey and Izzie’s relationship very believable.  At least not in the way it’s been written.  It was just too sudden.  Assuming I didn't flat out miss the signs (very possible), but they were both pretty heterotypical until they randomly kissed.  Now Casey shares stories of her newly developed sexual experiences involving her boyfriend with an uncomfortable Izzie who gains support by holding hands.  I have no problem with this outcome, I think the characters even had groundwork laid for it, but I didn’t see that groundwork actually grow.  It just seemed to happen because that’s the way it always happens on TV, or netflix, or whatever.
 But I guess I should trust the writers a little.  Elsa’s affair had the same lack of backing, but its become pretty well established that her character has a petty duality.  The writing strikes me as really sophisticated to have developed her as subtly and consistently as it has.  Maybe I don’t need to judge this as sharply as other shows and perhaps I’ll learn some qualities about these characters that I didn't notice at first.
 Heck, now having worked through some of these thoughts, I have a greater appreciation for the show than I did when I started this post.   Good stuff.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/185591786294</small>

@@ -7,7 +7,5 @@ tags: ["photo", "mushroom", "fungus", "plant", "photography"]
 
 Keep me fungus.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144762384055</small>

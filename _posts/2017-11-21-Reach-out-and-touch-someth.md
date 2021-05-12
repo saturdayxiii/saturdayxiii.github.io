@@ -7,7 +7,5 @@ tags: ["photo", "edmonton", "photography"]
 
 Reach out and touch something. (at Edmonton, Alberta)
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/167752516689</small>

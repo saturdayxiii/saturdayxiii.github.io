@@ -7,7 +7,5 @@ tags: ["spider", "tarantula", "toes", "feet", "macro", "photography"]
 
 Spider toes!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/152390147284</small>

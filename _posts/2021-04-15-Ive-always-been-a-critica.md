@@ -11,8 +11,5 @@ Minimme is excellent at this.  Their videos are more specifically about shining 
 Minimme is very clear why Alone in the Dark is a bad game, but is very objective about that, and about what the game has done well.  They do this from both a personal perspective and by comparing to other relative games.   It makes it very understandable what kind of audience the game is for.  So not only is it a great review, but the air of appreciation is infectious.  I, for one, do not want to play the game, but dang, some of those features are downright inspiring.  Maybe I could try it?  Well, at the very least I'll try hunting down a Lets Play.
 I'm loving the good vibes that are bringing about encouragement.  That's what I want in my life on a personal level.  I wanna see the critical aspects of things, but I want to be more upfront and excited about the positives.  Everything just kind of dies when the focus is on the critical.  Even if you get decent advice with the critique, it's not encouraging to try again unless you've got some clear positives to build off of.  I want to learn to be more positive.
 As Minimme says, "Get yourself in a forgiving mood."
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/648587249729110018</small>

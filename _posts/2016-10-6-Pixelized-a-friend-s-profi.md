@@ -7,7 +7,5 @@ tags: ["pixel", "digital", "art"]
 
 Pixelized a friend’s profile photo.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/151441183214</small>

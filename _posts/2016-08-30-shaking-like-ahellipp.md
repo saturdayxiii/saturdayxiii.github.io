@@ -7,7 +7,5 @@ tags: ["gif", "leaf", "nature", "wind", "photography"]
 
 shaking like a&hellip;
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149707794087</small>

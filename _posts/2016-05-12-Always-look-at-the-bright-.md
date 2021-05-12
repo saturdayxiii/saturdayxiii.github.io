@@ -7,7 +7,5 @@ tags: ["photo", "crab", "photography"]
 
 Always look at the bright side of the shell.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144256891142</small>

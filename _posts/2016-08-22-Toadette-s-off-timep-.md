@@ -7,7 +7,5 @@ tags: ["toadette", "game", "nintendo", "painting", "acrylic", "wii", "art"]
 
 Toadette’s off time.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149328992985</small>

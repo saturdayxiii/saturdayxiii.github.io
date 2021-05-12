@@ -18,7 +18,5 @@ This season is squarely centered around our two main characters, but we learn as
 The only real story is in the last episode, the “one hour special”, and it has nothing to do with our main characters.  Maybe you could just watch that, but you probably won’t feel good about it.
 So why is show with no story, being praised as the best anime of 2017?  Was it (another) bad year for anime?  Why are people whole heartedly recommending a show without mentioning that it goes no where, and children are regularly brutalized and assaulted?  Recommending this show without context is the same as recommending Ebichu the hamster without mentioning that it’s nothing like Hamtaro.  Not that I’d recommend either of those, but I think you know what I’m saying.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/181881333409</small>

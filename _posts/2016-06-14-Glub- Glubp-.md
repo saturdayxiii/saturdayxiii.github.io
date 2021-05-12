@@ -7,7 +7,5 @@ tags: ["photo", "fish", "frog", "underwater", "aquarium", "photography"]
 
 Glub.  Glub.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145918742144</small>

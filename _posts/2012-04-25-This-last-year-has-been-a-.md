@@ -10,8 +10,5 @@ There is an abundance of information online about what 5-HTP is, how it works, a
 I've been using the pills for nearly a week now.  I've paired them with pills of rhodiola rosea, taking 50 mg of 5-HTP in the evenings before bed and 400mg of rhodiola with breakfast in the morning.  Things have been a lot more manageable this week.  I don't have nearly as concrete of a feeling from taking the rhodiola, but there has been times were I've noticed myself being particularly anxious and even paranoid, these feelings allowed me to recall that I hadn't taken my rhodiola pills that morning.  So I assume they're doing something good.
 I told my therapist that I was insecure about taking medication because I didn't know what it would do to me.  I really didn't want to lose myself or feel that I was only different because of a pill.  5-HTP makes me feel like who I remember myself to be before I had chronic anxiety issues.  I still have all my feelings.  I have worries and anxieties, they just don't seem nearly as critical and I can even put them aside to worry about later.  On good days I used to tell my girlfriend that it just feels like my problems are farther away, somewhere in the distance, and this is consistently true when I take 5-HTP.
 So my non medical opinion based on my first week of these drugs is: if you're hurting enough to consider supplements, try 5-HTP and rhodiola rosea.  My personal goal is to use them steadily together for a month then test my progress.  Hopefully I'll be able to stay off both for a while.  If not, I'll try doing rhodiola rosea solo and report my experience.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/21793003816</small>

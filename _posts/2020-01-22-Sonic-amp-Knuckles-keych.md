@@ -8,7 +8,5 @@ tags: [""]
 Sonic &amp; Knuckles keychain
 <a href="https://www.thingiverse.com/thing:4119050" target="_blank">https://www.thingiverse.com/thing:4119050</a><br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/190408289769</small>

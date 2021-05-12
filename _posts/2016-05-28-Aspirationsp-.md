@@ -7,7 +7,5 @@ tags: ["gba", "nintendo", "sonic", "idea", "art"]
 
 Aspirations.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145061451694</small>

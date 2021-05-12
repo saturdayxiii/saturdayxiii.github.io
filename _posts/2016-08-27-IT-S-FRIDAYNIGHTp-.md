@@ -7,7 +7,5 @@ tags: ["snake", "snek", "mouse", "feed", "reptile", "photography"]
 
 IT”S FRIDAYNIGHT!!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149562517985</small>

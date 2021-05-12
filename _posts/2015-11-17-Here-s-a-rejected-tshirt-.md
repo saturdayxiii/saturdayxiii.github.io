@@ -7,7 +7,5 @@ tags: ["thor", "shark", "hammerhead", "marvel", "vector", "art", "movie", "comic
 
 Here’s a rejected t-shirt design.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/133444278309</small>

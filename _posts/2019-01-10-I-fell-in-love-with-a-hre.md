@@ -12,7 +12,5 @@ An often neglected aspect of puzzle games is often the puzzles themselves, but I
 <a href="https://66.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_1280.jpg" target='_blank"'><figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg" alt="image" data-orig-width="2048" data-orig-height="1536"/></a>
 Soooo, this still is a casual point-and-click puzzle game.  If you absolutely detest them, then know that this game isn’t breaking any new ground to win your heart.  However, if you’re open to them, then this one is definitely worth some hype.  And God knows I hate hype.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/181907012504</small>

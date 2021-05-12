@@ -7,7 +7,5 @@ tags: ["segagenesis", "consolemod", "photo", "edmonton", "art"]
 
 Bronze age. #segagenesis #consolemod #casemod #videogames  (at Edmonton, Alberta)
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/166588381829</small>

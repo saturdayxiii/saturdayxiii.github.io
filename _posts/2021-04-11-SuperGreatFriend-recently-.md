@@ -10,8 +10,5 @@ I'm sharing iconoclast187's playthrough because I favor his knowledgeable explan
 This movie version is also good.
 [![thumbnail](http://i3.ytimg.com/vi/-nLO2kz2Txs/hqdefault.jpg)](https://www.youtube.com/watch?v=-nLO2kz2Txs)
 Neither is complete though.  100% playthroughs are not possible, and it's a shame to miss any of it.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/648191989641347072</small>

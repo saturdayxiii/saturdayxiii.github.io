@@ -7,7 +7,5 @@ tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]
 
 When you have a favorite cozy, but it’s not really that cozy.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/148502555644</small>

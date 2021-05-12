@@ -7,7 +7,5 @@ tags: ["lake", "dock", "yard", "art", "photography"]
 
 This weekend’s view in pixels.  Zoom in recommended to see all the squareness.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/148333815754</small>

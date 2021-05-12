@@ -8,7 +8,5 @@ tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography"]
 Baby dragonfly skin!
 *Drastically overcompensates for the lack of focus*
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/147350957170</small>

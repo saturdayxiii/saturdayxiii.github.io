@@ -7,7 +7,5 @@ tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon"]
 
 Espresso Glamour.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145813300168</small>

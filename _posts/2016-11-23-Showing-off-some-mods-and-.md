@@ -7,7 +7,5 @@ tags: ["cvgc", "controller", "paint", "custom", "metallic", "convention", "edmon
 
 Showing off some mods and selling a few lesser wares this weekend at the Classic  Video Game Championships at NAIT.  3 months prep and I couldn’t come up with any creative customs for my controllers, so I just gave them some shiny colors.  Now I want to do a whole Genesis 3 in copper.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/153587983579</small>

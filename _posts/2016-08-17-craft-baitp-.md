@@ -7,7 +7,5 @@ tags: ["flower", "photography", "macro"]
 
 craft bait.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149087666693</small>

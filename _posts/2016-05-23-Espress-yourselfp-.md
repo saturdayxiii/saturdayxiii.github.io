@@ -7,7 +7,5 @@ tags: ["capuccino", "flower", "coffee", "edible", "art"]
 
 Espress yourself.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144815258057</small>

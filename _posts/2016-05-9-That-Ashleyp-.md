@@ -7,7 +7,5 @@ tags: ["tarantula", "spider", "cute", "eyes", "macro", "gif", "photography"]
 
 That Ashley.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144101661784</small>

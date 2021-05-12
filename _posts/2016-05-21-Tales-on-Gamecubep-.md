@@ -7,7 +7,5 @@ tags: ["photography", "photo", "painting", "gamecube", "nintendo", "symphonia", 
 
 Tales on Gamecube.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144710201771</small>

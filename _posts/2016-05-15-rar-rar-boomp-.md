@@ -7,7 +7,5 @@ tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]
 
 rar rar boom!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144408396688</small>

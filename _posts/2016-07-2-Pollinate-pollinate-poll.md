@@ -7,7 +7,5 @@ tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"
 
 Pollinate, pollinate, pollinate.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/146807870671</small>

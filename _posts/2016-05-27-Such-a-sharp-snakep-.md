@@ -7,7 +7,5 @@ tags: ["photo", "reptile", "snake", "pets", "photography"]
 
 Such a sharp snake!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145013674071</small>

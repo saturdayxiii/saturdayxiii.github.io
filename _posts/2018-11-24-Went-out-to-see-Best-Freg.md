@@ -9,7 +9,5 @@ Went out to see Best F&reg;iends Volume One with Greg Sestero in audience.  It 
 The movie was decent too.  Probably the only kind of role that Tommy can genuinely play.  Movie came across as a very artsy production.  Greg admitted accurately that it was a long film, but they did a decent job keeping it entertaining.
 I couldn’t bring myself to stay up for the sequel.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/181058445904</small>

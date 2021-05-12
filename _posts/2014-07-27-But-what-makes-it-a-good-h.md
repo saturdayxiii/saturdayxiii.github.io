@@ -11,7 +11,5 @@ But what makes it a good hidden object point and click? I'm not an expert, but I
 Ehh, it's a fine hidden object, point and click game. If you're expecting something good, you'll likely be disappointed. If you're expecting something horrible, you might be impressed. It's fine.
 <br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182016633414</small>

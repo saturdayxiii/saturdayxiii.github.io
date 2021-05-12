@@ -7,7 +7,5 @@ tags: ["pixel", "graphics", "tiny", "art"]
 
 I think I may have stolen this idea from somewhere&hellip; or a few places.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/148460620264</small>

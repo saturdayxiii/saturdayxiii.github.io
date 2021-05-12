@@ -7,7 +7,5 @@ tags: ["liquor", "plush", "edible"]
 
 A little bit of heaven for the captain.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149770647029</small>

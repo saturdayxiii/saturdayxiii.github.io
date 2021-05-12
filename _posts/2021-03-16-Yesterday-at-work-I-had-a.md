@@ -4,8 +4,8 @@ timestamp: March 16th, 2021 12:02pm
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 ---
 
-| <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/> | 
-| <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/> | 
+| <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/> |
+| <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/> |
 
 Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
 Why did it go so horribly?
@@ -21,7 +21,5 @@ Here’s my individual notes:
 Hopefully this word vomit cleanses me, or something.  Though why would it?  I don’t think my art has improved for the last 15 years.  I have a couple helpful techniques for digital art, but nothing that applies in this exercise.  I can’t even pin point anything I did right in these sketches.  Like, nothing that’s says “that’s good, keep doing that.”  It’s just, throw it all away and start at square zero again.  At least I got some new teases, like, maybe try a chisel marker on a full canvas, find a way to fake a sketch that will let me test proportions before final lines, and looking at the thumbnails of my work is even helping me pick out better shapes in my subjects that I wish I noticed the first time.
 *sigh*, maybe at some decade in my life I’ll be able to do consistent work of an adequate quality, or at least perhaps the false hope will keep me from falling into complete anhedonia.  Maybe.<br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/645836584988590080</small>

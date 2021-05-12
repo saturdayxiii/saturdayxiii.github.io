@@ -13,8 +13,5 @@ Vivaldi I was most excited about because it was essentially Opera.  I’ve endo
 But the nail in the coffin was the fact that Vivaldi didn’t have a proper portable app.  They have a standalone that could be run in isolation, but it reset all the data every time I changed machines.  Of course it has its own sync service, but this still needs to be signed into every time and it doesn’t keep web site preferences cached.  At least with Opera this only happened every so often, most likely with software updates, not with every machine change.
 So I’m back on Opera.  I’ve got sync set up and I’m feeling good.  I guess I don’t have a problem with the devil so long as he has good services.
 Vivaldi, if you want to be my savior: get on that portability, please.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/188888561964</small>

@@ -70,11 +70,11 @@ for file in directory:
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #lets table-ize groups of images
-    threeimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
-    twoimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
-    #oneimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*', flags=re.S) #I dunno how to distiquish this from any regular single image
-    read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> | \n',read_file)
-    read_file = re.sub(twoimg,'| \g<1> | \g<2> |  | \n',read_file)
+    threeimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    twoimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    #oneimg = re.compile('\s*(<img.*?>)\s*?</p>\s*', flags=re.S) #I dunno how to distiquish this from any regular single image
+    read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> |\n',read_file)
+    read_file = re.sub(twoimg,'| \g<1> | \g<2> |  |\n',read_file)
     #now actually fix the img src
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
     #fix video urls.  
@@ -130,7 +130,7 @@ for file in directory:
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
     replacefoot = re.compile('<div id="footer">[^\.]*$', flags=re.S)
     read_file = re.sub(replacefoot,'',read_file)
-    newlines = ["<p></p>", "<p>", "</p>", "\n\n\n", "\n\n", "\n\s*?\n"]
+    newlines = ["<p></p>", "<p>", "</p>", "\n\s*\n", "\n\n\n", "\n\n"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
     erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>']

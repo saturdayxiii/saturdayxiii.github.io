@@ -7,7 +7,5 @@ tags: ["photography", "edmonton", "alberta", "street"]
 
 Downtown Edmonton
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182065701899</small>

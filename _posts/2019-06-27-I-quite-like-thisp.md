@@ -9,7 +9,5 @@ I quite like this.
 Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019
 <br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/190407228749</small>

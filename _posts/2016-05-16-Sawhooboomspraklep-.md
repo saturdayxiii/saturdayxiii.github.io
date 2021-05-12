@@ -7,7 +7,5 @@ tags: ["fireworks", "hokkaido", "hanabi", "photography"]
 
 Sawhoo~boom-sprakle!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144458734159</small>

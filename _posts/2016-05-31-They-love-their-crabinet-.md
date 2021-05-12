@@ -7,7 +7,5 @@ tags: ["cage", "tank", "crabitat", "crabinet", "pets"]
 
 They love their crabinet.  Actually they hide behind the mat for months at a time.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145214590836</small>

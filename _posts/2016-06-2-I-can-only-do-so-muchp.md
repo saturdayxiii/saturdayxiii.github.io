@@ -7,7 +7,5 @@ tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography"]
 
 I can only do so much.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145314581795</small>

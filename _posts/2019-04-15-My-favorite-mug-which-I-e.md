@@ -8,7 +8,5 @@ tags: ["art", "mug", "pastel", "paint", "ceramic", "crankpots"]
 My favorite mug, which I expertly painted, has a crack in it and will soon be RIP.
 May it forever be remembered here.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/184207088519</small>

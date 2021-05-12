@@ -7,7 +7,5 @@ tags: ["yoshi", "qlone", "misc"]
 
 3D scanning nope
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182299758994</small>

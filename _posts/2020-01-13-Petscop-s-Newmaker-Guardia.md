@@ -7,7 +7,5 @@ tags: ["art"]
 
 Petscop’s Newmaker Guardian.<br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/190247453939</small>

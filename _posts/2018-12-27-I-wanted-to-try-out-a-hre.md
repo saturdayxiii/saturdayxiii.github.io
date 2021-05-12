@@ -13,8 +13,5 @@ I can’t vouch for any accuracy in the forensics because it’s so limited by t
 There’s an over arching story, which does the job well enough, but the cookie cutter characters don’t seem to have any real stakes in it.  
 While the artwork is pretty, you've seen all the good stuff already in the advertising.  There’s no variation or animation of the characters in game.
 So the game is pretty sub par unless you’re really desperate, or this really hits a specific niche for you.  Overall it really doesn't feel like the developers want you to play their game.  All the dollar signs around the wait times feel like a warning rather than an invitation.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/181467903259</small>

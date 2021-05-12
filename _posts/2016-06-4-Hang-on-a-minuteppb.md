@@ -9,7 +9,5 @@ Hang on a minute.
 <br/>
 <a href="https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth" target="_blank">https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth</a><br/>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145412487706</small>

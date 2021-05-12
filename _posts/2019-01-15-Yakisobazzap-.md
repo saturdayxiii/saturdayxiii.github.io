@@ -7,7 +7,5 @@ tags: ["Edible", "food", "pizza"]
 
 Yakisoba'zza
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/182050264469</small>

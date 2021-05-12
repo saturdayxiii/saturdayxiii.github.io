@@ -7,7 +7,5 @@ tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "con
 
 If only I could airbrush.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/150081411419</small>

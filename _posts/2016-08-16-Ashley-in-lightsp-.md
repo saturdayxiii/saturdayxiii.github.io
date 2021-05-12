@@ -7,7 +7,5 @@ tags: ["tarantula", "blacklight", "photography"]
 
 Ashley in lights.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149034981519</small>

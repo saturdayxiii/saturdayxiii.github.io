@@ -7,7 +7,5 @@ tags: ["music", "concert", "event", "photography"]
 
 Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/183530324689</small>

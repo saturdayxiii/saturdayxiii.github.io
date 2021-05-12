@@ -7,7 +7,5 @@ tags: ["painting", "digital", "art", "Movie"]
 
 Missing Robert Z’Dar
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145363605283</small>

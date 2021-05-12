@@ -7,7 +7,5 @@ tags: ["photo", "clouds", "flying", "sunset", "sunrise", "sky", "photography"]
 
 It’s lonely at the top.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144355354663</small>

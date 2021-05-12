@@ -17,8 +17,5 @@ From what I understand Nausicaa is the first true Miyazaki movie, and it is exac
 Oh, hey, wouldn’t you know that another movie is in the works!  Well, okay.  I’m not tremendously excited like some people, but it’s a far cry from how I’m rolling my eyeballs at the new live action Full Metal Alchemist trailers.  I get it.  It didn’t take many live action Japanese adaptations before I felt like I wasn’t going to see anything new.  I’m not surprised, I’m not impressed, I’m not invested, I’m not curious.  Another Miyazaki movie, however?  It could be alright.
 <figure class="tmblr-full" data-orig-height="1190" data-orig-width="2711"><img src="https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg" data-orig-height="1190" data-orig-width="2711"/>
 Maybe I’m just spoilt.
-      
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/153276318489</small>

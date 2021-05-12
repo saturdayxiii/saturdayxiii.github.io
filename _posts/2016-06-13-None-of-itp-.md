@@ -7,7 +7,5 @@ tags: ["photo", "snake", "pets", "photography"]
 
 None of it.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145866810270</small>

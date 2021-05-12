@@ -7,7 +7,5 @@ tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]
 
 Do you know your malts?
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144964873176</small>

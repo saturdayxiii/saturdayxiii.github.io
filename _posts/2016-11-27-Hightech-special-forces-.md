@@ -7,7 +7,5 @@ tags: ["painting", "acrylic", "Nintendo", "mgs", "konami", "art", "game"]
 
 High-tech special forces, Star Fox.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/153740564569</small>

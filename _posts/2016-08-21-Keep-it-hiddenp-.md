@@ -7,7 +7,5 @@ tags: ["beetle", "bug", "insect", "leaf", "green", "macro", "gif", "photography"
 
 Keep it hidden.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149279138256</small>

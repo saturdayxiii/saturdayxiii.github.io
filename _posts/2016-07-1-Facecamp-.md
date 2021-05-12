@@ -7,7 +7,5 @@ tags: ["snake", "pets", "photography"]
 
 Facecam.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/146761127860</small>

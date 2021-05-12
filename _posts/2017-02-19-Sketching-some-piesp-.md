@@ -7,7 +7,5 @@ tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 
 Sketching some pies.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/157453831474</small>

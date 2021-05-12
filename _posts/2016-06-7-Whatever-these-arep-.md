@@ -7,7 +7,5 @@ tags: ["photo", "macro", "flower", "photography"]
 
 Whatever these are.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145567052190</small>

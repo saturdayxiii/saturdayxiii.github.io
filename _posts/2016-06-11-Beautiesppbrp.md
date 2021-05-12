@@ -9,7 +9,5 @@ Beauties.
 <br/>
 maybe <a href="https://en.wikipedia.org/wiki/Hyalophora_columbia" target="_blank">https://en.wikipedia.org/wiki/Hyalophora_columbia</a> ?
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145763608733</small>

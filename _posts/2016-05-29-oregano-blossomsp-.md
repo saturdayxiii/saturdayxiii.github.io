@@ -7,7 +7,5 @@ tags: ["photo", "oregano", "flower", "macro", "photography"]
 
 oregano blossoms
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145111033223</small>

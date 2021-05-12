@@ -7,7 +7,5 @@ tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 
 went to the zoo yesterday. @buildingourzoo
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/149423030176</small>

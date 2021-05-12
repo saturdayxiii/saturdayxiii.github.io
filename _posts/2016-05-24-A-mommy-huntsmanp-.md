@@ -7,7 +7,5 @@ tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "phot
 
 A mommy huntsman!
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144865619215</small>

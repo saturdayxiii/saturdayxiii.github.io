@@ -7,7 +7,5 @@ tags: ["tarantula", "shed", "insect", "photography"]
 
 Ashley gettin comfy for a molt.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/147403431858</small>

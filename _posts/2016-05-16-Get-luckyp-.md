@@ -7,7 +7,5 @@ tags: ["photo", "lucky", "clover", "triplets", "photography"]
 
 Get lucky.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144461309383</small>

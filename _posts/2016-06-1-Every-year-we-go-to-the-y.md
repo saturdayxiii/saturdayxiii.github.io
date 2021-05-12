@@ -7,7 +7,5 @@ tags: ["photo", "wormies", "insect", "caterpillar", "photography"]
 
 Every year we go to the #yegrivervalley just to see the wormies.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/145264893918</small>

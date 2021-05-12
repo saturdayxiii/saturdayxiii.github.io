@@ -7,7 +7,5 @@ tags: ["ladybug", "ladybird", "beetle", "spots", "macro", "gif", "cute", "insect
 
 Wanderer.
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/144104657039</small>

@@ -8,7 +8,5 @@ tags: ["pixly", "edmonton", "pattern", "64x64", "16bit", "tile", "texture", "art
 Making wicker
 <a href="https://photos.app.goo.gl/2JFeziVRJUFJUxP52" target="_blank">Pattern Download</a>
  
-      
-      
   
 <small>source: https://saturdayxiii.tumblr.com/post/167998904429</small>
