@@ -70,9 +70,9 @@ for file in directory:
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #lets table-ize groups of images
-    threeimg = re.compile('(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>', flags=re.S)
-    twoimg = re.compile('(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>', flags=re.S)
-    #oneimg = re.compile('(<img.*?>)\s*?</p>', flags=re.S) #I dunno how to distiquish this from any regular single image
+    threeimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    twoimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    #oneimg = re.compile('\s*?(<img.*?>)\s*?</p>\s*', flags=re.S) #I dunno how to distiquish this from any regular single image
     read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> | \n',read_file)
     read_file = re.sub(twoimg,'| \g<1> | \g<2> |  | \n',read_file)
     #now actually fix the img src

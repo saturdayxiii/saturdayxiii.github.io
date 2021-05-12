@@ -4,9 +4,9 @@ timestamp: March 16th, 2021 12:02pm
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 ---
 
- | <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/> | 
- | <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/> | 
-        
+| <img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg"/> | 
+| <img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg"/> | <img src="https://saturdayxiii.github.io/media/645836584988590080_6.jpg"/> | 
+
 Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
 Why did it go so horribly?
 These pictures are my practice and while the one I half-assed at work wasn’t great, these ones are off the chart bad.  I don’t know what exactly I need to fix in my approach to even get on the right path, but needed to post my thoughts about the experience.  Maybe in hopes that that will be the trigger that helps me get better and leave these scraps behind, even though I don’t know how to improve even if I could be confident that I’d properly assessed my weaknesses.  I mean, that’s why I did these sketches, because I thought I knew what areas to focus on, and it took me a huge step backwards.
