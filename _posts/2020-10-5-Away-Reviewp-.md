@@ -3,8 +3,7 @@ type: vid
 timestamp: October 5th, 2020 12:00am
 tags: ["recommended", "games", "review"]
 ---
-vid
-[![thumbnail](http://i3.ytimg.com/vi/beF1Tv5BIeI/maxresdefault.jpg)](https://www.youtube.com/watch?v=beF1Tv5BIeI)>
+[![thumbnail](http://i3.ytimg.com/vi/beF1Tv5BIeI/hqdefault.jpg)](https://www.youtube.com/watch?v=beF1Tv5BIeI)>
     
 Away Review!
  

@@ -69,17 +69,22 @@ for file in directory:
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
-    #
+    #lets table-ize groups of images
+    threeimg = re.compile('(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>', flags=re.S)
+    twoimg = re.compile('(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>', flags=re.S)
+    #oneimg = re.compile('(<img.*?>)\s*?</p>', flags=re.S) #I dunno how to distiquish this from any regular single image
+    read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> | \n',read_file)
+    read_file = re.sub(twoimg,'| \g<1> | \g<2> |  | \n',read_file)
+    #now actually fix the img src
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
-    #gifs may be diffrrent
     #fix video urls.  
-    read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
-    read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
-    tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/maxresdefault.jpg\)", read_file)
+    read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/hqdefault.jpg\)", read_file)
     for tube in tubes:
         print (tube)
-        yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/maxresdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
-        yturld = yturl + ">" + yturl
+        yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/hqdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
+        yturld = yturl + ">" + yturl + ">"
         read_file = re.sub(rf"{re.escape(yturld)}", yturl, read_file)
     #playlists are probably different
     #replace chars
@@ -103,7 +108,8 @@ for file in directory:
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
     #date is now title I guess
-    #make a summary
+    #make a summary WAIT!  We don't need it no more
+    '''
     summ2 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
     summ2.append('')
     summ1 = summ2[0]
@@ -112,8 +118,7 @@ for file in directory:
     for char in summ1:
         if char not in punc:
             summ = summ + char
-    #print date
-    #print summ
+    '''
     # make tag list and generate frontmatter
     tags = re.findall('tag">(\w*)<', read_file)
     tags = '"' + '", "'.join(tags)
@@ -125,7 +130,7 @@ for file in directory:
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
     replacefoot = re.compile('<div id="footer">[^\.]*$', flags=re.S)
     read_file = re.sub(replacefoot,'',read_file)
-    newlines = ["<p></p>", "<p>", "</p>"]
+    newlines = ["<p></p>", "<p>", "</p>", "\n\n\n", "\n\n", "\n\s*?\n"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
     erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>']
@@ -134,8 +139,8 @@ for file in directory:
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
-    read_file = fmatt + post + "\n" + read_file + "\n" + source
+    fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---'
+    read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 

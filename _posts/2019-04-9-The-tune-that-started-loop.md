@@ -3,11 +3,9 @@ type: vid
 timestamp: April 9th, 2019 10:31am
 tags: ["vgm", "music", "recommended"]
 ---
-vid
-[![thumbnail](http://i3.ytimg.com/vi/GtpaOi7Y-t8/maxresdefault.jpg)](https://www.youtube.com/watch?v=GtpaOi7Y-t8)>
+[![thumbnail](http://i3.ytimg.com/vi/GtpaOi7Y-t8/hqdefault.jpg)](https://www.youtube.com/watch?v=GtpaOi7Y-t8)>
     
 The tune that started looping in my head, seemingly from out of nowhere, today?
-
 Secret of Mana, Together Always
  
   

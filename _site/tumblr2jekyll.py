@@ -71,12 +71,17 @@ for file in directory:
     #this shouldn't be necessary... try fixing html first
     #
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
-    #gifs are different, see kvass post
-    #fix video urls.  Do they need it? Yes.
-    #read_file = re.sub('<iframe.*v=', 'embed/', read_file)
-    #?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque"
-    #what was I doing? try this
+    #gifs may be diffrrent
+    #fix video urls.  
     read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/maxresdefault.jpg\)", read_file)
+    for tube in tubes:
+        print (tube)
+        yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/maxresdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
+        yturld = yturl + ">" + yturl + ">"
+        read_file = re.sub(rf"{re.escape(yturld)}", yturl, read_file)
+    #playlists are probably different
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -123,7 +128,7 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '##  ##'] # non htlm text like '####' needs to be before html for html to work, we'll add it later.
+    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>']
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')

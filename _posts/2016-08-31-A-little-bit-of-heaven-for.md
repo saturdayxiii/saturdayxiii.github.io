@@ -3,14 +3,10 @@ type: img
 timestamp: August 31st, 2016 6:46pm
 tags: ["liquor", "plush", "edible"]
 ---
-img
 <img src="https://saturdayxiii.github.io/media/149770647029.jpg"/>
 
 A little bit of heaven for the captain.
  
-      
-      
-      
       
       
   

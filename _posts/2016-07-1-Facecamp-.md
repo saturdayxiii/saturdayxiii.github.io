@@ -3,14 +3,10 @@ type: img
 timestamp: July 1st, 2016 12:00pm
 tags: ["snake", "pets", "photography"]
 ---
-img
 <img src="https://saturdayxiii.github.io/media/146761127860.jpg"/>
 
 Facecam.
  
-      
-      
-      
       
       
   

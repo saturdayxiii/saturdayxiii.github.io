@@ -3,8 +3,7 @@ type: vid
 timestamp: July 29th, 2016 2:51pm
 tags: ["bug", "insect", "fly", "macro", "photography"]
 ---
-vid
-[![thumbnail](http://i3.ytimg.com/vi/G1vLIfLtD60/maxresdefault.jpg)](https://www.youtube.com/watch?v=G1vLIfLtD60)>
+[![thumbnail](http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg)](https://www.youtube.com/watch?v=G1vLIfLtD60)>
     
 I don’t know what this music is, but I’m glad I found it.
  

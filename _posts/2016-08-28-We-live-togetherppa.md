@@ -3,35 +3,13 @@ type: post
 timestamp: August 28th, 2016 12:00pm
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
 ---
-post
 
-
- <img src="https://saturdayxiii.github.io/media/149610653063_1.jpg"/>
-       
-
-   
-
- <img src="https://saturdayxiii.github.io/media/149610653063_2.jpg"/>
-       
-
-   
-
- <img src="https://saturdayxiii.github.io/media/149610653063_3.jpg"/>
-       
-
-   
-
+ | <img src="https://saturdayxiii.github.io/media/149610653063_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_3.jpg"/> | 
  <img src="https://saturdayxiii.github.io/media/149610653063_4.jpg"/>
-       
-
         
 We live together.
-
 <a href="https://en.wikipedia.org/wiki/Plecoptera" target="_blank">https://en.wikipedia.org/wiki/Plecoptera</a><br/>
  
-      
-      
-      
       
       
   

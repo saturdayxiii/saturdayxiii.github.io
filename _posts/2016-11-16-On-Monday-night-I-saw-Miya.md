@@ -3,9 +3,7 @@ type: post
 timestamp: November 16th, 2016 4:02pm
 tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie"]
 ---
-post
 ## Further topicless ramblings about select cartoons [journal] ##
-
 On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre.  So this is a follow up post to the one I’ve made in reaction to <a href="http://saturdayxiii.tumblr.com/post/151944972574/laputa-and-self-reflection-regarding-anime" target="_blank">Laputa: Castle in the Sky</a>.  I also thought it would be fun to attempt drawing in the dark theatre as the movie played.  So enjoy my renditions of certain “key” scenes.
 <figure data-orig-width="2841" data-orig-height="3958" class="tmblr-full"><img src="https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg" alt="image" data-orig-width="2841" data-orig-height="3958"/>
 In true waffling fashion, as soon as I posted my laments towards being unable to enjoy anime I have found myself enjoying old anime.  Neon Genesis Evangelion has kept me entertained the last couple weeks, and I’m fairly eager to try rewatching Mars Daybreak, Mai Hime, and some others.  I’m thinking it will be Trigun, or Hunter X Hunter 2011, which tells me whether or not I’m truly a hypocrite.  Those first few episodes were brutal the last time I rewatched them, and honestly they still don’t look entirely appealing.
@@ -19,10 +17,6 @@ From what I understand Nausicaa is the first true Miyazaki movie, and it is exac
 Oh, hey, wouldn’t you know that another movie is in the works!  Well, okay.  I’m not tremendously excited like some people, but it’s a far cry from how I’m rolling my eyeballs at the new live action Full Metal Alchemist trailers.  I get it.  It didn’t take many live action Japanese adaptations before I felt like I wasn’t going to see anything new.  I’m not surprised, I’m not impressed, I’m not invested, I’m not curious.  Another Miyazaki movie, however?  It could be alright.
 <figure class="tmblr-full" data-orig-height="1190" data-orig-width="2711"><img src="https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg" data-orig-height="1190" data-orig-width="2711"/>
 Maybe I’m just spoilt.
-
-      
-      
-      
       
       
       

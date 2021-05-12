@@ -3,14 +3,10 @@ type: img
 timestamp: August 27th, 2016 12:00pm
 tags: ["snake", "snek", "mouse", "feed", "reptile", "photography"]
 ---
-img
 <img src="https://saturdayxiii.github.io/media/149562517985.gif"/>
 
 IT”S FRIDAYNIGHT!!
  
-      
-      
-      
       
       
   
