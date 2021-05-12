@@ -72,9 +72,10 @@ for file in directory:
     #lets table-ize groups of images
     threeimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
     twoimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
-    #oneimg = re.compile('\s*(<img.*?>)\s*?</p>\s*', flags=re.S) #I dunno how to distiquish this from any regular single image
+    oneimg = re.compile('\s*(<img.*?>)\s*?</p>\s*', flags=re.S)
     read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> |\n',read_file)
     read_file = re.sub(twoimg,'| \g<1> | \g<2> |  |\n',read_file)
+    read_file = re.sub(oneimg,'|  | \g<1> |  |\n', read_file)
     #now actually fix the img src
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
     #fix video urls.  
@@ -123,9 +124,11 @@ for file in directory:
     tags = re.findall('tag">(\w*)<', read_file)
     tags = '"' + '", "'.join(tags)
     #delete html bits
-    head = re.match('^.*<body>\s+',read_file, re.DOTALL)
-    read_file = re.sub(head.group(0),"",read_file)
-    foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
+    #head = re.match('^.*<body>\s+',read_file, re.DOTALL) #another random break, tho I'm surprised this line worked at all
+    #read_file = re.sub(head.group(0),"",read_file)
+    head = re.compile ('^.*<body>\s+', flags=re.S)
+    read_file = re.sub(head, "", read_file)
+    #foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
     #print (foot)
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
     replacefoot = re.compile('<div id="footer">[^\.]*$', flags=re.S)

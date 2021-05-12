@@ -4,9 +4,9 @@ timestamp: May 11th, 2018 11:09am
 tags: ["snapmaker"]
 ---
 
-| <img src="https://saturdayxiii.github.io/media/173801922419_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_3.jpg"/> |
+||  | <img src="https://saturdayxiii.github.io/media/173801922419_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_2.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_3.jpg"/> |
 | <img src="https://saturdayxiii.github.io/media/173801922419_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_5.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_6.jpg"/> |
-| <img src="https://saturdayxiii.github.io/media/173801922419_7.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_8.jpg"/>
+| <img src="https://saturdayxiii.github.io/media/173801922419_7.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_8.jpg"/> |  |
 ' .These are actually straight.  My lens is distorting it.  . 
 ;
  <img src="https://saturdayxiii.github.io/media/173801922419_9.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_10.jpg"/> |

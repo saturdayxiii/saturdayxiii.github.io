@@ -3,10 +3,16 @@ type: img
 timestamp: June 11th, 2016 12:00pm
 tags: ["photo", "moth", "park", "insect", "photography"]
 ---
-<img src="https://saturdayxiii.github.io/media/145763608733.jpg"/>
+        <!DOCTYPE HTML>
+        <html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link rel="stylesheet" type="text/css" href="../style.css"/>
+  </head>
+  <body>|  | <img src="https://saturdayxiii.github.io/media/145763608733.jpg"/>
 
 Beauties.
-<br/>
+<br/> |  |
 maybe <a href="https://en.wikipedia.org/wiki/Hyalophora_columbia" target="_blank">https://en.wikipedia.org/wiki/Hyalophora_columbia</a> ?
  
   
