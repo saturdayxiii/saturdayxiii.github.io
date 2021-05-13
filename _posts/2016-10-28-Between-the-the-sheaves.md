@@ -4,7 +4,7 @@ timestamp: October 28th, 2016 1:44pm
 tags: ["spider", "arachnid", "macro", "photography"]
 ---
 
-| <img src="https://saturdayxiii.github.io/media/152434361519_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/152434361519_2.jpg"/> |  |
+| <img src="https://saturdayxiii.github.io/media/152434361519_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/152434361519_1.jpg"/> |  |
 
 Between the the sheaves.
  

@@ -21,7 +21,7 @@ for file in directory:
     with io.open(file,'r',encoding='utf8') as open_file:
         read_file = open_file.read()
     #post needs to be manually repaired?
-    print(re.search('href\.li/',read_file))
+    print(re.search(r'href\.li/',read_file))
     #convert time stamp to potential filename
     date = re.findall('timestamp"> (.*) <', read_file)
     #convert to string
@@ -65,25 +65,35 @@ for file in directory:
         post = "vid"
     if re.search('body>\s*<figure class="tmblr-full tmblr-embed"',read_file):
         post = "vid"
-    #fix img urls
+    #fix img urls, starting with tumblrs broken numbering system
+    imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
+    for imgn in imgns:
+        #split & math last number into imgnn then join
+        imgno = imgn
+        imgnss = imgn.split("_")
+        imgnn = int(imgnss[1])
+        imgnn = imgnn-1
+        imgnn = str(imgnn)
+        imgna = imgnss[0]
+        imgna = str(imgna)
+        imgna = imgna + "_" + imgnn
+        read_file = re.sub(imgno, imgna, read_file)
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
     #lets table-ize groups of images
-    threeimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
-    twoimg = re.compile('\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
-    oneimg = re.compile('\s*(<img.*?>)\s*?</p>\s*', flags=re.S)
+    threeimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    twoimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    oneimg = re.compile(r'\s*?<p>\s*?\n\s*?(<img.*?>)\s*?\n\s*?</p>\s*')
     read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> |\n',read_file)
     read_file = re.sub(twoimg,'| \g<1> | \g<2> |  |\n',read_file)
-    read_file = re.sub(oneimg,'|  | \g<1> |  |\n', read_file)
-    #now actually fix the img src
+    read_file = re.sub(oneimg,'\n|  | \g<1> |  |\n', read_file)
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
     #fix video urls.  
     read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
     read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
     tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/hqdefault.jpg\)", read_file)
     for tube in tubes:
-        print (tube)
         yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/hqdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
         yturld = yturl + ">" + yturl + ">"
         read_file = re.sub(rf"{re.escape(yturld)}", yturl, read_file)

@@ -4,7 +4,7 @@ timestamp: February 8th, 2019 1:58pm
 tags: ["edible", "borscht"]
 ---
 
-| <img src="https://saturdayxiii.github.io/media/182664450609_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/182664450609_2.gif"/> |  |
+| <img src="https://saturdayxiii.github.io/media/182664450609_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/182664450609_1.gif"/> |  |
 
 Making Best Lazy Borscht.
  
