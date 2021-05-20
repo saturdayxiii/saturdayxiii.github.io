@@ -489,13 +489,13 @@ nav a.current {
     margin-bottom: 0;
   }
 }
-article-vid {
+articlevid {
 margin-top: 30px;
 }
-article-vid::after,
+articlevid::after,
 header::after {
   margin: 50px 0;
-  content: "•";
+  /*content: "•";*/
   line-height: 0;
   font-size: 60px;
   display: block;
@@ -506,7 +506,7 @@ header::after {
   border-image-slice: 1;
   padding: 10px;
 }
-article-vid:last-of-type::after {
+articlevid:last-of-type::after {
   content: "";
   margin-top: 80px;
   margin-bottom: 0;
