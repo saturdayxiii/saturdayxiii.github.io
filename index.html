@@ -15,7 +15,7 @@ home: true
 {% endif %}
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #a245c4, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent;{% if page.type == "vid" %} border-image: linear-gradient(to bottom, #a245c4, black);{% elseif page.type == "img" %} border-image: linear-gradient(to bottom, red, black);{% else %} border-image: linear-gradient(to bottom, white, black);{% endif %} border-image-slice: 1; padding: 10px;">
       {% if site.display-author-front-page %}
         {% if post.author.name %}
           {{ post.author.name }} •
