@@ -232,13 +232,6 @@ hr {
   height: 100%;
   {% include gradient.css %}
 }
-.img-border {
-  width: 80%;
-  border: 2px solid transparent;
-  border-image: linear-gradient(to bottom, red, black);
-  border-image-slice: 1;
-  padding: 15px;
-}
 
 /* Structure */
 
