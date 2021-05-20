@@ -4,7 +4,7 @@ title: Iontophoresis
 tags: ["iontophoresis", "experiment"]
 ---
 
-<div style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #c08cd4, black); border-image-slice: 1; padding: 10px;">
+<div style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #a245c4, black); border-image-slice: 1; padding: 10px;">
   <a href="http://europepmc.org/article/MED/30533993" target="_blank"><img src="https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg"></a><p>
   I just found out about iontophoresis and it sounds like something I could benefit from.  I was contemplating buying a $500 machine which Facebook thought I needed, but a quick google brought me to some research about how to DIY it.<br>
   Awesome.</p><p>
