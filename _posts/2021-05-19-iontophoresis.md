@@ -4,8 +4,8 @@ title: Iontophoresis
 tags: ["iontophoresis", "experiment"]
 ---
 
-<div style="border: 2px solid transparent; border-image: linear-gradient(to bottom, red, black); border-image-slice: 1;">
-  [![iontophoresis](https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg)](http://europepmc.org/article/MED/30533993)
+<div style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #c08cd4, black); border-image-slice: 1; padding: 10px;">
+  <a href="http://europepmc.org/article/MED/30533993)"><img-src="https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg"></a>
   I just found out about iontophoresis and it sounds like something I could benefit from.  I was contemplating buying a $500 machine which Facebook thought I needed, but a quick google brought me to some research about how to DIY it.
   Awesome.
   It looks like I have all the parts I need, but none of the papers went into any kind of description of how to hook things up, and I wasn't 100% certain that I was following the wires correctly from the photos.  They just say "attach the wires", and I'm like: 
