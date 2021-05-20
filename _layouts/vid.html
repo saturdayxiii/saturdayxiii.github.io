@@ -9,7 +9,7 @@ layout: default
   {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
 {% endif %}
 
-<articlevid>
+<article style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #a245c4, black); border-image-slice: 1; padding: 10px;">
   <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • {{page.tags | capitalize | join: ', '}} </span>
 	<h1>{{ page.title }}</h1>
 		{{ content }}
@@ -22,7 +22,7 @@ layout: default
       {% endif %}
     {% endif %}
   {% endif %}
-</articlevid>
+</article>
 
 {% if site.display-next-prev-post and page.previous.url or site.display-next-prev-post and page.next.url %}
 <div class="pagination clearfix">
