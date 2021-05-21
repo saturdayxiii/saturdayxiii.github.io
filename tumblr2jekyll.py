@@ -5,8 +5,6 @@ to the first 2 lines
 #once this works, I have no plans to clean it up.
 #all html showing up as a code block
 #convert links to []() format
-#youtube vids and media vids exist and need fixing
-#group img thumbnails are probably different
 import os,re,io
 directory = os.listdir('../../Sync/posts/html')
 os.chdir('../../Sync/posts/html')
@@ -58,13 +56,17 @@ for file in directory:
     read_file = re.sub("<h1>","## ",read_file)
     read_file = re.sub("</h1>"," ##",read_file)
     #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
-    post = "post"
+    post = ""
     if re.search("body>\s*<img",read_file):
         post = "img"
     if re.search("body>\s*<iframe",read_file):
         post = "vid"
     if re.search('body>\s*<figure class="tmblr-full tmblr-embed"',read_file):
         post = "vid"
+    if re.search('body>\s*##  ##\s*<figure class="tmblr-full tmblr-embed"', read_file):
+        post = "vid"
+    if re.search('body>\s*##  ##\s*<p class="npf_link"', read_file):
+        post = "lnk"
     #fix img urls, starting with tumblrs broken numbering system
     imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
     for imgn in imgns:
@@ -146,13 +148,13 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>", "\n\s*\n", "\n\n\n", "\n\n"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>']
+    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>', '</embed>']
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---'
+    fmatt = "---\nlayout: post\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
