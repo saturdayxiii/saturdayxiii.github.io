@@ -1,4 +1,5 @@
 ---
+layout: post
 type: img
 timestamp: April 16th, 2021 9:49pm
 tags: ["marker", "sketch", "freehand", "portraits", "ink", "art", "progress"]
