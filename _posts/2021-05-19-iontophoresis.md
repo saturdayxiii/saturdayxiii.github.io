@@ -2,7 +2,7 @@
 layout: post
 type: lnk
 title: Iontophoresis
-tags: ["iontophoresis", "diy", "experiment"]
+tags: ["health", "iontophoresis", "diy", "experiment"]
 ---
 
 [![iontophoresis](https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg)](http://europepmc.org/article/MED/30533993)
