@@ -2,7 +2,7 @@
 layout: post
 type: food
 title: "Gatorade Wine"
-tags: ["wine", "gatorade", "not not recommended"]
+tags: ["food", "wine", "gatorade", "not not recommended"]
 ---
 ![gatorade wine](https://i.postimg.cc/yd29fc67/PXL-20210522-003055971.jpg)
 
