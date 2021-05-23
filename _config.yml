@@ -150,7 +150,3 @@ defaults:
     values:
       layout: "post"
       excerpt_separator: "<!--more-->"
-collections:
-  tags:
-    output: true
-    permalink: tag/:path/
