@@ -153,4 +153,4 @@ defaults:
 collections:
   tags:
     output: true
-    permalink: tags/:path/
+    permalink: tag/:path/
