@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 2nd, 2019 10:50am
 tags: ["update", "life", "computer", "purchase", "product"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182502592759.png"/>
 

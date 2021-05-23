@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 30th, 2019 12:00pm
 tags: ["Music", "recommended", "sega", "vgm", "OST", "bgm", "chiptune"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg)](https://www.youtube.com/watch?v=t2AbBhwKzG0)>
     

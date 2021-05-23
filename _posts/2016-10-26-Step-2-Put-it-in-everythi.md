@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 26th, 2016 7:37am
 tags: ["advice", "Thoughts"]
+comments: true
 ---
 ## The Plan ##
 Step 1: Figure out how to levitate things with magnets.

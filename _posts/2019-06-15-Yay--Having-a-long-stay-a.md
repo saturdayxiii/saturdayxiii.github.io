@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: June 15th, 2019 4:27pm
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/185617874449.jpg"/>
 

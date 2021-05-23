@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: June 8th, 2014 8:54pm
 tags: ["review", "indie", "game"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182012762084.jpg"/>
 

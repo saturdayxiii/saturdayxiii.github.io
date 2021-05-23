@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: March 27th, 2017 11:02am
 tags: ["mini", "arcade", "stand", "miami", "shelf", "sketchup"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/158895318979.png"/>
 

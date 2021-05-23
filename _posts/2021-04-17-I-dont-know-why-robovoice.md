@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 17th, 2021 12:00pm
 tags: ["spoopy", "chass", "greentext", "shows", "youtube", "recommended", "Youtube"]
+comments: true
 ---
 
 [![thumbnail](http://i3.ytimg.com/vi/BqBS3AyFPCY/hqdefault.jpg)](https://www.youtube.com/watch?v=BqBS3AyFPCY)

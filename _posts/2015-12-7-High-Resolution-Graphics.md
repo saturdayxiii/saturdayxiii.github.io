@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: December 7th, 2015 2:02pm
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/134745252369.jpg"/>
 

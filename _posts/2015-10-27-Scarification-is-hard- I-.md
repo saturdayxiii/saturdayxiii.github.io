@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: October 27th, 2015 9:07am
 tags: ["seahorse", "scar", "scarification", "cutting", "blood", "scab", "tattoo", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/132020150369.jpg"/>
 

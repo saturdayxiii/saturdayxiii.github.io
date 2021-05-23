@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: August 18th, 2016 12:00pm
 tags: ["pillbug", "macro", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149135903859.jpg"/>
 

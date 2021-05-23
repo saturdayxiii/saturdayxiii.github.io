@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 6th, 2021 11:47am
 tags: ["recommended", "shows", "games", "show"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/apX3q5PCrQQ/hqdefault.jpg)](https://www.youtube.com/watch?v=apX3q5PCrQQ)>
     

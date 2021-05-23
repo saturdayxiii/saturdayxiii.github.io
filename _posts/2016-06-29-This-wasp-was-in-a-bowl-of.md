@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: June 29th, 2016 12:00pm
 tags: ["wasp", "insect", "bug", "macro", "cute", "photography"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/J01jgdLJHVw/hqdefault.jpg)](https://www.youtube.com/watch?v=J01jgdLJHVw)>
     

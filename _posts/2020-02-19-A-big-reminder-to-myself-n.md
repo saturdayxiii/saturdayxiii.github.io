@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 19th, 2020 9:52am
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/190913838744.jpg"/>
 

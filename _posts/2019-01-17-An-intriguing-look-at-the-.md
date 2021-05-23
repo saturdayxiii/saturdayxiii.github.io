@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 17th, 2019 3:33pm
 tags: ["show", "documentary", "insights"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/YdSdvIRkkDY/hqdefault.jpg)](https://www.youtube.com/watch?v=YdSdvIRkkDY)>
     

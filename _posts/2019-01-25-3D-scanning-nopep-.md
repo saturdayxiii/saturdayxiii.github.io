@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 25th, 2019 11:04am
 tags: ["yoshi", "qlone", "misc"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182299758994.png"/>
 

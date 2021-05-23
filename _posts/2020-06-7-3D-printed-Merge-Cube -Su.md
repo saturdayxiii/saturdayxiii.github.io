@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: June 7th, 2020 10:29pm
 tags: [""]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/620327675644592128.png"/>
 

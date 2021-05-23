@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 26th, 2015 12:13pm
 tags: ["truth", "turth", "Thoughts"]
+comments: true
 ---
 
 The word “healthy” should just be replaced with “won’t kill you quite as fast.”

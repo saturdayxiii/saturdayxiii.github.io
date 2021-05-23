@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 26th, 2019 4:09pm
 tags: ["show", "youtube", "game", "movie"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg)](https://www.youtube.com/watch?v=SP8EoIBGog0)>
     

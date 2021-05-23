@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: August 31st, 2016 6:46pm
 tags: ["liquor", "plush", "edible"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149770647029.jpg"/>
 

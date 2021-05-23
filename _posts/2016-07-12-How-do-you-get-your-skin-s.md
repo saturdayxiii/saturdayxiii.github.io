@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 12th, 2016 12:00pm
 tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/147298958206.jpg"/>
 

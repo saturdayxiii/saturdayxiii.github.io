@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: May 22nd, 2016 12:00pm
 tags: ["photo", "mushroom", "fungus", "plant", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/144762384055.jpg"/>
 

@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: September 4th, 2016 12:00pm
 tags: ["spider", "arachnid", "macro", "whenisawit", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149940042190.jpg"/>
 

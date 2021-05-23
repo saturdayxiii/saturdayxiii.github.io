@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 15th, 2021 8:43pm
 tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube"]
+comments: true
 ---
 
 [![thumbnail](http://i3.ytimg.com/vi/iEvntSex-7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=iEvntSex-7Y)

@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 15th, 2019 9:02pm
 tags: ["show", "amazon", "recommended"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182048488999.gif"/>
 

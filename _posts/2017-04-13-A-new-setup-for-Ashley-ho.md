@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: April 13th, 2017 1:33pm
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/159536973094.jpg"/>
 

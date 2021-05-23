@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: August 16th, 2016 10:20am
 tags: ["tarantula", "blacklight", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149034981519.jpg"/>
 

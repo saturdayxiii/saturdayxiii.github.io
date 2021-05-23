@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: October 24th, 2019 5:01pm
 tags: ["recommended", "ps1", "show"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/gKILYcpsOyE/hqdefault.jpg)](https://www.youtube.com/watch?v=gKILYcpsOyE)>
     

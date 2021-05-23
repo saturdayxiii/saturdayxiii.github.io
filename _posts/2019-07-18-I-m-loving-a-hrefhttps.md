@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 18th, 2019 12:42pm
 tags: ["games", "kongregate", "aground", "recommended"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/186380577444.gif"/>
 

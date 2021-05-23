@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 28th, 2017 9:24pm
 tags: ["pixly", "edmonton", "pattern", "64x64", "16bit", "tile", "texture", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/BcEMnH2nrMF/ "></a>
 

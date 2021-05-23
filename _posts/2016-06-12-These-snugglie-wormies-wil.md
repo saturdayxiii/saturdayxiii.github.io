@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: June 12th, 2016 5:07pm
 tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/145827456504_0.gif"/> | <img src="https://saturdayxiii.github.io/media/145827456504_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/145827456504_2.jpg"/> |

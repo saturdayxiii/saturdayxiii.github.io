@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 10th, 2017 2:51pm
 tags: [""]
+comments: true
 ---
 ## Vector illustration apps for android ##
 ### Pramble: ###

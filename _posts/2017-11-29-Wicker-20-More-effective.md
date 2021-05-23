@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 29th, 2017 1:53pm
 tags: ["pixly", "tile", "pattern", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/BcF9-QoHWO3/ "></a>
 

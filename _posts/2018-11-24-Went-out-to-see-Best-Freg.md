@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: November 24th, 2018 12:00am
 tags: ["movie"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/181058445904.jpg"/>
 

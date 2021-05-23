@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: August 4th, 2016 1:58pm
 tags: ["pixel", "graphics", "tiny", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/148460620264.png"/>
 

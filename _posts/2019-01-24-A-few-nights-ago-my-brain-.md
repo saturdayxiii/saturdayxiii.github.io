@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: January 24th, 2019 7:12pm
 tags: ["art", "comic", "dream", "thoughts"]
+comments: true
 ---
 
 || <img src="https://saturdayxiii.github.io/media/182284146754_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/182284146754_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/182284146754_2.jpg"/> |

@@ -154,7 +154,7 @@ for file in directory:
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\nlayout: post\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---'
+    fmatt = "---\nlayout: post\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

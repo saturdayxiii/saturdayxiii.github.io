@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: May 13th, 2019 12:08pm
 tags: ["recommended", "music", "pop"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/7LvayVk_7GU/hqdefault.jpg)](https://www.youtube.com/watch?v=7LvayVk_7GU)>
     

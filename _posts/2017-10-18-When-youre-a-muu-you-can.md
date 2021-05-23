@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 18th, 2017 2:45pm
 tags: ["pets", "photo", "edmonton", "photography"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/BaZzs9xH1ih/ "></a>
 

@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 25th, 2017 9:34pm
 tags: ["photo"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/163432477994.jpg"/>
 

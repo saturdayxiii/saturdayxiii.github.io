@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: January 11th, 2019 1:06pm
 tags: ["idea", "diy", "design", "sketch", "shelving"]
+comments: true
 ---
 ## Game Shelving... the Sequel ##
 <a href="https://66.media.tumblr.com/42063a27de3f20132782d6250958c74e/tumblr_pl6nuv2kaN1rnrp45_1280.png" target="_blank" alt="Design sketch of Single Support shelf"><figure data-orig-width="1280" data-orig-height="1280" class="tmblr-full"><img src="https://64.media.tumblr.com/42063a27de3f20132782d6250958c74e/tumblr_pl6nuv2kaN1rnrp45_540.png" alt="image" data-orig-width="1280" data-orig-height="1280"/></a>

@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: August 28th, 2016 12:00pm
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/149610653063_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_2.jpg"/> |

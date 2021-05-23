@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: October 1st, 2017 9:45am
 tags: ["brainstorm", "levels", "downhill"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165936346764.jpg"/>
 

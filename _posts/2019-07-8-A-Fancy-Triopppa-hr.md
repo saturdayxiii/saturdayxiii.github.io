@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 8th, 2019 9:32pm
 tags: ["triops", "ibispaintx", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/186155863744.png"/>
 

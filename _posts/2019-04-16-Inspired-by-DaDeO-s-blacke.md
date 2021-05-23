@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: April 16th, 2019 12:00pm
 tags: ["edible", "sandwich", "tofu", "food", "recommended", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/184230308926.jpg"/>
 

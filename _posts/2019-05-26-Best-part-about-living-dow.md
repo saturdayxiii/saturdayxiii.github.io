@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: May 26th, 2019 1:27am
 tags: ["music"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/185186455519_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/185186455519_1.jpg"/> |  |

@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: November 25th, 2020 3:43pm
 tags: ["microcosm", "death", "life", "ciliate", "show", "recommended"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/ibpdNqrtar0/hqdefault.jpg)](https://www.youtube.com/watch?v=ibpdNqrtar0)>
     

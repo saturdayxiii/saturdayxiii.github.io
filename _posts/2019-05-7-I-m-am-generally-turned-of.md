@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: May 7th, 2019 12:00pm
 tags: ["recommended", "show"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/-5uu6bUzI2c/hqdefault.jpg)](https://www.youtube.com/watch?v=-5uu6bUzI2c)>
     

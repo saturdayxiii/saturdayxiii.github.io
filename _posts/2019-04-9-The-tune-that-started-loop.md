@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 9th, 2019 10:31am
 tags: ["vgm", "music", "recommended"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/GtpaOi7Y-t8/hqdefault.jpg)](https://www.youtube.com/watch?v=GtpaOi7Y-t8)>
     

@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 22nd, 2017 8:54pm
 tags: ["snes", "photo", "edmonton", "custom", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/Bb0siLFHdU1/ "></a>
 

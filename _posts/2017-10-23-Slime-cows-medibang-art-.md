@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 23rd, 2017 9:02pm
 tags: ["medibang", "slugs", "edmonton", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/BanW2-1HFBN/ "></a>
 

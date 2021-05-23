@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: March 29th, 2021 1:26pm
 tags: ["recommended", "movie", "thoughts", "cinema"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg)](https://www.youtube.com/watch?v=rDkc2_phiJ4)>
     

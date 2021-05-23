@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 29th, 2017 8:18pm
 tags: ["pyxeledit", "tile", "pattern", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/BcGpv-inPfr/ "></a>
 

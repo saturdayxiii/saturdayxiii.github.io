@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 2nd, 2016 12:00pm
 tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/146807870671.gif"/>
 

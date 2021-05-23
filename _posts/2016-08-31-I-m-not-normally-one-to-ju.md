@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: August 31st, 2016 12:00pm
 tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/149754879401_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/149754879401_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/149754879401_2.jpg"/> |

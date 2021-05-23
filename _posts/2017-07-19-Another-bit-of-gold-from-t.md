@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: July 19th, 2017 9:26am
 tags: ["radio", "recommended", "music"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/bcnIhzaDTd0/hqdefault.jpg)](https://www.youtube.com/watch?v=bcnIhzaDTd0)>
     

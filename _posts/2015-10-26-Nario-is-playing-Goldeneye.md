@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: October 26th, 2015 11:26am
 tags: ["nario", "dancepad", "ddr", "n64", "goldeneye", "007", "retro", "game", "stream", "live", "twitch", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/131960334269.png"/>
 

@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: March 23rd, 2021 10:15pm
 tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/646509339504443392_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/646509339504443392_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/646509339504443392_2.jpg"/> |

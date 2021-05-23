@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: October 14th, 2016 12:53pm
 tags: ["opinion", "tv", "show"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/z0t9pCnRW4o/hqdefault.jpg)](https://www.youtube.com/watch?v=z0t9pCnRW4o)>
     

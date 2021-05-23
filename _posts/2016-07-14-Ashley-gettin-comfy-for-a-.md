@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: July 14th, 2016 12:01pm
 tags: ["tarantula", "shed", "insect", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/147403431858.jpg"/>
 

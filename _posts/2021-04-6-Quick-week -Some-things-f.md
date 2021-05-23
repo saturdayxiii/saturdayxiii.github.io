@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: April 6th, 2021 11:21pm
 tags: ["art", "sketch", "progress", "ink", "practise", "portrait", "marker"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/647781832275984384_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/647781832275984384_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/647781832275984384_2.jpg"/> |

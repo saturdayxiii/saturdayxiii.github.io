@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: May 9th, 2020 12:34am
 tags: ["recommended", "comic"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/617617631853346817.jpg"/>
 

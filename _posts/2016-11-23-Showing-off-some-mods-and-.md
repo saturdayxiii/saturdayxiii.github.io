@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: November 23rd, 2016 9:44pm
 tags: ["cvgc", "controller", "paint", "custom", "metallic", "convention", "edmonton", "alberta", "nait", "retro", "championships", "classic", "sega", "ninetendo", "nes", "snes", "gens"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/153587983579.jpg"/>
 

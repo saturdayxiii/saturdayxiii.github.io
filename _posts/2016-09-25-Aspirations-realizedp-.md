@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: September 25th, 2016 1:45pm
 tags: ["gamecube", "nintendo", "art"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/150924989914_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/150924989914_1.jpg"/> |  |

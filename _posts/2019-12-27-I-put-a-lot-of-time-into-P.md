@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: December 27th, 2019 1:10pm
 tags: ["recommended"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/190407682119.jpg"/>
 

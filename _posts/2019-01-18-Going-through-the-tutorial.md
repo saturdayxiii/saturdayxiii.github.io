@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 18th, 2019 8:39pm
 tags: ["software", "game", "recommended", "nesmaker"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182126624604.gif"/>
 

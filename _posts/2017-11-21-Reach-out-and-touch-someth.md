@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 21st, 2017 6:37pm
 tags: ["photo", "edmonton", "photography"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/Bbx4Dg_neWK/ "></a>
 

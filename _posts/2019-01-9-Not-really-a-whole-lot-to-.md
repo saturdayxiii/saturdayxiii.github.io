@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 9th, 2019 8:42pm
 tags: ["game"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/181886640029.gif"/>
 

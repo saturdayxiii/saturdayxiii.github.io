@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: March 20th, 2019 8:13pm
 tags: ["recommended", "show", "tv", "daria", "cartoon", "90s"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/ZZswmxq-K1M/hqdefault.jpg)](https://www.youtube.com/watch?v=ZZswmxq-K1M)>
     

@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 7th, 2014 10:43am
 tags: ["sonic", "redesign", "2014", "sketch", "drawing", "ink", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/75910281418.jpg"/>
 

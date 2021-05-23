@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: September 12th, 2017 9:15am
 tags: ["dreamcast", "retro", "photo"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165261868799.jpg"/>
 

@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 25th, 2019 3:47pm
 tags: ["music", "recommended", "umbromaniii", "edm"]
+comments: true
 ---
 <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2357788203&amp;ts=1572040060&amp;t=e714460b1ad3de819a0910b81fcc7972b1f61f52">
        

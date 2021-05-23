@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: March 20th, 2019 9:32am
 tags: ["game", "animation", "design"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/183586901534_0.gif"/> | <img src="https://saturdayxiii.github.io/media/183586901534_1.gif"/> |  |

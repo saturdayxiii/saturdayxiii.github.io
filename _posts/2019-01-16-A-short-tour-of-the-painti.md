@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: January 16th, 2019 8:42am
 tags: ["art", "customizing", "ps2"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/182065813689_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_2.jpg"/> |

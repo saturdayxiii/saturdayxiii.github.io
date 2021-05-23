@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 28th, 2020 7:33pm
 tags: ["recommended", "youtube", "show"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/bgwS_FMZ3nQ/hqdefault.jpg)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)>
     

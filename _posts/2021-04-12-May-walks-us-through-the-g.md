@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 12th, 2021 12:00pm
 tags: ["tideland", "recommended", "show", "review", "Youtube"]
+comments: true
 ---
 
 [![thumbnail](http://i3.ytimg.com/vi/jy6TK3njrRU/hqdefault.jpg)](https://www.youtube.com/watch?v=jy6TK3njrRU)

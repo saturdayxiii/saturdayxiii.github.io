@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: April 23rd, 2019 3:47pm
 tags: ["audiophile", "hacks", "recommended", "cheap", "stereo"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/184397769579.jpg"/>
 

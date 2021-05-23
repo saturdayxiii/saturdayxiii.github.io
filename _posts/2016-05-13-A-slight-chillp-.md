@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: May 13th, 2016 12:00pm
 tags: ["photo", "edmonton", "bridge", "ice", "water", "river", "cold", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/144305857302.jpg"/>
 

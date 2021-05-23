@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: September 21st, 2017 1:29pm
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165590796589.jpg"/>
 

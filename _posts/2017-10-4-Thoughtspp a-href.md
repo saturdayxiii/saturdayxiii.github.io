@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: October 4th, 2017 4:15pm
 tags: ["acryptozoo", "talitrid", "dress", "sketch", "illustration", "edmonton", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/166054332554.png"/>
 

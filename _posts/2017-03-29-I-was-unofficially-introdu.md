@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: March 29th, 2017 10:26pm
 tags: ["scannography", "textures", "cloth", "basket", "weave", "fabric", "scanner", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/158990166644.jpg"/>
 

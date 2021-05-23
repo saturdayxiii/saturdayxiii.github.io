@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: September 1st, 2016 12:00pm
 tags: ["moth", "bug", "insect", "macro", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149801109387.jpg"/>
 

@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: March 25th, 2021 6:30pm
 tags: ["food", "recommended", "kvass"]
+comments: true
 ---
 <embed src="../../media/646676325321605120.mp4" type="video/mp4" scale="aspect" autoplay="false">
     <figure class="tmblr-full" data-orig-height="3375" data-orig-width="2531"><img src="https://64.media.tumblr.com/86ffd95fa0e564ae6df3a58fc71cf5c2/dac2194319e4ed8d-7f/s540x810/c66cc889233b28a5e31d856e6e24d837c76a17cd.jpg" data-orig-height="3375" data-orig-width="2531"/>

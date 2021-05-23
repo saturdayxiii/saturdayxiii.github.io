@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: May 15th, 2016 12:00pm
 tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/144408396688.jpg"/>
 

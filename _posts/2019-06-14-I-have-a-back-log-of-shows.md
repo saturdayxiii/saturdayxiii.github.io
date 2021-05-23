@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: June 14th, 2019 12:40pm
 tags: ["netflix", "atypical", "show", "recommended"]
+comments: true
 ---
 ## Reaction to Atypical S02 Finale ##
 <figure class="tmblr-full" data-orig-height="222" data-orig-width="500"><img src="https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif" data-orig-height="222" data-orig-width="500"/>

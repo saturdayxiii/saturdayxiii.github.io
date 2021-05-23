@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: March 17th, 2015 4:27pm
 tags: ["art", "mod", "paint", "case", "neon"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/185573413369_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/185573413369_1.jpg"/> |  |

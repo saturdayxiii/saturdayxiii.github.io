@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: July 15th, 2019 5:39pm
 tags: ["recommended", "maybe", "edible"]
+comments: true
 ---
 
 <figure class="tmblr-full" data-orig-height="2459" data-orig-width="3689"><img src="https://64.media.tumblr.com/1f0118771809eab419e536f0f2fdc2d0/03b803714297789b-19/s640x960/d5b93d16ccaf8066572638c654dba94abc0b29e8.jpg" data-orig-height="2459" data-orig-width="3689"/>

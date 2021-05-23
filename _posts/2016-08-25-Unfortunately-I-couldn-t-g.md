@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: August 25th, 2016 12:00pm
 tags: ["spider", "arachnid", "macro", "web", "photography"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/149470001853_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/149470001853_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/149470001853_2.jpg"/> |

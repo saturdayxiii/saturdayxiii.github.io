@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 15th, 2019 11:09am
 tags: ["valentines", "event", "movie"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182828395039.gif"/>
 

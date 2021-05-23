@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 9th, 2021 2:08pm
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
+comments: true
 ---
 
 [![thumbnail](http://i3.ytimg.com/vi/hIo3Gi7Tn2A/hqdefault.jpg)](https://www.youtube.com/watch?v=hIo3Gi7Tn2A)

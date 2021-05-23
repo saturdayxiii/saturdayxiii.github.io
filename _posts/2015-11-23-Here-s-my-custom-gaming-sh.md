@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: November 23rd, 2015 1:29pm
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving"]
+comments: true
 ---
 |  | <img src="https://saturdayxiii.github.io/media/133814245004_0.jpg"/> |  |
 ' .Couple trays unfinished, but you get the idea.  . 

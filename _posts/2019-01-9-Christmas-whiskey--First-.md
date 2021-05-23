@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 9th, 2019 6:40pm
 tags: ["Alcohol", "whiskey", "glassware", "edible"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/181884034944.jpg"/>
 

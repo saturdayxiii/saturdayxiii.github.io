@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 5th, 2019 3:08pm
 tags: ["design", "sketchup"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182589004919.png"/>
 

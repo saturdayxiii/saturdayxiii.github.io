@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: July 12th, 2017 12:38pm
 tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts"]
+comments: true
 ---
 ## a Re-Ignited, Preliminary Linux experience [journal entry] ##
 I really like my tiny i5, 4gb acer laptop, but if I don’t reinstall install Windows on a monthly basis it slows down to a borderline unusable state.  So I decided to try Linux again.  I remember why I stopped using Linux.  I ran Ubuntu on my desktop a decade ago and got frustrated by how nothing worked exactly right.  Trips to Google are certainly part of the Linux experience, but this was incessant, and always to do with basic functions like display, audio, or networking.  The convenience of Windows won out for use on my desktop.  However, my lappy is a different story.

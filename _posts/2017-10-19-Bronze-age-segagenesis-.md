@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 19th, 2017 7:23pm
 tags: ["segagenesis", "consolemod", "photo", "edmonton", "art"]
+comments: true
 ---
 <a href="https://www.instagram.com/p/Bac4PsuHfln/ "></a>
 

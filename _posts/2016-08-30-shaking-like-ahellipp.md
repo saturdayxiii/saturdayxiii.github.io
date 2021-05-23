@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: August 30th, 2016 12:00pm
 tags: ["gif", "leaf", "nature", "wind", "photography"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/149707794087.gif"/>
 

@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 22nd, 2019 1:38pm
 tags: ["show", "recommended", "animal", "minecraft"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/kpTdG4PkwXA/hqdefault.jpg)](https://www.youtube.com/watch?v=kpTdG4PkwXA)>
     

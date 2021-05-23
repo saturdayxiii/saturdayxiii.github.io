@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: May 11th, 2018 11:09am
 tags: ["snapmaker"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/173801922419_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/173801922419_2.jpg"/> |

@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 8th, 2019 7:48pm
 tags: ["product", "purchase"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182671455654.jpg"/>
 

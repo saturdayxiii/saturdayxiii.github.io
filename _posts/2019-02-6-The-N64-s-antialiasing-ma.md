@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: February 6th, 2019 2:21pm
 tags: ["nintendo", "rbg"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/182613913184.jpg"/>
 

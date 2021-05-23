@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: April 9th, 2021 2:09pm
 tags: ["Youtube"]
+comments: true
 ---
 
 [![thumbnail](http://i3.ytimg.com/vi/hTkt4Kd1MLI/hqdefault.jpg)](https://www.youtube.com/watch?v=hTkt4Kd1MLI)

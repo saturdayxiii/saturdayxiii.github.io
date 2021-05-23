@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: August 7th, 2016 12:00pm
 tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/Cyk9V6CnYt8/hqdefault.jpg)](https://www.youtube.com/watch?v=Cyk9V6CnYt8)>
     

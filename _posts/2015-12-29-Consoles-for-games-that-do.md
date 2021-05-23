@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: December 29th, 2015 7:20am
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/136184969694.jpg"/>
 

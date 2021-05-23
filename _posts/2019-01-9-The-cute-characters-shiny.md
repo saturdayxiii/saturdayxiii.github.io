@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: January 9th, 2019 4:39pm
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/181881333409.png"/>
 

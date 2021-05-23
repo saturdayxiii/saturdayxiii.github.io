@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: April 6th, 2019 7:54pm
 tags: ["Edible", "beer", "yeg", "townsquare", "beets"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/183999761984.jpg"/>
 

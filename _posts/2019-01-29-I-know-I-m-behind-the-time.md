@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: January 29th, 2019 10:46am
 tags: ["show", "youtube", "nature", "recommended", "cynical"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/mbnBYh-BJ1g/hqdefault.jpg)](https://www.youtube.com/watch?v=mbnBYh-BJ1g)>
     

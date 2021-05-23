@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: October 3rd, 2017 7:38am
 tags: ["brainstorm", "ideas"]
+comments: true
 ---
 ## Reincarnation Game first thoughts ##
 Using this space to develop game concept ideas.

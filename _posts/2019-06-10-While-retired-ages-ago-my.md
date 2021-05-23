@@ -3,6 +3,7 @@ layout: post
 type: 
 timestamp: June 10th, 2019 3:16pm
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
+comments: true
 ---
 
 | <img src="https://saturdayxiii.github.io/media/185503955994_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/185503955994_1.jpg"/> |  |

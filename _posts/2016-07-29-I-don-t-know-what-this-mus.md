@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: July 29th, 2016 2:51pm
 tags: ["bug", "insect", "fly", "macro", "photography"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg)](https://www.youtube.com/watch?v=G1vLIfLtD60)>
     

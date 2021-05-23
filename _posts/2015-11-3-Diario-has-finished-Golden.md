@@ -3,6 +3,7 @@ layout: post
 type: vid
 timestamp: November 3rd, 2015 10:12am
 tags: ["nario", "djnario", "gaming", "Goldeneye", "007", "drawing", "sketch", "art"]
+comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/8iN0q967S3c/hqdefault.jpg)](https://www.youtube.com/watch?v=8iN0q967S3c)>
     

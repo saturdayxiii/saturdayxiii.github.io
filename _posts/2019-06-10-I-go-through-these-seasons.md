@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: June 10th, 2019 9:33pm
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/185510960669.jpg"/>
 

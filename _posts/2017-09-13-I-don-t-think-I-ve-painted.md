@@ -3,6 +3,7 @@ layout: post
 type: img
 timestamp: September 13th, 2017 11:53am
 tags: ["sweetie", "painting", "edmonton", "art"]
+comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165301193429.jpg"/>
 
