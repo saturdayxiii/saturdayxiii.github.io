@@ -5,8 +5,6 @@ to the first 2 lines
 #once this works, I have no plans to clean it up.
 #all html showing up as a code block
 #convert links to []() format
-#youtube vids and media vids exist and need fixing
-#group img thumbnails are probably different
 import os,re,io
 directory = os.listdir('../../Sync/posts/html')
 os.chdir('../../Sync/posts/html')
@@ -21,7 +19,7 @@ for file in directory:
     with io.open(file,'r',encoding='utf8') as open_file:
         read_file = open_file.read()
     #post needs to be manually repaired?
-    print(re.search('href\.li/',read_file))
+    print(re.search(r'href\.li/',read_file))
     #convert time stamp to potential filename
     date = re.findall('timestamp"> (.*) <', read_file)
     #convert to string
@@ -58,27 +56,47 @@ for file in directory:
     read_file = re.sub("<h1>","## ",read_file)
     read_file = re.sub("</h1>"," ##",read_file)
     #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
-    post = "post"
+    post = ""
     if re.search("body>\s*<img",read_file):
         post = "img"
     if re.search("body>\s*<iframe",read_file):
         post = "vid"
     if re.search('body>\s*<figure class="tmblr-full tmblr-embed"',read_file):
         post = "vid"
-    #fix img urls
+    if re.search('body>\s*##  ##\s*<figure class="tmblr-full tmblr-embed"', read_file):
+        post = "vid"
+    if re.search('body>\s*##  ##\s*<p class="npf_link"', read_file):
+        post = "lnk"
+    #fix img urls, starting with tumblrs broken numbering system
+    imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
+    for imgn in imgns:
+        #split & math last number into imgnn then join
+        imgno = imgn
+        imgnss = imgn.split("_")
+        imgnn = int(imgnss[1])
+        imgnn = imgnn-1
+        imgnn = str(imgnn)
+        imgna = imgnss[0]
+        imgna = str(imgna)
+        imgna = imgna + "_" + imgnn
+        read_file = re.sub(imgno, imgna, read_file)
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first
-    #
+    #lets table-ize groups of images
+    threeimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    twoimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
+    oneimg = re.compile(r'\s*?<p>\s*?\n\s*?(<img.*?>)\s*?\n\s*?</p>\s*')
+    read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> |\n',read_file)
+    read_file = re.sub(twoimg,'| \g<1> | \g<2> |  |\n',read_file)
+    read_file = re.sub(oneimg,'\n|  | \g<1> |  |\n', read_file)
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
-    #gifs may be diffrrent
     #fix video urls.  
-    read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
-    read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/maxresdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
-    tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/maxresdefault.jpg\)", read_file)
+    read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    read_file = re.sub('<iframe w([^>])*youtube.com/embed/([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
+    tubes = re.findall("http://i3\.ytimg\.com/vi/([a-zA-Z0-9\-\_]+)/hqdefault.jpg\)", read_file)
     for tube in tubes:
-        print (tube)
-        yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/maxresdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
+        yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/hqdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
         yturld = yturl + ">" + yturl + ">"
         read_file = re.sub(rf"{re.escape(yturld)}", yturl, read_file)
     #playlists are probably different
@@ -103,7 +121,8 @@ for file in directory:
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
     #date is now title I guess
-    #make a summary
+    #make a summary WAIT!  We don't need it no more
+    '''
     summ2 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
     summ2.append('')
     summ1 = summ2[0]
@@ -112,30 +131,31 @@ for file in directory:
     for char in summ1:
         if char not in punc:
             summ = summ + char
-    #print date
-    #print summ
+    '''
     # make tag list and generate frontmatter
     tags = re.findall('tag">(\w*)<', read_file)
     tags = '"' + '", "'.join(tags)
     #delete html bits
-    head = re.match('^.*<body>\s+',read_file, re.DOTALL)
-    read_file = re.sub(head.group(0),"",read_file)
-    foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
+    #head = re.match('^.*<body>\s+',read_file, re.DOTALL) #another random break, tho I'm surprised this line worked at all
+    #read_file = re.sub(head.group(0),"",read_file)
+    head = re.compile ('^.*<body>\s+', flags=re.S)
+    read_file = re.sub(head, "", read_file)
+    #foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
     #print (foot)
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
     replacefoot = re.compile('<div id="footer">[^\.]*$', flags=re.S)
     read_file = re.sub(replacefoot,'',read_file)
-    newlines = ["<p></p>", "<p>", "</p>"]
+    newlines = ["<p></p>", "<p>", "</p>", "\n\s*\n", "\n\n\n", "\n\n"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>']
+    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>', '</embed>']
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\n---\n'
-    read_file = fmatt + post + "\n" + read_file + "\n" + source
+    fmatt = "---\nlayout: post\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 

@@ -270,7 +270,7 @@ article {
 article::after,
 header::after {
   margin: 50px 0;
-  content: "•";
+  /* content: "•"; */
   line-height: 0;
   font-size: 60px;
   display: block;
@@ -486,4 +486,9 @@ nav a.current {
     margin-top: 120px;
     margin-bottom: 0;
   }
+}
+.snippets {
+ max-width:46.042rem;
+ width:100%;
+ padding:1.146rem
 }
