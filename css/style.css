@@ -482,3 +482,8 @@ nav a.current {
     margin-bottom: 0;
   }
 }
+.snippets {
+ max-width:46.042rem;
+ width:100%;
+ padding:1.146rem
+}
