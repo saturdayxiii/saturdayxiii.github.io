@@ -11,10 +11,10 @@ layout: default
 
 <article>
 <div style="border: 2px solid transparent;{% if post.type == "vid" %} border-image: linear-gradient(to bottom, #9c55ed, black);{% elsif post.type == "img" %} border-image: linear-gradient(to bottom, #fc83b2, black);{% elsif post.type == "3D" %} border-image: linear-gradient(to bottom, #ff9359 black);{% elsif post.type == "lnk" %} border-image: linear-gradient(to bottom, cyan, black);{% elsif post.type == "food" %} border-image: linear-gradient(to bottom, #fff39c, black);{% else %} border-image: linear-gradient(to bottom, white, black);{% endif %} border-image-slice: 1; padding: 10px;">
-  <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • {% for tag in post.tags %}
+  <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
+{% for tag in post.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
-  <a class="tag-link"
-    href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+  <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
     rel="category tag">
     #{{ tag }}
   </a>
