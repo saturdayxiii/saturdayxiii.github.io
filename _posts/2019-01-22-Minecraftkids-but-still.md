@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Minecraftkids-but-still
 type: vid
 timestamp: January 22nd, 2019 1:38pm
 tags: ["show", "recommended", "animal", "minecraft"]

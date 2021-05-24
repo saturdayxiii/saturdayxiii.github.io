@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: There-are-two-peevs-that-I
+type: game
 timestamp: June 8th, 2014 8:54pm
 tags: ["review", "indie", "game"]
 comments: true

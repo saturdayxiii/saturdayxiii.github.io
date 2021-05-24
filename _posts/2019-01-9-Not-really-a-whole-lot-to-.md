@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Not-really-a-whole-lot-to-
+type: game
 timestamp: January 9th, 2019 8:42pm
 tags: ["game"]
 comments: true

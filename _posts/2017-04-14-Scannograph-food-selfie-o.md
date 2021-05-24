@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Scannograph-food-selfie-o
+type: food
 timestamp: April 14th, 2017 12:00pm
 tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography"]
 comments: true

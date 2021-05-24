@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-fell-in-love-with-a-hre
+type: game
 timestamp: January 10th, 2019 3:21pm
 tags: ["review", "recommended", "game"]
 comments: true

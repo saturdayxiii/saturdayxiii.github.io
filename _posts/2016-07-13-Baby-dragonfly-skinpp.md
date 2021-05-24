@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Baby-dragonfly-skinpp
 type: img
 timestamp: July 13th, 2016 12:00pm
 tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography"]

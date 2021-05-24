@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Get-luckyp-
 type: img
 timestamp: May 16th, 2016 12:00pm
 tags: ["photo", "lucky", "clover", "triplets", "photography"]

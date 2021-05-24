@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-think-I-may-have-stolen-
+type: art
 timestamp: August 4th, 2016 1:58pm
 tags: ["pixel", "graphics", "tiny", "art"]
 comments: true

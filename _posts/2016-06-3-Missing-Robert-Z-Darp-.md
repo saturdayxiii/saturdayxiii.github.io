@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Missing-Robert-Z-Darp-
+type: art
 timestamp: June 3rd, 2016 12:00pm
 tags: ["painting", "digital", "art", "Movie"]
 comments: true

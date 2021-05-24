@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Spider-toesp-
 type: img
 timestamp: October 27th, 2016 1:07pm
 tags: ["spider", "tarantula", "toes", "feet", "macro", "photography"]

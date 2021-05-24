@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-played-the-nude-Valkyrie
+type: game
 timestamp: February 6th, 2019 10:12pm
 tags: ["Game", "beercade", "yeg"]
 comments: true

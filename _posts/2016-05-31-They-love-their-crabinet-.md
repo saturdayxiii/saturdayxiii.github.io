@@ -1,5 +1,6 @@
 ---
 layout: post
+title: They-love-their-crabinet-
 type: img
 timestamp: May 31st, 2016 12:00pm
 tags: ["cage", "tank", "crabitat", "crabinet", "pets"]

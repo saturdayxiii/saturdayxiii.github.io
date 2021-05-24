@@ -1,5 +1,6 @@
 ---
 layout: post
+title: I-was-interested-in-trying
 type: img
 timestamp: March 27th, 2017 11:02am
 tags: ["mini", "arcade", "stand", "miami", "shelf", "sketchup"]

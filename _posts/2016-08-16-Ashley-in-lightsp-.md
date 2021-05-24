@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Ashley-in-lightsp-
 type: img
 timestamp: August 16th, 2016 10:20am
 tags: ["tarantula", "blacklight", "photography"]

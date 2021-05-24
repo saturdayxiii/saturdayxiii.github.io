@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-watched-most-of-the-waki
+type: game
 timestamp: January 13th, 2019 10:18pm
 tags: ["AGDQ", "SGDQ2018", "Zelda", "show", "speedrun", "game"]
 comments: true

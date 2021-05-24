@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: I-love-hearing-a-new-song-
+type: audio
 timestamp: May 3rd, 2017 9:02am
 tags: ["yeg", "recommended", "music"]
 comments: true

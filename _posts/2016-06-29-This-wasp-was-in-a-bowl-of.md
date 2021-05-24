@@ -1,5 +1,6 @@
 ---
 layout: post
+title: This-wasp-was-in-a-bowl-of
 type: vid
 timestamp: June 29th, 2016 12:00pm
 tags: ["wasp", "insect", "bug", "macro", "cute", "photography"]

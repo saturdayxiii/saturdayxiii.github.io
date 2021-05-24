@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: I-ve-seen-some-people-who-
+type: game
 timestamp: May 30th, 2019 7:42am
 tags: ["game", "achievements", "exophase", "idea"]
 comments: true

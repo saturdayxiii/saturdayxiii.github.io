@@ -1,5 +1,6 @@
 ---
 layout: post
+title: one-of-these-I-thinkpp
 type: vid
 timestamp: August 7th, 2016 12:00pm
 tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography"]

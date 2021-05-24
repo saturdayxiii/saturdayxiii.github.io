@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: This-weekend-s-view-in-pix
+type: art
 timestamp: August 1st, 2016 11:00pm
 tags: ["lake", "dock", "yard", "art", "photography"]
 comments: true

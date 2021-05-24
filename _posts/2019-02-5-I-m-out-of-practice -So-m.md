@@ -1,5 +1,6 @@
 ---
 layout: post
+title: I-m-out-of-practice -So-m
 type: img
 timestamp: February 5th, 2019 3:08pm
 tags: ["design", "sketchup"]

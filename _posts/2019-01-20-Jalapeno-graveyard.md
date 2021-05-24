@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Jalapeno-graveyard
 type: img
 timestamp: January 20th, 2019 5:04pm
 tags: ["Edible", "jalapeno", "dip", "photography"]

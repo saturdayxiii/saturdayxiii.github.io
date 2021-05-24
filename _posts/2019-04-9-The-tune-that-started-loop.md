@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: The-tune-that-started-loop
+type: audio
 timestamp: April 9th, 2019 10:31am
 tags: ["vgm", "music", "recommended"]
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: But-what-makes-it-a-good-h
+type: game
 timestamp: July 27th, 2014 4:37pm
 tags: ["game", "review"]
 comments: true

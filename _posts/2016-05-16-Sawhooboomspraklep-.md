@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Sawhooboomspraklep-
 type: img
 timestamp: May 16th, 2016 10:53am
 tags: ["fireworks", "hokkaido", "hanabi", "photography"]

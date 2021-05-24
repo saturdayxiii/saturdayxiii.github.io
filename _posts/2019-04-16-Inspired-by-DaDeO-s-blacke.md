@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Inspired-by-DaDeO-s-blacke
+type: food
 timestamp: April 16th, 2019 12:00pm
 tags: ["edible", "sandwich", "tofu", "food", "recommended", "photography"]
 comments: true

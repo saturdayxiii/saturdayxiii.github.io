@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: 1-Deny-climate-changep
+type: lnk
 timestamp: November 24th, 2015 8:00am
 tags: ["hypocrisy", "Thoughts"]
 comments: true

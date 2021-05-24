@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-go-through-these-seasons
+type: art
 timestamp: June 10th, 2019 9:33pm
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
 comments: true

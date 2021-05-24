@@ -1,5 +1,6 @@
 ---
 layout: post
+title: These-snugglie-wormies-wil
 type: 
 timestamp: June 12th, 2016 5:07pm
 tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography"]

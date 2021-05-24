@@ -1,5 +1,6 @@
 ---
 layout: post
+title: I-watched-the-first-episod
 type: vid
 timestamp: October 14th, 2016 12:53pm
 tags: ["opinion", "tv", "show"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Don-t-be-knottyp-
 type: img
 timestamp: June 16th, 2016 12:00pm
 tags: ["photo", "bark", "texture", "photography"]

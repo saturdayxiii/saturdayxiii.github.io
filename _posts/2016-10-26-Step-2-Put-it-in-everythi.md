@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Step-2-Put-it-in-everythi
+type: lnk
 timestamp: October 26th, 2016 7:37am
 tags: ["advice", "Thoughts"]
 comments: true

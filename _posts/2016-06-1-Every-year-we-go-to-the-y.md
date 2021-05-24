@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Every-year-we-go-to-the-y
 type: img
 timestamp: June 1st, 2016 12:00pm
 tags: ["photo", "wormies", "insect", "caterpillar", "photography"]

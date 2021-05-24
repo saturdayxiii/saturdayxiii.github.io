@@ -1,5 +1,6 @@
 ---
 layout: post
+title: When-you-re-shinyp-
 type: img
 timestamp: August 16th, 2016 12:00pm
 tags: ["Spider", "macro", "photography"]

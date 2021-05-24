@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-quite-like-thisp
+type: art
 timestamp: June 27th, 2019 12:37pm
 tags: ["sgdq2019", "art", "crayola"]
 comments: true

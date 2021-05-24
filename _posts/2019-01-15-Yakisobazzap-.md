@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Yakisobazzap-
+type: food
 timestamp: January 15th, 2019 10:20pm
 tags: ["Edible", "food", "pizza"]
 comments: true

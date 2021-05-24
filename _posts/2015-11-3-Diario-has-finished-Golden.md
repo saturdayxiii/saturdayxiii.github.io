@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: Diario-has-finished-Golden
+type: art
 timestamp: November 3rd, 2015 10:12am
 tags: ["nario", "djnario", "gaming", "Goldeneye", "007", "drawing", "sketch", "art"]
 comments: true

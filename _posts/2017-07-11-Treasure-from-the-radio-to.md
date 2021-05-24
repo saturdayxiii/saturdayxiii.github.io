@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Treasure-from-the-radio-to
+type: audio
 timestamp: July 11th, 2017 10:37am
 tags: ["radio", "impressed", "recommended", "music"]
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Tales-on-Gamecubep-
+type: game
 timestamp: May 21st, 2016 12:00pm
 tags: ["photography", "photo", "painting", "gamecube", "nintendo", "symphonia", "mod", "art", "game"]
 comments: true

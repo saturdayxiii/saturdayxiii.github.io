@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: Possibly-my-favorite-piece
+type: audio
 timestamp: January 30th, 2019 12:00pm
 tags: ["Music", "recommended", "sega", "vgm", "OST", "bgm", "chiptune"]
 comments: true

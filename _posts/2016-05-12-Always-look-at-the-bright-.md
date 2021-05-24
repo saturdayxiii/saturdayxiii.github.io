@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Always-look-at-the-bright-
 type: img
 timestamp: May 12th, 2016 12:00pm
 tags: ["photo", "crab", "photography"]

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Aspirations-realizedp-
+type: art
 timestamp: September 25th, 2016 1:45pm
 tags: ["gamecube", "nintendo", "art"]
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: A-short-tour-of-the-painti
+type: art
 timestamp: January 16th, 2019 8:42am
 tags: ["art", "customizing", "ps2"]
 comments: true

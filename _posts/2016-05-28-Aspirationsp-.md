@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Aspirationsp-
+type: art
 timestamp: May 28th, 2016 12:00pm
 tags: ["gba", "nintendo", "sonic", "idea", "art"]
 comments: true

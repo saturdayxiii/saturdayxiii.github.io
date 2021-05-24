@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: Another-bit-of-gold-from-t
+type: audio
 timestamp: July 19th, 2017 9:26am
 tags: ["radio", "recommended", "music"]
 comments: true

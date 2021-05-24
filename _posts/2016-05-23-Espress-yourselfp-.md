@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Espress-yourselfp-
+type: art
 timestamp: May 23rd, 2016 12:00pm
 tags: ["capuccino", "flower", "coffee", "edible", "art"]
 comments: true

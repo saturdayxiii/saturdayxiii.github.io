@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Scarification-is-hard- I-
+type: art
 timestamp: October 27th, 2015 9:07am
 tags: ["seahorse", "scar", "scarification", "cutting", "blood", "scab", "tattoo", "art"]
 comments: true

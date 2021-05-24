@@ -1,5 +1,6 @@
 ---
 layout: post
+title: I-love-the-philosophical-i
 type: vid
 timestamp: November 25th, 2020 3:43pm
 tags: ["microcosm", "death", "life", "ciliate", "show", "recommended"]

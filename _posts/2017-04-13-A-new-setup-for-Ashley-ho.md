@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A-new-setup-for-Ashley-ho
 type: img
 timestamp: April 13th, 2017 1:33pm
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Some-short-mood-clips-made
+type: audio
 timestamp: August 6th, 2019 12:57pm
 tags: ["famitracker", "8bit", "chiptune", "music", "nes"]
 comments: true

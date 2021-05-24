@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: A-few-nights-ago-my-brain-
+type: lnk
 timestamp: January 24th, 2019 7:12pm
 tags: ["art", "comic", "dream", "thoughts"]
 comments: true

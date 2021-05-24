@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Here-s-a-week-of-progress
+type: lnk
 timestamp: March 23rd, 2021 10:15pm
 tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
 comments: true

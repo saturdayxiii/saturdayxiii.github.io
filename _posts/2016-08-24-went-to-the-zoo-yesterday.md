@@ -1,5 +1,6 @@
 ---
 layout: post
+title: went-to-the-zoo-yesterday
 type: img
 timestamp: August 24th, 2016 12:00pm
 tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]

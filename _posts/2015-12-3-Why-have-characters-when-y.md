@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Why-have-characters-when-y
+type: game
 timestamp: December 3rd, 2015 8:10pm
 tags: ["gurumin", "anime", "japanese", "drawing", "painting", "art", "game"]
 comments: true

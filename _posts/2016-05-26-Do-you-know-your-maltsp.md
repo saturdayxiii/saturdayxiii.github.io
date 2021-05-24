@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Do-you-know-your-maltsp
 type: img
 timestamp: May 26th, 2016 12:00pm
 tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]

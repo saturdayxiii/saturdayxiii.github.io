@@ -1,5 +1,6 @@
 ---
 layout: post
+title: rar-rar-boomp-
 type: img
 timestamp: May 15th, 2016 12:00pm
 tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]

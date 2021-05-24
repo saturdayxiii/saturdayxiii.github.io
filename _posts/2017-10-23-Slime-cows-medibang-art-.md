@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Slime-cows-medibang-art-
+type: art
 timestamp: October 23rd, 2017 9:02pm
 tags: ["medibang", "slugs", "edmonton", "art"]
 comments: true

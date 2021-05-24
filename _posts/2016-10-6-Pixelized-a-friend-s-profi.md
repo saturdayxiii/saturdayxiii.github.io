@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Pixelized-a-friend-s-profi
+type: art
 timestamp: October 6th, 2016 3:18pm
 tags: ["pixel", "digital", "art"]
 comments: true

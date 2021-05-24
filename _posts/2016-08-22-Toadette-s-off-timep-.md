@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Toadette-s-off-timep-
+type: art
 timestamp: August 22nd, 2016 12:00pm
 tags: ["toadette", "game", "nintendo", "painting", "acrylic", "wii", "art"]
 comments: true

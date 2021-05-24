@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Not-perfect-but-it-s-bett
 type: img
 timestamp: December 14th, 2016 11:58am
 tags: ["frame", "controllers", "xbox", "organizing", "organization", "framing"]

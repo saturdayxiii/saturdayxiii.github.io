@@ -56,6 +56,7 @@ for file in directory:
     read_file = re.sub("<h1>","## ",read_file)
     read_file = re.sub("</h1>"," ##",read_file)
     #identify post type and add to front matter, pics, vids, quotes, text, link, audio... maybe no chat
+    #more post types decided in tagging section
     post = ""
     if re.search("body>\s*<img",read_file):
         post = "img"
@@ -134,6 +135,19 @@ for file in directory:
     '''
     # make tag list and generate frontmatter
     tags = re.findall('tag">(\w*)<', read_file)
+    #lower tag case and reapply post type
+    for tag in tags:
+        tag = tag.lower()
+        if tag == "food":
+            post = "food"
+        if tag == "thoughts":
+            post = "lnk"
+        if tag == "music":
+            post = "audio"
+        if tag == "game":
+            post = "game"
+        if tag == "art":
+            post = "art"
     tags = '"' + '", "'.join(tags)
     #delete html bits
     #head = re.match('^.*<body>\s+',read_file, re.DOTALL) #another random break, tho I'm surprised this line worked at all
@@ -154,7 +168,7 @@ for file in directory:
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
     #add front matter
-    fmatt = "---\nlayout: post\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Birds-Bear-Arms-were-amazi
+type: audio
 timestamp: March 17th, 2019 6:54pm
 tags: ["music", "concert", "event", "photography"]
 comments: true

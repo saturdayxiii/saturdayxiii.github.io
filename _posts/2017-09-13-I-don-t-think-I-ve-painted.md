@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: I-don-t-think-I-ve-painted
+type: art
 timestamp: September 13th, 2017 11:53am
 tags: ["sweetie", "painting", "edmonton", "art"]
 comments: true

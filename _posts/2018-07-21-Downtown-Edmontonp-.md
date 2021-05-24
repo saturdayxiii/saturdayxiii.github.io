@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Downtown-Edmontonp-
 type: img
 timestamp: July 21st, 2018 10:30am
 tags: ["photography", "edmonton", "alberta", "street"]

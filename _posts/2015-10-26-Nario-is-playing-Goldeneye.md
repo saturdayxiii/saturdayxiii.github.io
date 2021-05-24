@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Nario-is-playing-Goldeneye
+type: art
 timestamp: October 26th, 2015 11:26am
 tags: ["nario", "dancepad", "ddr", "n64", "goldeneye", "007", "retro", "game", "stream", "live", "twitch", "art"]
 comments: true

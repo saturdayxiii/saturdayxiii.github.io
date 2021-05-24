@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Hightech-special-forces-
+type: game
 timestamp: November 27th, 2016 12:33pm
 tags: ["painting", "acrylic", "Nintendo", "mgs", "konami", "art", "game"]
 comments: true

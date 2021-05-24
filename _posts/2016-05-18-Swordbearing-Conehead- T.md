@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Swordbearing-Conehead- T
 type: img
 timestamp: May 18th, 2016 12:00pm
 tags: ["photo", "hawaii", "grasshopper", "pointy", "bastard", "insect", "photography"]

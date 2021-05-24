@@ -1,5 +1,6 @@
 ---
 layout: post
+title: IT-S-FRIDAYNIGHTp-
 type: img
 timestamp: August 27th, 2016 12:00pm
 tags: ["snake", "snek", "mouse", "feed", "reptile", "photography"]

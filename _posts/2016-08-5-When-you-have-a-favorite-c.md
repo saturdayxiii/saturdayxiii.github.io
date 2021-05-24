@@ -1,5 +1,6 @@
 ---
 layout: post
+title: When-you-have-a-favorite-c
 type: img
 timestamp: August 5th, 2016 11:06am
 tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]

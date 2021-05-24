@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A-mommy-huntsmanp-
 type: img
 timestamp: May 24th, 2016 12:00pm
 tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography"]

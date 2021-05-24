@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A-big-reminder-to-myself-n
 type: img
 timestamp: February 19th, 2020 9:52am
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]

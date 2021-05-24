@@ -1,5 +1,6 @@
 ---
 layout: post
+title: craft-baitp-
 type: img
 timestamp: August 17th, 2016 12:00pm
 tags: ["flower", "photography", "macro"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Once-again-the-light-was-t
 type: 
 timestamp: September 2nd, 2016 12:00pm
 tags: ["spider", "arachnid", "macro", "photography"]

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: How-do-you-get-your-skin-s
 type: img
 timestamp: July 12th, 2016 12:00pm
 tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]

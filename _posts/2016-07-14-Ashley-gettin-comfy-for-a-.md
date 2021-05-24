@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Ashley-gettin-comfy-for-a-
 type: img
 timestamp: July 14th, 2016 12:01pm
 tags: ["tarantula", "shed", "insect", "photography"]

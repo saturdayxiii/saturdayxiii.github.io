@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Found-this-today-which-I-
+type: art
 timestamp: September 21st, 2017 1:29pm
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art"]
 comments: true

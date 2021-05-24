@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Are-you-sad-at-Edmonton
 type: 
 timestamp: November 4th, 2017 9:42pm
 tags: ["edmonton", "photography"]

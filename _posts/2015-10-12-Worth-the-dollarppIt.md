@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Worth-the-dollarppIt
+type: game
 timestamp: October 12th, 2015 7:34pm
 tags: ["game"]
 comments: true

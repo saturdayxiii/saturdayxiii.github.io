@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: High-Resolution-Graphics
+type: art
 timestamp: December 7th, 2015 2:02pm
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
 comments: true

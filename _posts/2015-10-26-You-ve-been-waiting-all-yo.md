@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: You-ve-been-waiting-all-yo
+type: art
 timestamp: October 26th, 2015 11:34am
 tags: ["pokemon", "misty", "psyduck", "crying", "wtf", "art"]
 comments: true

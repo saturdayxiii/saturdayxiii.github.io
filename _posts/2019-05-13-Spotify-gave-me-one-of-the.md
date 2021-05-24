@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: Spotify-gave-me-one-of-the
+type: audio
 timestamp: May 13th, 2019 12:08pm
 tags: ["recommended", "music", "pop"]
 comments: true

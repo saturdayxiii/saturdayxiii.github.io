@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Less-annoying-than-a-href
+type: game
 timestamp: August 16th, 2015 7:47pm
 tags: ["game"]
 comments: true

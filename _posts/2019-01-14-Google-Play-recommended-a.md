@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Google-Play-recommended-a
+type: game
 timestamp: January 14th, 2019 11:36am
 tags: ["meh", "game"]
 comments: true

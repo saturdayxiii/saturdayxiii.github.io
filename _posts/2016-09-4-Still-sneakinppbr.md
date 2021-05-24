@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Still-sneakinppbr
 type: img
 timestamp: September 4th, 2016 12:00pm
 tags: ["spider", "arachnid", "macro", "whenisawit", "photography"]

@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Track-art-for-a-hrefhtt
+type: art
 timestamp: August 7th, 2019 12:00pm
 tags: ["art", "covers", "pixel", "retro"]
 comments: true

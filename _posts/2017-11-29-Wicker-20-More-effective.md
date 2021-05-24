@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Wicker-20-More-effective
+type: art
 timestamp: November 29th, 2017 1:53pm
 tags: ["pixly", "tile", "pattern", "art"]
 comments: true

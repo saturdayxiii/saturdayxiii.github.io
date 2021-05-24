@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: You-thought-that-you-were-
+type: lnk
 timestamp: May 14th, 2019 11:55am
 tags: ["thoughts"]
 comments: true

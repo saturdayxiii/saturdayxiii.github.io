@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: The-cute-characters-shiny
+type: art
 timestamp: January 9th, 2019 4:39pm
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 comments: true

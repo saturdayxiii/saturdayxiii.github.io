@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Went-out-to-see-Best-Freg
 type: img
 timestamp: November 24th, 2018 12:00am
 tags: ["movie"]

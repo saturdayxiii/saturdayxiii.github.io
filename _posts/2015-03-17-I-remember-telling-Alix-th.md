@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: I-remember-telling-Alix-th
+type: art
 timestamp: March 17th, 2015 4:27pm
 tags: ["art", "mod", "paint", "case", "neon"]
 comments: true

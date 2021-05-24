@@ -1,5 +1,6 @@
 ---
 layout: post
+title: A-little-bit-of-heaven-for
 type: img
 timestamp: August 31st, 2016 6:46pm
 tags: ["liquor", "plush", "edible"]

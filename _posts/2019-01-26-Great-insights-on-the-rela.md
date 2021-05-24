@@ -1,6 +1,7 @@
 ---
 layout: post
-type: vid
+title: Great-insights-on-the-rela
+type: game
 timestamp: January 26th, 2019 4:09pm
 tags: ["show", "youtube", "game", "movie"]
 comments: true

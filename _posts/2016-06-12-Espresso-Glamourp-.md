@@ -1,6 +1,7 @@
 ---
 layout: post
-type: img
+title: Espresso-Glamourp-
+type: art
 timestamp: June 12th, 2016 12:00pm
 tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon"]
 comments: true

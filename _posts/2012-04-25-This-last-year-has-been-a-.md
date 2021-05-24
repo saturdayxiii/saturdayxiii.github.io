@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: This-last-year-has-been-a-
+type: lnk
 timestamp: April 25th, 2012 12:38pm
 tags: ["Thoughts"]
 comments: true

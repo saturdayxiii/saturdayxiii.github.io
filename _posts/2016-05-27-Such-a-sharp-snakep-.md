@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Such-a-sharp-snakep-
 type: img
 timestamp: May 27th, 2016 12:00pm
 tags: ["photo", "reptile", "snake", "pets", "photography"]

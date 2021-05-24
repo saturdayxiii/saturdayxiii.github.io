@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: Ive-been-thinking-about-3
+type: art
 timestamp: March 22nd, 2021 10:55am
 tags: ["Thoughts", "Art", "Cave"]
 comments: true

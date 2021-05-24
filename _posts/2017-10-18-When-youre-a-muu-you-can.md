@@ -1,5 +1,6 @@
 ---
 layout: post
+title: When-youre-a-muu-you-can
 type: 
 timestamp: October 18th, 2017 2:45pm
 tags: ["pets", "photo", "edmonton", "photography"]

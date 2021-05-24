@@ -1,6 +1,7 @@
 ---
 layout: post
-type: 
+title: A-chiptune-artist-with-a-c
+type: audio
 timestamp: April 11th, 2019 3:55pm
 tags: ["recommended", "music", "chiptune", "8bit", "nario"]
 comments: true

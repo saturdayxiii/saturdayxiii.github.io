@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Keep-it-hiddenp-
 type: img
 timestamp: August 21st, 2016 12:00pm
 tags: ["beetle", "bug", "insect", "leaf", "green", "macro", "gif", "photography"]
