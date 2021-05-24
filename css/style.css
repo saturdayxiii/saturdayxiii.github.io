@@ -486,7 +486,6 @@ nav a.current {
   background-color: #04AA6D;
   color: white;
   padding: 5px;
-  font-size: 20px;
   border: none;
 }
 
@@ -499,9 +498,9 @@ nav a.current {
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: relative;
   background-color: #090909;
-  min-width: 160px;
+  min-width: 130px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -509,7 +508,7 @@ nav a.current {
 /* Links inside the dropdown */
 .dropdown-content a {
   color: white;
-  padding: 12px 16px;
+  padding: 10px 15px;
   text-decoration: none;
   display: block;
 }
