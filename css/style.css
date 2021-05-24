@@ -257,7 +257,6 @@ header img {
   display: inline-block;
 }
 nav {
-  position: relative;
   margin: 20px 0;
 }
 article {
@@ -485,10 +484,11 @@ nav a.current {
 /* Dropdown Button */
 .dropbtn {
   background-color: Black; /* #04AA6D; */
-  color: white;
-  font-size: 0.9em;
+  font: inherit;
+  /* color: white;
+  font-size: 0.8em; */
   padding: 2px;
-  border: 1px solid;
+  border: 1px solid white;
   border-color: white;
 }
 
