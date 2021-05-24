@@ -258,7 +258,7 @@ header img {
 }
 nav {
   margin: 0px 0;
-  position: absolute;
+  position: relative;
 }
 article {
   margin-top: 10px;
@@ -525,3 +525,7 @@ nav a.current {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+@media(hover: hover) and (pointer: fine) {
+  .dropdown:hover .dropdown-content {display: block;}
+}
