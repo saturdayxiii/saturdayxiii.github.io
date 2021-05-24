@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: manjaro"
-tag: manjaro
+tag-name: manjaro
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: life"
-tag: life
+tag-name: life
 ---
 ---
 layout: tags
 title: "Tag: life"
-tag: life
+tag-name: life
 ---

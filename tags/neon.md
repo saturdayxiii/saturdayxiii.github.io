@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: neon"
-tag: neon
+tag-name: neon
 ---
 ---
 layout: tags
 title: "Tag: neon"
-tag: neon
+tag-name: neon
 ---

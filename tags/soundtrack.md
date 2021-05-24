@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: soundtrack"
-tag: soundtrack
+tag-name: soundtrack
 ---
 ---
 layout: tags
 title: "Tag: soundtrack"
-tag: soundtrack
+tag-name: soundtrack
 ---

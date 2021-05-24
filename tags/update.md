@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: update"
-tag: update
+tag-name: update
 ---

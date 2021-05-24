@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: glassware"
-tag: glassware
+tag-name: glassware
 ---

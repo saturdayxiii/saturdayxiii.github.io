@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: mypaint"
-tag: mypaint
+tag-name: mypaint
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: hypocrisy"
-tag: hypocrisy
+tag-name: hypocrisy
 ---

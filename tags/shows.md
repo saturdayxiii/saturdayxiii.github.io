@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: shows"
-tag: shows
+tag-name: shows
 ---
 ---
 layout: tags
 title: "Tag: shows"
-tag: shows
+tag-name: shows
 ---

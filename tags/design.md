@@ -1,15 +1,15 @@
 ---
 layout: tags
 title: "Tag: design"
-tag: design
+tag-name: design
 ---
 ---
 layout: tags
 title: "Tag: design"
-tag: design
+tag-name: design
 ---
 ---
 layout: tags
 title: "Tag: design"
-tag: design
+tag-name: design
 ---

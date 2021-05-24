@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: butterfly"
-tag: butterfly
+tag-name: butterfly
 ---

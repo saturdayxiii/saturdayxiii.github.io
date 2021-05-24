@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: product"
-tag: product
+tag-name: product
 ---
 ---
 layout: tags
 title: "Tag: product"
-tag: product
+tag-name: product
 ---

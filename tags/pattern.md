@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pattern"
-tag: pattern
+tag-name: pattern
 ---

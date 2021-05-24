@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: box"
-tag: box
+tag-name: box
 ---

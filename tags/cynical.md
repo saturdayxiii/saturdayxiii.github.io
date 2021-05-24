@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cynical"
-tag: cynical
+tag-name: cynical
 ---

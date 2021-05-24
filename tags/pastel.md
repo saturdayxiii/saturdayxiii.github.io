@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pastel"
-tag: pastel
+tag-name: pastel
 ---

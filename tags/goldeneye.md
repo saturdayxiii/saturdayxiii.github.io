@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: goldeneye"
-tag: goldeneye
+tag-name: goldeneye
 ---
 ---
 layout: tags
 title: "Tag: goldeneye"
-tag: goldeneye
+tag-name: goldeneye
 ---

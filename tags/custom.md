@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: custom"
-tag: custom
+tag-name: custom
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: scab"
-tag: scab
+tag-name: scab
 ---

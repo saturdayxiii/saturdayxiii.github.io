@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: wine"
-tag: wine
+tag-name: wine
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: fireworks"
-tag: fireworks
+tag-name: fireworks
 ---
 ---
 layout: tags
 title: "Tag: fireworks"
-tag: fireworks
+tag-name: fireworks
 ---

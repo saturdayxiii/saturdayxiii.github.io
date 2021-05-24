@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: xbox"
-tag: xbox
+tag-name: xbox
 ---

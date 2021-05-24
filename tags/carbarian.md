@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: carbarian"
-tag: carbarian
+tag-name: carbarian
 ---

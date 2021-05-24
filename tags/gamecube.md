@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: gamecube"
-tag: gamecube
+tag-name: gamecube
 ---
 ---
 layout: tags
 title: "Tag: gamecube"
-tag: gamecube
+tag-name: gamecube
 ---

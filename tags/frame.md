@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: frame"
-tag: frame
+tag-name: frame
 ---

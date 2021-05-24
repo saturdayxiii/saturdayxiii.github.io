@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: arcade"
-tag: arcade
+tag-name: arcade
 ---
 ---
 layout: tags
 title: "Tag: arcade"
-tag: arcade
+tag-name: arcade
 ---

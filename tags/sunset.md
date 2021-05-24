@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: sunset"
-tag: sunset
+tag-name: sunset
 ---

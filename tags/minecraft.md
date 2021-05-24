@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: minecraft"
-tag: minecraft
+tag-name: minecraft
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: hammerhead"
-tag: hammerhead
+tag-name: hammerhead
 ---

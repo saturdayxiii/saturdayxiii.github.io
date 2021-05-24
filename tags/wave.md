@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: wave"
-tag: wave
+tag-name: wave
 ---

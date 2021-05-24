@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: horned"
-tag: horned
+tag-name: horned
 ---

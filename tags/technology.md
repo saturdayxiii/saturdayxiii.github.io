@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: technology"
-tag: technology
+tag-name: technology
 ---

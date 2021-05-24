@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: scarification"
-tag: scarification
+tag-name: scarification
 ---

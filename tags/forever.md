@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: forever"
-tag: forever
+tag-name: forever
 ---

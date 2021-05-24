@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: miami"
-tag: miami
+tag-name: miami
 ---

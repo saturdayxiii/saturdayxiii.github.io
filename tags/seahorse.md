@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: seahorse"
-tag: seahorse
+tag-name: seahorse
 ---

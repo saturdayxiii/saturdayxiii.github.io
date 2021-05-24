@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: eccentric"
-tag: eccentric
+tag-name: eccentric
 ---

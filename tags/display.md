@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: display"
-tag: display
+tag-name: display
 ---

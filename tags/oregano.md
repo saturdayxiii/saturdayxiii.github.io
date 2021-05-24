@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: oregano"
-tag: oregano
+tag-name: oregano
 ---

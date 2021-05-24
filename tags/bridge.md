@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: bridge"
-tag: bridge
+tag-name: bridge
 ---

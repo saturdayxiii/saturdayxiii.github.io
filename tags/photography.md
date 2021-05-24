@@ -1,20 +1,20 @@
 ---
 layout: tags
 title: "Tag: photography"
-tag: photography
+tag-name: photography
 ---
 ---
 layout: tags
 title: "Tag: photography"
-tag: photography
+tag-name: photography
 ---
 ---
 layout: tags
 title: "Tag: photography"
-tag: photography
+tag-name: photography
 ---
 ---
 layout: tags
 title: "Tag: photography"
-tag: photography
+tag-name: photography
 ---

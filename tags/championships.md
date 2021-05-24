@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: championships"
-tag: championships
+tag-name: championships
 ---

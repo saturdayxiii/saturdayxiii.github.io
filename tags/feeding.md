@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: feeding"
-tag: feeding
+tag-name: feeding
 ---

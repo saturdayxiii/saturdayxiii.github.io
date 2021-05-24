@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: arachnid"
-tag: arachnid
+tag-name: arachnid
 ---
 ---
 layout: tags
 title: "Tag: arachnid"
-tag: arachnid
+tag-name: arachnid
 ---

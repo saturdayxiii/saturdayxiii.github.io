@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: alcohol"
-tag: alcohol
+tag-name: alcohol
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: flower"
-tag: flower
+tag-name: flower
 ---
 ---
 layout: tags
 title: "Tag: flower"
-tag: flower
+tag-name: flower
 ---

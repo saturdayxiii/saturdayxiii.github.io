@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: slash"
-tag: slash
+tag-name: slash
 ---

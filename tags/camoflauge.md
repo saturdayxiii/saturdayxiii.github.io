@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: camoflauge"
-tag: camoflauge
+tag-name: camoflauge
 ---
 ---
 layout: tags
 title: "Tag: camoflauge"
-tag: camoflauge
+tag-name: camoflauge
 ---

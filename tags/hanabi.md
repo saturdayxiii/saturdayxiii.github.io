@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: hanabi"
-tag: hanabi
+tag-name: hanabi
 ---

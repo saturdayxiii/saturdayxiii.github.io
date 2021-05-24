@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: retrogaming"
-tag: retrogaming
+tag-name: retrogaming
 ---

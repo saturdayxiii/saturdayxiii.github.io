@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: stand"
-tag: stand
+tag-name: stand
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: painting"
-tag: painting
+tag-name: painting
 ---
 ---
 layout: tags
 title: "Tag: painting"
-tag: painting
+tag-name: painting
 ---

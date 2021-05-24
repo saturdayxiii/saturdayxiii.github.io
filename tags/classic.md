@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: classic"
-tag: classic
+tag-name: classic
 ---

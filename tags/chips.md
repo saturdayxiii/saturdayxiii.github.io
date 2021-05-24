@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: chips"
-tag: chips
+tag-name: chips
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: reccommended"
-tag: reccommended
+tag-name: reccommended
 ---

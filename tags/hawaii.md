@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: hawaii"
-tag: hawaii
+tag-name: hawaii
 ---

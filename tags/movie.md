@@ -1,20 +1,20 @@
 ---
 layout: tags
 title: "Tag: movie"
-tag: movie
+tag-name: movie
 ---
 ---
 layout: tags
 title: "Tag: movie"
-tag: movie
+tag-name: movie
 ---
 ---
 layout: tags
 title: "Tag: movie"
-tag: movie
+tag-name: movie
 ---
 ---
 layout: tags
 title: "Tag: movie"
-tag: movie
+tag-name: movie
 ---

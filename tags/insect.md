@@ -1,15 +1,15 @@
 ---
 layout: tags
 title: "Tag: insect"
-tag: insect
+tag-name: insect
 ---
 ---
 layout: tags
 title: "Tag: insect"
-tag: insect
+tag-name: insect
 ---
 ---
 layout: tags
 title: "Tag: insect"
-tag: insect
+tag-name: insect
 ---

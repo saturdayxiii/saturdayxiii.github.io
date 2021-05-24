@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: baby"
-tag: baby
+tag-name: baby
 ---

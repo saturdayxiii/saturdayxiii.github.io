@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: web"
-tag: web
+tag-name: web
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: mod"
-tag: mod
+tag-name: mod
 ---

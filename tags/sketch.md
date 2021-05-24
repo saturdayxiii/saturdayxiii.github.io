@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: sketch"
-tag: sketch
+tag-name: sketch
 ---
 ---
 layout: tags
 title: "Tag: sketch"
-tag: sketch
+tag-name: sketch
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pyxeledit"
-tag: pyxeledit
+tag-name: pyxeledit
 ---

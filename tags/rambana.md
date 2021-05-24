@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: rambana"
-tag: rambana
+tag-name: rambana
 ---

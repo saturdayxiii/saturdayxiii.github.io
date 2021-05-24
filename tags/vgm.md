@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: vgm"
-tag: vgm
+tag-name: vgm
 ---
 ---
 layout: tags
 title: "Tag: vgm"
-tag: vgm
+tag-name: vgm
 ---

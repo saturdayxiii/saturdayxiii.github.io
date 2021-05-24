@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: spiderlings"
-tag: spiderlings
+tag-name: spiderlings
 ---
 ---
 layout: tags
 title: "Tag: spiderlings"
-tag: spiderlings
+tag-name: spiderlings
 ---

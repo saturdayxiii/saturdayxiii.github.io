@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: recipe"
-tag: recipe
+tag-name: recipe
 ---

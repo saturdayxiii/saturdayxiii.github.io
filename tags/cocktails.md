@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cocktails"
-tag: cocktails
+tag-name: cocktails
 ---

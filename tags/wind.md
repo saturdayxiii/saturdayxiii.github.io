@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: wind"
-tag: wind
+tag-name: wind
 ---

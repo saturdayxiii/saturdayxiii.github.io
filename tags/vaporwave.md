@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: vaporwave"
-tag: vaporwave
+tag-name: vaporwave
 ---

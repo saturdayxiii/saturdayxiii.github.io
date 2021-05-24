@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: earthworm"
-tag: earthworm
+tag-name: earthworm
 ---

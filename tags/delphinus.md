@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: delphinus"
-tag: delphinus
+tag-name: delphinus
 ---

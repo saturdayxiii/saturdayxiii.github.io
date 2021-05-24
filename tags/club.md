@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: club"
-tag: club
+tag-name: club
 ---

@@ -1,15 +1,15 @@
 ---
 layout: tags
 title: "Tag: spider"
-tag: spider
+tag-name: spider
 ---
 ---
 layout: tags
 title: "Tag: spider"
-tag: spider
+tag-name: spider
 ---
 ---
 layout: tags
 title: "Tag: spider"
-tag: spider
+tag-name: spider
 ---

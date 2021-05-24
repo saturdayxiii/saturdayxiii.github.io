@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: linda"
-tag: linda
+tag-name: linda
 ---

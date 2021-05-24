@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: garden"
-tag: garden
+tag-name: garden
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: indie"
-tag: indie
+tag-name: indie
 ---

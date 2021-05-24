@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: marvel"
-tag: marvel
+tag-name: marvel
 ---

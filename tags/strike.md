@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: strike"
-tag: strike
+tag-name: strike
 ---

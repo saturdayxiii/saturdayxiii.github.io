@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pikachu"
-tag: pikachu
+tag-name: pikachu
 ---

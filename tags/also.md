@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: also"
-tag: also
+tag-name: also
 ---

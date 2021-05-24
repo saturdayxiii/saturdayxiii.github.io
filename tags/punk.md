@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: punk"
-tag: punk
+tag-name: punk
 ---
 ---
 layout: tags
 title: "Tag: punk"
-tag: punk
+tag-name: punk
 ---

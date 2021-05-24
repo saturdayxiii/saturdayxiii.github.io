@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: hokkaido"
-tag: hokkaido
+tag-name: hokkaido
 ---

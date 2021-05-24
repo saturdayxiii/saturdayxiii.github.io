@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: garalina"
-tag: garalina
+tag-name: garalina
 ---

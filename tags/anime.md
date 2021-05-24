@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: anime"
-tag: anime
+tag-name: anime
 ---
 ---
 layout: tags
 title: "Tag: anime"
-tag: anime
+tag-name: anime
 ---

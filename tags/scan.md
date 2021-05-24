@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: scan"
-tag: scan
+tag-name: scan
 ---

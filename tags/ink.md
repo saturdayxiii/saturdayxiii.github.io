@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: ink"
-tag: ink
+tag-name: ink
 ---
 ---
 layout: tags
 title: "Tag: ink"
-tag: ink
+tag-name: ink
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: macro"
-tag: macro
+tag-name: macro
 ---
 ---
 layout: tags
 title: "Tag: macro"
-tag: macro
+tag-name: macro
 ---

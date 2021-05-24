@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: thingiverse"
-tag: thingiverse
+tag-name: thingiverse
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: blacklight"
-tag: blacklight
+tag-name: blacklight
 ---

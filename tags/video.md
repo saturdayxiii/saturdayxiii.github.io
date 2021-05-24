@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: video"
-tag: video
+tag-name: video
 ---
 ---
 layout: tags
 title: "Tag: video"
-tag: video
+tag-name: video
 ---

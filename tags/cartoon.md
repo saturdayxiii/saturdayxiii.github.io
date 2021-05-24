@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cartoon"
-tag: cartoon
+tag-name: cartoon
 ---

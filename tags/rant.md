@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: rant"
-tag: rant
+tag-name: rant
 ---
 ---
 layout: tags
 title: "Tag: rant"
-tag: rant
+tag-name: rant
 ---

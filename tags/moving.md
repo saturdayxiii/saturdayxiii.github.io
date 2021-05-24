@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: moving"
-tag: moving
+tag-name: moving
 ---

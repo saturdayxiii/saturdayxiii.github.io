@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: scanography"
-tag: scanography
+tag-name: scanography
 ---

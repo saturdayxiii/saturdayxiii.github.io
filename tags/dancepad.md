@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: dancepad"
-tag: dancepad
+tag-name: dancepad
 ---

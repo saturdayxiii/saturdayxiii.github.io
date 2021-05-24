@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: river"
-tag: river
+tag-name: river
 ---

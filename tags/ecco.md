@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: ecco"
-tag: ecco
+tag-name: ecco
 ---

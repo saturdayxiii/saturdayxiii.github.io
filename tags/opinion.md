@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: opinion"
-tag: opinion
+tag-name: opinion
 ---
 ---
 layout: tags
 title: "Tag: opinion"
-tag: opinion
+tag-name: opinion
 ---

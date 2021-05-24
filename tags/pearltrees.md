@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pearltrees"
-tag: pearltrees
+tag-name: pearltrees
 ---

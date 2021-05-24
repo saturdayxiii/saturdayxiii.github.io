@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: mouse"
-tag: mouse
+tag-name: mouse
 ---

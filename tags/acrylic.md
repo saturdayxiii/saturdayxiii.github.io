@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: acrylic"
-tag: acrylic
+tag-name: acrylic
 ---
 ---
 layout: tags
 title: "Tag: acrylic"
-tag: acrylic
+tag-name: acrylic
 ---

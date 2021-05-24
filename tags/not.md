@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: not"
-tag: not
+tag-name: not
 ---
 ---
 layout: tags
 title: "Tag: not"
-tag: not
+tag-name: not
 ---

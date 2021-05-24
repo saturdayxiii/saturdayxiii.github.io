@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: chiptune"
-tag: chiptune
+tag-name: chiptune
 ---
 ---
 layout: tags
 title: "Tag: chiptune"
-tag: chiptune
+tag-name: chiptune
 ---

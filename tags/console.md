@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: console"
-tag: console
+tag-name: console
 ---

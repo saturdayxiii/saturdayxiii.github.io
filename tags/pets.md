@@ -1,15 +1,15 @@
 ---
 layout: tags
 title: "Tag: pets"
-tag: pets
+tag-name: pets
 ---
 ---
 layout: tags
 title: "Tag: pets"
-tag: pets
+tag-name: pets
 ---
 ---
 layout: tags
 title: "Tag: pets"
-tag: pets
+tag-name: pets
 ---

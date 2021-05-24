@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: brainstorm"
-tag: brainstorm
+tag-name: brainstorm
 ---
 ---
 layout: tags
 title: "Tag: brainstorm"
-tag: brainstorm
+tag-name: brainstorm
 ---

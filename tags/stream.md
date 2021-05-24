@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: stream"
-tag: stream
+tag-name: stream
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: computer"
-tag: computer
+tag-name: computer
 ---
 ---
 layout: tags
 title: "Tag: computer"
-tag: computer
+tag-name: computer
 ---

@@ -1,25 +1,25 @@
 ---
 layout: tags
 title: "Tag: music"
-tag: music
+tag-name: music
 ---
 ---
 layout: tags
 title: "Tag: music"
-tag: music
+tag-name: music
 ---
 ---
 layout: tags
 title: "Tag: music"
-tag: music
+tag-name: music
 ---
 ---
 layout: tags
 title: "Tag: music"
-tag: music
+tag-name: music
 ---
 ---
 layout: tags
 title: "Tag: music"
-tag: music
+tag-name: music
 ---

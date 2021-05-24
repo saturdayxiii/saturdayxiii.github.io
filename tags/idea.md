@@ -1,20 +1,20 @@
 ---
 layout: tags
 title: "Tag: idea"
-tag: idea
+tag-name: idea
 ---
 ---
 layout: tags
 title: "Tag: idea"
-tag: idea
+tag-name: idea
 ---
 ---
 layout: tags
 title: "Tag: idea"
-tag: idea
+tag-name: idea
 ---
 ---
 layout: tags
 title: "Tag: idea"
-tag: idea
+tag-name: idea
 ---

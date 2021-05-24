@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: sun"
-tag: sun
+tag-name: sun
 ---
 ---
 layout: tags
 title: "Tag: sun"
-tag: sun
+tag-name: sun
 ---

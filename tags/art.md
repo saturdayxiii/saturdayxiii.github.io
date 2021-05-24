@@ -1,30 +1,30 @@
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---
 ---
 layout: tags
 title: "Tag: art"
-tag: art
+tag-name: art
 ---

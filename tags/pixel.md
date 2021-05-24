@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: pixel"
-tag: pixel
+tag-name: pixel
 ---
 ---
 layout: tags
 title: "Tag: pixel"
-tag: pixel
+tag-name: pixel
 ---

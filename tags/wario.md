@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: wario"
-tag: wario
+tag-name: wario
 ---
 ---
 layout: tags
 title: "Tag: wario"
-tag: wario
+tag-name: wario
 ---

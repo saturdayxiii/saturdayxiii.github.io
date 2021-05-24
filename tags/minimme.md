@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: minimme"
-tag: minimme
+tag-name: minimme
 ---

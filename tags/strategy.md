@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: strategy"
-tag: strategy
+tag-name: strategy
 ---

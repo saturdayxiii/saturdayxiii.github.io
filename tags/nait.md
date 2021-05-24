@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: nait"
-tag: nait
+tag-name: nait
 ---

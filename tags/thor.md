@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: thor"
-tag: thor
+tag-name: thor
 ---

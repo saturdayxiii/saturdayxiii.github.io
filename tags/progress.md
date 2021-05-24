@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: progress"
-tag: progress
+tag-name: progress
 ---
 ---
 layout: tags
 title: "Tag: progress"
-tag: progress
+tag-name: progress
 ---

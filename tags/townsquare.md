@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: townsquare"
-tag: townsquare
+tag-name: townsquare
 ---

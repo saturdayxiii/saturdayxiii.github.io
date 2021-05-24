@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pointless"
-tag: pointless
+tag-name: pointless
 ---

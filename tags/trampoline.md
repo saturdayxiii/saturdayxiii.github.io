@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: trampoline"
-tag: trampoline
+tag-name: trampoline
 ---

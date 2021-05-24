@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: greentext"
-tag: greentext
+tag-name: greentext
 ---

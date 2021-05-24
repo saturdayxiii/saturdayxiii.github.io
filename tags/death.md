@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: death"
-tag: death
+tag-name: death
 ---

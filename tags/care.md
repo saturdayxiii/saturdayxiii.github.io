@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: care"
-tag: care
+tag-name: care
 ---

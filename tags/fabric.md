@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: fabric"
-tag: fabric
+tag-name: fabric
 ---

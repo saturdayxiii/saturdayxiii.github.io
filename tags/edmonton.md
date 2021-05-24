@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: edmonton"
-tag: edmonton
+tag-name: edmonton
 ---
 ---
 layout: tags
 title: "Tag: edmonton"
-tag: edmonton
+tag-name: edmonton
 ---

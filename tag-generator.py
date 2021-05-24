@@ -52,7 +52,7 @@ for tag in total_tags:
     tag = tag.lower()
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tags\ntitle: "Tag: ' + tag + '"\ntag: ' + tag + '\n---\n'
+    write_str = '---\nlayout: tags\ntitle: "Tag: ' + tag + '"\ntag-name: ' + tag + '\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())

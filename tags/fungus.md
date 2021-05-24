@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: fungus"
-tag: fungus
+tag-name: fungus
 ---

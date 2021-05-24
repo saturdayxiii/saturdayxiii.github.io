@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: yoshi"
-tag: yoshi
+tag-name: yoshi
 ---
 ---
 layout: tags
 title: "Tag: yoshi"
-tag: yoshi
+tag-name: yoshi
 ---

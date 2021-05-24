@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: whiskers"
-tag: whiskers
+tag-name: whiskers
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: gamer"
-tag: gamer
+tag-name: gamer
 ---

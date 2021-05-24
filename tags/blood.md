@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: blood"
-tag: blood
+tag-name: blood
 ---

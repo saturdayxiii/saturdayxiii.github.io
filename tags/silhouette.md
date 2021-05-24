@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: silhouette"
-tag: silhouette
+tag-name: silhouette
 ---

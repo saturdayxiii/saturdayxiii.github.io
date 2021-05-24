@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: norules"
-tag: norules
+tag-name: norules
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: purchase"
-tag: purchase
+tag-name: purchase
 ---
 ---
 layout: tags
 title: "Tag: purchase"
-tag: purchase
+tag-name: purchase
 ---

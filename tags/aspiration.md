@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: aspiration"
-tag: aspiration
+tag-name: aspiration
 ---

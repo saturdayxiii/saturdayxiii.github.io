@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cave"
-tag: cave
+tag-name: cave
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: wtf"
-tag: wtf
+tag-name: wtf
 ---

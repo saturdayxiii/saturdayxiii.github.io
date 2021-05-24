@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: advice"
-tag: advice
+tag-name: advice
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: winnipeg"
-tag: winnipeg
+tag-name: winnipeg
 ---

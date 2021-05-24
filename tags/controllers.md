@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: controllers"
-tag: controllers
+tag-name: controllers
 ---

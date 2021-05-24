@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: capuccino"
-tag: capuccino
+tag-name: capuccino
 ---

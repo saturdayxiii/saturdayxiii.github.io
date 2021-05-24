@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pinecone"
-tag: pinecone
+tag-name: pinecone
 ---

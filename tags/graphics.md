@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: graphics"
-tag: graphics
+tag-name: graphics
 ---

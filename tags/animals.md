@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: animals"
-tag: animals
+tag-name: animals
 ---

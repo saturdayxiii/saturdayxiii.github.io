@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: tideland"
-tag: tideland
+tag-name: tideland
 ---

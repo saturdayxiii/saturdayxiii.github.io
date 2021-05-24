@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: djnario"
-tag: djnario
+tag-name: djnario
 ---

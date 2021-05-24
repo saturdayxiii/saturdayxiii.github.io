@@ -1,15 +1,15 @@
 ---
 layout: tags
 title: "Tag: nintendo"
-tag: nintendo
+tag-name: nintendo
 ---
 ---
 layout: tags
 title: "Tag: nintendo"
-tag: nintendo
+tag-name: nintendo
 ---
 ---
 layout: tags
 title: "Tag: nintendo"
-tag: nintendo
+tag-name: nintendo
 ---

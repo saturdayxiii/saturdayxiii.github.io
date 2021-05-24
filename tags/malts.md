@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: malts"
-tag: malts
+tag-name: malts
 ---

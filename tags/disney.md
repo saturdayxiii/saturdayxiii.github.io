@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: disney"
-tag: disney
+tag-name: disney
 ---
 ---
 layout: tags
 title: "Tag: disney"
-tag: disney
+tag-name: disney
 ---

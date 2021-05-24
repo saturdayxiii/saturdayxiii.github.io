@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: pillbug"
-tag: pillbug
+tag-name: pillbug
 ---

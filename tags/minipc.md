@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: minipc"
-tag: minipc
+tag-name: minipc
 ---

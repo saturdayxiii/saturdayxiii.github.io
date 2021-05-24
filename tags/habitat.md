@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: habitat"
-tag: habitat
+tag-name: habitat
 ---

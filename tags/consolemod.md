@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: consolemod"
-tag: consolemod
+tag-name: consolemod
 ---

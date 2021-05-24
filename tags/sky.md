@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: sky"
-tag: sky
+tag-name: sky
 ---

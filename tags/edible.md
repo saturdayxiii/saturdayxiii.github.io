@@ -1,20 +1,20 @@
 ---
 layout: tags
 title: "Tag: edible"
-tag: edible
+tag-name: edible
 ---
 ---
 layout: tags
 title: "Tag: edible"
-tag: edible
+tag-name: edible
 ---
 ---
 layout: tags
 title: "Tag: edible"
-tag: edible
+tag-name: edible
 ---
 ---
 layout: tags
 title: "Tag: edible"
-tag: edible
+tag-name: edible
 ---

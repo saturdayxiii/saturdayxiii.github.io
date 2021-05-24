@@ -1,20 +1,20 @@
 ---
 layout: tags
 title: "Tag: photo"
-tag: photo
+tag-name: photo
 ---
 ---
 layout: tags
 title: "Tag: photo"
-tag: photo
+tag-name: photo
 ---
 ---
 layout: tags
 title: "Tag: photo"
-tag: photo
+tag-name: photo
 ---
 ---
 layout: tags
 title: "Tag: photo"
-tag: photo
+tag-name: photo
 ---

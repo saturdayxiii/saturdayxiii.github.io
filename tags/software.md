@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: software"
-tag: software
+tag-name: software
 ---

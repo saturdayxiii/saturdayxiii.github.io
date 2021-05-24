@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cinema"
-tag: cinema
+tag-name: cinema
 ---

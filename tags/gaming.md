@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: gaming"
-tag: gaming
+tag-name: gaming
 ---
 ---
 layout: tags
 title: "Tag: gaming"
-tag: gaming
+tag-name: gaming
 ---

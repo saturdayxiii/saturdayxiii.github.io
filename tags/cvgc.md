@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: cvgc"
-tag: cvgc
+tag-name: cvgc
 ---

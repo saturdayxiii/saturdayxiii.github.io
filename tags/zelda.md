@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: zelda"
-tag: zelda
+tag-name: zelda
 ---

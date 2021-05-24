@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: meerkat"
-tag: meerkat
+tag-name: meerkat
 ---

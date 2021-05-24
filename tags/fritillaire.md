@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: fritillaire"
-tag: fritillaire
+tag-name: fritillaire
 ---

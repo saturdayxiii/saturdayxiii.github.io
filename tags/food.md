@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: food"
-tag: food
+tag-name: food
 ---
 ---
 layout: tags
 title: "Tag: food"
-tag: food
+tag-name: food
 ---

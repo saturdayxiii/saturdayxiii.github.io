@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: resolution"
-tag: resolution
+tag-name: resolution
 ---

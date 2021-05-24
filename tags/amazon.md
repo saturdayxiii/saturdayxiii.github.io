@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: amazon"
-tag: amazon
+tag-name: amazon
 ---

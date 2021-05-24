@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: organization"
-tag: organization
+tag-name: organization
 ---

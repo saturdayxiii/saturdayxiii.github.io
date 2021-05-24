@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: niche"
-tag: niche
+tag-name: niche
 ---

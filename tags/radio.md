@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: radio"
-tag: radio
+tag-name: radio
 ---

@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: pokemon"
-tag: pokemon
+tag-name: pokemon
 ---
 ---
 layout: tags
 title: "Tag: pokemon"
-tag: pokemon
+tag-name: pokemon
 ---

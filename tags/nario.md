@@ -1,10 +1,10 @@
 ---
 layout: tags
 title: "Tag: nario"
-tag: nario
+tag-name: nario
 ---
 ---
 layout: tags
 title: "Tag: nario"
-tag: nario
+tag-name: nario
 ---

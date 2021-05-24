@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: ddr"
-tag: ddr
+tag-name: ddr
 ---

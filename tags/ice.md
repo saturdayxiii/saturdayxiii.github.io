@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: ice"
-tag: ice
+tag-name: ice
 ---

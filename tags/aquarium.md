@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: aquarium"
-tag: aquarium
+tag-name: aquarium
 ---

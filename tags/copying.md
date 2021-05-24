@@ -1,5 +1,5 @@
 ---
 layout: tags
 title: "Tag: copying"
-tag: copying
+tag-name: copying
 ---
