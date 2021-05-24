@@ -257,7 +257,7 @@ header img {
   display: inline-block;
 }
 nav {
-  margin: 10px 0;
+  margin: auto;
   position: relative;
 }
 article {
