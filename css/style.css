@@ -258,6 +258,7 @@ header img {
 }
 nav {
   margin: 0px 0;
+  position: absolute;
 }
 article {
   margin-top: 10px;
