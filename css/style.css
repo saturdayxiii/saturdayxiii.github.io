@@ -469,7 +469,7 @@ nav a.current {
     padding: 5px 8px;
   }
   .website-title {
-    margin-bottom: 80px;
+    margin-bottom: 20px;
   }
 }
 @media all and (min-width: 760px) {
@@ -485,8 +485,8 @@ nav a.current {
 .dropbtn {
   background-color: Black; /* #04AA6D; */
   font: inherit;
-  /* color: white;
-  font-size: 0.8em; */
+  color: white;
+  /* font-size: 0.8em; */
   padding: 2px;
   border: 1px solid white;
   border-color: white;
