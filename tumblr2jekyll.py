@@ -125,7 +125,7 @@ for file in directory:
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
     if no_punc == '':
-        no_punc = "blank"
+        no_punc = "-"
     #date is now title I guess
     #make a summary WAIT!  We don't need it no more
     '''
