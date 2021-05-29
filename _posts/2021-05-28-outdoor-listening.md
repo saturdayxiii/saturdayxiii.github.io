@@ -1,9 +1,8 @@
 ---
 type: img
 title: "Outdoor Listening"
----
 tags: ["personal", "stereo", "blind", "audio", "outdoors", "cozy", "peaceful"]
-
+---
 [![outdoor stereo](https://i.postimg.cc/sDyz23nn/PXL-20210529-004708664.jpg)](https://i.postimg.cc/Rh1zTY0Q/PXL-20210529-004708664.jpg)
 
 I know no one likes it when other people do it... But I do enjoy this feeling.
