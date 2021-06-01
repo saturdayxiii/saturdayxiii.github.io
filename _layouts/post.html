@@ -16,7 +16,7 @@ layout: default
   {% assign tag_slug = tag | slugify: "raw" %}
   <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
     rel="category tag">
-    #{{ tag }}
+     #{{ tag }}
   </a>
 {% endfor %}
 </span>
