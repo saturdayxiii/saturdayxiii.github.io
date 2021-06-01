@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yay--Having-a-long-stay-a
-type: art
+type: img
 timestamp: June 15th, 2019 4:27pm
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughtspp a-href
-type: art
+type: img
 timestamp: October 4th, 2017 4:15pm
 tags: ["acryptozoo", "talitrid", "dress", "sketch", "illustration", "edmonton", "art"]
 comments: true

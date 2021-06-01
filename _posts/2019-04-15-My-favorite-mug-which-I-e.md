@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My-favorite-mug-which-I-e
-type: art
+type: img
 timestamp: April 15th, 2019 12:00pm
 tags: ["art", "mug", "pastel", "paint", "ceramic", "crankpots"]
 comments: true

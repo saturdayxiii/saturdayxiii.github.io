@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How-about-pixel-aspen-pane
-type: art
+type: img
 timestamp: November 29th, 2017 8:18pm
 tags: ["pyxeledit", "tile", "pattern", "art"]
 comments: true

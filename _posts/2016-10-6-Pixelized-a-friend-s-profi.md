@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pixelized-a-friend-s-profi
-type: art
+type: img
 timestamp: October 6th, 2016 3:18pm
-tags: ["pixel", "digital", "art"]
+tags: ["pixel", "digital", "art", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/151441183214.png"/>

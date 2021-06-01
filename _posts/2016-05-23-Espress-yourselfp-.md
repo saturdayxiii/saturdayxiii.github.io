@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Espress-yourselfp-
-type: art
+type: img
 timestamp: May 23rd, 2016 12:00pm
-tags: ["capuccino", "flower", "coffee", "edible", "art"]
+tags: ["capuccino", "flower", "coffee", "edible", "art", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/144815258057.jpg"/>

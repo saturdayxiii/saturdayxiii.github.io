@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consoles-for-games-that-do
-type: art
+type: img
 timestamp: December 29th, 2015 7:20am
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
 comments: true

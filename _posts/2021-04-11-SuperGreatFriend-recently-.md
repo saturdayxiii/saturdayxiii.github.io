@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SuperGreatFriend-recently-
-type: game
+type: vid
 timestamp: April 11th, 2021 12:00pm
 tags: ["ps2", "gaming", "game", "show", "recom", "Youtube"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spent-Valentines-with-my-S
-type: img
+type: vid
 timestamp: February 15th, 2019 11:09am
 tags: ["valentines", "event", "movie"]
 comments: true

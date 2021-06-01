@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Its-modified--I-swear--
-type: art
+type: img
 timestamp: November 22nd, 2017 8:54pm
 tags: ["snes", "photo", "edmonton", "custom", "art"]
 comments: true

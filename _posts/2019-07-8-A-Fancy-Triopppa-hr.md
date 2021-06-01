@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A-Fancy-Triopppa-hr
-type: art
+type: img
 timestamp: July 8th, 2019 9:32pm
 tags: ["triops", "ibispaintx", "art"]
 comments: true

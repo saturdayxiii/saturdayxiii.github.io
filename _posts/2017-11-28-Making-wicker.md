@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making-wicker
-type: art
+type: img
 timestamp: November 28th, 2017 9:24pm
 tags: ["pixly", "edmonton", "pattern", "64x64", "16bit", "tile", "texture", "art"]
 comments: true

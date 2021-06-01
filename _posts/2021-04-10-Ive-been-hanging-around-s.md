@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ive-been-hanging-around-s
-type: game
+type: vid
 timestamp: April 10th, 2021 12:00pm
 tags: ["ps1", "sentient", "game", "gaming", "show", "recommended"]
 comments: true

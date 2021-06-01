@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here-s-a-rejected-tshirt-
-type: art
+type: vid
 timestamp: November 17th, 2015 8:52pm
 tags: ["thor", "shark", "hammerhead", "marvel", "vector", "art", "movie", "comic"]
 comments: true

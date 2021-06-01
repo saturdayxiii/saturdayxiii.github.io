@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ive-always-been-a-critica
-type: lnk
+type: game
 timestamp: April 15th, 2021 8:43pm
 tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube"]
 comments: true

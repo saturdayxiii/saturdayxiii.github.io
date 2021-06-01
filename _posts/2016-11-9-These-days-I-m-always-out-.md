@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These-days-I-m-always-out-
-type: art
+type: img
 timestamp: November 9th, 2016 10:17pm
 tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustration", "art"]
 comments: true

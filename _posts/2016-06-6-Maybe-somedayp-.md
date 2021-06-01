@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maybe-somedayp-
-type: art
+type: img
 timestamp: June 6th, 2016 12:00pm
 tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 comments: true

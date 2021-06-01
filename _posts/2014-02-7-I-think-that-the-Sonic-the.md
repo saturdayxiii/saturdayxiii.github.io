@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I-think-that-the-Sonic-the
-type: art
+type: img
 timestamp: February 7th, 2014 10:43am
 tags: ["sonic", "redesign", "2014", "sketch", "drawing", "ink", "art"]
 comments: true

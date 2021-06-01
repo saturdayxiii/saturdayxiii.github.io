@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I-was-not-expecting-to-enj
-type: img
+type: vid
 timestamp: January 15th, 2019 9:02pm
 tags: ["show", "amazon", "recommended"]
 comments: true

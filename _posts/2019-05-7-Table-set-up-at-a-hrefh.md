@@ -3,7 +3,7 @@ layout: post
 title: Table-set-up-at-a-hrefh
 type: img
 timestamp: May 7th, 2019 10:30am
-tags: ["update", "yeg", "expo", "display", "presentation", "journal"]
+tags: ["update", "yeg", "expo", "display", "presentation", "journal", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/184715780939.jpg"/>

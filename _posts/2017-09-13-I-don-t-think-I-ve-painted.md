@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I-don-t-think-I-ve-painted
-type: art
+type: img
 timestamp: September 13th, 2017 11:53am
-tags: ["sweetie", "painting", "edmonton", "art"]
+tags: ["sweetie", "painting", "edmonton", "art", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165301193429.jpg"/>
@@ -19,8 +19,9 @@ I don’t think I’ve painted in a looong time.
   <span class="tag">digital art</span>
   <span class="tag">edmonton</span>
   <span class="tag">art</span>
+  <span class="tag">showcase</span>
   
   </body>
         </html>
-        
+
 <small>source: https://saturdayxiii.tumblr.com/post/165301193429</small>

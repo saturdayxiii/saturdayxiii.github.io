@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yesterday-I-saw-Castle-in-
-type: lnk
+type: vid
 timestamp: October 17th, 2016 2:07pm
 tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Petscop-s-Newmaker-Guardia
-type: art
+type: img
 timestamp: January 13th, 2020 9:21pm
 tags: ["art"]
 comments: true

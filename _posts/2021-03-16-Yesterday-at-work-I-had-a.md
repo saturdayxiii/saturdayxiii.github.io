@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yesterday-at-work-I-had-a
-type: lnk
+type: img
 timestamp: March 16th, 2021 12:02pm
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink"]
 comments: true

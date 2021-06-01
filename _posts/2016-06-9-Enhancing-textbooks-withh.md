@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enhancing-textbooks-withh
-type: art
+type: img
 timestamp: June 9th, 2016 12:00pm
 tags: ["illustration", "ink", "sketch", "art"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heres-a-character-inspire
-type: art
+type: img
 timestamp: October 28th, 2015 11:57am
 tags: ["character", "sketch", "design", "ink", "drawing", "sega", "art"]
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title: Spider-toesp-
 type: img
 timestamp: October 27th, 2016 1:07pm
-tags: ["spider", "tarantula", "toes", "feet", "macro", "photography"]
+tags: ["spider", "tarantula", "toes", "feet", "macro", "photography", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/152390147284.jpg"/>

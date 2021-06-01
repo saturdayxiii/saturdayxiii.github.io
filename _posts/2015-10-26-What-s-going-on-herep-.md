@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What-s-going-on-herep-
-type: art
+type: img
 timestamp: October 26th, 2015 11:21am
 tags: ["marle", "snes", "japanese", "games", "box", "art", "character"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Werewolf-bugman-vampire
-type: art
+type: img
 timestamp: May 25th, 2016 12:00pm
 tags: ["illustration", "car", "werewolf", "vampire", "drawing", "ink", "art"]
 comments: true

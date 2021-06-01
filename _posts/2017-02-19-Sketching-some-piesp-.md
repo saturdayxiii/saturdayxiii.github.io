@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sketching-some-piesp-
-type: art
+type: img
 timestamp: February 19th, 2017 2:04pm
 tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 comments: true

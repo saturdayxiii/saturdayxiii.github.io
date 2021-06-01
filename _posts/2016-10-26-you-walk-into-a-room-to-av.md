@@ -1,7 +1,7 @@
 ---
 layout: post
 title: you-walk-into-a-room-to-av
-type: lnk
+type: 
 timestamp: October 26th, 2016 1:21pm
 tags: ["tfw", "face", "Thoughts"]
 comments: true

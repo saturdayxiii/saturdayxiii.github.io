@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bronze-age-segagenesis-
-type: art
+type: img
 timestamp: October 19th, 2017 7:23pm
 tags: ["segagenesis", "consolemod", "photo", "edmonton", "art"]
 comments: true

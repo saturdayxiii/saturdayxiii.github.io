@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Look- It-s-PokePark-on-th
-type: art
+type: img
 timestamp: December 17th, 2015 6:27pm
-tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art"]
+tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase"]
 comments: true
 ---
 

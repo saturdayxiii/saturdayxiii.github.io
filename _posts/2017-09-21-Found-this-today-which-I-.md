@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Found-this-today-which-I-
-type: art
+type: img
 timestamp: September 21st, 2017 1:29pm
-tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art"]
+tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art", "showcase"]
 comments: true
 ---
 <img src="https://saturdayxiii.github.io/media/165590796589.jpg"/>

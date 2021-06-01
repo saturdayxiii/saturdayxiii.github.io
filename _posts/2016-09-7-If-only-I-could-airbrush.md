@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If-only-I-could-airbrush
-type: art
+type: img
 timestamp: September 7th, 2016 11:07am
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 comments: true

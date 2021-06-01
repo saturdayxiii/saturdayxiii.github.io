@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is-this-show-still-onp
-type: art
+type: vid
 timestamp: November 19th, 2015 4:40pm
 tags: ["childrens", "tv", "fun", "art", "show"]
 comments: true

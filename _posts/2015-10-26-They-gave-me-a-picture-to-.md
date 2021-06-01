@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They-gave-me-a-picture-to-
-type: art
+type: img
 timestamp: October 26th, 2015 11:17am
 tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", "hedgehog", "nintendo", "sega", "crayons", "art"]
 comments: true

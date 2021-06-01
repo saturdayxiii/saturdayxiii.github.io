@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The-word -healthy--should-
-type: lnk
+type: 
 timestamp: October 26th, 2015 12:13pm
 tags: ["truth", "turth", "Thoughts"]
 comments: true

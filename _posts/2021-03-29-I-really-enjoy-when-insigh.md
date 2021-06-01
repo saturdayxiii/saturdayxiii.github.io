@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I-really-enjoy-when-insigh
-type: lnk
+type: vid
 timestamp: March 29th, 2021 1:26pm
 tags: ["recommended", "movie", "thoughts", "cinema"]
 comments: true
