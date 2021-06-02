@@ -1,7 +1,5 @@
 ---
 title: Code Snippets
-
-tags: [tag 1]
 ---
 
 Whenever you need to post a code snippet, use the liquid tags `hilight` and `endhilight`.
