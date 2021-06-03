@@ -90,7 +90,14 @@ disqus-shortname: saturdayxiii
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
 twitter: https://twitter.com/Saturdaythe13th
+itch: https://saturdayxiii.itch.io/
+lastfm: https://www.last.fm/user/saturdayxiii
+exophase: https://www.exophase.com/user/saturdayxiii
+trakt: https://trakt.tv/users/saturdayxiii
+twitch: https://www.twitch.tv/saturdayxiii
 youtube: https://www.youtube.com/channel/UCrtnBAX5sIDnSscqTR4KqQQ
+deviantart: https://www.deviantart.com/saturdaythe13th
+untappd: https://untappd.com/user/saturdayxiii
 instagram: https://www.instagram.com/saturdayxiii/
 tumblr: https://saturdayxiii.tumblr.com
 facebook: https://www.facebook.com/SSXIII/
@@ -115,7 +122,7 @@ paypal:
 
 # Useful for translating into other languages.
 
-var_on_the_web: On the web
+var_on_the_web: other hubs
 var_read: Read # Text after each post summary on the homepage.
 var_newer: Newer
 var_older: Older
