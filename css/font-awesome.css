@@ -621,6 +621,9 @@ a.fa:hover {
 .fa-phone-square:before {
   content: "\f098";
 }
+.fa-itch:before {
+  content: "\f83a";
+}
 .fa-twitter:before {
   content: "\f099";
 }
