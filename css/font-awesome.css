@@ -1811,3 +1811,9 @@ a.fa:hover {
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-deviantart:before {
+  content: "\f1bd";
+}
+.fa-untappd:before {
+  content: "\f405";
+}
