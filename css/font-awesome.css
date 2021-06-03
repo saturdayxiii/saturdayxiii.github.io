@@ -1817,3 +1817,6 @@ a.fa:hover {
 .fa-untappd:before {
   content: "\f405";
 }
+.fa-lastfm:before {
+  content: "\f202";
+}
