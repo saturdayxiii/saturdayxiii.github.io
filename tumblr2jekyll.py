@@ -30,7 +30,8 @@ for file in directory:
         #to do: make day always 2 digits pls
     singledays = ['1','2','3','4','5','6','7','8','9']
     #for days in singledays: if date[1] = days err... replace spot [1] with... "0" and "days"... but how to do that with array and strings?
-        
+    #for days in singledays: resub ^days$, 0days, date[2]? or something?
+    
     reorder = [2,0,1]
     date = [date[i] for i in reorder]
     date = ''.join(date)
@@ -125,7 +126,7 @@ for file in directory:
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
     if no_punc == '':
-        no_punc = "-"
+        no_punc = "NT"
     #date is now title I guess
     #make a summary WAIT!  We don't need it no more
     '''

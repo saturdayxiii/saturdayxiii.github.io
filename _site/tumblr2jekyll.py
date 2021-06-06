@@ -28,6 +28,10 @@ for file in directory:
     date = date.split(' ')
     del date[3]
         #to do: make day always 2 digits pls
+    singledays = ['1','2','3','4','5','6','7','8','9']
+    #for days in singledays: if date[1] = days err... replace spot [1] with... "0" and "days"... but how to do that with array and strings?
+    #for days in singledays: resub ^days$, 0days, date[2]? or something?
+    
     reorder = [2,0,1]
     date = [date[i] for i in reorder]
     date = ''.join(date)
@@ -121,6 +125,8 @@ for file in directory:
     no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
+    if no_punc == '':
+        no_punc = "NT"
     #date is now title I guess
     #make a summary WAIT!  We don't need it no more
     '''
@@ -140,14 +146,16 @@ for file in directory:
         tag = tag.lower()
         if tag == "food":
             post = "food"
-        if tag == "thoughts":
-            post = "lnk"
         if tag == "music":
             post = "audio"
         if tag == "game":
             post = "game"
+        if tag == "movie":
+            post = "vid"
+        if tag == "show":
+            post = "vid"
         if tag == "art":
-            post = "art"
+            post = "img"
     tags = '"' + '", "'.join(tags)
     #delete html bits
     #head = re.match('^.*<body>\s+',read_file, re.DOTALL) #another random break, tho I'm surprised this line worked at all
