@@ -461,7 +461,7 @@ nav a.current {
   }
   nav {
     position: absolute;
-    top: 10px;
+    top: 20px;
     right: 0;
     margin: 0;
   }
@@ -496,14 +496,15 @@ nav a.current {
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-  position: absolute;
+  position: relative;
+  top: -10px;
   display: inline-block;
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
-  position: relative;
+  position: absolute;
   background-color: #090909;
   min-width: 130px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
