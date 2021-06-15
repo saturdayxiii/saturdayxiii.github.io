@@ -1,6 +1,6 @@
 ---
 layout: post
-type: img
+type: food
 title: "Ginger Bug Scoby"
 tags: ["ginger bug", "food", "pellicle", "kombucha", "drink", "snack", "update"]
 ---
