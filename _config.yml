@@ -39,7 +39,7 @@ display-social-icons: true
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
-footer-text: Peers:<br><a href="http://www.jefferysutherland.com">Jeffery Sutherlad</a>/ Oh that's it.
+footer-text: Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / Oh that's it.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
