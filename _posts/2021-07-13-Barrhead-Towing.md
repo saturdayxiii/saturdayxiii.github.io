@@ -1,5 +1,5 @@
 ---
-type: art
+type: img
 layout: post
 title: "Barrhead Towing"
 comments: true
