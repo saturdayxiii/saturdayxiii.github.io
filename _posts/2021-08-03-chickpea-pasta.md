@@ -4,8 +4,7 @@ type: food
 title: "Chickpea Pasta"
 tags: ['food', 'chickpea', 'pasta', 'recipe']
 ---
-| [![making pasta](https://i.postimg.cc/134b3bps/PXL-20210803-214334696.jpg)](https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg) | [![eating pasta](https://i.postimg.cc/15vLPyVv/PXL-20210803-221211530.jpg)](https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg) |
-| --- | --- |
+| [![making pasta](https://i.postimg.cc/134b3bps/PXL-20210803-214334696.jpg)](https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg) | | [![eating pasta](https://i.postimg.cc/15vLPyVv/PXL-20210803-221211530.jpg)](https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg) |
 
 Once again an ad on Facebook outed itself with a good idea that I could do much cheaper by myself.
 
