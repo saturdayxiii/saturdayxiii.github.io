@@ -21,8 +21,8 @@ layout: default
 {% endfor %}
 </span>
 	<h1>{{ page.title }}</h1><p></p>
-        {% if post.image %}
-        &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a><p></p>
+        {% if page.image %}
+        &nbsp;<a href="{{ page.link }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"></a><p></p>
         {% endif %}
 		{{ content }}
   {% if site.display-author-post-page %}
