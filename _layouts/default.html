@@ -11,8 +11,8 @@
 	{% endif %}
 	<div class="wrap">
 		{% include header.html %}
-		        {% if post.image %}
-        ({{ post.image }})[{{ post.link }})
+		        {% if page.image %}
+        ({{ page.image }})[{{ page.link }})
         {% endif %}
 		{{ content }}
 	  <script>
