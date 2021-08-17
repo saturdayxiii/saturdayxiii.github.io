@@ -11,6 +11,9 @@
 	{% endif %}
 	<div class="wrap">
 		{% include header.html %}
+		        {% if post.image %}
+        ({{ post.image }})[{{ post.link }})
+        {% endif %}
 		{{ content }}
 	  <script>
 	    $("article").fitVids();
