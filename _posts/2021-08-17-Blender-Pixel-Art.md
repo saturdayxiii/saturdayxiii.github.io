@@ -2,7 +2,7 @@
 layout: post
 type: lnk
 title: "Blender Pixel Art"
-cover: "http://i3.ytimg.com/vi/eSqb6II3WMM/maxresdefault.jpg"
+image: "http://i3.ytimg.com/vi/eSqb6II3WMM/maxresdefault.jpg"
 link: "https://www.youtube.com/watch?v=eSqb6II3WMM&t=329s"
 tags: ["blender", "game design", "design", "3d Modeling", "pixel art", "art", "how to", "reference", "youtube"]
 ---
