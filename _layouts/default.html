@@ -11,11 +11,11 @@
 	{% endif %}
 	<div class="wrap">
 		{% include header.html %}
-		        {% if page.image %}
-        {{{ page.image }}]({{ page.link }})
-        {% endif %}
 		{{ content }}
-	  <script>
+	        {% if page.image %}
+        [{{ page.image }}]({{ page.link }})
+        {% endif %}
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
