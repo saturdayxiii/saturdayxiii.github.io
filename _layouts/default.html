@@ -12,9 +12,6 @@
 	<div class="wrap">
 		{% include header.html %}
 		{{ content }}
-	        {% if page.image %}
-        [{{ page.image }}]({{ page.link }})
-        {% endif %}
 		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
