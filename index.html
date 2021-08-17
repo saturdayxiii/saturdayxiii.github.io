@@ -29,8 +29,8 @@ home: true
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
         {% if post.image %}
-        ({{ post.image }})[{{ post.link }})
-        &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.img }}" alt="{{ post.title }}"></a>
+        ({{ post.image }})[{{ post.link }}]
+        &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
         {% endif %}
       {% if post.summary %}
         {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
