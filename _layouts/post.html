@@ -24,6 +24,11 @@ layout: default
         {% if page.image %}
         &nbsp;<a href="{{ page.link }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"></a><p></p>
         {% endif %}
+	{% if page.video %}
+	<video muted autoplay controls loop width="400">
+    <source src="{{ page.video }}" type="video/mp4">
+</video>
+	{% endif %}
 		{{ content }}
   {% if site.display-author-post-page %}
     {% if page.author.name %}
