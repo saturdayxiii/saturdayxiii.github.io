@@ -31,6 +31,11 @@ home: true
         {% if post.image %}
         &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
         {% endif %}
+        {% if post.video %}
+        &nbsp;<video muted autoplay controls loop width="400">
+    <source src="{{ post.video }}" type="video/mp4">
+</video>
+       {% endif %}
       {% if post.summary %}
         {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
       {% else %}
