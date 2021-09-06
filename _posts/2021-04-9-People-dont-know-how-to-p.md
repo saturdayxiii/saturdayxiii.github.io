@@ -3,6 +3,8 @@ layout: post
 title: People-dont-know-how-to-p
 type: vid
 timestamp: April 9th, 2021 2:09pm
+image: 
+link: 
 tags: ["Youtube"]
 comments: true
 ---

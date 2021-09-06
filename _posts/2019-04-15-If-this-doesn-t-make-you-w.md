@@ -3,6 +3,8 @@ layout: post
 title: If-this-doesn-t-make-you-w
 type: vid
 timestamp: April 15th, 2019 9:31am
+image: http://i3.ytimg.com/vi/QRwIosijD3A/hqdefault.jpg
+link: https://www.youtube.com/watch?v=QRwIosijD3A
 tags: ["roseanne", "also", "abvote", "show", "tv", "review"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: No-matter-how-sick-I-think
 type: vid
 timestamp: October 24th, 2019 5:01pm
+image: http://i3.ytimg.com/vi/gKILYcpsOyE/hqdefault.jpg
+link: https://www.youtube.com/watch?v=gKILYcpsOyE
 tags: ["recommended", "ps1", "show"]
 comments: true
 ---

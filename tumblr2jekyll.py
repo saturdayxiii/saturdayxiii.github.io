@@ -18,8 +18,8 @@ for file in directory:
     #open_file = open(file,'r')#easy way, but
     with io.open(file,'r',encoding='utf8') as open_file:
         read_file = open_file.read()
-    #post needs to be manually repaired?
-    print(re.search(r'href\.li/',read_file))
+    #post needs to be manually repaired because its a link?
+    #print(re.search(r'href\.li/',read_file)) DONE found them all
     #convert time stamp to potential filename
     date = re.findall('timestamp"> (.*) <', read_file)
     #convert to string
@@ -175,8 +175,31 @@ for file in directory:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')
     read_file = re.sub(codebit, '', read_file)
+    #find and flag instagram posts
+    #print(re.search('instagram.com', read_file)) DONE WITH THAT
+# add images to front matter
+# ---
+#<img src = *jpg gif png
+# or [![thumbnail](http://i3.ytimg.com/vi/kpTdG4PkwXA/hqdefault.jpg)](https://www.youtube.com/watch?v=kpTdG4PkwXA)>
+#but don't touch | <img... or \n | <img
+    #print(re.search('^\|', read_file))
+    #print(re.search('^\n\|', read_file)) #this doesn't necessarily mean it's only finding the first instance...
+    #read_file = re.sub('^\n\|','howmanydoesthisdo',read_file) IT ONLY DID THE FIRST ONE YAY
+    image = ""
+    link = ""
+    oimgs = re.findall('^<img src="(.*)?"', read_file)
+    ntub = re.findall('^.*\)\]\(?(http.*)?\)', read_file)
+    if not ntub:
+        ntub = oimgs
+    if not oimgs:
+        oimgs = re.findall('^\[\!\[thumbnail\]\((http.*)?\)\]', read_file)
+    if oimgs:
+        image = ''.join(oimgs)
+        link = ''.join(ntub)
+    
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    print (date)
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

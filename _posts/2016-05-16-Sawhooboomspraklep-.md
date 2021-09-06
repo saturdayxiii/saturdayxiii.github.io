@@ -3,6 +3,8 @@ layout: post
 title: Sawhooboomspraklep-
 type: img
 timestamp: May 16th, 2016 10:53am
+image: https://saturdayxiii.github.io/media/144458734159.jpg
+link: https://saturdayxiii.github.io/media/144458734159.jpg
 tags: ["fireworks", "hokkaido", "hanabi", "photography"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: When-I-m-upset-and-can-t-s
 type: 
 timestamp: September 1st, 2018 1:14am
+image: 
+link: 
 tags: ["Thoughts"]
 comments: true
 ---

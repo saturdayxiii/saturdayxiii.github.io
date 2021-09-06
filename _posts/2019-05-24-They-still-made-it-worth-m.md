@@ -3,6 +3,8 @@ layout: post
 title: They-still-made-it-worth-m
 type: audio
 timestamp: May 24th, 2019 4:10pm
+image: 
+link: 
 tags: ["trampoline", "music", "recommended", "concert"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: Yesterday-I-caught-a-Sonic
 type: vid
 timestamp: April 9th, 2021 2:08pm
+image: 
+link: 
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 comments: true
 ---

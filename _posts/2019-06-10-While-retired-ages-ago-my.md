@@ -3,6 +3,8 @@ layout: post
 title: While-retired-ages-ago-my
 type: img
 timestamp: June 10th, 2019 3:16pm
+image: 
+link: 
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 comments: true
 ---

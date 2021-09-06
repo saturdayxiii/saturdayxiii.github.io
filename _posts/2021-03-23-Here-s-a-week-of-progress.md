@@ -3,6 +3,8 @@ layout: post
 title: Here-s-a-week-of-progress
 type: img
 timestamp: March 23rd, 2021 10:15pm
+image: 
+link: 
 tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink"]
 comments: true
 ---

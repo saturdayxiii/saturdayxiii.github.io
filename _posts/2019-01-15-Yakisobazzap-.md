@@ -3,6 +3,8 @@ layout: post
 title: Yakisobazzap-
 type: food
 timestamp: January 15th, 2019 10:20pm
+image: https://saturdayxiii.github.io/media/182050264469.jpg
+link: https://saturdayxiii.github.io/media/182050264469.jpg
 tags: ["Edible", "food", "pizza"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: Beautiesppbrp
 type: img
 timestamp: June 11th, 2016 12:00pm
+image: https://saturdayxiii.github.io/media/145763608733.jpg
+link: https://saturdayxiii.github.io/media/145763608733.jpg
 tags: ["photo", "moth", "park", "insect", "photography"]
 comments: true
 ---

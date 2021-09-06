@@ -3,6 +3,8 @@ layout: post
 title: Now-it-s-a-setp-
 type: 
 timestamp: August 29th, 2016 1:21pm
+image: 
+link: 
 tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography"]
 comments: true
 ---

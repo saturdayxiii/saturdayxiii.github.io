@@ -3,6 +3,8 @@ layout: post
 title: Showing-off-some-mods-and-
 type: img
 timestamp: November 23rd, 2016 9:44pm
+image: https://saturdayxiii.github.io/media/153587983579.jpg
+link: https://saturdayxiii.github.io/media/153587983579.jpg
 tags: ["cvgc", "controller", "paint", "custom", "metallic", "convention", "edmonton", "alberta", "nait", "retro", "championships", "classic", "sega", "ninetendo", "nes", "snes", "gens"]
 comments: true
 ---

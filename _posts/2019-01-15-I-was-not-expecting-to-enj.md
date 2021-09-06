@@ -3,6 +3,8 @@ layout: post
 title: I-was-not-expecting-to-enj
 type: vid
 timestamp: January 15th, 2019 9:02pm
+image: https://saturdayxiii.github.io/media/182048488999.gif
+link: https://saturdayxiii.github.io/media/182048488999.gif
 tags: ["show", "amazon", "recommended"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: Do-you-know-your-maltsp
 type: img
 timestamp: May 26th, 2016 12:00pm
+image: https://saturdayxiii.github.io/media/144964873176.jpg
+link: https://saturdayxiii.github.io/media/144964873176.jpg
 tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography"]
 comments: true
 ---

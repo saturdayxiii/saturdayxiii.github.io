@@ -3,6 +3,8 @@ layout: post
 title: I-dont-know-why-robovoice
 type: vid
 timestamp: April 17th, 2021 12:00pm
+image: 
+link: 
 tags: ["spoopy", "chass", "greentext", "shows", "youtube", "recommended", "Youtube"]
 comments: true
 ---

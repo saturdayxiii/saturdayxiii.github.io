@@ -3,6 +3,8 @@ layout: post
 title: Featuring-an-old-Lets-Play
 type: vid
 timestamp: April 17th, 2019 4:30pm
+image: http://i3.ytimg.com/vi/cjQrC5yB_aA/hqdefault.jpg
+link: https://www.youtube.com/watch?v=cjQrC5yB_aA
 tags: ["video", "recommended", "show"]
 comments: true
 ---

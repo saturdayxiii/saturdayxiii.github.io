@@ -3,6 +3,8 @@ layout: post
 title: Great-insights-on-the-rela
 type: vid
 timestamp: January 26th, 2019 4:09pm
+image: http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg
+link: https://www.youtube.com/watch?v=SP8EoIBGog0
 tags: ["show", "youtube", "game", "movie"]
 comments: true
 ---

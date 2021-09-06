@@ -3,6 +3,8 @@ layout: post
 title: Just-read-through-a-href
 type: img
 timestamp: May 9th, 2020 12:34am
+image: https://saturdayxiii.github.io/media/617617631853346817.jpg
+link: https://saturdayxiii.github.io/media/617617631853346817.jpg
 tags: ["recommended", "comic"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: Ive-been-thinking-about-3
 type: img
 timestamp: March 22nd, 2021 10:55am
+image: 
+link: 
 tags: ["Thoughts", "Art", "Cave"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: Not-really-a-whole-lot-to-
 type: game
 timestamp: January 9th, 2019 8:42pm
+image: https://saturdayxiii.github.io/media/181886640029.gif
+link: https://saturdayxiii.github.io/media/181886640029.gif
 tags: ["game"]
 comments: true
 ---

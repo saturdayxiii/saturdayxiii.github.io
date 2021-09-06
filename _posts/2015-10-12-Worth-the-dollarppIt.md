@@ -3,6 +3,8 @@ layout: post
 title: Worth-the-dollarppIt
 type: game
 timestamp: October 12th, 2015 7:34pm
+image: https://saturdayxiii.github.io/media/182151348049.jpg
+link: https://saturdayxiii.github.io/media/182151348049.jpg
 tags: ["game"]
 comments: true
 ---

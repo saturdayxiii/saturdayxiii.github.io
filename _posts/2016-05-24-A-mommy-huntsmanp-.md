@@ -3,6 +3,8 @@ layout: post
 title: A-mommy-huntsmanp-
 type: img
 timestamp: May 24th, 2016 12:00pm
+image: https://saturdayxiii.github.io/media/144865619215.jpg
+link: https://saturdayxiii.github.io/media/144865619215.jpg
 tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography"]
 comments: true
 ---

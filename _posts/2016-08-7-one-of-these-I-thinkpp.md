@@ -3,6 +3,8 @@ layout: post
 title: one-of-these-I-thinkpp
 type: vid
 timestamp: August 7th, 2016 12:00pm
+image: http://i3.ytimg.com/vi/Cyk9V6CnYt8/hqdefault.jpg
+link: https://www.youtube.com/watch?v=Cyk9V6CnYt8
 tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography"]
 comments: true
 ---

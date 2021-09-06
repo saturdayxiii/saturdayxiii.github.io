@@ -3,6 +3,8 @@ layout: post
 title: Here-s-my-custom-gaming-sh
 type: game
 timestamp: November 23rd, 2015 1:29pm
+image: 
+link: 
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving", "showcase"]
 comments: true
 ---

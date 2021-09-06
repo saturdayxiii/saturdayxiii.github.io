@@ -3,6 +3,8 @@ layout: post
 title: I-can-only-do-so-muchp
 type: img
 timestamp: June 2nd, 2016 12:00pm
+image: https://saturdayxiii.github.io/media/145314581795.jpg
+link: https://saturdayxiii.github.io/media/145314581795.jpg
 tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography"]
 comments: true
 ---

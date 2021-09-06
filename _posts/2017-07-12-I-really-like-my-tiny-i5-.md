@@ -3,6 +3,8 @@ layout: post
 title: I-really-like-my-tiny-i5-
 type: 
 timestamp: July 12th, 2017 12:38pm
+image: 
+link: 
 tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts"]
 comments: true
 ---

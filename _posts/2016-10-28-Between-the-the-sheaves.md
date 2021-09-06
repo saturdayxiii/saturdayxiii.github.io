@@ -3,6 +3,8 @@ layout: post
 title: Between-the-the-sheaves
 type: 
 timestamp: October 28th, 2016 1:44pm
+image: 
+link: 
 tags: ["spider", "arachnid", "macro", "photography"]
 comments: true
 ---

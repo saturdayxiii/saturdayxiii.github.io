@@ -3,6 +3,8 @@ layout: post
 title: Audio-hack-if-you-re-a-fa
 type: img
 timestamp: April 23rd, 2019 3:47pm
+image: https://saturdayxiii.github.io/media/184397769579.jpg
+link: https://saturdayxiii.github.io/media/184397769579.jpg
 tags: ["audiophile", "hacks", "recommended", "cheap", "stereo"]
 comments: true
 ---

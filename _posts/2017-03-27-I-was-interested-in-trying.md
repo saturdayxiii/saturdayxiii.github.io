@@ -3,6 +3,8 @@ layout: post
 title: I-was-interested-in-trying
 type: img
 timestamp: March 27th, 2017 11:02am
+image: https://saturdayxiii.github.io/media/158895318979.png
+link: https://saturdayxiii.github.io/media/158895318979.png
 tags: ["mini", "arcade", "stand", "miami", "shelf", "sketchup"]
 comments: true
 ---

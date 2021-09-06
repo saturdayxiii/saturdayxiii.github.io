@@ -3,6 +3,8 @@ layout: post
 title: 1-Deny-climate-changep
 type: 
 timestamp: November 24th, 2015 8:00am
+image: 
+link: 
 tags: ["hypocrisy", "Thoughts"]
 comments: true
 ---

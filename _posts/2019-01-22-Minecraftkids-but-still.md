@@ -3,6 +3,8 @@ layout: post
 title: Minecraftkids-but-still
 type: vid
 timestamp: January 22nd, 2019 1:38pm
+image: http://i3.ytimg.com/vi/kpTdG4PkwXA/hqdefault.jpg
+link: https://www.youtube.com/watch?v=kpTdG4PkwXA
 tags: ["show", "recommended", "animal", "minecraft"]
 comments: true
 ---

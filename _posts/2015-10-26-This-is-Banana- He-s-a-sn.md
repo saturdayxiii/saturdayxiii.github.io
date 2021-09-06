@@ -3,6 +3,8 @@ layout: post
 title: This-is-Banana- He-s-a-sn
 type: img
 timestamp: October 26th, 2015 11:23am
+image: https://saturdayxiii.github.io/media/131960168699.jpg
+link: https://saturdayxiii.github.io/media/131960168699.jpg
 tags: ["snake", "pets", "cute", "animals", "habitat", "face", "reptile", "sunny", "cozy", "photography"]
 comments: true
 ---

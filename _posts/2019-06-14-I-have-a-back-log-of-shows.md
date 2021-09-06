@@ -3,6 +3,8 @@ layout: post
 title: I-have-a-back-log-of-shows
 type: vid
 timestamp: June 14th, 2019 12:40pm
+image: 
+link: 
 tags: ["netflix", "atypical", "show", "recommended"]
 comments: true
 ---

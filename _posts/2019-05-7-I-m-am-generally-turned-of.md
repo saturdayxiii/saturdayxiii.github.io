@@ -3,6 +3,8 @@ layout: post
 title: I-m-am-generally-turned-of
 type: vid
 timestamp: May 7th, 2019 12:00pm
+image: http://i3.ytimg.com/vi/-5uu6bUzI2c/hqdefault.jpg
+link: https://www.youtube.com/watch?v=-5uu6bUzI2c
 tags: ["recommended", "show"]
 comments: true
 ---

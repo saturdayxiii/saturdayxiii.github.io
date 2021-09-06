@@ -3,6 +3,8 @@ layout: post
 title: I-quite-like-thisp
 type: img
 timestamp: June 27th, 2019 12:37pm
+image: https://saturdayxiii.github.io/media/190407228749.jpg
+link: https://saturdayxiii.github.io/media/190407228749.jpg
 tags: ["sgdq2019", "art", "crayola"]
 comments: true
 ---

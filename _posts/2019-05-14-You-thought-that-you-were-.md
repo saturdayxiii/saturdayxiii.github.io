@@ -3,6 +3,8 @@ layout: post
 title: You-thought-that-you-were-
 type: 
 timestamp: May 14th, 2019 11:55am
+image: 
+link: 
 tags: ["thoughts"]
 comments: true
 ---

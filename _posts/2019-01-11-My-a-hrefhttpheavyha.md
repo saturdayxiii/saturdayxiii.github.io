@@ -3,6 +3,8 @@ layout: post
 title: My-a-hrefhttpheavyha
 type: 
 timestamp: January 11th, 2019 1:06pm
+image: 
+link: 
 tags: ["idea", "diy", "design", "sketch", "shelving"]
 comments: true
 ---

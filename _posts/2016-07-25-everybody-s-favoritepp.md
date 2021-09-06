@@ -3,6 +3,8 @@ layout: post
 title: everybody-s-favoritepp
 type: 
 timestamp: July 25th, 2016 9:13am
+image: 
+link: 
 tags: ["spider", "arachnid", "macro", "photography"]
 comments: true
 ---

@@ -3,6 +3,8 @@ layout: post
 title: An-upgrade-in-every-way-ex
 type: img
 timestamp: February 2nd, 2019 10:50am
+image: https://saturdayxiii.github.io/media/182502592759.png
+link: https://saturdayxiii.github.io/media/182502592759.png
 tags: ["update", "life", "computer", "purchase", "product"]
 comments: true
 ---

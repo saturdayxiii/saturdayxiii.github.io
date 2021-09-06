@@ -3,6 +3,8 @@ layout: post
 title: A-Fancy-Triopppa-hr
 type: img
 timestamp: July 8th, 2019 9:32pm
+image: https://saturdayxiii.github.io/media/186155863744.png
+link: https://saturdayxiii.github.io/media/186155863744.png
 tags: ["triops", "ibispaintx", "art"]
 comments: true
 ---

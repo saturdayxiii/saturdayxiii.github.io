@@ -3,6 +3,8 @@ layout: post
 title: I-hope-you-can-hear-itp
 type: img
 timestamp: January 16th, 2020 10:23am
+image: https://saturdayxiii.github.io/media/190292235709.jpg
+link: https://saturdayxiii.github.io/media/190292235709.jpg
 tags: ["petscop", "garalina"]
 comments: true
 ---

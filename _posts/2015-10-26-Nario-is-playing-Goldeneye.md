@@ -3,6 +3,8 @@ layout: post
 title: Nario-is-playing-Goldeneye
 type: img
 timestamp: October 26th, 2015 11:26am
+image: https://saturdayxiii.github.io/media/131960334269.png
+link: https://saturdayxiii.github.io/media/131960334269.png
 tags: ["nario", "dancepad", "ddr", "n64", "goldeneye", "007", "retro", "game", "stream", "live", "twitch", "art"]
 comments: true
 ---

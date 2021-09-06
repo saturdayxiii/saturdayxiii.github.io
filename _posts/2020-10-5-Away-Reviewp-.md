@@ -3,6 +3,8 @@ layout: post
 title: Away-Reviewp-
 type: vid
 timestamp: October 5th, 2020 12:00am
+image: http://i3.ytimg.com/vi/beF1Tv5BIeI/hqdefault.jpg
+link: https://www.youtube.com/watch?v=beF1Tv5BIeI
 tags: ["recommended", "games", "review", "showcase"]
 comments: true
 ---

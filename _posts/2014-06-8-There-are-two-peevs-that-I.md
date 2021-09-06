@@ -3,6 +3,8 @@ layout: post
 title: There-are-two-peevs-that-I
 type: game
 timestamp: June 8th, 2014 8:54pm
+image: https://saturdayxiii.github.io/media/182012762084.jpg
+link: https://saturdayxiii.github.io/media/182012762084.jpg
 tags: ["review", "indie", "game"]
 comments: true
 ---

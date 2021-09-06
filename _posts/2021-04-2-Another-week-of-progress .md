@@ -3,6 +3,8 @@ layout: post
 title: Another-week-of-progress 
 type: img
 timestamp: April 2nd, 2021 9:23pm
+image: 
+link: 
 tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
 comments: true
 ---

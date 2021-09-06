@@ -3,6 +3,8 @@ layout: post
 title: If-only-I-could-airbrush
 type: img
 timestamp: September 7th, 2016 11:07am
+image: https://saturdayxiii.github.io/media/150081411419.png
+link: https://saturdayxiii.github.io/media/150081411419.png
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 comments: true
 ---

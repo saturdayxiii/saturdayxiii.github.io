@@ -3,6 +3,8 @@ layout: post
 title: Toadette-s-off-timep-
 type: img
 timestamp: August 22nd, 2016 12:00pm
+image: https://saturdayxiii.github.io/media/149328992985.jpg
+link: https://saturdayxiii.github.io/media/149328992985.jpg
 tags: ["toadette", "game", "nintendo", "painting", "acrylic", "wii", "art"]
 comments: true
 ---

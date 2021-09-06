@@ -3,6 +3,8 @@ layout: post
 title: A-big-reminder-to-myself-n
 type: img
 timestamp: February 19th, 2020 9:52am
+image: https://saturdayxiii.github.io/media/190913838744.jpg
+link: https://saturdayxiii.github.io/media/190913838744.jpg
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 comments: true
 ---

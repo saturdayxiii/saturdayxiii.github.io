@@ -3,6 +3,8 @@ layout: post
 title: fixing-that-linkp-
 type: audio
 timestamp: October 19th, 2017 1:29pm
+image: 
+link: 
 tags: ["electronic", "dance", "club", "blind", "recommended", "music"]
 comments: true
 ---

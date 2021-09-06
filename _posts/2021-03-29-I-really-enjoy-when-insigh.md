@@ -3,6 +3,8 @@ layout: post
 title: I-really-enjoy-when-insigh
 type: vid
 timestamp: March 29th, 2021 1:26pm
+image: http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg
+link: https://www.youtube.com/watch?v=rDkc2_phiJ4
 tags: ["recommended", "movie", "thoughts", "cinema"]
 comments: true
 ---

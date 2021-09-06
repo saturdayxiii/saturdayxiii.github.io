@@ -3,6 +3,8 @@ layout: post
 title: Yay--Having-a-long-stay-a
 type: img
 timestamp: June 15th, 2019 4:27pm
+image: https://saturdayxiii.github.io/media/185617874449.jpg
+link: https://saturdayxiii.github.io/media/185617874449.jpg
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 comments: true
 ---

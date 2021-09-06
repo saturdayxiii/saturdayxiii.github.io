@@ -3,6 +3,8 @@ layout: post
 title: I-ve-been-enjoying-a-href
 type: vid
 timestamp: April 6th, 2021 11:47am
+image: http://i3.ytimg.com/vi/apX3q5PCrQQ/hqdefault.jpg
+link: https://www.youtube.com/watch?v=apX3q5PCrQQ
 tags: ["recommended", "shows", "games", "show"]
 comments: true
 ---

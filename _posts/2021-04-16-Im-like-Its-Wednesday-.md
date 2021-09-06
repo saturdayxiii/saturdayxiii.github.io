@@ -1,8 +1,12 @@
 ---
 layout: post
+title: Im-like-Its-Wednesday-
 type: img
 timestamp: April 16th, 2021 9:49pm
+image: 
+link: 
 tags: ["marker", "sketch", "freehand", "portraits", "ink", "art", "progress"]
+comments: true
 ---
 
 | <img src="https://64.media.tumblr.com/d85feec655934299c117753326981f07/d7a02325e9927097-b9/s640x960/48280783fc0964ce1f17303fb0c262dfb6961ce4.jpg"/> | <img src="https://64.media.tumblr.com/3125f45d9f4a37c8485a077318c0812b/d7a02325e9927097-2a/s640x960/cb67d0d06090d780146e82adfa5cd59d12521d30.jpg"/> | <img src="https://64.media.tumblr.com/ffe731700ab8ae458f85b4e12a2d906b/d7a02325e9927097-76/s640x960/48ef68d8490c810d27854d6df097231a8b546445.jpg"/> |

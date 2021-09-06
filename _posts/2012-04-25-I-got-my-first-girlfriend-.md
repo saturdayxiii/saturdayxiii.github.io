@@ -3,6 +3,8 @@ layout: post
 title: I-got-my-first-girlfriend-
 type: 
 timestamp: April 25th, 2012 11:25am
+image: 
+link: 
 tags: [""]
 comments: true
 ---
