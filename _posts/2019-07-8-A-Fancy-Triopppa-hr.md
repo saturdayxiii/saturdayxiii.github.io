@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/186155863744.png
 tags: ["triops", "ibispaintx", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/186155863744.png"/>
 
 A Fancy Triop.
 <a href="http://fav.me/ddb8ial" target="_blank">http://fav.me/ddb8ial</a><br/>

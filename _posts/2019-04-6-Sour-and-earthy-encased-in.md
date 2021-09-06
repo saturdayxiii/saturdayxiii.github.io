@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/183999761984.jpg
 tags: ["Edible", "beer", "yeg", "townsquare", "beets"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/183999761984.jpg"/>
 
 Sour and earthy encased in ruby.  True to form.
  

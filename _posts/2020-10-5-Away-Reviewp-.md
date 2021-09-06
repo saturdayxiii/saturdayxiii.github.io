@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=beF1Tv5BIeI
 tags: ["recommended", "games", "review", "showcase"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/beF1Tv5BIeI/hqdefault.jpg)](https://www.youtube.com/watch?v=beF1Tv5BIeI)>
     
 Away Review!
  

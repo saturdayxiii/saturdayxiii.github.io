@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/185510960669.jpg
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/185510960669.jpg"/>
 
 I go through these seasons where I just got to create&hellip; anything.  Nothing ever seems to come from it, and I just end up getting stuck again, but still I got to do it.
 Here's a duck.

@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=bgwS_FMZ3nQ
 tags: ["recommended", "youtube", "show"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/bgwS_FMZ3nQ/hqdefault.jpg)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)>
     
 I wish I would have seen this when anti-fa were hot topic.  Still lots of great information for a wide variety for political topics.<br/>
  

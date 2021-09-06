@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=ibpdNqrtar0
 tags: ["microcosm", "death", "life", "ciliate", "show", "recommended"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/ibpdNqrtar0/hqdefault.jpg)](https://www.youtube.com/watch?v=ibpdNqrtar0)>
     
 I love the philosophical implications that arise from the study of cellular life.<br/>
  

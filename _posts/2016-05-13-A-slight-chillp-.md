@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/144305857302.jpg
 tags: ["photo", "edmonton", "bridge", "ice", "water", "river", "cold", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/144305857302.jpg"/>
 
 A slight chill.
  

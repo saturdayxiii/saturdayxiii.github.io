@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149516566940.jpg
 tags: ["bug", "insect", "macro", "flower", "pollen", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149516566940.jpg"/>
 
 Squiggly.
  

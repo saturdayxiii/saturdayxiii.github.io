@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149135903859.jpg
 tags: ["pillbug", "macro", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149135903859.jpg"/>
 
 I breathe through my butt, yes I do.
  

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/184715780939.jpg
 tags: ["update", "yeg", "expo", "display", "presentation", "journal", "showcase"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/184715780939.jpg"/>
 
 Table set up at <a href="https://www.direct-play.com/portfolio/direct-play-expo-spring-2019-2/" target="_blank">Direct Play Expo 2019</a>.  No side-hustle left behind.
  

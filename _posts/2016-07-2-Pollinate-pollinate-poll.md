@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/146807870671.gif
 tags: ["beetle", "flower", "bug", "pollinate", "macro", "scuttle", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/146807870671.gif"/>
 
 Pollinate, pollinate, pollinate.
  

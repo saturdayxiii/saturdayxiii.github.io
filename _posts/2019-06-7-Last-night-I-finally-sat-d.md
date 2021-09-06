@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=kaPgQrw_Ywk
 tags: ["show", "recommended"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/kaPgQrw_Ywk/hqdefault.jpg)](https://www.youtube.com/watch?v=kaPgQrw_Ywk)>
     
 Last night I finally sat down and played a bit of <a href="https://www.gog.com/game/sanitarium" target="_blank">Sanitarium </a>for the first time.  I’ve never felt a strong need to play it because <a href="https://www.youtube.com/playlist?list=PLE50D27DF4F83907F" target="_blank">Adkit2′s 2009 playthrough</a> is one of my favorite Let’s Plays and I've watched it through countless times, night after night.
 It’s definitely an interesting experience 

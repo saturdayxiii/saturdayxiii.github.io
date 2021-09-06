@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182299758994.png
 tags: ["yoshi", "qlone", "misc"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182299758994.png"/>
 
 3D scanning nope
  

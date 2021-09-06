@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=G1vLIfLtD60
 tags: ["bug", "insect", "fly", "macro", "photography"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg)](https://www.youtube.com/watch?v=G1vLIfLtD60)>
     
 I don’t know what this music is, but I’m glad I found it.
  

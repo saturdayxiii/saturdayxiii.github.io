@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/144458734159.jpg
 tags: ["fireworks", "hokkaido", "hanabi", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/144458734159.jpg"/>
 
 Sawhoo~boom-sprakle!
  

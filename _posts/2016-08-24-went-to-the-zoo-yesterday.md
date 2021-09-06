@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149423030176.gif
 tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149423030176.gif"/>
 
 went to the zoo yesterday. @buildingourzoo
  

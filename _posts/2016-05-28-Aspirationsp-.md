@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/145061451694.jpg
 tags: ["gba", "nintendo", "sonic", "idea", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/145061451694.jpg"/>
 
 Aspirations.
  

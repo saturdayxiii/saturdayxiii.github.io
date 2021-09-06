@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/145264893918.jpg
 tags: ["photo", "wormies", "insect", "caterpillar", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/145264893918.jpg"/>
 
 Every year we go to the #yegrivervalley just to see the wormies.
  

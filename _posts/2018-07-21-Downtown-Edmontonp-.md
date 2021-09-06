@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182065701899.jpg
 tags: ["photography", "edmonton", "alberta", "street"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182065701899.jpg"/>
 
 Downtown Edmonton
  

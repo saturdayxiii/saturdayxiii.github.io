@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149707794087.gif
 tags: ["gif", "leaf", "nature", "wind", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149707794087.gif"/>
 
 shaking like a&hellip;
  

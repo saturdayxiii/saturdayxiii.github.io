@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=rDkc2_phiJ4
 tags: ["recommended", "movie", "thoughts", "cinema"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg)](https://www.youtube.com/watch?v=rDkc2_phiJ4)>
     
 I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
 This one gets rather exhaustive on how imagery in the initial scenes reinforce the theme of the film.  It honestly gets rather listy, and suggests that the film was much more controlled and intentional than was let on.  Which I think is a valid insight, but not the extent of which is implied in this video.  I really like what it means for themes and how it relates to author intention.  

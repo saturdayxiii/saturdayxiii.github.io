@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/183530324689.jpg
 tags: ["music", "concert", "event", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/183530324689.jpg"/>
 
 Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
  

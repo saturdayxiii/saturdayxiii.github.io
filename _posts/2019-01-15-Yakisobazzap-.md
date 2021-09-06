@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182050264469.jpg
 tags: ["Edible", "food", "pizza"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182050264469.jpg"/>
 
 Yakisoba'zza
  

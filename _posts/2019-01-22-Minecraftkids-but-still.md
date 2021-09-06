@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=kpTdG4PkwXA
 tags: ["show", "recommended", "animal", "minecraft"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/kpTdG4PkwXA/hqdefault.jpg)](https://www.youtube.com/watch?v=kpTdG4PkwXA)>
     
 Minecraft=kids, but still=good fun
 This was the first show that demonstrated my lack of interest in co starred Let's Plays, but that happened many many episodes in.  Talk to me not your friends. 

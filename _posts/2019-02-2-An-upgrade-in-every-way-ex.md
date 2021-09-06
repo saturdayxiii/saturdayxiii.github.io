@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182502592759.png
 tags: ["update", "life", "computer", "purchase", "product"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182502592759.png"/>
 
 The old beast is being replaced by the new hotness.
 <br/>

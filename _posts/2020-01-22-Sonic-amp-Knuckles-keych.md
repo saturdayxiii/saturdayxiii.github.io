@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/190408289769.jpg
 tags: [""]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/190408289769.jpg"/>
 
 Sonic &amp; Knuckles keychain
 <a href="https://www.thingiverse.com/thing:4119050" target="_blank">https://www.thingiverse.com/thing:4119050</a><br/>

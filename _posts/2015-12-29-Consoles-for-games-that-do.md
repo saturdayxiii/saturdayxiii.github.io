@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/136184969694.jpg
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/136184969694.jpg"/>
 
 Consoles for games that don’t exist.
 Bat Hunt: <a href="https://www.youtube.com/watch?v=ntmhiRqTM_M" target="_blank">https://www.youtube.com/watch?v=ntmhiRqTM_M</a>

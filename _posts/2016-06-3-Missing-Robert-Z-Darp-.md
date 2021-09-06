@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/145363605283.jpg
 tags: ["painting", "digital", "art", "Movie"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/145363605283.jpg"/>
 
 Missing Robert Z’Dar
  

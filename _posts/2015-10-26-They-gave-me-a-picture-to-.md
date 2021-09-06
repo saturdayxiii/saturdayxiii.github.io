@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/131959904749.jpg
 tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", "hedgehog", "nintendo", "sega", "crayons", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/131959904749.jpg"/>
 
 They gave me a picture to color.  I color what I want.
  

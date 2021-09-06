@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/152390147284.jpg
 tags: ["spider", "tarantula", "toes", "feet", "macro", "photography", "showcase"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/152390147284.jpg"/>
 
 Spider toes!
  

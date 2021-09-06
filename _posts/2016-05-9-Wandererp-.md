@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/144104657039.gif
 tags: ["ladybug", "ladybird", "beetle", "spots", "macro", "gif", "cute", "insect", "bug", "crawl", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/144104657039.gif"/>
 
 Wanderer.
  

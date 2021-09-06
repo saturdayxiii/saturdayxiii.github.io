@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149801109387.jpg
 tags: ["moth", "bug", "insect", "macro", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149801109387.jpg"/>
 
 Where I hang.
 <br/>

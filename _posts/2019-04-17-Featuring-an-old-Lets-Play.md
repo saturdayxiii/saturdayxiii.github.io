@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=cjQrC5yB_aA
 tags: ["video", "recommended", "show"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/cjQrC5yB_aA/hqdefault.jpg)](https://www.youtube.com/watch?v=cjQrC5yB_aA)>
     
 Featuring an old Lets Play that we always watch when we want comfort. 
 I have a hard time paying attention to a lot of Lets Plays, but Zergem’s leadership and Shadow of Destiny’s excellent time-voluted plot are pleasing to watch again and again.

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182010017489.gif
 tags: ["meh", "game"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182010017489.gif"/>
 
 Google Play recommended <a href="https://play.google.com/store/apps/details?id=com.pinestreetcodeworks.TinyBubbles" target="_blank">Tiny Bubbles</a>.  It looked nice and boasted a bunch of “awards”, so I figured I’d give it a shot.  I later uninstalled with a resounding “meh”.
 It had good mechanics and nice animation, but I played like 20 some levels and they were extremely tutorial-y.  Despite the mechanics constantly evolving the challenge remained nearly non-existent.  Or maybe remembering all the game variations across stages was supposed to be the challenge?  Things might have worked themselves out with more play, and there were good things on the horizon like arcade and puzzle modes, but the ads were taking hold.  Buy this, look at that, refill your energy.  Notification!  Notification.

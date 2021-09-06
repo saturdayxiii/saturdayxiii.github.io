@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/154473092964.jpg
 tags: ["frame", "controllers", "xbox", "organizing", "organization", "framing"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/154473092964.jpg"/>
 
 Not perfect, but it’s better than the coffee table.
  

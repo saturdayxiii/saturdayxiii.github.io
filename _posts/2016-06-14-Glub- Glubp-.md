@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/145918742144.jpg
 tags: ["photo", "fish", "frog", "underwater", "aquarium", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/145918742144.jpg"/>
 
 Glub.  Glub.
  

@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=8iN0q967S3c
 tags: ["nario", "djnario", "gaming", "Goldeneye", "007", "drawing", "sketch", "art"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/8iN0q967S3c/hqdefault.jpg)](https://www.youtube.com/watch?v=8iN0q967S3c)>
     
 Diario has finished Goldeneye on a dancepad.  <a href="http://www.twitch.tv/djnario" target="_blank">www.twitch.tv/djnario</a> 
  

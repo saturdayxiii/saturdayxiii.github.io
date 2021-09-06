@@ -196,6 +196,7 @@ for file in directory:
     if oimgs:
         image = ''.join(oimgs)
         link = ''.join(ntub)
+        read_file = re.sub('^.*\n', '', read_file)
     
     #add front matter
     print (date)

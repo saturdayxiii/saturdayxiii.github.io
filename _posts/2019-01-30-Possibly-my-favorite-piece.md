@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=t2AbBhwKzG0
 tags: ["Music", "recommended", "sega", "vgm", "OST", "bgm", "chiptune"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg)](https://www.youtube.com/watch?v=t2AbBhwKzG0)>
     
 Possibly my favorite piece of vgm ever.  The samples are so tight, and the rhythms sound so juxtapositioned yet thematically perfect.  I can never get over it.  Those 8 minutes fly by in a blink.
  

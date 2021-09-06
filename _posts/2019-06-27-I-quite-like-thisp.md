@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/190407228749.jpg
 tags: ["sgdq2019", "art", "crayola"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/190407228749.jpg"/>
 
 I quite like this.
 Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/165261868799.jpg
 tags: ["dreamcast", "retro", "photo"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/165261868799.jpg"/>
 
 Right now, the most exciting thing I learned from the <a href="https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw" target="_blank">DIYPerks Youtube channel</a> is the technique he used to <a href="https://www.youtube.com/watch?v=e3fnsGHe8eE" target="_blank">silence the fan on his media center pc</a>.
 My biggest pet peeve about the Dreamcast, and subsequently all modern fan using game consoles, is the fan noise. Transporting Matt Perks’ idea has nearly eradicated the issue, and it’s also a fun simple mod to do.  

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/165590796589.jpg
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art", "showcase"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/165590796589.jpg"/>
 
 Found this today, which I had previously forgotten about.
 <a href="http://fav.me/d6z8121" target="_blank">http://fav.me/d6z8121</a><br/>

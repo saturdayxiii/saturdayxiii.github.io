@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/181886640029.gif
 tags: ["game"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/181886640029.gif"/>
 
 <a href="http://hitchhiker-game.com" target="_blank">Humble Bundle’s Hitchiker: First Ride</a>.
 Not really a whole lot to say about it.  I just played it.  About half an hour long?  Wasn’t even a walking simulator because it took place all in a car.

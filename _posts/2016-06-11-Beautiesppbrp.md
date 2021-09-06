@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/145763608733.jpg
 tags: ["photo", "moth", "park", "insect", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/145763608733.jpg"/>
 
 Beauties.
 <br/>

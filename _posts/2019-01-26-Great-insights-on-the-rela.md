@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=SP8EoIBGog0
 tags: ["show", "youtube", "game", "movie"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg)](https://www.youtube.com/watch?v=SP8EoIBGog0)>
     
 Great insights on the relationships between critics and content producers and mob mentality.  
 For the record, I don't mind Uwe's movies, and I like a lot of the ideas he has, but I also typically shut them off half way through.

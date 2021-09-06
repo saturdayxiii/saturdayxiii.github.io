@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149087666693.jpg
 tags: ["flower", "photography", "macro"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149087666693.jpg"/>
 
 craft bait.
  

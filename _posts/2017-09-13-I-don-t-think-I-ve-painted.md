@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/165301193429.jpg
 tags: ["sweetie", "painting", "edmonton", "art", "showcase"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/165301193429.jpg"/>
 
 I don’t think I’ve painted in a looong time.
  

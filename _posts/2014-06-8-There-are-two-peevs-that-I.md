@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/182012762084.jpg
 tags: ["review", "indie", "game"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/182012762084.jpg"/>
 
 <a href="https://store.steampowered.com/app/291290/Motte_Island/" target="_blank">Motte Island</a> is alright, but there's a pretty big 
 asterisk

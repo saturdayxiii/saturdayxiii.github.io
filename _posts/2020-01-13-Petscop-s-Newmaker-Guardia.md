@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/190247453939.jpg
 tags: ["art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/190247453939.jpg"/>
 
 Petscop’s Newmaker Guardian.<br/>
  

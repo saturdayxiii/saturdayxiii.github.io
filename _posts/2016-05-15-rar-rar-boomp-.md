@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/144408396688.jpg
 tags: ["photo", "fireworks", "hokkaido", "hanabi", "night", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/144408396688.jpg"/>
 
 rar rar boom!
  

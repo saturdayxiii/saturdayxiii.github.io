@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/620327675644592128.png
 tags: [""]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/620327675644592128.png"/>
 
 3D printed Merge Cube.  Super happy that turned out.<br/>
  

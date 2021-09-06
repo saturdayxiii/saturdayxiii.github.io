@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=lJ2PsS-DpRw
 tags: ["spider", "wasp", "arachnid", "insect", "predator", "prey", "strike", "Camoflauge", "macro", "photography"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg)](https://www.youtube.com/watch?v=lJ2PsS-DpRw)>
     
 Yoink.
 Here are photos, because they do not compete with video:

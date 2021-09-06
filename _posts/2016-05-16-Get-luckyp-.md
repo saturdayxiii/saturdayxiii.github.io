@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/144461309383.jpg
 tags: ["photo", "lucky", "clover", "triplets", "photography"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/144461309383.jpg"/>
 
 Get lucky.
  

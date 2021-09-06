@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/133557827039.jpg
 tags: ["childrens", "tv", "fun", "art", "show"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/133557827039.jpg"/>
 
 Is this show still on?
  

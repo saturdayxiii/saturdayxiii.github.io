@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/152983433934.png
 tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustration", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/152983433934.png"/>
 
 These days I’m always out of practice.  And I can never draw spiders accurately anyway.
  

@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=apX3q5PCrQQ
 tags: ["recommended", "shows", "games", "show"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/apX3q5PCrQQ/hqdefault.jpg)](https://www.youtube.com/watch?v=apX3q5PCrQQ)>
     
 I’ve been enjoying <a href="https://www.youtube.com/user/broadcaststsatic" target="_blank">Noah Caldwell-Gervais</a>’s Thorough Look series for insightful and indepth retrospectives of many story driven game series.  This God of War one was especially fun because the style of gameplay bled right into Noah’s writing style.  I’ve never been interested in GoW, and now I know for sure that I should never play it, but I’ve got a new appreciation for it now and am totally going to look up some long plays.
  

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/149770647029.jpg
 tags: ["liquor", "plush", "edible"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/149770647029.jpg"/>
 
 A little bit of heaven for the captain.
  

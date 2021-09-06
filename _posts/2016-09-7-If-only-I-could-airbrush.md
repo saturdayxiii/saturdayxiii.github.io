@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/150081411419.png
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/150081411419.png"/>
 
 If only I could airbrush.
  

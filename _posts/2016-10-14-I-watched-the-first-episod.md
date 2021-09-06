@@ -8,7 +8,6 @@ link: https://www.youtube.com/watch?v=z0t9pCnRW4o
 tags: ["opinion", "tv", "show"]
 comments: true
 ---
-[![thumbnail](http://i3.ytimg.com/vi/z0t9pCnRW4o/hqdefault.jpg)](https://www.youtube.com/watch?v=z0t9pCnRW4o)>
     
 I watched the first episode of Channel Zero and I’m intrigued.
 As soon as the show came out there was the usual mindless hype, then the first real reviews I saw were rather negative.  I’m not one to ever believe hype, but it has been an interesting puzzle to try and sort out my own opinions, which of course should be nigh impossible from only the first episode, but I damn well will try.

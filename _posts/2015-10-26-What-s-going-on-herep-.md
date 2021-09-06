@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/131960088469.jpg
 tags: ["marle", "snes", "japanese", "games", "box", "art", "character"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/131960088469.jpg"/>
 
 What’s going on here?
  

@@ -8,7 +8,6 @@ link: https://saturdayxiii.github.io/media/190292235709.jpg
 tags: ["petscop", "garalina"]
 comments: true
 ---
-<img src="https://saturdayxiii.github.io/media/190292235709.jpg"/>
 
 I hope you can hear it.
 <a href="https://www.thingiverse.com/thing:4105628" target="_blank">https://www.thingiverse.com/thing:4105628</a><br/>
