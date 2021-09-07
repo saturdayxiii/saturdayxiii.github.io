@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-watched-the-first-episod
+title: I watched the first episod
 type: vid
 timestamp: October 14th, 2016 12:53pm
 image: http://i3.ytimg.com/vi/z0t9pCnRW4o/hqdefault.jpg

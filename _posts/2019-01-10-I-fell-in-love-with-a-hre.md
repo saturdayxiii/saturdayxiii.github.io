@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-fell-in-love-with-a-hre
+title: I fell in love with a hre
 type: game
 timestamp: January 10th, 2019 3:21pm
 image: https://saturdayxiii.github.io/media/181907012504.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Werewolf-bugman-vampire
+title: Werewolf bugman vampire
 type: img
 timestamp: May 25th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144915373212.jpg

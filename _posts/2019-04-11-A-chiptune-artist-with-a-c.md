@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-chiptune-artist-with-a-c
+title: A chiptune artist with a c
 type: audio
 timestamp: April 11th, 2019 3:55pm
 image: 

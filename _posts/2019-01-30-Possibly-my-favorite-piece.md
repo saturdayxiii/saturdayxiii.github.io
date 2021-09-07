@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Possibly-my-favorite-piece
+title: Possibly my favorite piece
 type: audio
 timestamp: January 30th, 2019 12:00pm
 image: http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg

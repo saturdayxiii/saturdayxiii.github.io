@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downtown-Edmontonp-
+title: Downtown Edmonton
 type: img
 timestamp: July 21st, 2018 10:30am
 image: https://saturdayxiii.github.io/media/182065701899.jpg

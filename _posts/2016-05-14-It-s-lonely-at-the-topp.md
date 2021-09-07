@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It-s-lonely-at-the-topp
+title: It s lonely at the top
 type: img
 timestamp: May 14th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144355354663.jpg

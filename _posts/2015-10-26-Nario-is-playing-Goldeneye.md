@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nario-is-playing-Goldeneye
+title: Nario is playing Goldeneye
 type: img
 timestamp: October 26th, 2015 11:26am
 image: https://saturdayxiii.github.io/media/131960334269.png

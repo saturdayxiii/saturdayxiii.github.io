@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best-thing-I-ve-heard-this
+title: Best thing I ve heard this
 type: audio
 timestamp: December 8th, 2016 9:22am
 image: 

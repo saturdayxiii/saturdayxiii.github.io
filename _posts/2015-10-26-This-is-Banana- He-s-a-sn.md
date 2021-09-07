@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This-is-Banana- He-s-a-sn
+title: This is Banana  He s a sn
 type: img
 timestamp: October 26th, 2015 11:23am
 image: https://saturdayxiii.github.io/media/131960168699.jpg

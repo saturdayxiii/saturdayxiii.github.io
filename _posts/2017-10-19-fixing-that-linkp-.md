@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fixing-that-linkp-
+title: fixing that link
 type: audio
 timestamp: October 19th, 2017 1:29pm
 image: 

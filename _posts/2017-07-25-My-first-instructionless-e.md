@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My-first-instructionless-e
+title: My first instructionless e
 type: img
 timestamp: July 25th, 2017 9:34pm
 image: https://saturdayxiii.github.io/media/163432477994.jpg

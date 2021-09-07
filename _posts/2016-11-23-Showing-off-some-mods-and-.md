@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Showing-off-some-mods-and-
+title: Showing off some mods and 
 type: img
 timestamp: November 23rd, 2016 9:44pm
 image: https://saturdayxiii.github.io/media/153587983579.jpg

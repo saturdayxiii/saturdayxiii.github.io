@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-put-a-lot-of-time-into-P
+title: I put a lot of time into P
 type: img
 timestamp: December 27th, 2019 1:10pm
 image: https://saturdayxiii.github.io/media/190407682119.jpg

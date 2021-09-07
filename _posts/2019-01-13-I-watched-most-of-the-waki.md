@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-watched-most-of-the-waki
+title: I watched most of the waki
 type: game
 timestamp: January 13th, 2019 10:18pm
 image: https://saturdayxiii.github.io/media/181997321324.gif

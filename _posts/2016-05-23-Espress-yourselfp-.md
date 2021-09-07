@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Espress-yourselfp-
+title: Espress yourself
 type: img
 timestamp: May 23rd, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144815258057.jpg

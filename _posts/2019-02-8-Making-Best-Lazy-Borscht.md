@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making-Best-Lazy-Borscht
+title: Making Best Lazy Borscht
 type: 
 timestamp: February 8th, 2019 1:58pm
 image: 

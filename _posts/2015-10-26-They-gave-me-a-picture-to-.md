@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They-gave-me-a-picture-to-
+title: They gave me a picture to 
 type: img
 timestamp: October 26th, 2015 11:17am
 image: https://saturdayxiii.github.io/media/131959904749.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pollinate-pollinate-poll
+title: Pollinate pollinate poll
 type: img
 timestamp: July 2nd, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/146807870671.gif

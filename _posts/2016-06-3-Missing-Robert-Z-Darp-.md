@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Missing-Robert-Z-Darp-
+title: Missing Robert Z Dar
 type: vid
 timestamp: June 3rd, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145363605283.jpg

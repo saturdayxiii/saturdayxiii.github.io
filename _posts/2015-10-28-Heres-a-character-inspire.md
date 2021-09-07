@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heres-a-character-inspire
+title: Heres a character inspire
 type: img
 timestamp: October 28th, 2015 11:57am
 image: https://saturdayxiii.github.io/media/132093594809.jpg

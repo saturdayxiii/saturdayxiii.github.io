@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-breathe-through-my-butt
+title: I breathe through my butt
 type: img
 timestamp: August 18th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149135903859.jpg

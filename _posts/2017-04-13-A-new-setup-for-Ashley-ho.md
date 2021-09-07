@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-new-setup-for-Ashley-ho
+title: A new setup for Ashley ho
 type: img
 timestamp: April 13th, 2017 1:33pm
 image: https://saturdayxiii.github.io/media/159536973094.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Table-set-up-at-a-hrefh
+title: Table set up at a hrefh
 type: img
 timestamp: May 7th, 2019 10:30am
 image: https://saturdayxiii.github.io/media/184715780939.jpg

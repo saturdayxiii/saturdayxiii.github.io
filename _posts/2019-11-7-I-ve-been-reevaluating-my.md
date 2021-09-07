@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-ve-been-reevaluating-my
+title: I ve been reevaluating my
 type: 
 timestamp: November 7th, 2019 3:33pm
 image: 

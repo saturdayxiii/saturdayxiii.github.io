@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When-you-have-a-favorite-c
+title: When you have a favorite c
 type: img
 timestamp: August 5th, 2016 11:06am
 image: https://saturdayxiii.github.io/media/148502555644.jpg

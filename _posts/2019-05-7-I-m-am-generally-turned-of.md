@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-m-am-generally-turned-of
+title: I m am generally turned of
 type: vid
 timestamp: May 7th, 2019 12:00pm
 image: http://i3.ytimg.com/vi/-5uu6bUzI2c/hqdefault.jpg

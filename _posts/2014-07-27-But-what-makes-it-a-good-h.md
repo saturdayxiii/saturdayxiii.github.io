@@ -1,6 +1,6 @@
 ---
 layout: post
-title: But-what-makes-it-a-good-h
+title: But what makes it a good h
 type: game
 timestamp: July 27th, 2014 4:37pm
 image: https://saturdayxiii.github.io/media/182016633414.jpg

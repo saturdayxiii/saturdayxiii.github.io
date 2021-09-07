@@ -1,6 +1,6 @@
 ---
 layout: post
-title: oregano-blossomsp-
+title: oregano blossoms
 type: img
 timestamp: May 29th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145111033223.jpg

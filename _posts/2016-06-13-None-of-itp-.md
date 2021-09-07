@@ -1,6 +1,6 @@
 ---
 layout: post
-title: None-of-itp-
+title: None of it
 type: img
 timestamp: June 13th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145866810270.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here-s-my-custom-gaming-sh
+title: Here s my custom gaming sh
 type: game
 timestamp: November 23rd, 2015 1:29pm
 image: 

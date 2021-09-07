@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another-week-of-progress 
+title: Another week of progress 
 type: img
 timestamp: April 2nd, 2021 9:23pm
 image: 

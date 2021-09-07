@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-little-bit-of-heaven-for
+title: A little bit of heaven for
 type: img
 timestamp: August 31st, 2016 6:46pm
 image: https://saturdayxiii.github.io/media/149770647029.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facecamp-
+title: Facecam
 type: img
 timestamp: July 1st, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/146761127860.jpg

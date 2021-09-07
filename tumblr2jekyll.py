@@ -125,8 +125,12 @@ for file in directory:
     no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
     no_punc = re.sub(" ","-",no_punc)
     date += no_punc
+    no_punc = no_punc.replace('-',' ')
+    no_punc = re.sub('p$','',no_punc)
+    no_punc = re.sub('p $','',no_punc)
     if no_punc == '':
         no_punc = "NT"
+    print (no_punc)
     #date is now title I guess
     #make a summary WAIT!  We don't need it no more
     '''
@@ -199,7 +203,6 @@ for file in directory:
         read_file = re.sub('^.*\n', '', read_file)
     
     #add front matter
-    print (date)
     fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?

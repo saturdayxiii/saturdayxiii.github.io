@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Look- It-s-PokePark-on-th
+title: Look  It s PokePark on th
 type: img
 timestamp: December 17th, 2015 6:27pm
 image: 

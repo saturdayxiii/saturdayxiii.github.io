@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D-printed-Merge-Cube -Su
+title: 3D printed Merge Cube  Su
 type: img
 timestamp: June 7th, 2020 10:29pm
 image: https://saturdayxiii.github.io/media/620327675644592128.png

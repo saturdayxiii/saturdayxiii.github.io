@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don-t-be-knottyp-
+title: Don t be knotty
 type: img
 timestamp: June 16th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/146020178743.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spent-Valentines-with-my-S
+title: Spent Valentines with my S
 type: vid
 timestamp: February 15th, 2019 11:09am
 image: https://saturdayxiii.github.io/media/182828395039.gif

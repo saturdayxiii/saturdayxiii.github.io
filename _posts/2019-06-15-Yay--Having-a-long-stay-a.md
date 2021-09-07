@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yay--Having-a-long-stay-a
+title: Yay  Having a long stay a
 type: img
 timestamp: June 15th, 2019 4:27pm
 image: https://saturdayxiii.github.io/media/185617874449.jpg

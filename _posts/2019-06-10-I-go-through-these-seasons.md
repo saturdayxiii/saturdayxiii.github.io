@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-go-through-these-seasons
+title: I go through these seasons
 type: img
 timestamp: June 10th, 2019 9:33pm
 image: https://saturdayxiii.github.io/media/185510960669.jpg

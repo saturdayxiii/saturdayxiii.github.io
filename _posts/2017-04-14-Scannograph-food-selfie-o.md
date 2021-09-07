@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scannograph-food-selfie-o
+title: Scannograph food selfie o
 type: food
 timestamp: April 14th, 2017 12:00pm
 image: https://saturdayxiii.github.io/media/159572020123.png

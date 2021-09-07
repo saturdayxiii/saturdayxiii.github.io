@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hanging-outp-
+title: Hanging out
 type: img
 timestamp: August 20th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149230541170.jpg

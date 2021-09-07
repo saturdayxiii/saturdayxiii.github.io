@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Less-annoying-than-a-href
+title: Less annoying than a href
 type: game
 timestamp: August 16th, 2015 7:47pm
 image: https://saturdayxiii.github.io/media/182151630754.jpg

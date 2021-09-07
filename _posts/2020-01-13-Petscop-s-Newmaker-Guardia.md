@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Petscop-s-Newmaker-Guardia
+title: Petscop s Newmaker Guardia
 type: img
 timestamp: January 13th, 2020 9:21pm
 image: https://saturdayxiii.github.io/media/190247453939.jpg

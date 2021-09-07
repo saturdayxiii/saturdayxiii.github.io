@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-big-reminder-to-myself-n
+title: A big reminder to myself n
 type: img
 timestamp: February 19th, 2020 9:52am
 image: https://saturdayxiii.github.io/media/190913838744.jpg

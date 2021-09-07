@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-really-enjoy-when-insigh
+title: I really enjoy when insigh
 type: vid
 timestamp: March 29th, 2021 1:26pm
 image: http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg

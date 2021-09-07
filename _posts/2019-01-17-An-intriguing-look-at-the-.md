@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An-intriguing-look-at-the-
+title: An intriguing look at the 
 type: vid
 timestamp: January 17th, 2019 3:33pm
 image: http://i3.ytimg.com/vi/YdSdvIRkkDY/hqdefault.jpg

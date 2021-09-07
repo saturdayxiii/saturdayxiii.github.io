@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-remember-telling-Alix-th
+title: I remember telling Alix th
 type: img
 timestamp: March 17th, 2015 4:27pm
 image: 

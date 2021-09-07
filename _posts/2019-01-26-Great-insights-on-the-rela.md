@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Great-insights-on-the-rela
+title: Great insights on the rela
 type: vid
 timestamp: January 26th, 2019 4:09pm
 image: http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg

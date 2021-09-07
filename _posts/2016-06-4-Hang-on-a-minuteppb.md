@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hang-on-a-minuteppb
+title: Hang on a minuteppb
 type: img
 timestamp: June 4th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145412487706.jpg

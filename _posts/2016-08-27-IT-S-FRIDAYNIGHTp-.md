@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT-S-FRIDAYNIGHTp-
+title: IT S FRIDAYNIGHT
 type: img
 timestamp: August 27th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149562517985.gif

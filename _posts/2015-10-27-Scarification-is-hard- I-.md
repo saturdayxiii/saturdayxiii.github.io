@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scarification-is-hard- I-
+title: Scarification is hard  I 
 type: img
 timestamp: October 27th, 2015 9:07am
 image: https://saturdayxiii.github.io/media/132020150369.jpg

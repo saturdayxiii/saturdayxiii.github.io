@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enhancing-textbooks-withh
+title: Enhancing textbooks withh
 type: img
 timestamp: June 9th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145667317283.jpg

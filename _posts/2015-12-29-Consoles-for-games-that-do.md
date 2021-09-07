@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consoles-for-games-that-do
+title: Consoles for games that do
 type: img
 timestamp: December 29th, 2015 7:20am
 image: https://saturdayxiii.github.io/media/136184969694.jpg

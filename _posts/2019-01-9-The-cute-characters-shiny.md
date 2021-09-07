@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The-cute-characters-shiny
+title: The cute characters shiny
 type: img
 timestamp: January 9th, 2019 4:39pm
 image: https://saturdayxiii.github.io/media/181881333409.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: one-of-these-I-thinkpp
+title: one of these I thinkp
 type: vid
 timestamp: August 7th, 2016 12:00pm
 image: http://i3.ytimg.com/vi/Cyk9V6CnYt8/hqdefault.jpg

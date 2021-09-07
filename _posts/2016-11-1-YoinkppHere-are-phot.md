@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YoinkppHere-are-phot
+title: YoinkppHere are phot
 type: vid
 timestamp: November 1st, 2016 2:37pm
 image: http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg

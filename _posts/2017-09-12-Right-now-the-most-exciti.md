@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Right-now-the-most-exciti
+title: Right now the most exciti
 type: img
 timestamp: September 12th, 2017 9:15am
 image: https://saturdayxiii.github.io/media/165261868799.jpg

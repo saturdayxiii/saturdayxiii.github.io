@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ive-always-been-a-critica
+title: Ive always been a critica
 type: game
 timestamp: April 15th, 2021 8:43pm
 image: 

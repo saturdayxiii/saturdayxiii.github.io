@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-few-nights-ago-my-brain-
+title: A few nights ago my brain 
 type: img
 timestamp: January 24th, 2019 7:12pm
 image: 

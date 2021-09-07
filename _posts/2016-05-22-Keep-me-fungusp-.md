@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep-me-fungusp-
+title: Keep me fungus
 type: img
 timestamp: May 22nd, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144762384055.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketching-some-piesp-
+title: Sketching some pies
 type: img
 timestamp: February 19th, 2017 2:04pm
 image: https://saturdayxiii.github.io/media/157453831474.jpg

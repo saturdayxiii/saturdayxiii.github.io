@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sawhooboomspraklep-
+title: Sawhooboomsprakle
 type: img
 timestamp: May 16th, 2016 10:53am
 image: https://saturdayxiii.github.io/media/144458734159.jpg

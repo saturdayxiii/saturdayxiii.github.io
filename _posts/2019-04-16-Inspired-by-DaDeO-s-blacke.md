@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspired-by-DaDeO-s-blacke
+title: Inspired by DaDeO s blacke
 type: food
 timestamp: April 16th, 2019 12:00pm
 image: https://saturdayxiii.github.io/media/184230308926.jpg

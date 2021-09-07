@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tales-on-Gamecubep-
+title: Tales on Gamecube
 type: game
 timestamp: May 21st, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144710201771.jpg

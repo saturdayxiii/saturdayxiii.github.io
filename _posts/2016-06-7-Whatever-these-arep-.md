@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whatever-these-arep-
+title: Whatever these are
 type: img
 timestamp: June 7th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145567052190.jpg

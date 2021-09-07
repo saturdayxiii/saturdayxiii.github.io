@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spider-toesp-
+title: Spider toes
 type: img
 timestamp: October 27th, 2016 1:07pm
 image: https://saturdayxiii.github.io/media/152390147284.jpg

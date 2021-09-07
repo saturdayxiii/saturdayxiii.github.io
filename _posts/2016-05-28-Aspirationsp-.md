@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aspirationsp-
+title: Aspirations
 type: img
 timestamp: May 28th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145061451694.jpg

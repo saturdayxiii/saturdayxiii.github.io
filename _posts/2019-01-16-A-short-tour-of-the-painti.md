@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-short-tour-of-the-painti
+title: A short tour of the painti
 type: img
 timestamp: January 16th, 2019 8:42am
 image: 

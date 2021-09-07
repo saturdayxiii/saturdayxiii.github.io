@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-love-pollen-bootsp-
+title: I love pollen boots
 type: 
 timestamp: June 27th, 2016 6:54am
 image: 

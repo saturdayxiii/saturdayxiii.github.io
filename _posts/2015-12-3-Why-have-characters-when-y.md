@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why-have-characters-when-y
+title: Why have characters when y
 type: game
 timestamp: December 3rd, 2015 8:10pm
 image: https://saturdayxiii.github.io/media/134502569594.png

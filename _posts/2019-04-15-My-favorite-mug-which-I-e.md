@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My-favorite-mug-which-I-e
+title: My favorite mug which I e
 type: img
 timestamp: April 15th, 2019 12:00pm
 image: https://saturdayxiii.github.io/media/184207088519.jpg

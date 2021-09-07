@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick-week -Some-things-f
+title: Quick week  Some things f
 type: img
 timestamp: April 6th, 2021 11:21pm
 image: 

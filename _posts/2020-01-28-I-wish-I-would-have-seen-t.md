@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-wish-I-would-have-seen-t
+title: I wish I would have seen t
 type: vid
 timestamp: January 28th, 2020 7:33pm
 image: http://i3.ytimg.com/vi/bgwS_FMZ3nQ/hqdefault.jpg

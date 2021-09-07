@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Every-year-we-go-to-the-y
+title: Every year we go to the y
 type: img
 timestamp: June 1st, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145264893918.jpg

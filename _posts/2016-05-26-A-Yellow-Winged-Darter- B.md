@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-Yellow-Winged-Darter- B
+title: A Yellow Winged Darter  B
 type: img
 timestamp: May 26th, 2016 3:59pm
 image: https://saturdayxiii.github.io/media/144974648089.jpg

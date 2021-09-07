@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Squishy-is-as-squishy-does
+title: Squishy is as squishy does
 type: vid
 timestamp: August 29th, 2016 12:00pm
 image: http://i3.ytimg.com/vi/9fBfLDo-K48/hqdefault.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: craft-baitp-
+title: craft bait
 type: img
 timestamp: August 17th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149087666693.jpg

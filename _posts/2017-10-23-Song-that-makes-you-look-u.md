@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Song-that-makes-you-look-u
+title: Song that makes you look u
 type: audio
 timestamp: October 23rd, 2017 1:17pm
 image: 

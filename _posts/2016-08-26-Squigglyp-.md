@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Squigglyp-
+title: Squiggly
 type: img
 timestamp: August 26th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149516566940.jpg

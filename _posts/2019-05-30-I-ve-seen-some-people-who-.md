@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-ve-seen-some-people-who-
+title: I ve seen some people who 
 type: game
 timestamp: May 30th, 2019 7:42am
 image: 

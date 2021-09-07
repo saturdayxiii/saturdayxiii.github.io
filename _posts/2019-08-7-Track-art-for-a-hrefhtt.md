@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Track-art-for-a-hrefhtt
+title: Track art for a hrefhtt
 type: img
 timestamp: August 7th, 2019 12:00pm
 image: 

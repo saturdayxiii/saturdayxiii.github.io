@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maybe-somedayp-
+title: Maybe someday
 type: img
 timestamp: June 6th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145516013259.jpg

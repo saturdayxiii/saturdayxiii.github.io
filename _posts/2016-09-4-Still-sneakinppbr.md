@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Still-sneakinppbr
+title: Still sneakinppbr
 type: img
 timestamp: September 4th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149940042190.jpg

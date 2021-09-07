@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aspirations-realizedp-
+title: Aspirations realized
 type: img
 timestamp: September 25th, 2016 1:45pm
 image: 

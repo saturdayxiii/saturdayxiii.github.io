@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diario-has-finished-Golden
+title: Diario has finished Golden
 type: img
 timestamp: November 3rd, 2015 10:12am
 image: http://i3.ytimg.com/vi/8iN0q967S3c/hqdefault.jpg

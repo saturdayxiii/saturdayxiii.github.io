@@ -1,6 +1,6 @@
 ---
 layout: post
-title: everybody-s-favoritepp
+title: everybody s favoritep
 type: 
 timestamp: July 25th, 2016 9:13am
 image: 

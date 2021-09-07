@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-Fancy-Triopppa-hr
+title: A Fancy Triopppa hr
 type: img
 timestamp: July 8th, 2019 9:32pm
 image: https://saturdayxiii.github.io/media/186155863744.png

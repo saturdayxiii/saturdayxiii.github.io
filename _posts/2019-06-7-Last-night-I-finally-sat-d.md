@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last-night-I-finally-sat-d
+title: Last night I finally sat d
 type: vid
 timestamp: June 7th, 2019 2:29pm
 image: http://i3.ytimg.com/vi/kaPgQrw_Ywk/hqdefault.jpg

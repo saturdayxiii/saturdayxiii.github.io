@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashley-in-lightsp-
+title: Ashley in lights
 type: img
 timestamp: August 16th, 2016 10:20am
 image: https://saturdayxiii.github.io/media/149034981519.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We-live-togetherppa
+title: We live togetherppa
 type: 
 timestamp: August 28th, 2016 12:00pm
 image: 

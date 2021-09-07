@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rar-rar-boomp-
+title: rar rar boom
 type: img
 timestamp: May 15th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144408396688.jpg

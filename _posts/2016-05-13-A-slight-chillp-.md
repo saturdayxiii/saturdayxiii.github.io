@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A-slight-chillp-
+title: A slight chill
 type: img
 timestamp: May 13th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/144305857302.jpg

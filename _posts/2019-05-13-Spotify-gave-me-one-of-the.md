@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify-gave-me-one-of-the
+title: Spotify gave me one of the
 type: audio
 timestamp: May 13th, 2019 12:08pm
 image: http://i3.ytimg.com/vi/7LvayVk_7GU/hqdefault.jpg

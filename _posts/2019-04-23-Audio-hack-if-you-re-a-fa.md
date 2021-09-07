@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Audio-hack-if-you-re-a-fa
+title: Audio hack if you re a fa
 type: img
 timestamp: April 23rd, 2019 3:47pm
 image: https://saturdayxiii.github.io/media/184397769579.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: These-snugglie-wormies-wil
+title: These snugglie wormies wil
 type: 
 timestamp: June 12th, 2016 5:07pm
 image: 

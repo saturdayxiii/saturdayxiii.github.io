@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep-it-hiddenp-
+title: Keep it hidden
 type: img
 timestamp: August 21st, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/149279138256.gif

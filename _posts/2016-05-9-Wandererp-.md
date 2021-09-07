@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandererp-
+title: Wanderer
 type: img
 timestamp: May 9th, 2016 11:40am
 image: https://saturdayxiii.github.io/media/144104657039.gif

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I-m-out-of-practice -So-m
+title: I m out of practice  So m
 type: img
 timestamp: February 5th, 2019 3:08pm
 image: https://saturdayxiii.github.io/media/182589004919.png

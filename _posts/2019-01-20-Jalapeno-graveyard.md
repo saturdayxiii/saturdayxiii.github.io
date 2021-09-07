@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jalapeno-graveyard
+title: Jalapeno graveyard
 type: img
 timestamp: January 20th, 2019 5:04pm
 image: https://saturdayxiii.github.io/media/182175873024.jpg

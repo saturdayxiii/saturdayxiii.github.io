@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Espresso-Glamourp-
+title: Espresso Glamour
 type: img
 timestamp: June 12th, 2016 12:00pm
 image: https://saturdayxiii.github.io/media/145813300168.jpg

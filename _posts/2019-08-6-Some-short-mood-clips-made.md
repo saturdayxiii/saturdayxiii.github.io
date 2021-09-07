@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some-short-mood-clips-made
+title: Some short mood clips made
 type: audio
 timestamp: August 6th, 2019 12:57pm
 image: 

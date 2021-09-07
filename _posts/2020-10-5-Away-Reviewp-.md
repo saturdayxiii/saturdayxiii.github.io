@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Away-Reviewp-
+title: Away Review
 type: vid
 timestamp: October 5th, 2020 12:00am
 image: http://i3.ytimg.com/vi/beF1Tv5BIeI/hqdefault.jpg
