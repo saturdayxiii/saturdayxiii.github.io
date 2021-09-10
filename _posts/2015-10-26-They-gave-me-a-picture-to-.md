@@ -3,6 +3,7 @@ layout: post
 title: They gave me a picture to 
 type: img
 timestamp: October 26th, 2015 11:17am
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/131959904749.jpg
 link: https://saturdayxiii.github.io/media/131959904749.jpg

@@ -3,6 +3,7 @@ layout: post
 title: Not perfect but it s bett
 type: img
 timestamp: December 14th, 2016 11:58am
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/154473092964.jpg
 link: https://saturdayxiii.github.io/media/154473092964.jpg

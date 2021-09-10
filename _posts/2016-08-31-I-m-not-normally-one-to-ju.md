@@ -3,6 +3,7 @@ layout: post
 title: I m not normally one to ju
 type: 
 timestamp: August 31st, 2016 12:00pm
+audio: 
 video: 
 image: 
 link: 

@@ -3,6 +3,7 @@ layout: post
 title: Ashley gettin comfy for a 
 type: img
 timestamp: July 14th, 2016 12:01pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/147403431858.jpg
 link: https://saturdayxiii.github.io/media/147403431858.jpg

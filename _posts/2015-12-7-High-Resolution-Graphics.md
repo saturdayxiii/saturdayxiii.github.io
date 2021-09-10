@@ -3,6 +3,7 @@ layout: post
 title: High Resolution Graphics
 type: img
 timestamp: December 7th, 2015 2:02pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/134745252369.jpg
 link: https://saturdayxiii.github.io/media/134745252369.jpg

@@ -3,6 +3,7 @@ layout: post
 title: Yesterday I saw Castle in 
 type: vid
 timestamp: October 17th, 2016 2:07pm
+audio: 
 video: 
 image: 
 link: 

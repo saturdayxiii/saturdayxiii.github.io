@@ -3,6 +3,7 @@ layout: post
 title: An upgrade in every way ex
 type: img
 timestamp: February 2nd, 2019 10:50am
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182502592759.png
 link: https://saturdayxiii.github.io/media/182502592759.png

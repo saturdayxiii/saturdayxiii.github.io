@@ -3,6 +3,7 @@ layout: post
 title: We live togetherppa
 type: 
 timestamp: August 28th, 2016 12:00pm
+audio: 
 video: 
 image: 
 link: 

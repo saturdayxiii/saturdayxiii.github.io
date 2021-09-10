@@ -3,6 +3,7 @@ layout: post
 title: Went out to see Best Freg
 type: vid
 timestamp: November 24th, 2018 12:00am
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/181058445904.jpg
 link: https://saturdayxiii.github.io/media/181058445904.jpg

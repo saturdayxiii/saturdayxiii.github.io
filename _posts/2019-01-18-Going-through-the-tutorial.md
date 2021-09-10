@@ -3,6 +3,7 @@ layout: post
 title: Going through the tutorial
 type: game
 timestamp: January 18th, 2019 8:39pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182126624604.gif
 link: https://saturdayxiii.github.io/media/182126624604.gif

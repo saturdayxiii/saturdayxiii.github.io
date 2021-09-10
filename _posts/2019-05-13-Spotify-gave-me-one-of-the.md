@@ -3,6 +3,7 @@ layout: post
 title: Spotify gave me one of the
 type: snd
 timestamp: May 13th, 2019 12:08pm
+audio: 
 video: 
 image: http://i3.ytimg.com/vi/7LvayVk_7GU/hqdefault.jpg
 link: https://www.youtube.com/watch?v=7LvayVk_7GU

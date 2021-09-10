@@ -3,6 +3,7 @@ layout: post
 title: went to the zoo yesterday
 type: img
 timestamp: August 24th, 2016 12:00pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/149423030176.gif
 link: https://saturdayxiii.github.io/media/149423030176.gif

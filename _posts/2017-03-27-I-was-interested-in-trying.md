@@ -3,6 +3,7 @@ layout: post
 title: I was interested in trying
 type: img
 timestamp: March 27th, 2017 11:02am
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/158895318979.png
 link: https://saturdayxiii.github.io/media/158895318979.png

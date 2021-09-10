@@ -3,6 +3,7 @@ layout: post
 title: Last night I finally sat d
 type: vid
 timestamp: June 7th, 2019 2:29pm
+audio: 
 video: 
 image: http://i3.ytimg.com/vi/kaPgQrw_Ywk/hqdefault.jpg
 link: https://www.youtube.com/watch?v=kaPgQrw_Ywk

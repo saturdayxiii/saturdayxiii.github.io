@@ -3,6 +3,7 @@ layout: post
 title: The N64 s antialiasing ma
 type: img
 timestamp: February 6th, 2019 2:21pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182613913184.jpg
 link: https://saturdayxiii.github.io/media/182613913184.jpg

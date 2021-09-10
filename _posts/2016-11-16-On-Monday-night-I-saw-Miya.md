@@ -3,6 +3,7 @@ layout: post
 title: On Monday night I saw Miya
 type: vid
 timestamp: November 16th, 2016 4:02pm
+audio: 
 video: 
 image: 
 link: 

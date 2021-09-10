@@ -3,6 +3,7 @@ layout: post
 title: I dont know why robovoice
 type: vid
 timestamp: April 17th, 2021 12:00pm
+audio: 
 video: 
 image: 
 link: 

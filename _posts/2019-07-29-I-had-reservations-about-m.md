@@ -3,6 +3,7 @@ layout: post
 title: I had reservations about m
 type: img
 timestamp: July 29th, 2019 8:09pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/186643242349.jpg
 link: https://saturdayxiii.github.io/media/186643242349.jpg

@@ -3,6 +3,7 @@ layout: post
 title: They still made it worth m
 type: snd
 timestamp: May 24th, 2019 4:10pm
+audio: 
 video: 
 image: 
 link: 

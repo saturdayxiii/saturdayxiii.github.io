@@ -3,6 +3,7 @@ layout: post
 title: YoinkppHere are phot
 type: vid
 timestamp: November 1st, 2016 2:37pm
+audio: 
 video: 
 image: http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg
 link: https://www.youtube.com/watch?v=lJ2PsS-DpRw

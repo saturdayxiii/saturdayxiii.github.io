@@ -3,6 +3,7 @@ layout: post
 title: While retired ages ago my
 type: img
 timestamp: June 10th, 2019 3:16pm
+audio: 
 video: 
 image: 
 link: 

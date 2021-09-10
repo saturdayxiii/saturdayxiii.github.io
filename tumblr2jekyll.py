@@ -117,6 +117,15 @@ for file in directory:
         read_file = re.sub('<embed src.*" type="vid.*', '', read_file)
     if not mp4:
         mp4 = ""
+    #don't forget audio
+    #this works for bandcamp. soundcloud is probably different
+    snd = re.findall('<embed type="audio\/mpeg" src="(.*)">', read_file)
+    if snd:
+        snd = ''.join(snd)
+        read_file = re.sub('<embed type="audio.*', '', read_file)
+    if not snd:
+        snd = ""
+    #print(snd)
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -217,7 +226,7 @@ for file in directory:
         read_file = re.sub('^.*\n', '', read_file)
     
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

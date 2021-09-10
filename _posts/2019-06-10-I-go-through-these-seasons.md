@@ -3,6 +3,7 @@ layout: post
 title: I go through these seasons
 type: img
 timestamp: June 10th, 2019 9:33pm
+audio: 
 video: 
 image: https://saturdayxiii.github.io/media/185510960669.jpg
 link: https://saturdayxiii.github.io/media/185510960669.jpg
