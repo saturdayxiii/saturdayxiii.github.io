@@ -2,9 +2,9 @@
 layout: post
 title: "Brand New Cherry Flavor"
 type: img
+video: https://i.imgur.com/detqnQ6.mp4
 image: https://i.postimg.cc/Sq4P6v0P/bncf.jpg
 link: https://i.postimg.cc/Sq4P6v0P/bncf.jpg
-video: https://i.imgur.com/detqnQ6.mp4
 tags: ["show", "Brand new cherry flavor", "netflix", "nick Antosca", "recommended"]
 ---
 
