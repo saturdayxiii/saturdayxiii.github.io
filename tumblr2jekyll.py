@@ -3,6 +3,8 @@ to the first 2 lines
 !/usr/bin/python
 -*- coding: UTF-8 -*-'''
 #once this works, I have no plans to clean it up.
+#media folder location
+media = "https://saturdayxiii.github.com/media"
 #all html showing up as a code block
 #convert links to []() format
 import os,re,io
@@ -87,7 +89,9 @@ for file in directory:
         read_file = re.sub(imgno, imgna, read_file)
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
-    #this shouldn't be necessary... try fixing html first
+    #this shouldn't be necessary... try fixing html first. done.
+    #tumblr isn't properly exporting these links, but they work anyway, for now:
+    print( re.search('<figure class="tmblr-full" data-orig-height=".*/.*/(.*)" data', read_file))
     #lets table-ize groups of images
     threeimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
     twoimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
@@ -104,7 +108,14 @@ for file in directory:
         yturl = "[![thumbnail](http://i3.ytimg.com/vi/" + tube + "/hqdefault.jpg)](https://www.youtube.com/watch?v=" + tube + ")"
         yturld = yturl + ">" + yturl + ">"
         read_file = re.sub(rf"{re.escape(yturld)}", yturl, read_file)
-    #playlists are probably different
+    #playlists are probably different, watchout
+    #here's for embedded vids, but it won't work if more than one in post
+    mp4 = re.findall('<embed src="\.\.\/\.\.\/media(.*)" type="vid.*', read_file)
+    if mp4:
+        mp4 = ''.join(mp4)
+        mp4 = media + mp4
+    if not mp4:
+        mp4 = ""
     #replace chars
     regex = re.compile('&rsquo;')
     read_file = regex.sub('\'', read_file)
@@ -131,7 +142,7 @@ for file in directory:
     date = re.sub(" ","-",date)
     if no_punc == '':
         no_punc = "NT"
-    print (no_punc)
+    #print (no_punc)
     print (date)
     #date is now title I guess
     #make a summary WAIT!  We don't need it no more
@@ -205,7 +216,7 @@ for file in directory:
         read_file = re.sub('^.*\n', '', read_file)
     
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
