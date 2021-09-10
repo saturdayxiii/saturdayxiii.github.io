@@ -4,7 +4,7 @@ to the first 2 lines
 -*- coding: UTF-8 -*-'''
 #once this works, I have no plans to clean it up.
 #media folder location
-media = "https://saturdayxiii.github.com/media"
+media = "https://saturdayxiii.github.io/media"
 #all html showing up as a code block
 #convert links to []() format
 import os,re,io
