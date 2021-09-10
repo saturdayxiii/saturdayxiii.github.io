@@ -3,6 +3,7 @@ layout: post
 title: I wanted to try out a hre
 type: 
 timestamp: December 27th, 2018 2:44pm
+video: 
 image: 
 link: 
 tags: ["review"]

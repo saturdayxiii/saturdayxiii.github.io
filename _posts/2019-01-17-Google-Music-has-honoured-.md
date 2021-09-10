@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Google Music has honoured 
-type: audio
+type: snd
 timestamp: January 17th, 2019 10:00am
+video: 
 image: 
 link: 
 tags: ["music", "punk", "recommended", "exciting"]

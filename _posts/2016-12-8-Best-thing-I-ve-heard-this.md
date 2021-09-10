@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Best thing I ve heard this
-type: audio
+type: snd
 timestamp: December 8th, 2016 9:22am
+video: 
 image: 
 link: 
 tags: ["experimental", "winnipeg", "avante", "indie", "punk", "eccentric", "pop", "canada", "song", "music", "recommended"]

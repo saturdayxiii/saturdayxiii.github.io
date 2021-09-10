@@ -3,6 +3,7 @@ layout: post
 title: Jalapeno graveyard
 type: img
 timestamp: January 20th, 2019 5:04pm
+video: 
 image: https://saturdayxiii.github.io/media/182175873024.jpg
 link: https://saturdayxiii.github.io/media/182175873024.jpg
 tags: ["Edible", "jalapeno", "dip", "photography"]

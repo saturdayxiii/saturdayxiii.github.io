@@ -3,6 +3,7 @@ layout: post
 title: Google Play recommended a
 type: game
 timestamp: January 14th, 2019 11:36am
+video: 
 image: https://saturdayxiii.github.io/media/182010017489.gif
 link: https://saturdayxiii.github.io/media/182010017489.gif
 tags: ["meh", "game"]

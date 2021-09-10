@@ -3,6 +3,7 @@ layout: post
 title: Sonic amp Knuckles keych
 type: img
 timestamp: January 22nd, 2020 2:01pm
+video: 
 image: https://saturdayxiii.github.io/media/190408289769.jpg
 link: https://saturdayxiii.github.io/media/190408289769.jpg
 tags: [""]

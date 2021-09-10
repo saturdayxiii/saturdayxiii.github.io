@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Treasure from the radio to
-type: audio
+type: snd
 timestamp: July 11th, 2017 10:37am
+video: 
 image: 
 link: 
 tags: ["radio", "impressed", "recommended", "music"]

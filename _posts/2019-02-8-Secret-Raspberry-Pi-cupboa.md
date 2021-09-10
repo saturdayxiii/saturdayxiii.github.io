@@ -3,6 +3,7 @@ layout: post
 title: Secret Raspberry Pi cupboa
 type: img
 timestamp: February 8th, 2019 7:48pm
+video: 
 image: https://saturdayxiii.github.io/media/182671455654.jpg
 link: https://saturdayxiii.github.io/media/182671455654.jpg
 tags: ["product", "purchase"]

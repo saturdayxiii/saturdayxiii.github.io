@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A chiptune artist with a c
-type: audio
+type: snd
 timestamp: April 11th, 2019 3:55pm
+video: 
 image: 
 link: 
 tags: ["recommended", "music", "chiptune", "8bit", "nario"]

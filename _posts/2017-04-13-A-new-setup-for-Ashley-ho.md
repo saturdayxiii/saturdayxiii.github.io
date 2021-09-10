@@ -3,6 +3,7 @@ layout: post
 title: A new setup for Ashley ho
 type: img
 timestamp: April 13th, 2017 1:33pm
+video: 
 image: https://saturdayxiii.github.io/media/159536973094.jpg
 link: https://saturdayxiii.github.io/media/159536973094.jpg
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]

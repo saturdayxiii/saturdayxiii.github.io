@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Radio gave me a gift today
-type: audio
+type: snd
 timestamp: March 11th, 2019 9:30am
+video: 
 image: 
 link: 
 tags: ["music", "recommended"]

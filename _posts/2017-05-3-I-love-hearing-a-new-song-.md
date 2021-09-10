@@ -1,8 +1,9 @@
 ---
 layout: post
 title: I love hearing a new song 
-type: audio
+type: snd
 timestamp: May 3rd, 2017 9:02am
+video: 
 image: 
 link: 
 tags: ["yeg", "recommended", "music"]

@@ -3,6 +3,7 @@ layout: post
 title: Why have characters when y
 type: game
 timestamp: December 3rd, 2015 8:10pm
+video: 
 image: https://saturdayxiii.github.io/media/134502569594.png
 link: https://saturdayxiii.github.io/media/134502569594.png
 tags: ["gurumin", "anime", "japanese", "drawing", "painting", "art", "game"]

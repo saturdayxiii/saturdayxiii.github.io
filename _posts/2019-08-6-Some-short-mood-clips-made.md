@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Some short mood clips made
-type: audio
+type: snd
 timestamp: August 6th, 2019 12:57pm
+video: 
 image: 
 link: 
 tags: ["famitracker", "8bit", "chiptune", "music", "nes", "showcase"]

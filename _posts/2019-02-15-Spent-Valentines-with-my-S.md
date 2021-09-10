@@ -3,6 +3,7 @@ layout: post
 title: Spent Valentines with my S
 type: vid
 timestamp: February 15th, 2019 11:09am
+video: 
 image: https://saturdayxiii.github.io/media/182828395039.gif
 link: https://saturdayxiii.github.io/media/182828395039.gif
 tags: ["valentines", "event", "movie"]

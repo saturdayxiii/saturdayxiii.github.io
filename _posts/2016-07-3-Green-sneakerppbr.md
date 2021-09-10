@@ -3,6 +3,7 @@ layout: post
 title: Green sneakerppbr
 type: 
 timestamp: July 3rd, 2016 12:00pm
+video: 
 image: 
 link: 
 tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]

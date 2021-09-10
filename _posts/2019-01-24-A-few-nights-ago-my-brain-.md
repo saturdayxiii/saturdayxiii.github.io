@@ -3,6 +3,7 @@ layout: post
 title: A few nights ago my brain 
 type: img
 timestamp: January 24th, 2019 7:12pm
+video: 
 image: 
 link: 
 tags: ["art", "comic", "dream", "thoughts"]

@@ -114,6 +114,7 @@ for file in directory:
     if mp4:
         mp4 = ''.join(mp4)
         mp4 = media + mp4
+        read_file = re.sub('<embed src.*" type="vid.*', '', read_file)
     if not mp4:
         mp4 = ""
     #replace chars
@@ -164,7 +165,7 @@ for file in directory:
         if tag == "food":
             post = "food"
         if tag == "music":
-            post = "audio"
+            post = "snd"
         if tag == "game":
             post = "game"
         if tag == "movie":

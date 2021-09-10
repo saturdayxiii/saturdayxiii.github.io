@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Another bit of gold from t
-type: audio
+type: snd
 timestamp: July 19th, 2017 9:26am
+video: 
 image: http://i3.ytimg.com/vi/bcnIhzaDTd0/hqdefault.jpg
 link: https://www.youtube.com/watch?v=bcnIhzaDTd0
 tags: ["radio", "recommended", "music"]

@@ -3,6 +3,7 @@ layout: post
 title: Step 2 Put it in everythi
 type: 
 timestamp: October 26th, 2016 7:37am
+video: 
 image: 
 link: 
 tags: ["advice", "Thoughts"]

@@ -3,6 +3,7 @@ layout: post
 title: Scannograph food selfie o
 type: food
 timestamp: April 14th, 2017 12:00pm
+video: 
 image: https://saturdayxiii.github.io/media/159572020123.png
 link: https://saturdayxiii.github.io/media/159572020123.png
 tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography"]

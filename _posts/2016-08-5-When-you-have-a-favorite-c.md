@@ -3,6 +3,7 @@ layout: post
 title: When you have a favorite c
 type: img
 timestamp: August 5th, 2016 11:06am
+video: 
 image: https://saturdayxiii.github.io/media/148502555644.jpg
 link: https://saturdayxiii.github.io/media/148502555644.jpg
 tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]

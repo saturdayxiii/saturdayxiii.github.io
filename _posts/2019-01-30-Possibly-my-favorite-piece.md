@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Possibly my favorite piece
-type: audio
+type: snd
 timestamp: January 30th, 2019 12:00pm
+video: 
 image: http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg
 link: https://www.youtube.com/watch?v=t2AbBhwKzG0
 tags: ["Music", "recommended", "sega", "vgm", "OST", "bgm", "chiptune"]

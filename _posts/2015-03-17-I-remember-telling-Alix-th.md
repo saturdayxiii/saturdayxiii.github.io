@@ -3,6 +3,7 @@ layout: post
 title: I remember telling Alix th
 type: img
 timestamp: March 17th, 2015 4:27pm
+video: 
 image: 
 link: 
 tags: ["art", "mod", "paint", "case", "neon"]

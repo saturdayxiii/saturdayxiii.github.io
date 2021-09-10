@@ -3,6 +3,7 @@ layout: post
 title: Making Best Lazy Borscht
 type: 
 timestamp: February 8th, 2019 1:58pm
+video: 
 image: 
 link: 
 tags: ["edible", "borscht"]

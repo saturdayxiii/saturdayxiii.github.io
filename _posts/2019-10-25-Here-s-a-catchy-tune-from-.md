@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Here s a catchy tune from 
-type: audio
+type: snd
 timestamp: October 25th, 2019 3:47pm
+video: 
 image: 
 link: 
 tags: ["music", "recommended", "umbromaniii", "edm"]

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Song that makes you look u
-type: audio
+type: snd
 timestamp: October 23rd, 2017 1:17pm
+video: 
 image: 
 link: 
 tags: ["recommended", "music"]

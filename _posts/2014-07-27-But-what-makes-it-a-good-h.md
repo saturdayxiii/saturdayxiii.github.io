@@ -3,6 +3,7 @@ layout: post
 title: But what makes it a good h
 type: game
 timestamp: July 27th, 2014 4:37pm
+video: 
 image: https://saturdayxiii.github.io/media/182016633414.jpg
 link: https://saturdayxiii.github.io/media/182016633414.jpg
 tags: ["game", "review"]

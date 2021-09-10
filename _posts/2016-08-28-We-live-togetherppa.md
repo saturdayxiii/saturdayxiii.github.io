@@ -3,6 +3,7 @@ layout: post
 title: We live togetherppa
 type: 
 timestamp: August 28th, 2016 12:00pm
+video: 
 image: 
 link: 
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]

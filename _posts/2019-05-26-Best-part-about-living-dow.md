@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Best part about living dow
-type: audio
+type: snd
 timestamp: May 26th, 2019 1:27am
+video: 
 image: 
 link: 
 tags: ["music"]
