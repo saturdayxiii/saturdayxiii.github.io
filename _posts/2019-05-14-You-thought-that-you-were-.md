@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["thoughts"]
+tags: ["thoughts", "personal"]
 comments: true
 ---
 

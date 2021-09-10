@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149423030176.gif
 link: https://saturdayxiii.github.io/media/149423030176.gif
-tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
+tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography", "art"]
 comments: true
 ---
 

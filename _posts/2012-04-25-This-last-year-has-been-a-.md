@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["Thoughts"]
+tags: ["Thoughts", "personal"]
 comments: true
 ---
 ## My Initial Responce to 5-HTP ##

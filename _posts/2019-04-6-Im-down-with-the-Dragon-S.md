@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Im down with the Dragon S
-type: art
+type: food
 timestamp: April 6th, 2019 1:11pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/183992026209.jpg
 link: https://saturdayxiii.github.io/media/183992026209.jpg
-tags: ["Alleykat", "yeg", "edible", "beer", "Denali"]
+tags: ["Alleykat", "yeg", "edible", "beer", "Denali", "food"]
 comments: true
 ---
 

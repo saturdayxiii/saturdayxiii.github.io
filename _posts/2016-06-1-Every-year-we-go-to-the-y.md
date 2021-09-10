@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145264893918.jpg
 link: https://saturdayxiii.github.io/media/145264893918.jpg
-tags: ["photo", "wormies", "insect", "caterpillar", "photography"]
+tags: ["photo", "wormies", "insect", "caterpillar", "photography", "art"]
 comments: true
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A little bit of heaven for
-type: art
+type: food
 timestamp: August 31st, 2016 6:46pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/149770647029.jpg
 link: https://saturdayxiii.github.io/media/149770647029.jpg
-tags: ["liquor", "plush", "edible"]
+tags: ["liquor", "plush", "edible", "food"]
 comments: true
 ---
 

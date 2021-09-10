@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/9fBfLDo-K48/hqdefault.jpg
 link: https://www.youtube.com/watch?v=9fBfLDo-K48
-tags: ["slug", "macro", "photography"]
+tags: ["slug", "macro", "photography", "art"]
 comments: true
 ---
     

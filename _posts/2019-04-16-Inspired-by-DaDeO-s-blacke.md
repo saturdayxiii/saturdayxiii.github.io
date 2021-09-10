@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/184230308926.jpg
 link: https://saturdayxiii.github.io/media/184230308926.jpg
-tags: ["edible", "sandwich", "tofu", "food", "recommended", "photography"]
+tags: ["edible", "sandwich", "tofu", "food", "recommended", "photography", "food", "art"]
 comments: true
 ---
 

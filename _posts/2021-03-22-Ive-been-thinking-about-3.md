@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ive been thinking about 3
-type: art
+type: me
 timestamp: March 22nd, 2021 10:55am
 audio: 
 video: 
 image: 
 link: 
-tags: ["Thoughts", "Art", "Cave"]
+tags: ["Thoughts", "Art", "Cave", "personal"]
 comments: true
 ---
 

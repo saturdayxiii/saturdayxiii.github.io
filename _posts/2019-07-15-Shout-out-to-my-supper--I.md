@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Shout out to my supper  I
-type: 
+type: food
 timestamp: July 15th, 2019 5:39pm
 audio: 
 video: 
 image: 
 link: 
-tags: ["recommended", "maybe", "edible"]
+tags: ["recommended", "maybe", "edible", "food"]
 comments: true
 ---
 

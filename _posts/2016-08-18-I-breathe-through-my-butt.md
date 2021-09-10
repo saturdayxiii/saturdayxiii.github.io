@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149135903859.jpg
 link: https://saturdayxiii.github.io/media/149135903859.jpg
-tags: ["pillbug", "macro", "photography"]
+tags: ["pillbug", "macro", "photography", "art"]
 comments: true
 ---
 

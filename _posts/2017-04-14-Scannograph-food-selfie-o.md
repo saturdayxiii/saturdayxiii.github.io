@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/159572020123.png
 link: https://saturdayxiii.github.io/media/159572020123.png
-tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography"]
+tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography", "food", "art"]
 comments: true
 ---
 

@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145412487706.jpg
 link: https://saturdayxiii.github.io/media/145412487706.jpg
-tags: ["photo", "moth", "insect", "photography"]
+tags: ["photo", "moth", "insect", "photography", "art"]
 comments: true
 ---
 

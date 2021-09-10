@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]
+tags: ["arachnid", "spider", "macro", "camoflauge", "photography", "art"]
 comments: true
 ---
 

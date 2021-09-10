@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["bugs", "pest", "egg", "insect", "macro", "photography"]
+tags: ["bugs", "pest", "egg", "insect", "macro", "photography", "art"]
 comments: true
 ---
 |  | <img src="https://saturdayxiii.github.io/media/148986095554_0.jpg"/> |  |

@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg
 link: https://www.youtube.com/watch?v=G1vLIfLtD60
-tags: ["bug", "insect", "fly", "macro", "photography"]
+tags: ["bug", "insect", "fly", "macro", "photography", "art"]
 comments: true
 ---
     

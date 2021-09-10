@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["truth", "turth", "Thoughts"]
+tags: ["truth", "turth", "Thoughts", "personal"]
 comments: true
 ---
 

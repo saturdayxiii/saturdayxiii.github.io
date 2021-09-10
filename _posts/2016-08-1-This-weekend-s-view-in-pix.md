@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/148333815754.png
 link: https://saturdayxiii.github.io/media/148333815754.png
-tags: ["lake", "dock", "yard", "art", "photography"]
+tags: ["lake", "dock", "yard", "art", "photography", "art"]
 comments: true
 ---
 

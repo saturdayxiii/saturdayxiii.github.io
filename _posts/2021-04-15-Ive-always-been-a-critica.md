@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ive always been a critica
-type: tainment
+type: me
 timestamp: April 15th, 2021 8:43pm
 audio: 
 video: 
 image: 
 link: 
-tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube"]
+tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube", "personal"]
 comments: true
 ---
 

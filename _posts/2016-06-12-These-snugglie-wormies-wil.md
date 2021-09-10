@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography"]
+tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography", "art"]
 comments: true
 ---
 

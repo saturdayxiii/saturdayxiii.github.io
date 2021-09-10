@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
+tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---
 

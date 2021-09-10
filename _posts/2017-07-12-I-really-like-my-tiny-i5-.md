@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts"]
+tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts", "personal"]
 comments: true
 ---
 ## a Re-Ignited, Preliminary Linux experience [journal entry] ##

@@ -65,15 +65,13 @@ for file in directory:
     #more post types decided in tagging section
     post = ""
     if re.search("body>\s*<img",read_file):
-        post = "img"
+        post = "art"
     if re.search("body>\s*<iframe",read_file):
-        post = "vid"
+        post = "tainment"
     if re.search('body>\s*<figure class="tmblr-full tmblr-embed"',read_file):
-        post = "vid"
+        post = "tainment"
     if re.search('body>\s*##  ##\s*<figure class="tmblr-full tmblr-embed"', read_file):
-        post = "vid"
-    if re.search('body>\s*##  ##\s*<p class="npf_link"', read_file):
-        post = "lnk"
+        post = "tainment"
     #fix img urls, starting with tumblrs broken numbering system
     imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
     for imgn in imgns:
@@ -173,6 +171,9 @@ for file in directory:
         tag = tag.lower()
         if tag == "food":
             post = "food"
+        if tag == "edible":
+            post = "food"
+            tags.append("food")
         if tag == "music":
             post = "snd"
         if tag == "game":
@@ -187,8 +188,10 @@ for file in directory:
             post = "art"
         if tag == "photography":
             post = "art"
+            tags.append("art")
         if tag == "thoughts":
             post = "me"
+            tags.append("personal")
         if tag == "personal":
             post = "me"
         if tag == "update":

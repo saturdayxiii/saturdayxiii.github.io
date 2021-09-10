@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Yesterday I saw Castle in 
-type: tainment
+type: me
 timestamp: October 17th, 2016 2:07pm
 audio: 
 video: 
 image: 
 link: 
-tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie"]
+tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie", "personal"]
 comments: true
 ---
 ## Laputa and self reflection regarding anime [journal] ##

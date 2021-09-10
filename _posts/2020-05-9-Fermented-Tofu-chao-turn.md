@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["food", "reccommended", "chao", "recipe", "edible"]
+tags: ["food", "reccommended", "chao", "recipe", "edible", "food"]
 comments: true
 ---
 

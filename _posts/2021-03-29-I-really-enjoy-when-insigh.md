@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg
 link: https://www.youtube.com/watch?v=rDkc2_phiJ4
-tags: ["recommended", "movie", "thoughts", "cinema"]
+tags: ["recommended", "movie", "thoughts", "cinema", "personal"]
 comments: true
 ---
     

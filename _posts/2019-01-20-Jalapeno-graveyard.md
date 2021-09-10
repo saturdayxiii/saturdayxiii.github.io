@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182175873024.jpg
 link: https://saturdayxiii.github.io/media/182175873024.jpg
-tags: ["Edible", "jalapeno", "dip", "photography"]
+tags: ["Edible", "jalapeno", "dip", "photography", "food", "art"]
 comments: true
 ---
 

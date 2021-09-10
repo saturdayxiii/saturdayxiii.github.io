@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["advice", "Thoughts"]
+tags: ["advice", "Thoughts", "personal"]
 comments: true
 ---
 ## The Plan ##

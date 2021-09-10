@@ -1,13 +1,13 @@
 ---
 layout: post
 title: On Monday night I saw Miya
-type: tainment
+type: me
 timestamp: November 16th, 2016 4:02pm
 audio: 
 video: 
 image: 
 link: 
-tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie"]
+tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie", "personal"]
 comments: true
 ---
 ## Further topicless ramblings about select cartoons [journal] ##

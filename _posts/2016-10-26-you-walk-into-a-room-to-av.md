@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["tfw", "face", "Thoughts"]
+tags: ["tfw", "face", "Thoughts", "personal"]
 comments: true
 ---
 ## tfw ##

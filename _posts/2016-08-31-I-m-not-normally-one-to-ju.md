@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography"]
+tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography", "art"]
 comments: true
 ---
 

@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["spider", "arachnid", "macro", "web", "photography"]
+tags: ["spider", "arachnid", "macro", "web", "photography", "art"]
 comments: true
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Christmas whiskey  First 
-type: art
+type: food
 timestamp: January 9th, 2019 6:40pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/181884034944.jpg
 link: https://saturdayxiii.github.io/media/181884034944.jpg
-tags: ["Alcohol", "whiskey", "glassware", "edible"]
+tags: ["Alcohol", "whiskey", "glassware", "edible", "food"]
 comments: true
 ---
 

@@ -7,7 +7,7 @@ audio:
 video: 
 image: 
 link: 
-tags: ["art", "comic", "dream", "thoughts"]
+tags: ["art", "comic", "dream", "thoughts", "personal"]
 comments: true
 ---
 
