@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I was interested in trying
-type: img
+type: art
 timestamp: March 27th, 2017 11:02am
 audio: 
 video: 

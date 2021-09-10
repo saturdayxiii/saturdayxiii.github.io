@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I want to make a snowboard
-type: img
+type: art
 timestamp: October 1st, 2017 9:45am
 audio: 
 video: 

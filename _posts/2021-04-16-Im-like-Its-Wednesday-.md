@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Im-like-Its-Wednesday-
-type: img
+type: art
 timestamp: April 16th, 2021 9:49pm
 image: 
 link: 

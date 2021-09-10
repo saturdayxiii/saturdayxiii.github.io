@@ -1,6 +1,6 @@
 ---
 layout: post
-type: vid
+type: tainment
 comments: true
 title: Borderline Forever
 tags: ["clip", "show", "scott the woz", "youtube", "funny"]

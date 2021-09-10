@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiny Things"
-type: lnk
+type: me
 timestamp: November 3rd, 2016 1:11pm
 link: "https://tinythings.tumblr.com/"
 tags: ["update", "macro", "moving", "insect", "photography"]

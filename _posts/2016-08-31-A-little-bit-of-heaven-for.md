@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A little bit of heaven for
-type: img
+type: art
 timestamp: August 31st, 2016 6:46pm
 audio: 
 video: 

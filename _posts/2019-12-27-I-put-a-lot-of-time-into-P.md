@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I put a lot of time into P
-type: img
+type: art
 timestamp: December 27th, 2019 1:10pm
 audio: 
 video: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: lnk
+type: me
 title: "Blender Pixel Art"
 image: "http://i3.ytimg.com/vi/eSqb6II3WMM/maxresdefault.jpg"
 link: "https://www.youtube.com/watch?v=eSqb6II3WMM"

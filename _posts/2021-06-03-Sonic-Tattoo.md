@@ -1,6 +1,6 @@
 ---
 layout: post
-type: img
+type: me
 title: Sonic Tattoo
 tags: ["art", "tattoo", "fail", "Sonic the hedgehog", "stick n poke"]
 ---

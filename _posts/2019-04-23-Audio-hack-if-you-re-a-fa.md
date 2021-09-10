@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio hack if you re a fa
-type: img
+type: art
 timestamp: April 23rd, 2019 3:47pm
 audio: 
 video: 

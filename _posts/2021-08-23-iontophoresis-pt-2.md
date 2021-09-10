@@ -1,6 +1,6 @@
 ---
 layout: post
-type: health
+type: me
 title: "Iontophoresis Part 2"
 image: https://i.postimg.cc/y8x8MWRQ/PXL-20210824.jpg
 link: https://i.postimg.cc/75gknFWc/PXL-20210824-014424995.jpg

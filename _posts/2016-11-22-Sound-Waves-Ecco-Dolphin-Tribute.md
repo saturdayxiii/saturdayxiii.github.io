@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOUND WAVES: A Tribute to Ecco the Dolphin"
-type: lnk
+type: me
 image: "https://f4.bcbits.com/img/a2965967324_16.jpg"
 link: "https://soundwavesecco.bandcamp.com"
 timestamp: November 22nd, 2016 5:35pm

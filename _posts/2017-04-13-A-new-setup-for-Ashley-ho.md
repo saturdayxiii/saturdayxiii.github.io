@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new setup for Ashley ho
-type: img
+type: art
 timestamp: April 13th, 2017 1:33pm
 audio: 
 video: 

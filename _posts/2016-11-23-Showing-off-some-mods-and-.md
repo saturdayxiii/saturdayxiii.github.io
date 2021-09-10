@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Showing off some mods and 
-type: img
+type: art
 timestamp: November 23rd, 2016 9:44pm
 audio: 
 video: 

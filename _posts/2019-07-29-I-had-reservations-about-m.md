@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I had reservations about m
-type: img
+type: art
 timestamp: July 29th, 2019 8:09pm
 audio: 
 video: 

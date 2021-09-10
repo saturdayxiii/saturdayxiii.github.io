@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secret Raspberry Pi cupboa
-type: img
+type: art
 timestamp: February 8th, 2019 7:48pm
 audio: 
 video: 

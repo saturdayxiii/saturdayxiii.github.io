@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ants Canada"
-type: lnk
+type: me
 image: "https://64.media.tumblr.com/464f23d4c7933535afe923ee9de3bdb5/tumblr_pkzy92xjFT1rtskmu_r1_og_500.jpg"
 link: "https://href.li/?https://www.youtube.com/channel/UCONd1SNf3_QqjzjCVsURNuA"
 timestamp: January 7th, 2019 10:07pm

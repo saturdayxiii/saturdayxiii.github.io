@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brand New Cherry Flavor"
-type: img
+type: tainment
 video: https://i.imgur.com/detqnQ6.mp4
 image: https://i.postimg.cc/Sq4P6v0P/bncf.jpg
 link: https://i.postimg.cc/Sq4P6v0P/bncf.jpg

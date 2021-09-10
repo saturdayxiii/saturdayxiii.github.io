@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michigan: Report from Hell"
-type: vid
+type: tainment
 image: "http://i3.ytimg.com/vi/F-cvr_hX9_o/maxresdefault.jpg"
 link: "https://www.youtube.com/playlist?list=PL4AF3053BF572C1E5"
 timestamp: April 11th, 2021 12:00pm

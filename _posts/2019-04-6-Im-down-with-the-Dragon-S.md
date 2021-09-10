@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Im down with the Dragon S
-type: img
+type: art
 timestamp: April 6th, 2019 1:11pm
 audio: 
 video: 

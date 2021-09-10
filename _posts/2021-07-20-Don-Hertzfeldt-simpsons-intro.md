@@ -1,6 +1,6 @@
 ---
 layout: post
-type: vid
+type: tainment
 title: "Don Hertzfeldt's Simpsons Intro"
 tags: ["recommended", "youtube", "The Simpsons", "Don Hertzfeldt", "thoughts","show", "immortality", "after life"]
 ---

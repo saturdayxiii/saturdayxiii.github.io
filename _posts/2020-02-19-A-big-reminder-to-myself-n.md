@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A big reminder to myself n
-type: img
+type: art
 timestamp: February 19th, 2020 9:52am
 audio: 
 video: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: vid
+type: tainment
 title: "The Exploring Series"
 tags: ["SCP Foundation", "youtube", "show", "audiobook", "series", "stories", "recommended"]
 ---

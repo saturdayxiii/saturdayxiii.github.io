@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The N64 s antialiasing ma
-type: img
+type: art
 timestamp: February 6th, 2019 2:21pm
 audio: 
 video: 

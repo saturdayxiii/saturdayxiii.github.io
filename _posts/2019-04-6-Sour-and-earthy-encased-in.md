@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sour and earthy encased in
-type: img
+type: art
 timestamp: April 6th, 2019 7:54pm
 audio: 
 video: 

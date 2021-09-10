@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PS1: Sentient"
-type: vid
+type: tainment
 timestamp: April 10th, 2021 12:00pm
 image: "http://i3.ytimg.com/vi/U8JRjwH6fTQ/maxresdefault.jpg"
 link: "https://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N"

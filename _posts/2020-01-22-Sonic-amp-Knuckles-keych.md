@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sonic amp Knuckles keych
-type: img
+type: art
 timestamp: January 22nd, 2020 2:01pm
 audio: 
 video: 

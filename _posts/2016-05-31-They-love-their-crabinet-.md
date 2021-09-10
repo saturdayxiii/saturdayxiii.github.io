@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They love their crabinet 
-type: img
+type: art
 timestamp: May 31st, 2016 12:00pm
 audio: 
 video: 

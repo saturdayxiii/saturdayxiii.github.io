@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I m out of practice  So m
-type: img
+type: art
 timestamp: February 5th, 2019 3:08pm
 audio: 
 video: 

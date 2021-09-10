@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Channel Zero Dream Door"
-type: vid
+type: tainment
+image: https://i.postimg.cc/LX1B5W0d/channel-zero-Dream-Door-PJ-Hug.gif
+link: https://i.postimg.cc/LX1B5W0d/channel-zero-Dream-Door-PJ-Hug.gif
 tags: ['show', 'recommended', 'syfy', 'channel zero']
 ---
-![PJ Hug](https://i.postimg.cc/LX1B5W0d/channel-zero-Dream-Door-PJ-Hug.gif)
-
 I'm glad I never gave up on Channel Zero after that rough [first season](https://saturdayxiii.github.io/2016/10/14/I-watched-the-first-episod/), though I probably should have said something about the other seasons as I watched them.  
 
 I enjoyed them.  

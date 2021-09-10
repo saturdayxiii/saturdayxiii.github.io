@@ -1,6 +1,6 @@
 ---
 layout: post
-type: personal
+type: me
 title: Escitalopram
 tags: ["personal","update","mental health","health","thoughts"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: lnk
+type: me
 title: Iontophoresis
 tags: ["health", "iontophoresis", "diy", "experiment"]
 ---

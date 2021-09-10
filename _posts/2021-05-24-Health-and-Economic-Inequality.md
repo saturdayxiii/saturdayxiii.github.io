@@ -1,5 +1,5 @@
 ---
-type: vid
+type: tainment
 title: "Health & Economic Inequality"
 tags: ["show", "youtube", "recommended", "health"]
 ---

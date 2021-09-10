@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3D printed Merge Cube  Su
-type: img
+type: art
 timestamp: June 7th, 2020 10:29pm
 audio: 
 video: 

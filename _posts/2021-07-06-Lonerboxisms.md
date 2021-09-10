@@ -1,6 +1,6 @@
 ---
 layout: post
-type: vid
+type: tainment
 comments: true
 title: Lonerboxisms
 tags: ["recommended","show","youtube","politics","racism","left vs wrong"]
