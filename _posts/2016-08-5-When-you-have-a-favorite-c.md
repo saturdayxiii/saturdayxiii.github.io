@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When you have a favorite c
-type: img
+type: art
 timestamp: August 5th, 2016 11:06am
 audio: 
 video: 

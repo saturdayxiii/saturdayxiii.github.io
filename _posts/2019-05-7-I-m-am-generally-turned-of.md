@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I m am generally turned of
-type: vid
+type: tainment
 timestamp: May 7th, 2019 12:00pm
 audio: 
 video: 

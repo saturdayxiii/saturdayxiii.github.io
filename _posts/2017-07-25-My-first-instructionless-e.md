@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first instructionless e
-type: img
+type: art
 timestamp: July 25th, 2017 9:34pm
 audio: 
 video: 

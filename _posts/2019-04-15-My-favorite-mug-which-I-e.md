@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My favorite mug which I e
-type: img
+type: art
 timestamp: April 15th, 2019 12:00pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A short tour of the painti
-type: img
+type: art
 timestamp: January 16th, 2019 8:42am
 audio: 
 video: 

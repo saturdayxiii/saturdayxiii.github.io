@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I don t know what this mus
-type: vid
+type: art
 timestamp: July 29th, 2016 2:51pm
 audio: 
 video: 

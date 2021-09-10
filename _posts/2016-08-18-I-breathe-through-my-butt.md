@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I breathe through my butt
-type: img
+type: art
 timestamp: August 18th, 2016 12:00pm
 audio: 
 video: 

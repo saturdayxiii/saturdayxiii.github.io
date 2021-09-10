@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Play recommended a
-type: game
+type: tainment
 timestamp: January 14th, 2019 11:36am
 audio: 
 video: 

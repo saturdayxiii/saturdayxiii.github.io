@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I love the philosophical i
-type: vid
+type: tainment
 timestamp: November 25th, 2020 3:43pm
 audio: 
 video: 

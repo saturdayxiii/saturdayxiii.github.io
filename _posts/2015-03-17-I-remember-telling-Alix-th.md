@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I remember telling Alix th
-type: img
+type: art
 timestamp: March 17th, 2015 4:27pm
 audio: 
 video: 

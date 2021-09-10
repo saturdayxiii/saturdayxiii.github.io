@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is Banana  He s a sn
-type: img
+type: art
 timestamp: October 26th, 2015 11:23am
 audio: 
 video: 

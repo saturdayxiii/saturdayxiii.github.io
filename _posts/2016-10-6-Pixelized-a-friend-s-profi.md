@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pixelized a friend s profi
-type: img
+type: art
 timestamp: October 6th, 2016 3:18pm
 audio: 
 video: 

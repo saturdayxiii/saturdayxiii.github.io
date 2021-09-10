@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birds Bear Arms were amazi
-type: snd
+type: art
 timestamp: March 17th, 2019 6:54pm
 audio: 
 video: 

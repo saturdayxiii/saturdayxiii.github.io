@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I really like my tiny i5 
-type: 
+type: me
 timestamp: July 12th, 2017 12:38pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I think I may have stolen 
-type: img
+type: art
 timestamp: August 4th, 2016 1:58pm
 audio: 
 video: 

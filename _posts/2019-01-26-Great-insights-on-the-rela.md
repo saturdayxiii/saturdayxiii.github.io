@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great insights on the rela
-type: vid
+type: tainment
 timestamp: January 26th, 2019 4:09pm
 audio: 
 video: 

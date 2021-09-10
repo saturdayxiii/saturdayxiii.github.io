@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ive always been a critica
-type: game
+type: me
 timestamp: April 15th, 2021 8:43pm
 audio: 
 video: 

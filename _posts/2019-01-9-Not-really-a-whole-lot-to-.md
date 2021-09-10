@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not really a whole lot to 
-type: game
+type: tainment
 timestamp: January 9th, 2019 8:42pm
 audio: 
 video: 

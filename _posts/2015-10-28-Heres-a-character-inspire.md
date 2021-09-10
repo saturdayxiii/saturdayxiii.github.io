@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heres a character inspire
-type: img
+type: art
 timestamp: October 28th, 2015 11:57am
 audio: 
 video: 

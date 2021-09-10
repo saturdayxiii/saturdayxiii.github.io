@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I fell in love with a hre
-type: game
+type: tainment
 timestamp: January 10th, 2019 3:21pm
 audio: 
 video: 

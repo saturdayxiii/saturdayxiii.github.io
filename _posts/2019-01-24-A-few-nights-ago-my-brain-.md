@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A few nights ago my brain 
-type: img
+type: me
 timestamp: January 24th, 2019 7:12pm
 audio: 
 video: 

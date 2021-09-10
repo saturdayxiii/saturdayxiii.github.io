@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consoles for games that do
-type: img
+type: art
 timestamp: December 29th, 2015 7:20am
 audio: 
 video: 

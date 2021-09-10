@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The cute characters shiny
-type: img
+type: art
 timestamp: January 9th, 2019 4:39pm
 audio: 
 video: 

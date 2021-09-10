@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oh I guess I should cross
-type: game
+type: tainment
 timestamp: March 20th, 2019 9:32am
 audio: 
 video: 

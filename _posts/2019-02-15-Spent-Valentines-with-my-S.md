@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spent Valentines with my S
-type: vid
+type: tainment
 timestamp: February 15th, 2019 11:09am
 audio: 
 video: 

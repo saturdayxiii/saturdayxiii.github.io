@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I know I m behind the time
-type: vid
+type: tainment
 timestamp: January 29th, 2019 10:46am
 audio: 
 video: 

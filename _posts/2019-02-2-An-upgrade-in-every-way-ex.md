@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An upgrade in every way ex
-type: img
+type: me
 timestamp: February 2nd, 2019 10:50am
 audio: 
 video: 

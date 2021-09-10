@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An intriguing look at the 
-type: vid
+type: tainment
 timestamp: January 17th, 2019 3:33pm
 audio: 
 video: 

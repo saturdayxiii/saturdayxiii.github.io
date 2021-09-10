@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No matter how sick I think
-type: vid
+type: tainment
 timestamp: October 24th, 2019 5:01pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I watched most of the waki
-type: game
+type: tainment
 timestamp: January 13th, 2019 10:18pm
 audio: 
 video: 

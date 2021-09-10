@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hightech special forces 
-type: game
+type: tainment
 timestamp: November 27th, 2016 12:33pm
 audio: 
 video: 

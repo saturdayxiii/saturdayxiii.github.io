@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where I hangppbr
-type: img
+type: art
 timestamp: September 1st, 2016 12:00pm
 audio: 
 video: 

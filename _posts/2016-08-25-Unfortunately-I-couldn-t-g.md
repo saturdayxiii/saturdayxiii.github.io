@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unfortunately I couldn t g
-type: 
+type: art
 timestamp: August 25th, 2016 12:00pm
 audio: 
 video: 

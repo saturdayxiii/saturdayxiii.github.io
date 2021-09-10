@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diario has finished Golden
-type: img
+type: art
 timestamp: November 3rd, 2015 10:12am
 audio: 
 video: 

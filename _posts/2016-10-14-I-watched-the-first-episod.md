@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I watched the first episod
-type: vid
+type: tainment
 timestamp: October 14th, 2016 12:53pm
 audio: 
 video: 

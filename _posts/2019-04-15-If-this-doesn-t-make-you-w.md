@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If this doesn t make you w
-type: vid
+type: tainment
 timestamp: April 15th, 2019 9:31am
 audio: 
 video: 

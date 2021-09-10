@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I played the nude Valkyrie
-type: game
+type: tainment
 timestamp: February 6th, 2019 10:12pm
 audio: 
 video: 

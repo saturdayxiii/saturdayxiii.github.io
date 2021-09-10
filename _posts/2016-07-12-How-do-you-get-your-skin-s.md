@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do you get your skin s
-type: img
+type: art
 timestamp: July 12th, 2016 12:00pm
 audio: 
 video: 

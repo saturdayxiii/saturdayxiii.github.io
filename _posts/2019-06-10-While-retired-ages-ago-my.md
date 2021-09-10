@@ -1,7 +1,7 @@
 ---
 layout: post
 title: While retired ages ago my
-type: img
+type: art
 timestamp: June 10th, 2019 3:16pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Always look at the bright 
-type: img
+type: art
 timestamp: May 12th, 2016 12:00pm
 audio: 
 video: 

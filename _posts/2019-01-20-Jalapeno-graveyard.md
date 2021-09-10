@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jalapeno graveyard
-type: img
+type: art
 timestamp: January 20th, 2019 5:04pm
 audio: 
 video: 

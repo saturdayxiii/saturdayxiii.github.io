@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YoinkppHere are phot
-type: vid
+type: art
 timestamp: November 1st, 2016 2:37pm
 audio: 
 video: 

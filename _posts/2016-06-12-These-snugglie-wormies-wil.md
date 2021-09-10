@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These snugglie wormies wil
-type: 
+type: art
 timestamp: June 12th, 2016 5:07pm
 audio: 
 video: 

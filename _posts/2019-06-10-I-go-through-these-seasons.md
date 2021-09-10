@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I go through these seasons
-type: img
+type: art
 timestamp: June 10th, 2019 9:33pm
 audio: 
 video: 

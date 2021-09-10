@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When I m upset and can t s
-type: 
+type: me
 timestamp: September 1st, 2018 1:14am
 audio: 
 video: 

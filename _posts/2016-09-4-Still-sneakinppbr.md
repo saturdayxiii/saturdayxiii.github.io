@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still sneakinppbr
-type: img
+type: art
 timestamp: September 4th, 2016 12:00pm
 audio: 
 video: 

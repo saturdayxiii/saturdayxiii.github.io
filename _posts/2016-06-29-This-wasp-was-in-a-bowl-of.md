@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This wasp was in a bowl of
-type: vid
+type: art
 timestamp: June 29th, 2016 12:00pm
 audio: 
 video: 

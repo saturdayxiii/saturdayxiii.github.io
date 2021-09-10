@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last night I finally sat d
-type: vid
+type: tainment
 timestamp: June 7th, 2019 2:29pm
 audio: 
 video: 

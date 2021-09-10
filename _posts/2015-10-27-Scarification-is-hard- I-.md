@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scarification is hard  I 
-type: img
+type: art
 timestamp: October 27th, 2015 9:07am
 audio: 
 video: 

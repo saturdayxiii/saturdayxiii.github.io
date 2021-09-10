@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ive been thinking about 3
-type: img
+type: art
 timestamp: March 22nd, 2021 10:55am
 audio: 
 video: 

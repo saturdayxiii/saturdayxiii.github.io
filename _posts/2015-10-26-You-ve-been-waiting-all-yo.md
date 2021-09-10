@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You ve been waiting all yo
-type: img
+type: art
 timestamp: October 26th, 2015 11:34am
 audio: 
 video: 

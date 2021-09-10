@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scannograph food selfie o
-type: food
+type: art
 timestamp: April 14th, 2017 12:00pm
 audio: 
 video: 

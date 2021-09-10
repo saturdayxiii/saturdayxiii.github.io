@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pollinate pollinate poll
-type: img
+type: art
 timestamp: July 2nd, 2016 12:00pm
 audio: 
 video: 

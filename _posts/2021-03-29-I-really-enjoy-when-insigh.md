@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I really enjoy when insigh
-type: vid
+type: me
 timestamp: March 29th, 2021 1:26pm
 audio: 
 video: 

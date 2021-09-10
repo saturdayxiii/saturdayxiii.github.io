@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This weekend s view in pix
-type: img
+type: art
 timestamp: August 1st, 2016 11:00pm
 audio: 
 video: 

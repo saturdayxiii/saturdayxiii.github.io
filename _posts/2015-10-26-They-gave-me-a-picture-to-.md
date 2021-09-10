@@ -1,7 +1,7 @@
 ---
 layout: post
 title: They gave me a picture to 
-type: img
+type: art
 timestamp: October 26th, 2015 11:17am
 audio: 
 video: 

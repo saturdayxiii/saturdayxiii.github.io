@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Found this today which I 
-type: img
+type: art
 timestamp: September 21st, 2017 1:29pm
 audio: 
 video: 

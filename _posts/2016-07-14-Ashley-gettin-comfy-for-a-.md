@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ashley gettin comfy for a 
-type: img
+type: art
 timestamp: July 14th, 2016 12:01pm
 audio: 
 video: 

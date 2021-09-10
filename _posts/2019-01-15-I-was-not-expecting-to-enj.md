@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I was not expecting to enj
-type: vid
+type: tainment
 timestamp: January 15th, 2019 9:02pm
 audio: 
 video: 

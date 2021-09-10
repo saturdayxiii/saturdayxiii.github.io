@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spot on  I didn t know ab
-type: vid
+type: tainment
 timestamp: March 20th, 2019 8:13pm
 audio: 
 video: 

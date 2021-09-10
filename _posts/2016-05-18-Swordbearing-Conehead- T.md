@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swordbearing Conehead  T
-type: img
+type: art
 timestamp: May 18th, 2016 12:00pm
 audio: 
 video: 

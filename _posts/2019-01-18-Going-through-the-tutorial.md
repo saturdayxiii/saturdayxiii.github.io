@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going through the tutorial
-type: game
+type: tainment
 timestamp: January 18th, 2019 8:39pm
 audio: 
 video: 

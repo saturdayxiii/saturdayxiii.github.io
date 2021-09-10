@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why have characters when y
-type: game
+type: tainment
 timestamp: December 3rd, 2015 8:10pm
 audio: 
 video: 

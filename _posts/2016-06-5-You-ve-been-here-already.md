@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You ve been here already
-type: img
+type: art
 timestamp: June 5th, 2016 12:00pm
 audio: 
 video: 

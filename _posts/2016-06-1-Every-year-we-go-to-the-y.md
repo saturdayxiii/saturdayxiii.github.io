@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every year we go to the y
-type: img
+type: art
 timestamp: June 1st, 2016 12:00pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inspired by DaDeO s blacke
-type: food
+type: art
 timestamp: April 16th, 2019 12:00pm
 audio: 
 video: 

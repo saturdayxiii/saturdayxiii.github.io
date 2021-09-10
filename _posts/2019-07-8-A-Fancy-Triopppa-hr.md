@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fancy Triopppa hr
-type: img
+type: art
 timestamp: July 8th, 2019 9:32pm
 audio: 
 video: 

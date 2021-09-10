@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enhancing textbooks withh
-type: img
+type: art
 timestamp: June 9th, 2016 12:00pm
 audio: 
 video: 

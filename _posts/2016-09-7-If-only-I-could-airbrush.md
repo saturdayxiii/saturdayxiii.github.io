@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If only I could airbrush
-type: img
+type: art
 timestamp: September 7th, 2016 11:07am
 audio: 
 video: 

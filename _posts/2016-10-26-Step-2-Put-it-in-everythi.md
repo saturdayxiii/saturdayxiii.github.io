@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step 2 Put it in everythi
-type: 
+type: me
 timestamp: October 26th, 2016 7:37am
 audio: 
 video: 

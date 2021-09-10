@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Resolution Graphics
-type: img
+type: art
 timestamp: December 7th, 2015 2:02pm
 audio: 
 video: 

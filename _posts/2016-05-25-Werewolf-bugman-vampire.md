@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Werewolf bugman vampire
-type: img
+type: art
 timestamp: May 25th, 2016 12:00pm
 audio: 
 video: 

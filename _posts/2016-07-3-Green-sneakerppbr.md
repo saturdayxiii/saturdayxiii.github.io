@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green sneakerppbr
-type: 
+type: art
 timestamp: July 3rd, 2016 12:00pm
 audio: 
 video: 

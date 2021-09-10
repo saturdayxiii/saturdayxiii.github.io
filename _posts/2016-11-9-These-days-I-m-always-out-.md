@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These days I m always out 
-type: img
+type: art
 timestamp: November 9th, 2016 10:17pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here s a rejected tshirt 
-type: vid
+type: tainment
 timestamp: November 17th, 2015 8:52pm
 audio: 
 video: 

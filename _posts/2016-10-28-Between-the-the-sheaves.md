@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Between the the sheaves
-type: 
+type: art
 timestamp: October 28th, 2016 1:44pm
 audio: 
 video: 

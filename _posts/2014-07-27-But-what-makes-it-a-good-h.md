@@ -1,7 +1,7 @@
 ---
 layout: post
 title: But what makes it a good h
-type: game
+type: tainment
 timestamp: July 27th, 2014 4:37pm
 audio: 
 video: 

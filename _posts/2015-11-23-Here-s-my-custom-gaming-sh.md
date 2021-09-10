@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here s my custom gaming sh
-type: game
+type: tainment
 timestamp: November 23rd, 2015 1:29pm
 audio: 
 video: 

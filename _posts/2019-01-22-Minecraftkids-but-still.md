@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minecraftkids but still
-type: vid
+type: tainment
 timestamp: January 22nd, 2019 1:38pm
 audio: 
 video: 

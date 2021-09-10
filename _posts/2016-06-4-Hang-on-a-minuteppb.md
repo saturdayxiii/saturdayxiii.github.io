@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hang on a minuteppb
-type: img
+type: art
 timestamp: June 4th, 2016 12:00pm
 audio: 
 video: 

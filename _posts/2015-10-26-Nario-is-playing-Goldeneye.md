@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nario is playing Goldeneye
-type: img
+type: art
 timestamp: October 26th, 2015 11:26am
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here s a week of progress
-type: img
+type: me
 timestamp: March 23rd, 2021 10:15pm
 audio: 
 video: 

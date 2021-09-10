@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Right now the most exciti
-type: img
+type: art
 timestamp: September 12th, 2017 9:15am
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Squishy is as squishy does
-type: vid
+type: art
 timestamp: August 29th, 2016 12:00pm
 audio: 
 video: 

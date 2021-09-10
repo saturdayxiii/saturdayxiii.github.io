@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We found bed bugs last wee
-type: 
+type: art
 timestamp: August 15th, 2016 10:16am
 audio: 
 video: 

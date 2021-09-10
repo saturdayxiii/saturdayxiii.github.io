@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There are two peevs that I
-type: game
+type: tainment
 timestamp: June 8th, 2014 8:54pm
 audio: 
 video: 

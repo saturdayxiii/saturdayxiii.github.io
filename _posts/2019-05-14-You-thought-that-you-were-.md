@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You thought that you were 
-type: 
+type: me
 timestamp: May 14th, 2019 11:55am
 audio: 
 video: 

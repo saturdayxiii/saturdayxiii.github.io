@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I don t think I ve painted
-type: img
+type: art
 timestamp: September 13th, 2017 11:53am
 audio: 
 video: 

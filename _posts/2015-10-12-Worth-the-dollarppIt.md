@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worth the dollarppIt
-type: game
+type: tainment
 timestamp: October 12th, 2015 7:34pm
 audio: 
 video: 

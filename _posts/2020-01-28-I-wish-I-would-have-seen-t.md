@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I wish I would have seen t
-type: vid
+type: tainment
 timestamp: January 28th, 2020 7:33pm
 audio: 
 video: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angel wingsbrI think 
-type: img
+type: art
 timestamp: May 17th, 2016 12:00pm
 audio: 
 video: 

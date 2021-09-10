@@ -176,13 +176,23 @@ for file in directory:
         if tag == "music":
             post = "snd"
         if tag == "game":
-            post = "game"
+            post = "tainment"
         if tag == "movie":
-            post = "vid"
+            post = "tainment"
         if tag == "show":
-            post = "vid"
+            post = "tainment"
         if tag == "art":
-            post = "img"
+            post = "art"
+        if tag == "photo":
+            post = "art"
+        if tag == "photography":
+            post = "art"
+        if tag == "thoughts":
+            post = "me"
+        if tag == "personal":
+            post = "me"
+        if tag == "update":
+            post = "me"
     tags = '"' + '", "'.join(tags)
     #delete html bits
     #head = re.match('^.*<body>\s+',read_file, re.DOTALL) #another random break, tho I'm surprised this line worked at all

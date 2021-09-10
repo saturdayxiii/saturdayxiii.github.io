@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Yellow Winged Darter  B
-type: img
+type: art
 timestamp: May 26th, 2016 3:59pm
 audio: 
 video: 

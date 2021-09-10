@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yay  Having a long stay a
-type: img
+type: art
 timestamp: June 15th, 2019 4:27pm
 audio: 
 video: 
