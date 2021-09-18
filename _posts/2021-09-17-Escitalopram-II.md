@@ -2,7 +2,7 @@
 layout: post
 type: me
 title: "Escitalopram pt II"
-tags: ["escitalopram", "drugs", "depression", "anxiety", "me", "health", "personal", "update"]
+tags: ["escitalopram", "drugs", "depression", "anxiety", "me", "health", "personal", "update", "thoughts"]
 ---
 Okay.  It's been long enough for me to feel confident about my depression medicine experience.  I'm so.  So.  Lucky.  I'm just over 2 months in and I feel great.  Like literally, if you asked me "how are you doing?" I could honestly say "I feel happy".  That's never been the case, as far as I know.  It's been that way for at least 2 weeks now.  It's been a bit of a journey, so here's a break down.
 
