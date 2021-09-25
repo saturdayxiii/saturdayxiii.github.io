@@ -6,7 +6,7 @@ tags: ["escitalopram", "drugs", "depression", "anxiety", "me", "health", "person
 ---
 Okay.  It's been long enough for me to feel confident about my depression medicine experience.  I'm so.  So.  Lucky.  I'm just over 2 months in and I feel great.  Like literally, if you asked me "how are you doing?" I could honestly say "I feel happy".  That's never been the case, as far as I know.  It's been that way for at least 2 weeks now.  It's been a bit of a journey, so here's a break down.
 
-- week 1: drowsy + insomia + poor apetite + can't orgasm
+- week 1: drowsy + insomia + poor apetite + can't orgasm + salt and starch over power other tastes
 - week 2: drowsy + poor apetite + can't orgasm
 - week 3: drowsy + lower sex drive
 - week 4: drowsy to the point that I suggest to my doctor that I can't keep this up.  He says try another month...ok.
