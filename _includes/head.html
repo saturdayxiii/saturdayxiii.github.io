@@ -39,9 +39,8 @@
 {% if page.summary %}
 {{ page.summary }}
 {% else %}
-{{ content }}
+{{ site.description.meta }}
 {% endif %}">
-<!-- actually {{ site.description.meta }} -->
 {% if page.tags %}
 {% for tag in page.tags %}
     <meta property="article:tag" content="{{tag}}" />
