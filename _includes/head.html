@@ -24,8 +24,8 @@
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
 <meta property="og:locale" content="{{ site.lang }}">
-{% if page.og-image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.og-image }}">
+{% if page.image %}
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.image }}">
 {% else %}
   {% if page.cover-image %}
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
@@ -39,8 +39,14 @@
 {% if page.summary %}
 {{ page.summary }}
 {% else %}
-{{ site.description.meta }}
+  {{ page.content }}
+<!-- actually {{ site.description.meta }} -->
 {% endif %}">
+{% if page.tags %}
+{% for tag in page.tags %}
+    <meta property="article:tag" content="{{tag}}" />
+  {% endfor %}
+{% endif %}
 <!-- /og tags -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
