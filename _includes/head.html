@@ -25,10 +25,10 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }} • {{ site.name }}{% else %}{{ site.name }}{% endif %}">
 <meta property="og:locale" content="{{ site.lang }}">
 {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.image }}">
+  <meta property="og:image" content="{{ page.image }}">
 {% else %}
   {% if page.cover-image %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.cover-image }}">
+    <meta property="og:image" content="{{ page.cover-image }}">
   {% else %}
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/og-image.jpg">
   {% endif %}
