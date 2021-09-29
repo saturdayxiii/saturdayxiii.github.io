@@ -74,6 +74,9 @@ for file in directory:
         post = "tainment"
     #fix img urls, starting with tumblrs broken numbering system
     imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
+    #print ("imgns")
+    #print(imgns)
+    newimgns = []
     for imgn in imgns:
         #split & math last number into imgnn then join
         imgno = imgn
@@ -84,19 +87,31 @@ for file in directory:
         imgna = imgnss[0]
         imgna = str(imgna)
         imgna = imgna + "_" + imgnn
-        read_file = re.sub(imgno, imgna, read_file)
+        #read_file = re.sub(imgno, imgna, read_file) wtf i can't get 10 to stay 9 fuckit
+        newimgns.append(imgna)
+    #print ("newigmns")
+    #print(newimgns)
+    for newimg in imgns:
+        #print (newimg)
+        read_file = re.sub(newimg, newimgns[0], read_file)
+        #print (newimgns[0])
+        del newimgns[0]
+    #Still can't get 10 to stay 9...just gonna resub it hardstyle
+    read_file = re.sub('_00','_09',read_file)  #pls dont break things, i beg
+    imgns = re.findall(r'<img.+\/(\d+_\d+)\.\w', read_file)
     #first get filname
     #images = re.findall('<img src="../../(.+)"', read_file)
     #this shouldn't be necessary... try fixing html first. done.
     #tumblr isn't properly exporting these links, but they work anyway, for now:
     print( re.search('<figure class="tmblr-full" data-orig-height=".*/.*/(.*)" data', read_file))
-    #lets table-ize groups of images
+    '''let's gallery-ize instead, later, nearer to frontmatter #lets table-ize groups of images
     threeimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
     twoimg = re.compile(r'\s*(<img.*?>)\s*?</p>\s*?<p>\s*?(<img.*?>)\s*?</p>\s*', flags=re.S)
     oneimg = re.compile(r'\s*?<p>\s*?\n\s*?(<img.*?>)\s*?\n\s*?</p>\s*')
     read_file = re.sub(threeimg,'| \g<1> | \g<2> | \g<3> |\n',read_file)
     read_file = re.sub(twoimg,'| \g<1> | \g<2> |  |\n',read_file)
-    read_file = re.sub(oneimg,'\n|  | \g<1> |  |\n', read_file)
+    read_file = re.sub(oneimg,'\n|  | \g<1> |  |\n', read_file)'''
+    #lets go long form, i guess
     read_file = re.sub('<img src="\.\./\.\./','<img src="https://saturdayxiii.github.io/',read_file)
     #fix video urls.  
     read_file = re.sub('<figure class([^>])*youtube.com.*?=([a-zA-Z0-9\-\_]+)[^>]*','[![thumbnail](http://i3.ytimg.com/vi/\g<2>/hqdefault.jpg)](https://www.youtube.com/watch?v=\g<2>)',read_file)
@@ -219,16 +234,28 @@ for file in directory:
     #read_file = re.sub('^\n\|','howmanydoesthisdo',read_file) IT ONLY DID THE FIRST ONE YAY
     image = ""
     link = ""
-    oimgs = re.findall('^<img src="(.*)?"', read_file)
+    oimgs = re.findall('<img src="(.*?)"', read_file)
+    read_file = re.sub('<img src=".*"','',read_file) #hmm. maybe messy
     ntub = re.findall('^.*\)\]\(?(http.*)?\)', read_file)
     if not ntub:
         ntub = oimgs
     if not oimgs:
         oimgs = re.findall('^\[\!\[thumbnail\]\((http.*)?\)\]', read_file)
-    if oimgs:
+    if len(oimgs) == 1:
         image = ''.join(oimgs)
         link = ''.join(ntub)
         read_file = re.sub('^.*\n', '', read_file)
+    gallery = 'gallery:'
+    #moving this if len (oimgs)>1 code right to front matter
+    #debugging that _10 to _09 thing that never worked in tumblr img url correciton
+    '''if len(oimgs) > 8:
+        print ("imgns again")
+        print(imgns)
+        #print (imgnn)
+        #print (imgno)
+        #print (imgna)
+        print ("oimgs")
+        print(oimgs)'''
         
     #make a summary WAIT!  We don't need it no more
     '''summ2 = re.findall('(.{1,145})', read_file)#why doesn't non greedy modifier do anything???
@@ -242,7 +269,13 @@ for file in directory:
     summ = (summ2[:137] + '...') if len(summ2) > 140 else summ2
     print (summ)'''
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc + "\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link
+    if len(oimgs) >1:
+        for i in oimgs:
+            gallery = gallery + '\n\t- title: \n\timage: ' + i + '\n\turl: ' + i
+        fmatt = fmatt + "\n" + gallery
+    fmatt = fmatt + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    #print (fmatt)
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

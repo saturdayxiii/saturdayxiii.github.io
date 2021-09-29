@@ -5,13 +5,12 @@ type: me
 timestamp: October 17th, 2016 2:07pm
 audio: 
 video: 
-image: 
-link: 
+image: https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg
+link: https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg
 tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie", "personal"]
 comments: true
 ---
-## Laputa and self reflection regarding anime [journal] ##
-<figure data-orig-width="540" data-orig-height="770" class="tmblr-full"><img src="https://64.media.tumblr.com/e480cc0e91d334f6c8f6c49a7f6ada76/tumblr_inline_of7ju2dfl21rnrp45_540.jpg" data-orig-width="540" data-orig-height="770"/>
+<figure data-orig-width="540" data-orig-height="770" class="tmblr-full">/>
 Yesterday I saw Castle in the Sky at my local Theatre.<br/>
 I’ve gone to the theatre to see a couple Studio Ghibli films, as well as a select few other anime movies, and each time it poises a small conundrum for me; I can’t stand anime, but I enjoy seeing these films.
 I’ve felt this way for about half a decade now, but for the rest of my life I’ve adored anime.  I was raised on Wizard of Oz, Bumpety-Boo, Mrs. Spoon, and regularly demanded that <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPbSIsDRiuTw&amp;t=ZWE0M2M3YjUyY2NmNjRmYmRiMDAwOTNjOTA1YjcwYzkzNGIwODEwZSxFQTAzVlRCcw%3D%3D&amp;b=t%3A4Dx-RtxNVkeJxeOPkCZIPA&amp;m=1" target="_blank">Serendipity the Pink Dragon</a> be rented for me.  Once I was old enough to recognize “anime” as a branding term I wholeheartedly subscribed to the otaku way.  Now, however, I can’t make it 3 episodes into any new anime without getting angry.  Nor can I dedicate time to my previous favorites without getting bored. So when I opt to pay money to watch a film in theatre and find myself being entertained it’s confusing.

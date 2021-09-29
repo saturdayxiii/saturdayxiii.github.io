@@ -7,22 +7,39 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/133814245004_0.jpg
+	url: https://saturdayxiii.github.io/media/133814245004_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/133814245004_1.jpg
+	url: https://saturdayxiii.github.io/media/133814245004_1.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/133814245004_2.jpg
+	url: https://saturdayxiii.github.io/media/133814245004_2.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/133814245004_3.jpg
+	url: https://saturdayxiii.github.io/media/133814245004_3.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/133814245004_4.jpg
+	url: https://saturdayxiii.github.io/media/133814245004_4.jpg
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving", "showcase"]
 comments: true
 ---
-|  | <img src="https://saturdayxiii.github.io/media/133814245004_0.jpg"/> |  |
+
+ />
 ' .Couple trays unfinished, but you get the idea.  . 
 ;
-|  | <img src="https://saturdayxiii.github.io/media/133814245004_1.jpg"/> |  |
+ />
 ' .Made of these modules.  . 
 ;
-|  | <img src="https://saturdayxiii.github.io/media/133814245004_2.jpg"/> |  |
+ />
 ' .Fits all major consoles!  . 
 ;
-|  | <img src="https://saturdayxiii.github.io/media/133814245004_3.jpg"/> |  |
+ />
 ' .Controller rests!  . 
 ;
-|  | <img src="https://saturdayxiii.github.io/media/133814245004_4.jpg"/> |  |
+ />
 ' .The original design.  . 
 ;
         

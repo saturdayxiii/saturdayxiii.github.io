@@ -7,12 +7,20 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/182664450609_0.jpg
+	url: https://saturdayxiii.github.io/media/182664450609_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182664450609_1.gif
+	url: https://saturdayxiii.github.io/media/182664450609_1.gif
 tags: ["edible", "borscht", "food"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/182664450609_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/182664450609_1.gif"/> |  |
-
+ />
+ />
+        
 Making Best Lazy Borscht.
  
   

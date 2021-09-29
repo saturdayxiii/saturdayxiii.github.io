@@ -7,13 +7,28 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/149610653063_0.jpg
+	url: https://saturdayxiii.github.io/media/149610653063_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/149610653063_1.jpg
+	url: https://saturdayxiii.github.io/media/149610653063_1.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/149610653063_2.jpg
+	url: https://saturdayxiii.github.io/media/149610653063_2.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/149610653063_3.jpg
+	url: https://saturdayxiii.github.io/media/149610653063_3.jpg
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/149610653063_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/149610653063_2.jpg"/> |
-|  | <img src="https://saturdayxiii.github.io/media/149610653063_3.jpg"/> |  |
-
+ />
+ />
+ />
+ />
+        
 We live together.
 <a href="https://en.wikipedia.org/wiki/Plecoptera" target="_blank">https://en.wikipedia.org/wiki/Plecoptera</a><br/>
  

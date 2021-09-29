@@ -7,12 +7,20 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/150924989914_0.jpg
+	url: https://saturdayxiii.github.io/media/150924989914_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/150924989914_1.jpg
+	url: https://saturdayxiii.github.io/media/150924989914_1.jpg
 tags: ["gamecube", "nintendo", "art"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/150924989914_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/150924989914_1.jpg"/> |  |
-
+ />
+ />
+        
 Aspirations realized.
  
   

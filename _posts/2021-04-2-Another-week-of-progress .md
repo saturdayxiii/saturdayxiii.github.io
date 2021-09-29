@@ -7,14 +7,40 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_0.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_1.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_1.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_2.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_2.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_3.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_3.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_4.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_4.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_5.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_5.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/647412041409232896_6.jpg
+	url: https://saturdayxiii.github.io/media/647412041409232896_6.jpg
 tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/647412041409232896_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/647412041409232896_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/647412041409232896_2.jpg"/> |
-| <img src="https://saturdayxiii.github.io/media/647412041409232896_3.jpg"/> | <img src="https://saturdayxiii.github.io/media/647412041409232896_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/647412041409232896_5.jpg"/> |
-|  | <img src="https://saturdayxiii.github.io/media/647412041409232896_6.jpg"/> |  |
-
+ />
+ />
+ />
+ />
+ />
+ />
+ />
+        
 Another week of progress.  Kind of peaking, unfortunately.<br/>
  
   

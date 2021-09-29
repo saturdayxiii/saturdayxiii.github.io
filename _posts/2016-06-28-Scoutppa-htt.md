@@ -7,12 +7,20 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/146603521059_0.jpg
+	url: https://saturdayxiii.github.io/media/146603521059_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/146603521059_1.jpg
+	url: https://saturdayxiii.github.io/media/146603521059_1.jpg
 tags: ["insect", "bug", "macro", "tiny", "beetle", "photography", "art"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/146603521059_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/146603521059_1.jpg"/> |  |
-
+ />
+ />
+        
 Scout.
 <a href="http://bugguide.net/node/view/50621" target="_blank">http://bugguide.net/node/view/50621</a><br/>
  

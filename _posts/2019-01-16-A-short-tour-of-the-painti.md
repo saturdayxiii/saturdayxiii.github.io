@@ -7,14 +7,40 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_0.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_1.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_1.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_2.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_2.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_3.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_3.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_4.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_4.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_5.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_5.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/182065813689_6.jpg
+	url: https://saturdayxiii.github.io/media/182065813689_6.jpg
 tags: ["art", "customizing", "ps2", "showcase"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/182065813689_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_1.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_2.jpg"/> |
-| <img src="https://saturdayxiii.github.io/media/182065813689_3.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_4.jpg"/> | <img src="https://saturdayxiii.github.io/media/182065813689_5.jpg"/> |
-|  | <img src="https://saturdayxiii.github.io/media/182065813689_6.jpg"/> |  |
-
+ />
+ />
+ />
+ />
+ />
+ />
+ />
+        
 A short tour of the painting process of the <a href="http://heavyhanded.ca/post/181056446837/ps2-case-mod-artwork-of-sly-cooper-templated" target="_blank">Sly Cooper PS2.</a>
  
   

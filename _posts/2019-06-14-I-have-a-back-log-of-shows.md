@@ -5,13 +5,12 @@ type: tainment
 timestamp: June 14th, 2019 12:40pm
 audio: 
 video: 
-image: 
-link: 
+image: https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif
+link: https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif
 tags: ["netflix", "atypical", "show", "recommended"]
 comments: true
 ---
-## Reaction to Atypical S02 Finale ##
-<figure class="tmblr-full" data-orig-height="222" data-orig-width="500"><img src="https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2y0qL1xg1bbjo5_500.gif" data-orig-height="222" data-orig-width="500"/>
+<figure class="tmblr-full" data-orig-height="222" data-orig-width="500">/>
 I have a back log of shows I want to at least give small shout outs to, but I just watched this and had the feels, so I’m sharing them.
 I will always watch things late. I know this show is well old and off the hype train, if there was one.  Heck, that’s the best time for me to watch so I can be unswayed by public opinions.  
 So, I've enjoyed Atypical.  It has an positive balance of feel-goodness and drama, and the recent season closure reinforced that.  The current story wrapped up, and it left a lot of character development open to the future.  That’s the most acceptable kind of cliff hanger.

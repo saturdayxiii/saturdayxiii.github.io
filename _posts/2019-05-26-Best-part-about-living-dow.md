@@ -7,12 +7,20 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/185186455519_0.jpg
+	url: https://saturdayxiii.github.io/media/185186455519_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/185186455519_1.jpg
+	url: https://saturdayxiii.github.io/media/185186455519_1.jpg
 tags: ["music"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/185186455519_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/185186455519_1.jpg"/> |  |
-
+ />
+ />
+        
 Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it.  Great show at The Tavern.
  
   

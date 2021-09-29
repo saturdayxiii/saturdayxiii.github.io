@@ -7,12 +7,20 @@ audio:
 video: 
 image: 
 link: 
+gallery:
+	- title: 
+	image: https://saturdayxiii.github.io/media/186544581839_0.jpg
+	url: https://saturdayxiii.github.io/media/186544581839_0.jpg
+	- title: 
+	image: https://saturdayxiii.github.io/media/186544581839_1.jpg
+	url: https://saturdayxiii.github.io/media/186544581839_1.jpg
 tags: ["shows", "comic", "customizing", "showcase"]
 comments: true
 ---
 
-| <img src="https://saturdayxiii.github.io/media/186544581839_0.jpg"/> | <img src="https://saturdayxiii.github.io/media/186544581839_1.jpg"/> |  |
-
+ />
+ />
+        
 Over the Garden Wall’s 4 issue mini series re-bound in an engraved aluminium cover.
 <br/><br/>This is the second book I’ve bound and it has some flaws.  I think they can mostly be corrected if I get a proper book binding rod that extends across the whole spine.  
 Double sided tape and industrial hot glue seems to work the best for holding things together.
