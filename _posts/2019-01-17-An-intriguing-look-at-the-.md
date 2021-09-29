@@ -6,7 +6,8 @@ timestamp: January 17th, 2019 3:33pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/YdSdvIRkkDY/hqdefault.jpg
-link: https://www.youtube.com/watch?v=YdSdvIRkkDY\summary:  An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be ta...
+link: https://www.youtube.com/watch?v=YdSdvIRkkDY
+summary:  An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be ta...
 tags: ["show", "documentary", "insights"]
 comments: true
 ---

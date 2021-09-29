@@ -6,7 +6,8 @@ timestamp: November 23rd, 2016 9:44pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/153587983579.jpg
-link: https://saturdayxiii.github.io/media/153587983579.jpg\summary: Showing off some mods and selling a few lesser wares this weekend at the Classic Video Game Championships at NAIT. 3 months prep and I co...
+link: https://saturdayxiii.github.io/media/153587983579.jpg
+summary: Showing off some mods and selling a few lesser wares this weekend at the Classic Video Game Championships at NAIT. 3 months prep and I co...
 tags: ["cvgc", "controller", "paint", "custom", "metallic", "convention", "edmonton", "alberta", "nait", "retro", "championships", "classic", "sega", "ninetendo", "nes", "snes", "gens"]
 comments: true
 ---

@@ -6,7 +6,8 @@ timestamp: April 6th, 2021 11:21pm
 audio: 
 video: 
 image: 
-link: \summary: |
+link: 
+summary: |
 tags: ["art", "sketch", "progress", "ink", "practise", "portrait", "marker"]
 comments: true
 ---

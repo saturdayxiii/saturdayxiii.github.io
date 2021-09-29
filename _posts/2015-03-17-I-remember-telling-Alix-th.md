@@ -6,7 +6,8 @@ timestamp: March 17th, 2015 4:27pm
 audio: 
 video: 
 image: 
-link: \summary: |||I remember telling Alix that the face on my phone case wasn't a self portrait. Now. I think. I can only describe it as a self portrait.
+link: 
+summary: |||I remember telling Alix that the face on my phone case wasn't a self portrait. Now. I think. I can only describe it as a self portrait.
 tags: ["art", "mod", "paint", "case", "neon"]
 comments: true
 ---

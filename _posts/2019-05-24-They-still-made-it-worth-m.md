@@ -6,7 +6,8 @@ timestamp: May 24th, 2019 4:10pm
 audio: 
 video: 
 image: 
-link: \summary: |drove for days to put on a show at the Aviary in Edmonton last night. I felt poorly about having to drive 10 minutes after dark.They sti...
+link: 
+summary: |drove for days to put on a show at the Aviary in Edmonton last night. I felt poorly about having to drive 10 minutes after dark.They sti...
 tags: ["trampoline", "music", "recommended", "concert"]
 comments: true
 ---

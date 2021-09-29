@@ -6,7 +6,8 @@ timestamp: January 10th, 2019 3:21pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/181907012504.jpg
-link: https://saturdayxiii.github.io/media/181907012504.jpg\summary: I fell in love withfor a little bit thanks to. Few things have such a negative stimga these days as mobile games and modernized point and...
+link: https://saturdayxiii.github.io/media/181907012504.jpg
+summary: I fell in love withfor a little bit thanks to. Few things have such a negative stimga these days as mobile games and modernized point and...
 tags: ["review", "recommended", "game"]
 comments: true
 ---

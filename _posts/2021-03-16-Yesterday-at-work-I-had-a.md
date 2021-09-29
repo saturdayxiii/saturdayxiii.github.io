@@ -6,7 +6,8 @@ timestamp: March 16th, 2021 12:02pm
 audio: 
 video: 
 image: 
-link: \summary: |
+link: 
+summary: |
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink", "personal"]
 comments: true
 ---

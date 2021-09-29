@@ -6,7 +6,8 @@ timestamp: February 19th, 2020 9:52am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/190913838744.jpg
-link: https://saturdayxiii.github.io/media/190913838744.jpg\summary: A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off. RI...
+link: https://saturdayxiii.github.io/media/190913838744.jpg
+summary: A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off. RI...
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 comments: true
 ---

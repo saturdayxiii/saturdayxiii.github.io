@@ -6,7 +6,8 @@ timestamp: April 17th, 2019 4:30pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/cjQrC5yB_aA/hqdefault.jpg
-link: https://www.youtube.com/watch?v=cjQrC5yB_aA\summary:  Featuring an old Lets Play that we always watch when we want comfort.I have a hard time paying attention to a lot of Lets Plays, but Zer...
+link: https://www.youtube.com/watch?v=cjQrC5yB_aA
+summary:  Featuring an old Lets Play that we always watch when we want comfort.I have a hard time paying attention to a lot of Lets Plays, but Zer...
 tags: ["video", "recommended", "show"]
 comments: true
 ---

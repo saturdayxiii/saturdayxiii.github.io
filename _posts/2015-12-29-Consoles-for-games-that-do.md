@@ -6,7 +6,8 @@ timestamp: December 29th, 2015 7:20am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/136184969694.jpg
-link: https://saturdayxiii.github.io/media/136184969694.jpg\summary: Consoles for games that don’t exist.Bat Hunt: Carbarian: 
+link: https://saturdayxiii.github.io/media/136184969694.jpg
+summary: Consoles for games that don’t exist.Bat Hunt: Carbarian: 
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
 comments: true
 ---

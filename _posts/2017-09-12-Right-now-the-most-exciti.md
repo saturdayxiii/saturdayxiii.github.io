@@ -6,7 +6,8 @@ timestamp: September 12th, 2017 9:15am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/165261868799.jpg
-link: https://saturdayxiii.github.io/media/165261868799.jpg\summary: Right now, the most exciting thing I learned from theis the technique he used to.My biggest pet peeve about the Dreamcast, and subsequent...
+link: https://saturdayxiii.github.io/media/165261868799.jpg
+summary: Right now, the most exciting thing I learned from theis the technique he used to.My biggest pet peeve about the Dreamcast, and subsequent...
 tags: ["dreamcast", "retro", "photo"]
 comments: true
 ---

@@ -6,7 +6,8 @@ timestamp: June 14th, 2019 12:40pm
 audio: 
 video: 
 image: 
-link: \summary:  Reaction to Atypical S02 Finale I have a back log of shows I want to at least give small shout outs to, but I just watched this and had ...
+link: 
+summary:  Reaction to Atypical S02 Finale I have a back log of shows I want to at least give small shout outs to, but I just watched this and had ...
 tags: ["netflix", "atypical", "show", "recommended"]
 comments: true
 ---

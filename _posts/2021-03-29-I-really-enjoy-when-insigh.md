@@ -6,7 +6,8 @@ timestamp: March 29th, 2021 1:26pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg
-link: https://www.youtube.com/watch?v=rDkc2_phiJ4\summary:  I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.This one gets rather exhaust...
+link: https://www.youtube.com/watch?v=rDkc2_phiJ4
+summary:  I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.This one gets rather exhaust...
 tags: ["recommended", "movie", "thoughts", "cinema", "personal"]
 comments: true
 ---

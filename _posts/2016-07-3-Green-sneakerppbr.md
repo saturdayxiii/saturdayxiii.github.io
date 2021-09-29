@@ -6,7 +6,8 @@ timestamp: July 3rd, 2016 12:00pm
 audio: 
 video: 
 image: 
-link: \summary: | 
+link: 
+summary: | 
 tags: ["arachnid", "spider", "macro", "camoflauge", "photography", "art"]
 comments: true
 ---

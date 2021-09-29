@@ -6,7 +6,8 @@ timestamp: June 15th, 2019 4:27pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/185617874449.jpg
-link: https://saturdayxiii.github.io/media/185617874449.jpg\summary: Yay!Having a long stay at Beercade for the Twitch meetup and they put out art supplies.Makes me happy.
+link: https://saturdayxiii.github.io/media/185617874449.jpg
+summary: Yay!Having a long stay at Beercade for the Twitch meetup and they put out art supplies.Makes me happy.
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 comments: true
 ---

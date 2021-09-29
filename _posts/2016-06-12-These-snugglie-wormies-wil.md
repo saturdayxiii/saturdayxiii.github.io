@@ -6,7 +6,8 @@ timestamp: June 12th, 2016 5:07pm
 audio: 
 video: 
 image: 
-link: \summary: ||These snugglie wormies will be out in full force next week or so in the Edmonton river valley.
+link: 
+summary: ||These snugglie wormies will be out in full force next week or so in the Edmonton river valley.
 tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography", "art"]
 comments: true
 ---

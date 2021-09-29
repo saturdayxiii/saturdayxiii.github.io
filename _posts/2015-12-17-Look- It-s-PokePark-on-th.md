@@ -6,7 +6,8 @@ timestamp: December 17th, 2015 6:27pm
 audio: 
 video: 
 image: 
-link: \summary: ||||Look! It’s PokePark on the Wii!
+link: 
+summary: ||||Look! It’s PokePark on the Wii!
 tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase"]
 comments: true
 ---

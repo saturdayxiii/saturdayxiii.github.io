@@ -6,7 +6,8 @@ timestamp: September 13th, 2017 11:53am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/165301193429.jpg
-link: https://saturdayxiii.github.io/media/165301193429.jpg\summary: I don’t think I’ve painted in a looong time.September 13th, 2017 11:53amsweetie painting my love gimp 2.9 digital art edmonton art showcase
+link: https://saturdayxiii.github.io/media/165301193429.jpg
+summary: I don’t think I’ve painted in a looong time.September 13th, 2017 11:53amsweetie painting my love gimp 2.9 digital art edmonton art showcase
 tags: ["sweetie", "painting", "edmonton", "art", "showcase"]
 comments: true
 ---

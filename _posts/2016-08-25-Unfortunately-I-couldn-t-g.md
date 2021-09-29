@@ -6,7 +6,8 @@ timestamp: August 25th, 2016 12:00pm
 audio: 
 video: 
 image: 
-link: \summary: | 
+link: 
+summary: | 
 tags: ["spider", "arachnid", "macro", "web", "photography", "art"]
 comments: true
 ---

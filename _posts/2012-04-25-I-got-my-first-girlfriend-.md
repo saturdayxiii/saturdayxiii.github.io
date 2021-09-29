@@ -6,7 +6,8 @@ timestamp: April 25th, 2012 11:25am
 audio: 
 video: 
 image: 
-link: \summary:  .together. I got my first girlfriend and lost my virginity at the age of 25. Being in this kind of minority might automatically make my ...
+link: 
+summary:  .together. I got my first girlfriend and lost my virginity at the age of 25. Being in this kind of minority might automatically make my ...
 tags: [""]
 comments: true
 ---

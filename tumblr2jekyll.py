@@ -253,7 +253,7 @@ for file in directory:
     summ2 = re.sub('##','',summ2)
     summ = (summ2[:137] + '...') if len(summ2) > 140 else summ2
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\summary: " + summ + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\nsummary: " + summ + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

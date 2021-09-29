@@ -6,7 +6,8 @@ timestamp: November 7th, 2019 3:33pm
 audio: 
 video: 
 image: 
-link: \summary:  I’m back on Opera. I never left Opera. I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to ...
+link: 
+summary:  I’m back on Opera. I never left Opera. I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to ...
 tags: ["opera", "vivaldi"]
 comments: true
 ---

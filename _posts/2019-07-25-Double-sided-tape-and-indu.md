@@ -6,7 +6,8 @@ timestamp: July 25th, 2019 1:10pm
 audio: 
 video: 
 image: 
-link: \summary: |This is the second book I’ve bound and it has some flaws. I think they can mostly be corrected if I get a proper book binding rod that e...
+link: 
+summary: |This is the second book I’ve bound and it has some flaws. I think they can mostly be corrected if I get a proper book binding rod that e...
 tags: ["shows", "comic", "customizing", "showcase"]
 comments: true
 ---

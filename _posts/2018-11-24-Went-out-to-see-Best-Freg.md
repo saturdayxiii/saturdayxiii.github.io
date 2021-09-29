@@ -6,7 +6,8 @@ timestamp: November 24th, 2018 12:00am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/181058445904.jpg
-link: https://saturdayxiii.github.io/media/181058445904.jpg\summary: Went out to see Best F&reg;iends Volume One with Greg Sestero in audience. It was rather on whim, and I feel bad for the local chiptune s...
+link: https://saturdayxiii.github.io/media/181058445904.jpg
+summary: Went out to see Best F&reg;iends Volume One with Greg Sestero in audience. It was rather on whim, and I feel bad for the local chiptune s...
 tags: ["movie"]
 comments: true
 ---

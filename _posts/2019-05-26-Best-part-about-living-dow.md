@@ -6,7 +6,8 @@ timestamp: May 26th, 2019 1:27am
 audio: 
 video: 
 image: 
-link: \summary: |||Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it. Grea...
+link: 
+summary: |||Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it. Grea...
 tags: ["music"]
 comments: true
 ---

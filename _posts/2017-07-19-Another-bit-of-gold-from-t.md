@@ -6,7 +6,8 @@ timestamp: July 19th, 2017 9:26am
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/bcnIhzaDTd0/hqdefault.jpg
-link: https://www.youtube.com/watch?v=bcnIhzaDTd0\summary:  Another bit of gold from the radio this morning.Music videos always seem to detract from the music, but I feel bad sharing just the musi...
+link: https://www.youtube.com/watch?v=bcnIhzaDTd0
+summary:  Another bit of gold from the radio this morning.Music videos always seem to detract from the music, but I feel bad sharing just the musi...
 tags: ["radio", "recommended", "music"]
 comments: true
 ---

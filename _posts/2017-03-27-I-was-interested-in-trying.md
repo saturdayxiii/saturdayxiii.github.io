@@ -6,7 +6,8 @@ timestamp: March 27th, 2017 11:02am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/158895318979.png
-link: https://saturdayxiii.github.io/media/158895318979.png\summary: I was interested in trying to make a countertop arcade stand for Hotline Miami. Unfortunately any device more expensive than a raspberry ...
+link: https://saturdayxiii.github.io/media/158895318979.png
+summary: I was interested in trying to make a countertop arcade stand for Hotline Miami. Unfortunately any device more expensive than a raspberry ...
 tags: ["mini", "arcade", "stand", "miami", "shelf", "sketchup"]
 comments: true
 ---

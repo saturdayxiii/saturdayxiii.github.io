@@ -6,7 +6,8 @@ timestamp: August 15th, 2016 10:16am
 audio: 
 video: 
 image: 
-link: \summary: ||||' .Snug as a bug in my bed.. ;We found bed bugs last week, and it couldn’t have happened to a nicer guy, if I do say so myself.
+link: 
+summary: ||||' .Snug as a bug in my bed.. ;We found bed bugs last week, and it couldn’t have happened to a nicer guy, if I do say so myself.
 tags: ["bugs", "pest", "egg", "insect", "macro", "photography", "art"]
 comments: true
 ---

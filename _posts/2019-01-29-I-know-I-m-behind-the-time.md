@@ -6,7 +6,8 @@ timestamp: January 29th, 2019 10:46am
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/mbnBYh-BJ1g/hqdefault.jpg
-link: https://www.youtube.com/watch?v=mbnBYh-BJ1g\summary:  I know I’m behind the times with these. Buzzfeed branding makes me apprehensive. But this series is fantastic and can’t possibly be not ...
+link: https://www.youtube.com/watch?v=mbnBYh-BJ1g
+summary:  I know I’m behind the times with these. Buzzfeed branding makes me apprehensive. But this series is fantastic and can’t possibly be not ...
 tags: ["show", "youtube", "nature", "recommended", "cynical"]
 comments: true
 ---

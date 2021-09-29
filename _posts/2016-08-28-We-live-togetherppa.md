@@ -6,7 +6,8 @@ timestamp: August 28th, 2016 12:00pm
 audio: 
 video: 
 image: 
-link: \summary: |
+link: 
+summary: |
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---

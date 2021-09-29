@@ -6,7 +6,8 @@ timestamp: January 17th, 2019 10:00am
 audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2965564688&amp;ts=1618890940&amp;t=ec0a6cf144fb90dac1b3fd52ae67d4dddf0b6d3f
 video: 
 image: 
-link: \summary: Google Music has honoured me with introduction to.Fun, danceable, punky brilliance with a strong agenda.
+link: 
+summary: Google Music has honoured me with introduction to.Fun, danceable, punky brilliance with a strong agenda.
 tags: ["music", "punk", "recommended", "exciting"]
 comments: true
 ---

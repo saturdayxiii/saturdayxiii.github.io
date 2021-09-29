@@ -6,7 +6,8 @@ timestamp: April 13th, 2017 1:33pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/159536973094.jpg
-link: https://saturdayxiii.github.io/media/159536973094.jpg\summary: A new setup for Ashley, hopefully. The only way to test it is to build it.
+link: https://saturdayxiii.github.io/media/159536973094.jpg
+summary: A new setup for Ashley, hopefully. The only way to test it is to build it.
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]
 comments: true
 ---

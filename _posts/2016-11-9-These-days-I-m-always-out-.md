@@ -6,7 +6,8 @@ timestamp: November 9th, 2016 10:17pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/152983433934.png
-link: https://saturdayxiii.github.io/media/152983433934.png\summary: These days I’m always out of practice. And I can never draw spiders accurately anyway.
+link: https://saturdayxiii.github.io/media/152983433934.png
+summary: These days I’m always out of practice. And I can never draw spiders accurately anyway.
 tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustration", "art"]
 comments: true
 ---

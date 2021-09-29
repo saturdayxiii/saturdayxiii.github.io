@@ -6,7 +6,8 @@ timestamp: January 13th, 2019 10:18pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/181997321324.gif
-link: https://saturdayxiii.github.io/media/181997321324.gif\summary: I watched most of the waking hours of AGDQ this year.I have a growing disinterest that I assume is coming from over-familiarity.But my fa...
+link: https://saturdayxiii.github.io/media/181997321324.gif
+summary: I watched most of the waking hours of AGDQ this year.I have a growing disinterest that I assume is coming from over-familiarity.But my fa...
 tags: ["AGDQ", "SGDQ2018", "Zelda", "show", "speedrun", "game"]
 comments: true
 ---
