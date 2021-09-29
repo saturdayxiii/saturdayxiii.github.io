@@ -36,13 +36,13 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 <meta property="og:description" content="
-{% if page.summary %}
+{%- if page.summary -%}
 {{ page.summary }}
 
-{% else %}
+{%- else -%}
 {{ page.content | strip_html | strip | strip_newlines | truncate: 160 }}
                                          
-{% endif %}">
+{%- endif %}">
 {% if page.tags %}
 {% for tag in page.tags %}
     <meta property="article:tag" content="{{tag}}" />
