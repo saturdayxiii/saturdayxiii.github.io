@@ -18,7 +18,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
 <ul class="jekyllcodex_accordion">
     {%- for post in site.posts -%}
         {%- unless post.next -%}
-          </div></li><li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}"><h3>{{ post.date | date: '%Y' }}</h3></label><div>
+          <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}"><h3>{{ post.date | date: '%Y' }}</h3></label><div>
         {%- else -%}
           {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
