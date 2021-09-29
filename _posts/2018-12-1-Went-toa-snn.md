@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/181058091284_0.jpg
-	url: https://saturdayxiii.github.io/media/181058091284_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/181058091284_1.jpg
-	url: https://saturdayxiii.github.io/media/181058091284_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/181058091284_0.jpg
+    url: https://saturdayxiii.github.io/media/181058091284_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/181058091284_1.jpg
+    url: https://saturdayxiii.github.io/media/181058091284_1.jpg
 tags: ["concert", "music"]
 comments: true
 ---

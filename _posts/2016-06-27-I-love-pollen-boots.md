@@ -8,18 +8,18 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/146551152379_0.jpg
-	url: https://saturdayxiii.github.io/media/146551152379_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/146551152379_1.jpg
-	url: https://saturdayxiii.github.io/media/146551152379_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/146551152379_2.jpg
-	url: https://saturdayxiii.github.io/media/146551152379_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/146551152379_3.jpg
-	url: https://saturdayxiii.github.io/media/146551152379_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/146551152379_0.jpg
+    url: https://saturdayxiii.github.io/media/146551152379_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/146551152379_1.jpg
+    url: https://saturdayxiii.github.io/media/146551152379_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/146551152379_2.jpg
+    url: https://saturdayxiii.github.io/media/146551152379_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/146551152379_3.jpg
+    url: https://saturdayxiii.github.io/media/146551152379_3.jpg
 tags: ["insect", "wasp", "macro", "flower", "garden", "tiny", "pollen", "photography", "art"]
 comments: true
 ---

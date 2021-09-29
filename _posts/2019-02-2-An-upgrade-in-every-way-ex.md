@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182502592759.png
-	url: https://saturdayxiii.github.io/media/182502592759.png
-	- title: 
-	gimage: https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png
-	url: https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182502592759.png
+    url: https://saturdayxiii.github.io/media/182502592759.png
+  - title: 
+    gimage: https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png
+    url: https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png
 tags: ["update", "life", "computer", "purchase", "product"]
 comments: true
 ---

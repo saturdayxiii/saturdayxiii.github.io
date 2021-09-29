@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185573413369_0.jpg
-	url: https://saturdayxiii.github.io/media/185573413369_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185573413369_1.jpg
-	url: https://saturdayxiii.github.io/media/185573413369_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185573413369_0.jpg
+    url: https://saturdayxiii.github.io/media/185573413369_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185573413369_1.jpg
+    url: https://saturdayxiii.github.io/media/185573413369_1.jpg
 tags: ["art", "mod", "paint", "case", "neon"]
 comments: true
 ---

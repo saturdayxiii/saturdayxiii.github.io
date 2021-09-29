@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/181907012504.jpg
-	url: https://saturdayxiii.github.io/media/181907012504.jpg
-	- title: 
-	gimage: https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg
-	url: https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/181907012504.jpg
+    url: https://saturdayxiii.github.io/media/181907012504.jpg
+  - title: 
+    gimage: https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg
+    url: https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg
 tags: ["review", "recommended", "game"]
 comments: true
 ---

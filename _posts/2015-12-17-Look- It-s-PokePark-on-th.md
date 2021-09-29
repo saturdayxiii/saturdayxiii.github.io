@@ -8,21 +8,21 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/135414361959_0.jpg
-	url: https://saturdayxiii.github.io/media/135414361959_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/135414361959_1.jpg
-	url: https://saturdayxiii.github.io/media/135414361959_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/135414361959_2.jpg
-	url: https://saturdayxiii.github.io/media/135414361959_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/135414361959_3.jpg
-	url: https://saturdayxiii.github.io/media/135414361959_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/135414361959_4.jpg
-	url: https://saturdayxiii.github.io/media/135414361959_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/135414361959_0.jpg
+    url: https://saturdayxiii.github.io/media/135414361959_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/135414361959_1.jpg
+    url: https://saturdayxiii.github.io/media/135414361959_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/135414361959_2.jpg
+    url: https://saturdayxiii.github.io/media/135414361959_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/135414361959_3.jpg
+    url: https://saturdayxiii.github.io/media/135414361959_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/135414361959_4.jpg
+    url: https://saturdayxiii.github.io/media/135414361959_4.jpg
 tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase"]
 comments: true
 ---

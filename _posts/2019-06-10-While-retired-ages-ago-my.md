@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185503955994_0.jpg
-	url: https://saturdayxiii.github.io/media/185503955994_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185503955994_1.jpg
-	url: https://saturdayxiii.github.io/media/185503955994_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185503955994_0.jpg
+    url: https://saturdayxiii.github.io/media/185503955994_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185503955994_1.jpg
+    url: https://saturdayxiii.github.io/media/185503955994_1.jpg
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 comments: true
 ---

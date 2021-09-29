@@ -8,21 +8,21 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/133814245004_0.jpg
-	url: https://saturdayxiii.github.io/media/133814245004_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/133814245004_1.jpg
-	url: https://saturdayxiii.github.io/media/133814245004_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/133814245004_2.jpg
-	url: https://saturdayxiii.github.io/media/133814245004_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/133814245004_3.jpg
-	url: https://saturdayxiii.github.io/media/133814245004_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/133814245004_4.jpg
-	url: https://saturdayxiii.github.io/media/133814245004_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/133814245004_0.jpg
+    url: https://saturdayxiii.github.io/media/133814245004_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/133814245004_1.jpg
+    url: https://saturdayxiii.github.io/media/133814245004_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/133814245004_2.jpg
+    url: https://saturdayxiii.github.io/media/133814245004_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/133814245004_3.jpg
+    url: https://saturdayxiii.github.io/media/133814245004_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/133814245004_4.jpg
+    url: https://saturdayxiii.github.io/media/133814245004_4.jpg
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving", "showcase"]
 comments: true
 ---

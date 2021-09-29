@@ -8,18 +8,18 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/149610653063_0.jpg
-	url: https://saturdayxiii.github.io/media/149610653063_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/149610653063_1.jpg
-	url: https://saturdayxiii.github.io/media/149610653063_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/149610653063_2.jpg
-	url: https://saturdayxiii.github.io/media/149610653063_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/149610653063_3.jpg
-	url: https://saturdayxiii.github.io/media/149610653063_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/149610653063_0.jpg
+    url: https://saturdayxiii.github.io/media/149610653063_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/149610653063_1.jpg
+    url: https://saturdayxiii.github.io/media/149610653063_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/149610653063_2.jpg
+    url: https://saturdayxiii.github.io/media/149610653063_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/149610653063_3.jpg
+    url: https://saturdayxiii.github.io/media/149610653063_3.jpg
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---

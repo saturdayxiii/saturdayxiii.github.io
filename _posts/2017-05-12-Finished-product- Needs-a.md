@@ -8,21 +8,21 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/160594157914_0.jpg
-	url: https://saturdayxiii.github.io/media/160594157914_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/160594157914_1.jpg
-	url: https://saturdayxiii.github.io/media/160594157914_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/160594157914_2.jpg
-	url: https://saturdayxiii.github.io/media/160594157914_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/160594157914_3.jpg
-	url: https://saturdayxiii.github.io/media/160594157914_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/160594157914_4.jpg
-	url: https://saturdayxiii.github.io/media/160594157914_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/160594157914_0.jpg
+    url: https://saturdayxiii.github.io/media/160594157914_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/160594157914_1.jpg
+    url: https://saturdayxiii.github.io/media/160594157914_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/160594157914_2.jpg
+    url: https://saturdayxiii.github.io/media/160594157914_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/160594157914_3.jpg
+    url: https://saturdayxiii.github.io/media/160594157914_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/160594157914_4.jpg
+    url: https://saturdayxiii.github.io/media/160594157914_4.jpg
 tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets", "showcase"]
 comments: true
 ---

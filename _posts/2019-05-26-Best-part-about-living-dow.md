@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185186455519_0.jpg
-	url: https://saturdayxiii.github.io/media/185186455519_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185186455519_1.jpg
-	url: https://saturdayxiii.github.io/media/185186455519_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185186455519_0.jpg
+    url: https://saturdayxiii.github.io/media/185186455519_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185186455519_1.jpg
+    url: https://saturdayxiii.github.io/media/185186455519_1.jpg
 tags: ["music"]
 comments: true
 ---

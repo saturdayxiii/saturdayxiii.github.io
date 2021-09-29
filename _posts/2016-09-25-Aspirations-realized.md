@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/150924989914_0.jpg
-	url: https://saturdayxiii.github.io/media/150924989914_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/150924989914_1.jpg
-	url: https://saturdayxiii.github.io/media/150924989914_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/150924989914_0.jpg
+    url: https://saturdayxiii.github.io/media/150924989914_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/150924989914_1.jpg
+    url: https://saturdayxiii.github.io/media/150924989914_1.jpg
 tags: ["gamecube", "nintendo", "art"]
 comments: true
 ---

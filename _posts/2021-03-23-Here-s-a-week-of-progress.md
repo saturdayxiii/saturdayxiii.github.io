@@ -8,36 +8,36 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_0.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_1.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_2.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_3.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_4.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_4.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_5.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_5.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_6.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_6.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_7.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_7.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_8.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_8.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/646509339504443392_09.jpg
-	url: https://saturdayxiii.github.io/media/646509339504443392_09.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_0.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_1.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_2.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_3.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_4.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_5.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_5.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_6.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_6.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_7.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_7.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_8.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_8.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/646509339504443392_09.jpg
+    url: https://saturdayxiii.github.io/media/646509339504443392_09.jpg
 tags: ["art", "thoughts", "progress", "portrait", "sketch", "ink", "personal"]
 comments: true
 ---

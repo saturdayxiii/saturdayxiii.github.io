@@ -8,18 +8,18 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185116082294_0.gif
-	url: https://saturdayxiii.github.io/media/185116082294_0.gif
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185116082294_1.gif
-	url: https://saturdayxiii.github.io/media/185116082294_1.gif
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185116082294_2.gif
-	url: https://saturdayxiii.github.io/media/185116082294_2.gif
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/185116082294_3.gif
-	url: https://saturdayxiii.github.io/media/185116082294_3.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185116082294_0.gif
+    url: https://saturdayxiii.github.io/media/185116082294_0.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185116082294_1.gif
+    url: https://saturdayxiii.github.io/media/185116082294_1.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185116082294_2.gif
+    url: https://saturdayxiii.github.io/media/185116082294_2.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/185116082294_3.gif
+    url: https://saturdayxiii.github.io/media/185116082294_3.gif
 tags: ["trampoline", "music", "recommended", "concert"]
 comments: true
 ---

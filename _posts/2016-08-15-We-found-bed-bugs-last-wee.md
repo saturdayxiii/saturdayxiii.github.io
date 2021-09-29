@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/148986095554_0.jpg
-	url: https://saturdayxiii.github.io/media/148986095554_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/148986095554_1.jpg
-	url: https://saturdayxiii.github.io/media/148986095554_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/148986095554_0.jpg
+    url: https://saturdayxiii.github.io/media/148986095554_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/148986095554_1.jpg
+    url: https://saturdayxiii.github.io/media/148986095554_1.jpg
 tags: ["bugs", "pest", "egg", "insect", "macro", "photography", "art"]
 comments: true
 ---

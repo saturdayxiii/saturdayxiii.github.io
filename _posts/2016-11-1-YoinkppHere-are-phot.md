@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg
-	url: https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg
-	- title: 
-	gimage: https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg
-	url: https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg
+  - title: 
+    gimage: https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg
+    url: https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg
+  - title: 
+    gimage: https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg
+    url: https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg
 tags: ["spider", "wasp", "arachnid", "insect", "predator", "prey", "strike", "Camoflauge", "macro", "photography", "art"]
 comments: true
 ---

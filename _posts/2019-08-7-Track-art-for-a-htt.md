@@ -8,30 +8,30 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_0.png
-	url: https://saturdayxiii.github.io/media/186843420859_0.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_1.png
-	url: https://saturdayxiii.github.io/media/186843420859_1.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_2.png
-	url: https://saturdayxiii.github.io/media/186843420859_2.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_3.png
-	url: https://saturdayxiii.github.io/media/186843420859_3.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_4.png
-	url: https://saturdayxiii.github.io/media/186843420859_4.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_5.png
-	url: https://saturdayxiii.github.io/media/186843420859_5.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_6.png
-	url: https://saturdayxiii.github.io/media/186843420859_6.png
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/186843420859_7.png
-	url: https://saturdayxiii.github.io/media/186843420859_7.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_0.png
+    url: https://saturdayxiii.github.io/media/186843420859_0.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_1.png
+    url: https://saturdayxiii.github.io/media/186843420859_1.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_2.png
+    url: https://saturdayxiii.github.io/media/186843420859_2.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_3.png
+    url: https://saturdayxiii.github.io/media/186843420859_3.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_4.png
+    url: https://saturdayxiii.github.io/media/186843420859_4.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_5.png
+    url: https://saturdayxiii.github.io/media/186843420859_5.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_6.png
+    url: https://saturdayxiii.github.io/media/186843420859_6.png
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/186843420859_7.png
+    url: https://saturdayxiii.github.io/media/186843420859_7.png
 tags: ["art", "covers", "pixel", "retro"]
 comments: true
 ---

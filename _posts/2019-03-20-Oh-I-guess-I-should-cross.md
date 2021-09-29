@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/183586901534_0.gif
-	url: https://saturdayxiii.github.io/media/183586901534_0.gif
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/183586901534_1.gif
-	url: https://saturdayxiii.github.io/media/183586901534_1.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/183586901534_0.gif
+    url: https://saturdayxiii.github.io/media/183586901534_0.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/183586901534_1.gif
+    url: https://saturdayxiii.github.io/media/183586901534_1.gif
 tags: ["game", "animation", "design", "showcase"]
 comments: true
 ---

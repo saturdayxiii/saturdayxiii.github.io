@@ -8,12 +8,12 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182664450609_0.jpg
-	url: https://saturdayxiii.github.io/media/182664450609_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182664450609_1.gif
-	url: https://saturdayxiii.github.io/media/182664450609_1.gif
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182664450609_0.jpg
+    url: https://saturdayxiii.github.io/media/182664450609_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182664450609_1.gif
+    url: https://saturdayxiii.github.io/media/182664450609_1.gif
 tags: ["edible", "borscht", "food"]
 comments: true
 ---

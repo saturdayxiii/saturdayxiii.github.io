@@ -8,30 +8,30 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_0.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_1.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_2.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_3.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_4.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_4.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_5.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_5.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_6.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_6.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/182284146754_7.jpg
-	url: https://saturdayxiii.github.io/media/182284146754_7.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_0.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_1.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_2.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_3.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_4.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_5.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_5.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_6.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_6.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/182284146754_7.jpg
+    url: https://saturdayxiii.github.io/media/182284146754_7.jpg
 tags: ["art", "comic", "dream", "thoughts", "personal"]
 comments: true
 ---

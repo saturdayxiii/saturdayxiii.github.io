@@ -8,27 +8,27 @@ video:
 image: 
 link: 
 gallery:
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_0.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_0.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_1.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_1.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_2.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_2.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_3.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_3.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_4.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_4.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_5.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_5.jpg
-	- title: 
-	gimage: https://saturdayxiii.github.io/media/647781832275984384_6.jpg
-	url: https://saturdayxiii.github.io/media/647781832275984384_6.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_0.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_0.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_1.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_1.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_2.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_2.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_3.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_3.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_4.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_4.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_5.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_5.jpg
+  - title: 
+    gimage: https://saturdayxiii.github.io/media/647781832275984384_6.jpg
+    url: https://saturdayxiii.github.io/media/647781832275984384_6.jpg
 tags: ["art", "sketch", "progress", "ink", "practise", "portrait", "marker"]
 comments: true
 ---
