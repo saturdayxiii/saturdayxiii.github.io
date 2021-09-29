@@ -40,7 +40,7 @@
 {{ page.summary }}
 
 {% else %}
-{{ page.content | strip_html | strip_newlines | truncate: 160 }}
+{{ page.content | strip_html | strip_newlines | strip | truncate: 160 }}
                                          
 {% endif %}">
 {% if page.tags %}
