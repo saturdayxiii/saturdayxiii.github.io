@@ -28,8 +28,11 @@ home: true
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
+        {% if post.gallery %}
+          {% include image-gallery-index.html %}
+        {% endif %}
         {% if post.image %}
-        &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+        <a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
         {% endif %}
         {% if post.video %}
         &nbsp;<video muted autoplay controls loop width="400">
