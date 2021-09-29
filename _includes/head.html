@@ -38,17 +38,17 @@
 <meta property="og:description" content="
 {% if page.summary %}
 {{ page.summary }}
-{% elsif page.content }}
 
 {% else %}
-{{ page.content }}
+{{ page.content | strip_html | strip_newlines | truncate: 160 }}
+                                         
 {% endif %}">
 {% if page.tags %}
 {% for tag in page.tags %}
     <meta property="article:tag" content="{{tag}}" />
   {% endfor %}
 {% endif %}
-<!-- /og tags {{ site.description.meta }} -->
+<!-- /og tags actual descripiton else - {{ site.description.meta }} -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/modernizr.js"></script>
