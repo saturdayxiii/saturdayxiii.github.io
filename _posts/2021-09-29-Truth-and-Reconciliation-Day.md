@@ -2,7 +2,7 @@
 layout: post
 type: me
 title: "Truth and Reconciliation Day"
-tags: ['canada', 'first nations', 'truth and reconciliation', 'orange shirt day', 'politics', 'thoughts']
+tags: ['canada', 'first nations', 'truth and reconciliation', 'orange shirt day', 'covid', 'vaccine', 'politics', 'thoughts']
 ---
 Tomorrow is Truth and Reconciliation Day.  
 
