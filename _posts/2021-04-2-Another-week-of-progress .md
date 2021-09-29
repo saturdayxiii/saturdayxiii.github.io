@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |
 tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
 comments: true
 ---

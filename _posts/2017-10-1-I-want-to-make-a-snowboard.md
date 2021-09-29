@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/165936346764.jpg
 link: https://saturdayxiii.github.io/media/165936346764.jpg
-summary: I want to make a snowboard kids knock off. so I’m just stashing some ideas here for later use. Tagging: Downhill…something… need a more d...
 tags: ["brainstorm", "levels", "downhill"]
 comments: true
 ---

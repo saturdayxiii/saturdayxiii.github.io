@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: The word“healthy” should just be replaced with“won’t kill you quite as fast.”
 tags: ["truth", "turth", "Thoughts", "personal"]
 comments: true
 ---

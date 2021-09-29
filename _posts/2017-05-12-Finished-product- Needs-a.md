@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: ||||Finished product. Needs a bit of improvement: a couple inches wider, lost some air holes somewhere but accidentally made some unplann...
 tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets", "showcase"]
 comments: true
 ---

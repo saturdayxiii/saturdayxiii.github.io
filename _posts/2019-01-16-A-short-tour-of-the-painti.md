@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |
 tags: ["art", "customizing", "ps2", "showcase"]
 comments: true
 ---

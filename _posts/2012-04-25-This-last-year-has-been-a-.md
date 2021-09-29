@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  My Initial Responce to 5-HTP This last year has been a rough one. I developed an emotional problem that effected every aspect of my life...
 tags: ["Thoughts", "personal"]
 comments: true
 ---

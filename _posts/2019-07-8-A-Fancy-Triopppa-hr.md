@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/186155863744.png
 link: https://saturdayxiii.github.io/media/186155863744.png
-summary: A Fancy Triop. 
 tags: ["triops", "ibispaintx", "art"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |||Making Best Lazy Borscht.
 tags: ["edible", "borscht", "food"]
 comments: true
 ---

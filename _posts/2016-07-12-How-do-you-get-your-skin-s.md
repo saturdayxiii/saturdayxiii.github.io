@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/147298958206.jpg
 link: https://saturdayxiii.github.io/media/147298958206.jpg
-summary: How do you get your skin so velvety?
 tags: ["bug", "beetle", "macro", "weevil", "insect", "photography", "art"]
 comments: true
 ---

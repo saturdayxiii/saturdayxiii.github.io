@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Vector illustration apps for android # Pramble: #I decided to treat myself and upgrade my laptop/drawing tablet combo. I’ve found lots o...
 tags: [""]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: (https://www.youtube.com/watch?v=iEvntSex-7Y)I've always been a critical person and I've been trying to be less so, but I've got about 30...
 tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube", "personal"]
 comments: true
 ---

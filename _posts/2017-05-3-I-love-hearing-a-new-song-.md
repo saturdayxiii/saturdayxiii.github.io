@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=3060742330&
 video: 
 image: 
 link: 
-summary: I love hearing a new song for the first time, unannounced on the radio, and instantly knowing who it is. Can’t wait to check out the rest...
 tags: ["yeg", "recommended", "music"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182012762084.jpg
 link: https://saturdayxiii.github.io/media/182012762084.jpg
-summary: is alright, but there's a pretty big asterisk behind my recommendation for this game.It is fun. It has some memorable moments. It has a p...
 tags: ["review", "indie", "game"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182010017489.gif
 link: https://saturdayxiii.github.io/media/182010017489.gif
-summary: Google Play recommended. It looked nice and boasted a bunch of “awards”, so I figured I’d give it a shot. I later uninstalled with a reso...
 tags: ["meh", "game"]
 comments: true
 ---

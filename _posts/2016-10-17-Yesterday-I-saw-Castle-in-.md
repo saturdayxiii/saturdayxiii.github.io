@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Laputa and self reflection regarding animeI’ve gone to the theatre to see a couple Studio Ghibli films, as well as a select few other an...
 tags: ["anime", "animation", "disney", "laputa", "review", "opinion", "journal", "Thoughts", "movie", "personal"]
 comments: true
 ---

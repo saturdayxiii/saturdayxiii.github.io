@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182048488999.gif
 link: https://saturdayxiii.github.io/media/182048488999.gif
-summary: I was not expecting to enjoy the second season ofas much as I did. The first season was alright, something to have on while I concentrate...
 tags: ["show", "amazon", "recommended"]
 comments: true
 ---

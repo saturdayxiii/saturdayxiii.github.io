@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182502592759.png
 link: https://saturdayxiii.github.io/media/182502592759.png
-summary: The old beast is being replaced by the new hotness. An upgrade in every way except for the lack of a graphics card.I’m hoping to use an e...
 tags: ["update", "life", "computer", "purchase", "product"]
 comments: true
 ---

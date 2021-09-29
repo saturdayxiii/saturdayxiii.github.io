@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |
 tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---

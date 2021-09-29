@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  A Couple of Desires for Video Game Achievements I’ve seen some people who can’t stand video game achievements, I’ve seen others who won’...
 tags: ["game", "achievements", "exophase", "idea"]
 comments: true
 ---

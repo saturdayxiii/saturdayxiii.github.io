@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/__2Fe9XpGug/hqdefault.jpg
 link: https://www.youtube.com/watch?v=__2Fe9XpGug
-summary:  You’ve been waiting all your adolescence for this moment.
 tags: ["pokemon", "misty", "psyduck", "crying", "wtf", "art"]
 comments: true
 ---

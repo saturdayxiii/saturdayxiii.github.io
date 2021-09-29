@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/kpTdG4PkwXA/hqdefault.jpg
 link: https://www.youtube.com/watch?v=kpTdG4PkwXA
-summary:  Minecraft=kids, but still=good funThis was the first show that demonstrated my lack of interest in co starred Let's Plays, but that happ...
 tags: ["show", "recommended", "animal", "minecraft"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182671455654.jpg
 link: https://saturdayxiii.github.io/media/182671455654.jpg
-summary: Secret Raspberry Pi cupboard with 10Tb of cloud storage.I’m super happy to find an.And it works perfectly with the official Raspbian OS.M...
 tags: ["product", "purchase"]
 comments: true
 ---

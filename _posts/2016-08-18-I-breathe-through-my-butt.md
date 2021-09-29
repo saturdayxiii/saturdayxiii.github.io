@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149135903859.jpg
 link: https://saturdayxiii.github.io/media/149135903859.jpg
-summary: I breathe through my butt, yes I do.
 tags: ["pillbug", "macro", "photography", "art"]
 comments: true
 ---

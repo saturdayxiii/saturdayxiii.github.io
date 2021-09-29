@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |competition,is playable.Coming up with music that was actually listenable was probably my favorite part of the project.Please check out ...
 tags: ["game", "animation", "design", "showcase"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio: https://popplers5.bandcamp.com/download/track?enc=mp3-128&amp;fsig=bd4805
 video: 
 image: 
 link: 
-summary: Best thing I’ve heard this week.(oh, it’s gone now. It was a track suddenly erased from
 tags: ["experimental", "winnipeg", "avante", "indie", "punk", "eccentric", "pop", "canada", "song", "music", "recommended"]
 comments: true
 ---

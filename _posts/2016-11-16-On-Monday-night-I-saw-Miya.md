@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Further topicless ramblings about select cartoonsOn Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre...
 tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie", "personal"]
 comments: true
 ---

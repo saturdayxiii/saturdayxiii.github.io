@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/165590796589.jpg
 link: https://saturdayxiii.github.io/media/165590796589.jpg
-summary: Found this today, which I had previously forgotten about.
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art", "showcase"]
 comments: true
 ---

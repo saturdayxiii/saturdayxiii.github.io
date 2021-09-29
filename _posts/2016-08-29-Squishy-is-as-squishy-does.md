@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/9fBfLDo-K48/hqdefault.jpg
 link: https://www.youtube.com/watch?v=9fBfLDo-K48
-summary:  Squishy is as squishy does.
 tags: ["slug", "macro", "photography", "art"]
 comments: true
 ---

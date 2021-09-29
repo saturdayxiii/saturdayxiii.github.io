@@ -7,7 +7,6 @@ audio:
 video: https://saturdayxiii.github.io/media/646676325321605120.mp4
 image: 
 link: 
-summary: , but essentially it’s just soak plain, stale, toasted bread in hot water for a while. Filter out the bread, then add honey, sugar, mint,...
 tags: ["food", "recommended", "kvass"]
 comments: true
 ---

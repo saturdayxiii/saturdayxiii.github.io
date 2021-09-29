@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |||While retired ages ago, my heavily modded binder-bag has finally made it’s way to the trash can. It served my darling underpowered 13″...
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 comments: true
 ---

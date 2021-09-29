@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |||Between the the sheaves.
 tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true
 ---

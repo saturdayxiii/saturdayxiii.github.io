@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: (a href="/a>.It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how...
 tags: ["dimps", "recommended", "show", "games", "gaming", "Youtube"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/150081411419.png
 link: https://saturdayxiii.github.io/media/150081411419.png
-summary: If only I could airbrush.
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 comments: true
 ---

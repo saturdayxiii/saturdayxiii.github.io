@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/186643242349.jpg
 link: https://saturdayxiii.github.io/media/186643242349.jpg
-summary: I had reservations about my anise soda, especially since I don't have any mint and I really think it would be extra good with mint, but I...
 tags: ["Soda", "edible", "recommended", "drink", "food"]
 comments: true
 ---

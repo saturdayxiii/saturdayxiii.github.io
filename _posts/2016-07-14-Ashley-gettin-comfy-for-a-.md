@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/147403431858.jpg
 link: https://saturdayxiii.github.io/media/147403431858.jpg
-summary: Ashley gettin comfy for a molt.
 tags: ["tarantula", "shed", "insect", "photography", "art"]
 comments: true
 ---

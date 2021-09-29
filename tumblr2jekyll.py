@@ -231,29 +231,18 @@ for file in directory:
         read_file = re.sub('^.*\n', '', read_file)
         
     #make a summary WAIT!  We don't need it no more
-    
-    summ2 = re.findall('(.{1,145})', read_file)#why doesn't non greedy modifier do anything???
-    #summ2.append('')
-    #summ1 = summ2[0]
+    '''summ2 = re.findall('(.{1,145})', read_file)#why doesn't non greedy modifier do anything???
     summ2 = ''.join(summ2)
-    summ2 = re.sub('\xa0','',summ2)
-    summ2 = re.sub('-&gt','',summ2)
     summ2 = re.sub('(\[.*\])','',summ2)
     summ2 = re.sub('(http.*?)<','',summ2)
     summ2 = re.sub('(<.*?>)',' ',summ2)
-    summ2 = re.sub('||   |  |','',summ2)
-    summ2 = re.sub('|   |  |','',summ2)
-    summ2 = re.sub('|   |','',summ2)
-    summ2 = re.sub('|     ','',summ2)
-    summ2 = re.sub('    ','',summ2)
-    summ2 = re.sub('|','',summ2)
-    summ2 = re.sub('||','',summ2)
-    summ2 = re.sub('|||','',summ2)
-    summ2 = re.sub('||||','',summ2)
-    summ2 = re.sub('##','',summ2)
+    summsubs = ['\xa0','-&gt','||   |  |','|   |  |','|   |','|     ','    ','##','|']
+    for subs in summsubs:
+        summ2 = re.sub(subs,'',summ2)
     summ = (summ2[:137] + '...') if len(summ2) > 140 else summ2
+    print (summ)'''
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\nsummary: " + summ + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

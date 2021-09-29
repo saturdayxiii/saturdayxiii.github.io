@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2861756721&
 video: 
 image: 
 link: 
-summary: Song that makes you look up the lyrics and sing along upon the first listen.
 tags: ["recommended", "music"]
 comments: true
 ---

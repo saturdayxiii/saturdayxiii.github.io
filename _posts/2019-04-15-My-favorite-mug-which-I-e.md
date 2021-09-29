@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/184207088519.jpg
 link: https://saturdayxiii.github.io/media/184207088519.jpg
-summary: My favorite mug, which I expertly painted, has a crack in it and will soon be RIP.May it forever be remembered here.
 tags: ["art", "mug", "pastel", "paint", "ceramic", "crankpots"]
 comments: true
 ---

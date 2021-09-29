@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182175873024.jpg
 link: https://saturdayxiii.github.io/media/182175873024.jpg
-summary: Jalapeno graveyard.I love jalapeno poppers, but I’ll be damned if I’m going to sit there and stuff peppers or pay $10 for a small frozen ...
 tags: ["Edible", "jalapeno", "dip", "photography", "food", "art"]
 comments: true
 ---

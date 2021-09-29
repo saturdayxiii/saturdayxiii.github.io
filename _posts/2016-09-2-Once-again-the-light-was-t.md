@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |||Once again the light was too low to give me enough focal range, but he’s still cute so you can pick the lesser of bad photos for yours...
 tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true
 ---

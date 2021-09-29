@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/148460620264.png
 link: https://saturdayxiii.github.io/media/148460620264.png
-summary: I think I may have stolen this idea from somewhere&hellip; or a few places.
 tags: ["pixel", "graphics", "tiny", "art"]
 comments: true
 ---

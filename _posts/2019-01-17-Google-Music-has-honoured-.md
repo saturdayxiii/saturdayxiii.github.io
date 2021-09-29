@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2965564688&
 video: 
 image: 
 link: 
-summary: Google Music has honoured me with introduction to.Fun, danceable, punky brilliance with a strong agenda.
 tags: ["music", "punk", "recommended", "exciting"]
 comments: true
 ---

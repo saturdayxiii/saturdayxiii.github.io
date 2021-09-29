@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/131959904749.jpg
 link: https://saturdayxiii.github.io/media/131959904749.jpg
-summary: They gave me a picture to color. I color what I want.
 tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", "hedgehog", "nintendo", "sega", "crayons", "art"]
 comments: true
 ---

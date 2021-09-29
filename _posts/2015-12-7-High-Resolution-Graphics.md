@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/134745252369.jpg
 link: https://saturdayxiii.github.io/media/134745252369.jpg
-summary: High Resolution Graphics
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
 comments: true
 ---

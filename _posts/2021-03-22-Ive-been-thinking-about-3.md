@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: ).Seems very approachable.Of course the 15 minute tutorial took me 10 hours to do.Further exasperated by the fact that it took days for m...
 tags: ["Thoughts", "Art", "Cave", "personal"]
 comments: true
 ---

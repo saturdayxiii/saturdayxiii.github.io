@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/185510960669.jpg
 link: https://saturdayxiii.github.io/media/185510960669.jpg
-summary: I go through these seasons where I just got to create&hellip; anything.Nothing ever seems to come from it, and I just end up getting stuc...
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
 comments: true
 ---

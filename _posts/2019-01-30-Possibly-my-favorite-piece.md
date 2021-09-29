@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg
 link: https://www.youtube.com/watch?v=t2AbBhwKzG0
-summary:  Possibly my favorite piece of vgm ever.The samples are so tight, and the rhythms sound so juxtapositioned yet thematically perfect.I can...
 tags: ["Music", "recommended", "sega", "vgm", "OST", "bgm", "chiptune"]
 comments: true
 ---

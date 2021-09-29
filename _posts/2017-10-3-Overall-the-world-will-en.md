@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Reincarnation Game - Story Overall: the world will end. Start with player saving food production for their nation. This introduces the m...
 tags: ["story", "sketch", "brainstorm"]
 comments: true
 ---

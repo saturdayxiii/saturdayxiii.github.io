@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/153740564569.jpg
 link: https://saturdayxiii.github.io/media/153740564569.jpg
-summary: High-tech special forces, Star Fox.
 tags: ["painting", "acrylic", "Nintendo", "mgs", "konami", "art", "game", "showcase"]
 comments: true
 ---

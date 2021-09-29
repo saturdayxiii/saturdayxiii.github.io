@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/181881333409.png
 link: https://saturdayxiii.github.io/media/181881333409.png
-summary: The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with t...
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 comments: true
 ---

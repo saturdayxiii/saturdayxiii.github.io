@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149770647029.jpg
 link: https://saturdayxiii.github.io/media/149770647029.jpg
-summary: A little bit of heaven for the captain.
 tags: ["liquor", "plush", "edible", "food"]
 comments: true
 ---

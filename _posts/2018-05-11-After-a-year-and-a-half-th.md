@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |finally arrived. Other than that one time at the, I’ve never used a 3D printer.However, printing off a copy ofst has me very impressed; ...
 tags: ["snapmaker"]
 comments: true
 ---

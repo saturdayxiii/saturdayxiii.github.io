@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: ||||' .The original design.. ;Here’s my custom gaming shelf that I designed to meet my needs.
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving", "showcase"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: |
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink", "personal"]
 comments: true
 ---

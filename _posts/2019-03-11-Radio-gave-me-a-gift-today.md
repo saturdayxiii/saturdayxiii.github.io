@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=1104501430&
 video: 
 image: 
 link: 
-summary: Radio gave me a gift today.
 tags: ["music", "recommended"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Reincarnation Game first thoughts Using this space to develop game concept ideas.A game with reincarnation as a mechanic. The player doe...
 tags: ["brainstorm", "ideas"]
 comments: true
 ---

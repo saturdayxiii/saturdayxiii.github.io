@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/ZZswmxq-K1M/hqdefault.jpg
 link: https://www.youtube.com/watch?v=ZZswmxq-K1M
-summary:  Spot on. I didn’t know about the new series coming out, but everything acknowledged here are things I’ve always found treasurable about ...
 tags: ["recommended", "show", "tv", "daria", "cartoon", "90s"]
 comments: true
 ---

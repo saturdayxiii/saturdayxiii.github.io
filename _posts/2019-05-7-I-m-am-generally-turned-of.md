@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/-5uu6bUzI2c/hqdefault.jpg
 link: https://www.youtube.com/watch?v=-5uu6bUzI2c
-summary:  I’m am generally turned off by popular opinion, and yet the broad-scope of my interests are undoubtedly pop culture. So I have a lot of ...
 tags: ["recommended", "show"]
 comments: true
 ---

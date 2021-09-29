@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182126624604.gif
 link: https://saturdayxiii.github.io/media/182126624604.gif
-summary: Going through the tutorials foragain, and its features are still giving me chills.
 tags: ["software", "game", "recommended", "nesmaker"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: ||I’m not normally one to judge by appearances, but these things are probably evil.
 tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography", "art"]
 comments: true
 ---

@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/159572020123.png
 link: https://saturdayxiii.github.io/media/159572020123.png
-summary: Scannograph food selfie! or whatever they call em.
 tags: ["scannography", "scanography", "scan", "food", "nachos", "tortilla", "chips", "salsa", "edible", "photography", "food", "art"]
 comments: true
 ---

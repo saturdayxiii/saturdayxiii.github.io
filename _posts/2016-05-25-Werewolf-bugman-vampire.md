@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144915373212.jpg
 link: https://saturdayxiii.github.io/media/144915373212.jpg
-summary: Werewolf, bugman, vampire&hellip; original characters, really?
 tags: ["illustration", "car", "werewolf", "vampire", "drawing", "ink", "art"]
 comments: true
 ---

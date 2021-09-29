@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2323976698&
 video: 
 image: 
 link: 
-summary: Some short mood clips made in Famitracker to be played on the original Nintendo Entertainment System
 tags: ["famitracker", "8bit", "chiptune", "music", "nes", "showcase"]
 comments: true
 ---

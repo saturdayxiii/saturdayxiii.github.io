@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/J01jgdLJHVw/hqdefault.jpg
 link: https://www.youtube.com/watch?v=J01jgdLJHVw
-summary:  *music ends abruptly* Planet Boelex - SeadreamersThis wasp was in a bowl of water. Now he's trying very hard to get dry.
 tags: ["wasp", "insect", "bug", "macro", "cute", "photography", "art"]
 comments: true
 ---

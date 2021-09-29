@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/182828395039.gif
 link: https://saturdayxiii.github.io/media/182828395039.gif
-summary: Spent Valentines with my Sweetie, drinking coke and wine, while watching, presented byat the. All of my favorite things meshing together,...
 tags: ["valentines", "event", "movie"]
 comments: true
 ---

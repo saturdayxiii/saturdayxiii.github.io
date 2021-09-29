@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: , but I fermented the Tofu for about a week, until it started to get actually moldy, then I used cooking sherry as the alcohol.That's pro...
 tags: ["food", "reccommended", "chao", "recipe", "edible", "food"]
 comments: true
 ---

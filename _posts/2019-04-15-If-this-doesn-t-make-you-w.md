@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/QRwIosijD3A/hqdefault.jpg
 link: https://www.youtube.com/watch?v=QRwIosijD3A
-summary:  If this doesn’t make you want to vote, I don’t know what will.
 tags: ["roseanne", "also", "abvote", "show", "tv", "review"]
 comments: true
 ---

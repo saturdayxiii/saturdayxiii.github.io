@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary:  Red Crimes: Hidden Murders I wanted to try outbecause it was produced by Discovery Channel’s forensic mystery channel thing; Identificat...
 tags: ["review"]
 comments: true
 ---

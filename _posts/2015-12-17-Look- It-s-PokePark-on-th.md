@@ -7,7 +7,6 @@ audio:
 video: 
 image: 
 link: 
-summary: ||||Look! It’s PokePark on the Wii!
 tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase"]
 comments: true
 ---

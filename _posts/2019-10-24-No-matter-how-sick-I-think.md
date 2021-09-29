@@ -7,7 +7,6 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/gKILYcpsOyE/hqdefault.jpg
 link: https://www.youtube.com/watch?v=gKILYcpsOyE
-summary:  No matter how sick I think I am of watchingover and over for the past decade; October rolls around and I just can’t help myself.At one p...
 tags: ["recommended", "ps1", "show"]
 comments: true
 ---

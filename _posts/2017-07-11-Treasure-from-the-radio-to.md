@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2117398184&
 video: 
 image: 
 link: 
-summary: Treasure from the radio today.
 tags: ["radio", "impressed", "recommended", "music"]
 comments: true
 ---

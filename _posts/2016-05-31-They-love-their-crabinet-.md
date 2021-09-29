@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145214590836.jpg
 link: https://saturdayxiii.github.io/media/145214590836.jpg
-summary: They love their crabinet. Actually they hide behind the mat for months at a time.
 tags: ["cage", "tank", "crabitat", "crabinet", "pets"]
 comments: true
 ---

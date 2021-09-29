@@ -7,7 +7,6 @@ audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2357788203&
 video: 
 image: 
 link: 
-summary: andkeep putting out gold. I could fill this whole blog with highlights from them, but my name is in the url so no.Here’s a catchy tune fr...
 tags: ["music", "recommended", "umbromaniii", "edm"]
 comments: true
 ---

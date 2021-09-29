@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144561714036.jpg
 link: https://saturdayxiii.github.io/media/144561714036.jpg
-summary: Sword-bearing Conehead. The closest wiki I could find to it.; 
 tags: ["photo", "hawaii", "grasshopper", "pointy", "bastard", "insect", "photography", "art"]
 comments: true
 ---

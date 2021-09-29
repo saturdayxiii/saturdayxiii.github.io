@@ -7,7 +7,6 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/181884034944.jpg
 link: https://saturdayxiii.github.io/media/181884034944.jpg
-summary: Christmas whiskey.First time having Knob Creek.It's super sharp, especially with ice.I've gone through most of the bottle by now and I'm ...
 tags: ["Alcohol", "whiskey", "glassware", "edible", "food"]
 comments: true
 ---
