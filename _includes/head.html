@@ -39,16 +39,16 @@
 {% if page.summary %}
 {{ page.summary }}
 {% elsif page.content }}
-{{ page.content }}
+
 {% else %}
-{{ site.description.meta }}
+{{ page.content }}
 {% endif %}">
 {% if page.tags %}
 {% for tag in page.tags %}
     <meta property="article:tag" content="{{tag}}" />
   {% endfor %}
 {% endif %}
-<!-- /og tags -->
+<!-- /og tags {{ site.description.meta }} -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/modernizr.js"></script>
