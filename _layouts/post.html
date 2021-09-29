@@ -10,64 +10,69 @@ layout: default
 {% endif %}
 
 <article>
-<div style="border: 2px solid transparent;{% if page.type == "tainment" %} border-image: linear-gradient(to bottom, #9c55ed, black);{% elsif page.type == "art" %} border-image: linear-gradient(to bottom, #fc83b2, black);{% elsif page.type == "snd" %} border-image: linear-gradient(to bottom, #ff9359, black);{% elsif page.type == "me" %} border-image: linear-gradient(to bottom, cyan, black);{% elsif page.type == "food" %} border-image: linear-gradient(to bottom, #fff39c, black);{% else %} border-image: linear-gradient(to bottom, white, black);{% endif %} border-image-slice: 1; padding: 10px;">
-  <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
-{% for tag in page.tags %}
-  {% assign tag_slug = tag | slugify: "raw" %}
-  <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
-    rel="category tag">
-     #{{ tag }}
-  </a>
-{% endfor %}
-</span>
-	<h1>{{ page.title }}</h1><p></p>
-        {% if page.image %}
-        &nbsp;<a href="{{ page.link }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"></a><p></p>
+  <div style="border: 2px solid transparent;{% if page.type == "tainment" %} border-image: linear-gradient(to bottom, #9c55ed, black);{% elsif page.type == "art" %} border-image: linear-gradient(to bottom, #fc83b2, black);{% elsif page.type == "snd" %} border-image: linear-gradient(to bottom, #ff9359, black);{% elsif page.type == "me" %} border-image: linear-gradient(to bottom, cyan, black);{% elsif page.type == "food" %} border-image: linear-gradient(to bottom, #fff39c, black);{% else %} border-image: linear-gradient(to bottom, white, black);{% endif %} border-image-slice: 1; padding: 10px;">
+    <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
+      {% for tag in page.tags %}
+        {% assign tag_slug = tag | slugify: "raw" %}
+        <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+          rel="category tag">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+    </span>
+    <h1>{{ page.title }}</h1><p></p>
+    {% if page.gallery %}
+      {% include image-gallery-index.html %}
+    {% endif %}
+    {% if page.image %}
+      &nbsp;<a href="{{ page.link }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"></a><p></p>
+    {% endif %}
+    {% if page.video %}
+      <video muted autoplay controls loop width="400">
+      <source src="{{ page.video }}" type="video/mp4">
+      </video>
+    {% endif %}
+    {% if page.audio %}
+      &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="{{ page.audio }}"></iframe>
+    {% endif %}
+    {{ content }}
+    {% if site.display-author-post-page %}
+      {% if page.author.name %}
+        <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
+      {% else %}
+        {% if site.author.name %}
+          <small><em>{{ site.var_post_by }}: {{ site.author.name }} {{ site.author.info }}</em></small>
         {% endif %}
-	{% if page.video %}
-	<video muted autoplay controls loop width="400">
-    <source src="{{ page.video }}" type="video/mp4">
-</video>
-	{% endif %}
-        {% if page.audio %}
-        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="{{ page.audio }}"></iframe>
-        {% endif %}
-		{{ content }}
-  {% if site.display-author-post-page %}
-    {% if page.author.name %}
-      <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
-    {% else %}
-      {% if site.author.name %}
-        <small><em>{{ site.var_post_by }}: {{ site.author.name }} {{ site.author.info }}</em></small>
       {% endif %}
     {% endif %}
-  {% endif %}
-</div>
+  </div>
 </article>
 
 
 {% if site.display-next-prev-post and page.previous.url or site.display-next-prev-post and page.next.url %}
-<div class="pagination clearfix">
-  <div class="left">
-    {% if page.next.url %}
-      <a href="{{ page.next.url | prepend: site.baseurl }}">‹ {{ site.var_next_post }}</a>
-    {% else %}
-      <span class="disabled">‹ {{ site.var_next_post }}</span>
-    {% endif %}
+  <div class="pagination clearfix">
+    <div class="left">
+      {% if page.next.url %}
+        <a href="{{ page.next.url | prepend: site.baseurl }}">‹ {{ site.var_next_post }}</a>
+      {% else %}
+        <span class="disabled">‹ {{ site.var_next_post }}</span>
+      {% endif %}
+    </div>
+    <div class="right">
+      {% if page.previous.url %}
+        <a href="{{ page.previous.url | prepend: site.baseurl }}">{{ site.var_previous_post }} ›</a>
+      {% else %}
+        <span class="disabled">{{ site.var_previous_post }} ›
+        </span>
+      {% endif %}
+    </div>
   </div>
-  <div class="right">
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url | prepend: site.baseurl }}">{{ site.var_previous_post }} ›</a>
-    {% else %}
-      <span class="disabled">{{ site.var_previous_post }} ›</span>
-    {% endif %}
-  </div>
-</div>
 {% endif %}
 
 {% if site.disqus-shortname %}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
+  <div id="disqus_thread">
+  </div>
+  <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = '{{ site.disqus-shortname }}'; // Required - Replace '<example>' with your forum shortname
 
@@ -77,6 +82,6 @@ layout: default
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
