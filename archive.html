@@ -16,5 +16,5 @@ layout: page
       {% endif %}
     {% endunless %}
 
-    <br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></br>
+    <br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} •</a><small> {{ post.date | date: site.date_format }}</small></br>
   {% endfor %}
