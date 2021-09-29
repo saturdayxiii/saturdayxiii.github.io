@@ -4,25 +4,25 @@ title: Wednesday but Friday Art Updates
 type: art
 timestamp: April 16th, 2021 9:49pm
 gallery:
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/d85feec655934299c117753326981f07/d7a02325e9927097-b9/s640x960/48280783fc0964ce1f17303fb0c262dfb6961ce4.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/3125f45d9f4a37c8485a077318c0812b/d7a02325e9927097-2a/s640x960/cb67d0d06090d780146e82adfa5cd59d12521d30.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/ffe731700ab8ae458f85b4e12a2d906b/d7a02325e9927097-76/s640x960/48ef68d8490c810d27854d6df097231a8b546445.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/5ac487c1cb13540c21922a6679d9edf4/d7a02325e9927097-49/s640x960/73d9ceb4c4b6ae38915d9c1d2033cff75fc2fd5a.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/4e3810b29403e275a9131fbd992476df/d7a02325e9927097-1f/s640x960/15e2e553f23f158a431d0028045c0b25ab11ab23.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/0c6f64f192327b89f5f63ad96fb19c9c/d7a02325e9927097-40/s640x960/fbca642a84e785aa792960362f9a5351f4cf9e28.jpg
     url: 
-  -Title:
+  - title:
     gimage: https://64.media.tumblr.com/3d39264bd7140827aae5190b866799c3/d7a02325e9927097-0d/s640x960/4cc06ffe2a11e17841f9da040763931289f98784.jpg
     url: 
 tags: ["marker", "sketch", "freehand", "portraits", "ink", "art", "progress"]
