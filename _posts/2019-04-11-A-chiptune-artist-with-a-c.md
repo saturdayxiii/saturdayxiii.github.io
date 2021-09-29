@@ -6,7 +6,7 @@ timestamp: April 11th, 2019 3:55pm
 audio: https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=4018849524&amp;ts=1618890939&amp;t=f841d275473204a2049ece52e688549cb398c378
 video: 
 image: 
-link: 
+link: \summary: A chiptune artist with a chip on his shoulder, ready to wave some squares off the track.Nario recently announced that he was going to get...
 tags: ["recommended", "music", "chiptune", "8bit", "nario"]
 comments: true
 ---

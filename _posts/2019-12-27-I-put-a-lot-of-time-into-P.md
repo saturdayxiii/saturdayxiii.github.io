@@ -6,7 +6,7 @@ timestamp: December 27th, 2019 1:10pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/190407682119.jpg
-link: https://saturdayxiii.github.io/media/190407682119.jpg
+link: https://saturdayxiii.github.io/media/190407682119.jpg\summary: I put a lot of time into Penguin Isle, so I wanted to talk about it. But what is there to say other than I’m a sucker?If you like this ki...
 tags: ["recommended"]
 comments: true
 ---

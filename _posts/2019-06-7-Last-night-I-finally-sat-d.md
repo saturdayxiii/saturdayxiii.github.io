@@ -6,7 +6,7 @@ timestamp: June 7th, 2019 2:29pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/kaPgQrw_Ywk/hqdefault.jpg
-link: https://www.youtube.com/watch?v=kaPgQrw_Ywk
+link: https://www.youtube.com/watch?v=kaPgQrw_Ywk\summary:  Last night I finally sat down and played a bit offor the first time. I’ve never felt a strong need to play it becauseis one of my favori...
 tags: ["show", "recommended"]
 comments: true
 ---

@@ -6,7 +6,7 @@ timestamp: December 27th, 2018 2:44pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary:  Red Crimes: Hidden Murders I wanted to try outbecause it was produced by Discovery Channel’s forensic mystery channel thing; Identificat...
 tags: ["review"]
 comments: true
 ---

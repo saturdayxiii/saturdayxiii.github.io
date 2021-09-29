@@ -6,7 +6,7 @@ timestamp: July 25th, 2017 9:34pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/163432477994.jpg
-link: https://saturdayxiii.github.io/media/163432477994.jpg
+link: https://saturdayxiii.github.io/media/163432477994.jpg\summary: My first instructionless electronics fix.Worked out purely by luck, but I typically can't hope for better.Had a lcd driver board arrive d...
 tags: ["photo"]
 comments: true
 ---

@@ -6,7 +6,7 @@ timestamp: March 22nd, 2021 10:55am
 audio: 
 video: 
 image: 
-link: 
+link: \summary: ).Seems very approachable.Of course the 15 minute tutorial took me 10 hours to do.Further exasperated by the fact that it took days for m...
 tags: ["Thoughts", "Art", "Cave", "personal"]
 comments: true
 ---

@@ -6,7 +6,7 @@ timestamp: October 28th, 2016 1:44pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: |||Between the the sheaves.
 tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true
 ---

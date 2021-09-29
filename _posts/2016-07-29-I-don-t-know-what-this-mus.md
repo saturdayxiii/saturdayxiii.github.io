@@ -6,7 +6,7 @@ timestamp: July 29th, 2016 2:51pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg
-link: https://www.youtube.com/watch?v=G1vLIfLtD60
+link: https://www.youtube.com/watch?v=G1vLIfLtD60\summary:  I don’t know what this music is, but I’m glad I found it.
 tags: ["bug", "insect", "fly", "macro", "photography", "art"]
 comments: true
 ---

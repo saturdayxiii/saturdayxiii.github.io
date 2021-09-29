@@ -6,7 +6,7 @@ timestamp: August 24th, 2016 12:00pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/149423030176.gif
-link: https://saturdayxiii.github.io/media/149423030176.gif
+link: https://saturdayxiii.github.io/media/149423030176.gif\summary: went to the zoo yesterday. @buildingourzoo
 tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography", "art"]
 comments: true
 ---

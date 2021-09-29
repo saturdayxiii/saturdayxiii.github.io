@@ -6,7 +6,7 @@ timestamp: March 17th, 2019 6:54pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/183530324689.jpg
-link: https://saturdayxiii.github.io/media/183530324689.jpg
+link: https://saturdayxiii.github.io/media/183530324689.jpg\summary: Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
 tags: ["music", "concert", "event", "photography", "art"]
 comments: true
 ---

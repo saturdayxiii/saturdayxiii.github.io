@@ -6,7 +6,7 @@ timestamp: July 12th, 2017 12:38pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary:  a Re-Ignited, Preliminary Linux experienceI really like my tiny i5, 4gb acer laptop, but if I don’t reinstall install Windows on a month...
 tags: ["linux", "ubuntu", "manjaro", "arch", "os", "rant", "journal", "windows", "computers", "n00b", "Thoughts", "personal"]
 comments: true
 ---

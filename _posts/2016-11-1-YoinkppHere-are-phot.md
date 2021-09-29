@@ -6,7 +6,7 @@ timestamp: November 1st, 2016 2:37pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg
-link: https://www.youtube.com/watch?v=lJ2PsS-DpRw
+link: https://www.youtube.com/watch?v=lJ2PsS-DpRw\summary:  Yoink.Here are photos, because they do not compete with video:
 tags: ["spider", "wasp", "arachnid", "insect", "predator", "prey", "strike", "Camoflauge", "macro", "photography", "art"]
 comments: true
 ---

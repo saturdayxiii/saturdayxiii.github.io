@@ -6,7 +6,7 @@ timestamp: July 15th, 2019 5:39pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: Shout out to my supper.I oil fried my remaining tofu puffs and decided to have it in a wrap.I thought "if only I could make it taste like...
 tags: ["recommended", "maybe", "edible", "food"]
 comments: true
 ---

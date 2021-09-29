@@ -6,7 +6,7 @@ timestamp: August 31st, 2016 12:00pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: ||I’m not normally one to judge by appearances, but these things are probably evil.
 tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography", "art"]
 comments: true
 ---

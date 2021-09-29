@@ -6,7 +6,7 @@ timestamp: April 25th, 2012 12:38pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary:  My Initial Responce to 5-HTP This last year has been a rough one. I developed an emotional problem that effected every aspect of my life...
 tags: ["Thoughts", "personal"]
 comments: true
 ---

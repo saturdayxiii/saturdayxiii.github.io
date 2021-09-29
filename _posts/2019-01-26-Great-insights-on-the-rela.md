@@ -6,7 +6,7 @@ timestamp: January 26th, 2019 4:09pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg
-link: https://www.youtube.com/watch?v=SP8EoIBGog0
+link: https://www.youtube.com/watch?v=SP8EoIBGog0\summary:  Great insights on the relationships between critics and content producers and mob mentality.For the record, I don't mind Uwe's movies, a...
 tags: ["show", "youtube", "game", "movie"]
 comments: true
 ---

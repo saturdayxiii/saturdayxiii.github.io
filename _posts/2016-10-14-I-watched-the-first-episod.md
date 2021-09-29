@@ -6,7 +6,7 @@ timestamp: October 14th, 2016 12:53pm
 audio: 
 video: 
 image: http://i3.ytimg.com/vi/z0t9pCnRW4o/hqdefault.jpg
-link: https://www.youtube.com/watch?v=z0t9pCnRW4o
+link: https://www.youtube.com/watch?v=z0t9pCnRW4o\summary:  I watched the first episode of Channel Zero and I’m intrigued.As soon as the show came out there was the usual mindless hype, then the f...
 tags: ["opinion", "tv", "show"]
 comments: true
 ---

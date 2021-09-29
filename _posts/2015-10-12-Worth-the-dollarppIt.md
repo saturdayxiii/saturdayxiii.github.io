@@ -6,7 +6,7 @@ timestamp: October 12th, 2015 7:34pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182151348049.jpg
-link: https://saturdayxiii.github.io/media/182151348049.jpg
+link: https://saturdayxiii.github.io/media/182151348049.jpg\summary: Worth the dollar.It's hard to review hidden object games because I don't really believe anyone expects them to be "good" games.is fine. I...
 tags: ["game"]
 comments: true
 ---

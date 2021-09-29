@@ -6,7 +6,7 @@ timestamp: February 6th, 2019 10:12pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182623849724.jpg
-link: https://saturdayxiii.github.io/media/182623849724.jpg
+link: https://saturdayxiii.github.io/media/182623849724.jpg\summary: I played the nude Valkyrie.
 tags: ["Game", "beercade", "yeg"]
 comments: true
 ---

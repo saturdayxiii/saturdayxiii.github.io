@@ -6,7 +6,7 @@ timestamp: April 12th, 2021 12:00pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: (https://www.youtube.com/watch?v=jy6TK3njrRU)May walks us through the grim themes of Tideland so we don't have to.This movie is sitting u...
 tags: ["tideland", "recommended", "show", "review", "Youtube"]
 comments: true
 ---

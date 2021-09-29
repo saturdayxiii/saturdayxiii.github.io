@@ -6,7 +6,7 @@ timestamp: January 24th, 2019 7:12pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: ||||A few nights ago my brain treated me to a trailer for a fictional tv show. I’ve attempted to capture it here without putting extensiv...
 tags: ["art", "comic", "dream", "thoughts", "personal"]
 comments: true
 ---

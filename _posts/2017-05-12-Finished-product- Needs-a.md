@@ -6,7 +6,7 @@ timestamp: May 12th, 2017 1:41pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary: ||||Finished product. Needs a bit of improvement: a couple inches wider, lost some air holes somewhere but accidentally made some unplann...
 tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets", "showcase"]
 comments: true
 ---

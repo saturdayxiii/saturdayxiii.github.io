@@ -6,7 +6,7 @@ timestamp: July 27th, 2014 4:37pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182016633414.jpg
-link: https://saturdayxiii.github.io/media/182016633414.jpg
+link: https://saturdayxiii.github.io/media/182016633414.jpg\summary:  . If you like those, you will like this. If not, then no, you won't like this.But what makes it a good hidden object point and click? I'...
 tags: ["game", "review"]
 comments: true
 ---

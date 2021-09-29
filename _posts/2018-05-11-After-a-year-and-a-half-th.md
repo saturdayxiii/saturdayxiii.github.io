@@ -6,7 +6,7 @@ timestamp: May 11th, 2018 11:09am
 audio: 
 video: 
 image: 
-link: 
+link: \summary: |finally arrived. Other than that one time at the, I’ve never used a 3D printer.However, printing off a copy ofst has me very impressed; ...
 tags: ["snapmaker"]
 comments: true
 ---

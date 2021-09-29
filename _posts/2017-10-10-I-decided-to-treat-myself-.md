@@ -6,7 +6,7 @@ timestamp: October 10th, 2017 2:51pm
 audio: 
 video: 
 image: 
-link: 
+link: \summary:  Vector illustration apps for android # Pramble: #I decided to treat myself and upgrade my laptop/drawing tablet combo. I’ve found lots o...
 tags: [""]
 comments: true
 ---

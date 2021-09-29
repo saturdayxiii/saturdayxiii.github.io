@@ -6,7 +6,7 @@ timestamp: January 16th, 2019 8:42am
 audio: 
 video: 
 image: 
-link: 
+link: \summary: |
 tags: ["art", "customizing", "ps2", "showcase"]
 comments: true
 ---

@@ -6,7 +6,7 @@ timestamp: October 3rd, 2017 7:38am
 audio: 
 video: 
 image: 
-link: 
+link: \summary:  Reincarnation Game first thoughts Using this space to develop game concept ideas.A game with reincarnation as a mechanic. The player doe...
 tags: ["brainstorm", "ideas"]
 comments: true
 ---

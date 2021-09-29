@@ -153,17 +153,7 @@ for file in directory:
     #print (no_punc)
     print (date)
     #date is now title I guess
-    #make a summary WAIT!  We don't need it no more
-    '''
-    summ2 = re.findall('<p>(\w.{0,150}).*?</', read_file)#why doesn't non greedy modifier do anything???
-    summ2.append('')
-    summ1 = summ2[0]
-    summ1 = ''.join(summ1)
-    summ = ""
-    for char in summ1:
-        if char not in punc:
-            summ = summ + char
-    '''
+    
     # make tag list and generate frontmatter
     tags = re.findall('tag">(\w*)<', read_file)
     #lower tag case and reapply post type
@@ -202,6 +192,8 @@ for file in directory:
     #read_file = re.sub(head.group(0),"",read_file)
     head = re.compile ('^.*<body>\s+', flags=re.S)
     read_file = re.sub(head, "", read_file)
+    read_file = re.sub('^\n\n', '', read_file) #clean up
+    read_file = re.sub('^\n', '', read_file)
     #foot = re.match('^.*(<div id="footer">.*$)',read_file, re.DOTALL)
     #print (foot)
     #read_file = re.sub(foot.group(1),"",read_file) #suddenly stopped working?
@@ -237,9 +229,31 @@ for file in directory:
         image = ''.join(oimgs)
         link = ''.join(ntub)
         read_file = re.sub('^.*\n', '', read_file)
+        
+    #make a summary WAIT!  We don't need it no more
     
+    summ2 = re.findall('(.{1,145})', read_file)#why doesn't non greedy modifier do anything???
+    #summ2.append('')
+    #summ1 = summ2[0]
+    summ2 = ''.join(summ2)
+    summ2 = re.sub('\xa0','',summ2)
+    summ2 = re.sub('-&gt','',summ2)
+    summ2 = re.sub('(\[.*\])','',summ2)
+    summ2 = re.sub('(http.*?)<','',summ2)
+    summ2 = re.sub('(<.*?>)',' ',summ2)
+    summ2 = re.sub('||   |  |','',summ2)
+    summ2 = re.sub('|   |  |','',summ2)
+    summ2 = re.sub('|   |','',summ2)
+    summ2 = re.sub('|     ','',summ2)
+    summ2 = re.sub('    ','',summ2)
+    summ2 = re.sub('|','',summ2)
+    summ2 = re.sub('||','',summ2)
+    summ2 = re.sub('|||','',summ2)
+    summ2 = re.sub('||||','',summ2)
+    summ2 = re.sub('##','',summ2)
+    summ = (summ2[:137] + '...') if len(summ2) > 140 else summ2
     #add front matter
-    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\ntags: [" + tags + '"]\ncomments: true\n---'
+    fmatt = "---\nlayout: post\ntitle: " + no_punc +"\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link + "\summary: " + summ + "\ntags: [" + tags + '"]\ncomments: true\n---'
     read_file = fmatt + "\n" + read_file + "\n" + source
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +

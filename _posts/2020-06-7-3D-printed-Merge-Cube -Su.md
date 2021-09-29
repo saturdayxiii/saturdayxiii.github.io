@@ -6,7 +6,7 @@ timestamp: June 7th, 2020 10:29pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/620327675644592128.png
-link: https://saturdayxiii.github.io/media/620327675644592128.png
+link: https://saturdayxiii.github.io/media/620327675644592128.png\summary: 3D printed Merge Cube. Super happy that turned out. 
 tags: [""]
 comments: true
 ---
