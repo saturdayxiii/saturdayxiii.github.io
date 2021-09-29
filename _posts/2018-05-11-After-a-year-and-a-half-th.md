@@ -9,34 +9,34 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_0.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_0.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_1.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_1.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_2.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_2.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_2.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_3.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_3.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_3.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_4.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_4.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_4.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_5.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_5.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_5.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_6.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_6.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_6.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_7.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_7.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_7.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_8.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_8.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_8.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/173801922419_09.jpg
+	gimage: https://saturdayxiii.github.io/media/173801922419_09.jpg
 	url: https://saturdayxiii.github.io/media/173801922419_09.jpg
 tags: ["snapmaker"]
 comments: true

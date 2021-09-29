@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/182664450609_0.jpg
+	gimage: https://saturdayxiii.github.io/media/182664450609_0.jpg
 	url: https://saturdayxiii.github.io/media/182664450609_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/182664450609_1.gif
+	gimage: https://saturdayxiii.github.io/media/182664450609_1.gif
 	url: https://saturdayxiii.github.io/media/182664450609_1.gif
 tags: ["edible", "borscht", "food"]
 comments: true

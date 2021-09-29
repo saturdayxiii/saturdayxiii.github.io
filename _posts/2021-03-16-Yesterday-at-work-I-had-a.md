@@ -9,22 +9,22 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_0.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_0.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_1.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_1.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_2.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_2.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_2.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_3.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_3.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_3.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_4.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_4.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_4.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/645836584988590080_5.jpg
+	gimage: https://saturdayxiii.github.io/media/645836584988590080_5.jpg
 	url: https://saturdayxiii.github.io/media/645836584988590080_5.jpg
 tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink", "personal"]
 comments: true

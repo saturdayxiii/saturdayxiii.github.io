@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/148986095554_0.jpg
+	gimage: https://saturdayxiii.github.io/media/148986095554_0.jpg
 	url: https://saturdayxiii.github.io/media/148986095554_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/148986095554_1.jpg
+	gimage: https://saturdayxiii.github.io/media/148986095554_1.jpg
 	url: https://saturdayxiii.github.io/media/148986095554_1.jpg
 tags: ["bugs", "pest", "egg", "insect", "macro", "photography", "art"]
 comments: true

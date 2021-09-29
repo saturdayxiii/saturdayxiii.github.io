@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/185503955994_0.jpg
+	gimage: https://saturdayxiii.github.io/media/185503955994_0.jpg
 	url: https://saturdayxiii.github.io/media/185503955994_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/185503955994_1.jpg
+	gimage: https://saturdayxiii.github.io/media/185503955994_1.jpg
 	url: https://saturdayxiii.github.io/media/185503955994_1.jpg
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 comments: true

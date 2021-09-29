@@ -9,13 +9,13 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/147948519604_0.jpg
+	gimage: https://saturdayxiii.github.io/media/147948519604_0.jpg
 	url: https://saturdayxiii.github.io/media/147948519604_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/147948519604_1.jpg
+	gimage: https://saturdayxiii.github.io/media/147948519604_1.jpg
 	url: https://saturdayxiii.github.io/media/147948519604_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/147948519604_2.jpg
+	gimage: https://saturdayxiii.github.io/media/147948519604_2.jpg
 	url: https://saturdayxiii.github.io/media/147948519604_2.jpg
 tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true

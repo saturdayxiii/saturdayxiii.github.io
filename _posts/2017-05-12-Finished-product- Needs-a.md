@@ -9,19 +9,19 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/160594157914_0.jpg
+	gimage: https://saturdayxiii.github.io/media/160594157914_0.jpg
 	url: https://saturdayxiii.github.io/media/160594157914_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/160594157914_1.jpg
+	gimage: https://saturdayxiii.github.io/media/160594157914_1.jpg
 	url: https://saturdayxiii.github.io/media/160594157914_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/160594157914_2.jpg
+	gimage: https://saturdayxiii.github.io/media/160594157914_2.jpg
 	url: https://saturdayxiii.github.io/media/160594157914_2.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/160594157914_3.jpg
+	gimage: https://saturdayxiii.github.io/media/160594157914_3.jpg
 	url: https://saturdayxiii.github.io/media/160594157914_3.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/160594157914_4.jpg
+	gimage: https://saturdayxiii.github.io/media/160594157914_4.jpg
 	url: https://saturdayxiii.github.io/media/160594157914_4.jpg
 tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets", "showcase"]
 comments: true

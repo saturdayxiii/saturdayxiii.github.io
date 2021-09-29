@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/186544581839_0.jpg
+	gimage: https://saturdayxiii.github.io/media/186544581839_0.jpg
 	url: https://saturdayxiii.github.io/media/186544581839_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/186544581839_1.jpg
+	gimage: https://saturdayxiii.github.io/media/186544581839_1.jpg
 	url: https://saturdayxiii.github.io/media/186544581839_1.jpg
 tags: ["shows", "comic", "customizing", "showcase"]
 comments: true

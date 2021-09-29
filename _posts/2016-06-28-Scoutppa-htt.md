@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/146603521059_0.jpg
+	gimage: https://saturdayxiii.github.io/media/146603521059_0.jpg
 	url: https://saturdayxiii.github.io/media/146603521059_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/146603521059_1.jpg
+	gimage: https://saturdayxiii.github.io/media/146603521059_1.jpg
 	url: https://saturdayxiii.github.io/media/146603521059_1.jpg
 tags: ["insect", "bug", "macro", "tiny", "beetle", "photography", "art"]
 comments: true

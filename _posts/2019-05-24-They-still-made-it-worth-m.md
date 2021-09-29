@@ -9,16 +9,16 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/185116082294_0.gif
+	gimage: https://saturdayxiii.github.io/media/185116082294_0.gif
 	url: https://saturdayxiii.github.io/media/185116082294_0.gif
 	- title: 
-	image: https://saturdayxiii.github.io/media/185116082294_1.gif
+	gimage: https://saturdayxiii.github.io/media/185116082294_1.gif
 	url: https://saturdayxiii.github.io/media/185116082294_1.gif
 	- title: 
-	image: https://saturdayxiii.github.io/media/185116082294_2.gif
+	gimage: https://saturdayxiii.github.io/media/185116082294_2.gif
 	url: https://saturdayxiii.github.io/media/185116082294_2.gif
 	- title: 
-	image: https://saturdayxiii.github.io/media/185116082294_3.gif
+	gimage: https://saturdayxiii.github.io/media/185116082294_3.gif
 	url: https://saturdayxiii.github.io/media/185116082294_3.gif
 tags: ["trampoline", "music", "recommended", "concert"]
 comments: true

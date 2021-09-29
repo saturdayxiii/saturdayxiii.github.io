@@ -272,7 +272,7 @@ for file in directory:
     fmatt = "---\nlayout: post\ntitle: " + no_punc + "\ntype: " + post + "\ntimestamp: " + time + "\naudio: " + snd + "\nvideo: " + mp4 + "\nimage: " + image + "\nlink: " + link
     if len(oimgs) >1:
         for i in oimgs:
-            gallery = gallery + '\n\t- title: \n\timage: ' + i + '\n\turl: ' + i
+            gallery = gallery + '\n\t- title: \n\tgimage: ' + i + '\n\turl: ' + i
         fmatt = fmatt + "\n" + gallery
     fmatt = fmatt + "\ntags: [" + tags + '"]\ncomments: true\n---'
     #print (fmatt)

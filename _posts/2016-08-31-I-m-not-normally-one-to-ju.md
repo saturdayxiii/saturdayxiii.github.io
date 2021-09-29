@@ -9,13 +9,13 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/149754879401_0.jpg
+	gimage: https://saturdayxiii.github.io/media/149754879401_0.jpg
 	url: https://saturdayxiii.github.io/media/149754879401_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/149754879401_1.jpg
+	gimage: https://saturdayxiii.github.io/media/149754879401_1.jpg
 	url: https://saturdayxiii.github.io/media/149754879401_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/149754879401_2.jpg
+	gimage: https://saturdayxiii.github.io/media/149754879401_2.jpg
 	url: https://saturdayxiii.github.io/media/149754879401_2.jpg
 tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography", "art"]
 comments: true

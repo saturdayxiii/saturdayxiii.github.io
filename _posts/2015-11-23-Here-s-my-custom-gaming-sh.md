@@ -9,19 +9,19 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/133814245004_0.jpg
+	gimage: https://saturdayxiii.github.io/media/133814245004_0.jpg
 	url: https://saturdayxiii.github.io/media/133814245004_0.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/133814245004_1.jpg
+	gimage: https://saturdayxiii.github.io/media/133814245004_1.jpg
 	url: https://saturdayxiii.github.io/media/133814245004_1.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/133814245004_2.jpg
+	gimage: https://saturdayxiii.github.io/media/133814245004_2.jpg
 	url: https://saturdayxiii.github.io/media/133814245004_2.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/133814245004_3.jpg
+	gimage: https://saturdayxiii.github.io/media/133814245004_3.jpg
 	url: https://saturdayxiii.github.io/media/133814245004_3.jpg
 	- title: 
-	image: https://saturdayxiii.github.io/media/133814245004_4.jpg
+	gimage: https://saturdayxiii.github.io/media/133814245004_4.jpg
 	url: https://saturdayxiii.github.io/media/133814245004_4.jpg
 tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization", "shelving", "showcase"]
 comments: true

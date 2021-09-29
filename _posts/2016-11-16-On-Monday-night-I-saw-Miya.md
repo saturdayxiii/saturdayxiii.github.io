@@ -9,22 +9,22 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg
 	- title: 
-	image: https://64.media.tumblr.com/ea95b35294ad3f386c5301a0dffa0a6c/tumblr_inline_ogrbqcw4pZ1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/ea95b35294ad3f386c5301a0dffa0a6c/tumblr_inline_ogrbqcw4pZ1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/ea95b35294ad3f386c5301a0dffa0a6c/tumblr_inline_ogrbqcw4pZ1rnrp45_540.jpg
 	- title: 
-	image: https://64.media.tumblr.com/fd8e461461064cc269f808a7b5071ee2/tumblr_inline_ogrbqp4uRY1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/fd8e461461064cc269f808a7b5071ee2/tumblr_inline_ogrbqp4uRY1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/fd8e461461064cc269f808a7b5071ee2/tumblr_inline_ogrbqp4uRY1rnrp45_540.jpg
 	- title: 
-	image: https://64.media.tumblr.com/d6331f05a9687c4c533f5ff61bb8a9b0/tumblr_inline_ogrbqvsazc1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/d6331f05a9687c4c533f5ff61bb8a9b0/tumblr_inline_ogrbqvsazc1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/d6331f05a9687c4c533f5ff61bb8a9b0/tumblr_inline_ogrbqvsazc1rnrp45_540.jpg
 	- title: 
-	image: https://64.media.tumblr.com/7ae6e4748e823d97ed5e8ddf1da6eb4e/tumblr_inline_ogrbrfYGRq1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/7ae6e4748e823d97ed5e8ddf1da6eb4e/tumblr_inline_ogrbrfYGRq1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/7ae6e4748e823d97ed5e8ddf1da6eb4e/tumblr_inline_ogrbrfYGRq1rnrp45_540.jpg
 	- title: 
-	image: https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg
+	gimage: https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg
 	url: https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg
 tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie", "personal"]
 comments: true

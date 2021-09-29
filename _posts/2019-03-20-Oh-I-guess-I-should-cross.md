@@ -9,10 +9,10 @@ image:
 link: 
 gallery:
 	- title: 
-	image: https://saturdayxiii.github.io/media/183586901534_0.gif
+	gimage: https://saturdayxiii.github.io/media/183586901534_0.gif
 	url: https://saturdayxiii.github.io/media/183586901534_0.gif
 	- title: 
-	image: https://saturdayxiii.github.io/media/183586901534_1.gif
+	gimage: https://saturdayxiii.github.io/media/183586901534_1.gif
 	url: https://saturdayxiii.github.io/media/183586901534_1.gif
 tags: ["game", "animation", "design", "showcase"]
 comments: true
