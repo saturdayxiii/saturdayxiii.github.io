@@ -4,10 +4,10 @@ type: food
 title: "Chickpea Pasta"
 gallery:
 -title: making pasta
-image: https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg
+gimage: https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg
 url: https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg
 -title: eating pasta
-image: https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg
+gimage: https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg
 url: https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg
 tags: ['food', 'chickpea', 'pasta', 'recipe']
 ---
