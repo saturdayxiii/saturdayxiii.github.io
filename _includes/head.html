@@ -38,6 +38,8 @@
 <meta property="og:description" content="
 {% if page.summary %}
 {{ page.summary }}
+{% elsif page.content }}
+{{ page.content }}
 {% else %}
 {{ site.description.meta }}
 {% endif %}">
