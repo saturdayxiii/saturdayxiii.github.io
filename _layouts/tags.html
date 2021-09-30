@@ -2,8 +2,8 @@
 layout: default
 ---
 <style>
-    .image-gallery {overflow: unset; margin-left: -1%!important;}
-    .image-gallery a {float: left; border-style: solid; border-width: 1px; display: block; margin: 0 0 1% 1%; width: 19%; text-decoration: none !important;}
+    .image-gallery {overflow: unset; margin-left: -1%!important; border-style: solid; border-width: 1px;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-decoration: none !important;}
     .image-gallery a img {width: 100%; display: block;}
     .image-gallery a span {display: block; text-align: center; padding: 3px 0; text-decoration: none;}
 </style>
@@ -19,7 +19,7 @@ layout: default
           {% assign tag_slug = tag | slugify: "raw" %}
             <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
               rel="category tag">
-                #{{ tag }} </small></span></a>
+                #{{ tag }} {% endfor %}</small></span></a>
       {% elsif post.gallery %}
         <a href="{{ post.url }}" title="{{ post.tags }}"><img src="{{ post.gallery.gimage }}" alt="{{ post.tags }}" /><span>{{ post.title }}</span></a>
       {% else %}
