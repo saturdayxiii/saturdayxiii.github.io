@@ -2,11 +2,10 @@
 layout: post
 type: food
 title: "Ginger Bug Scoby"
+image: https://i.postimg.cc/JnKmsHym/PXL-20210615.jpg
+link: https://i.postimg.cc/MHTwVZRB/PXL-20210615-214407618.jpg
 tags: ["ginger bug", "food", "pellicle", "kombucha", "drink", "snack", "update"]
 ---
-
-[![Ginger Bug Scoby](https://i.postimg.cc/JnKmsHym/PXL-20210615.jpg)](https://i.postimg.cc/MHTwVZRB/PXL-20210615-214407618.jpg)
-
 I've had my ginger bug on the counter for a month, maybe two.  It stopped producing bubbles after a couple weeks, but it tastes fine so I kept it going in hopes it would bounce back.  Well, it probably bounces now.
 
 I pulled a very nice looking pellicle off of it today and... it's tasty.  Much softer and fruitier than the pellicle's off my actual kombucha.  
