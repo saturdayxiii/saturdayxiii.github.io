@@ -24,7 +24,9 @@ layout: default
                     rel="category tag">
                 #{{ tag }} {% endfor %}</small></span></a>
             {% elsif post.gallery %}
-                <a href="{{ post.url }}" title="{{ post.tags }}"><img src="{{ post.gallery.gimage }}" alt="{{ post.tags }}" /><span>{{ post.title }}</span></a>
+                {% for item in page.galleries %}
+                <a href="{{ post.url }}" title="{{ post.tags }}"><img src="{{ item.gimage }}" alt="{{ post.tags }}" /><span>{{ post.title }}</span></a>
+                {% break %}
             {% else %}
                 <br><a href="{{ post.url }}">{{ post.title }}</a><small> published {{ post.date | date: "%Y-%m-%d" }},
                 {% for tag in post.tags %}
