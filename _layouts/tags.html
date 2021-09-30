@@ -29,7 +29,7 @@ layout: default
                         </span>
                     {% elsif post.gallery %}
                         {% for item in post.gallery %}
-                            <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="{{ item.gimage }}" alt="{{ post.title }}" /></a>
+                            <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="/img/blank.gif" alt="{{ post.title }}" data-echo="{{ post.image }}" /></a>
                             <span>
                                 <small>
                                     {% for tag in post.tags %}
