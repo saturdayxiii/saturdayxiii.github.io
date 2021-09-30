@@ -2,11 +2,10 @@
 layout: post
 type: me
 title: Iontophoresis
-tags: ["health", "iontophoresis", "diy", "experiment"]
+image: https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg
+link: http://europepmc.org/article/MED/30533993
+tags: ["health", "iontophoresis", "diy", "experiment", "sweat", "stink", "BO", "bio", "electronics"]
 ---
-
-[![iontophoresis](https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg)](http://europepmc.org/article/MED/30533993)
-
   I just found out about iontophoresis and it sounds like something I could benefit from.  I was contemplating buying a $500 machine which Facebook thought I needed, but a quick google brought me to some research about how to DIY it.
   Awesome.
   It looks like I have all the parts I need, but none of the papers went into any kind of description of how to hook things up, and I wasn't 100% certain that I was following the wires correctly from the photos.  They just say "attach the wires", and I'm like:
