@@ -5,15 +5,21 @@ layout: page
 <p>
 <p></p>
 <style>
-ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
-ul.jekyllcodex_accordion li {border-top: 0px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
-ul.jekyllcodex_accordion li input {display: none;}
-ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0rem 2.4rem 0rem -3rem; margin: 0;}
-ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
-ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
-ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
-ul.jekyllcodex_accordion li label::before {content: ">"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
-ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-270deg);}
+    ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+    ul.jekyllcodex_accordion li {border-top: 0px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+    ul.jekyllcodex_accordion li input {display: none;}
+    ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0rem 2.4rem 0rem -3rem; margin: 0;}
+    ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
+    ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
+    ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
+    ul.jekyllcodex_accordion li label::before {content: ">"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
+    ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-270deg);}
+    .grid-container {display: inline-grid; grid-template-columns: auto auto auto auto auto;}
+    .image-gallery {overflow: clip; margin: 1px 0 1px -1%!important; border-color: #222; border-style: solid; border-width: 1px;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; text-decoration: none !important;}
+    .image-gallery a img {width: 100%; display: block; text-decoration: none;}
+    .image-gallery a span {display: block; text-align: center; padding: 3px 0; text-decoration: none;}
+    .image-gallery p {margin: 1px 0 1px 0;}
 </style>
 <ul class="jekyllcodex_accordion">
     {%- for post in site.posts -%}
@@ -25,6 +31,41 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-27
           {% if year != nyear %}
             </div></li><li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}"><h3 style="margin-top: 10px;">{{ post.date | date: '%Y' }}</h3></label><div>
           {%- endif -%}
-        {%- endunless -%}<br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} •</a><small> {{ post.date | date: site.date_format }}</small>
+        {%- endunless -%}
+            {% comment %}<br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} •</a><small> {{ post.date | date: site.date_format }}</small>{% endcomment %}
+            <p class="image-gallery">
+                    {% if post.image %}
+                        <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="/img/blank.gif" alt="{{ post.title }}" data-echo="{{ post.image }}" /></a>
+                        <span>
+                            <small>
+                                {% for tag in post.tags %}
+                                    {% assign tag_slug = tag | slugify: "raw" %}
+                                    <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }} rel="category tag">#{{ tag }} </a>
+                                {% endfor %}
+                            </small>
+                        </span>
+                    {% elsif post.gallery %}
+                        {% for item in post.gallery %}
+                            <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="{{ item.gimage }}" alt="{{ post.title }}" /></a>
+                            <span>
+                                <small>
+                                    {% for tag in post.tags %}
+                                        {% assign tag_slug = tag | slugify: "raw" %}
+                                        <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }} rel="category tag">#{{ tag }} </a>
+                                    {% endfor %}
+                                </small>
+                            </span>
+                            {% break %}
+                        {% endfor %}
+                    {% else %}
+                        <br><a href="{{ post.url }}">{{ post.title }}</a>
+                        <small> published {{ post.date | date: "%Y-%m-%d" }},
+                            {% for tag in post.tags %}
+                                {% assign tag_slug = tag | slugify: "raw" %}
+                                <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }} rel="category tag">#{{ tag }} </a>
+                            {% endfor %}
+                        </small>
+                    {% endif %}
+                </p>
     {%- endfor -%}</div></li>
 </ul>
