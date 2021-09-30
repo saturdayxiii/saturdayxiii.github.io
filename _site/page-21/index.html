@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-21/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,20 +362,62 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Mar 20, 2019 • Less than a minute read</span>
+  	<a href="//2019/03/20/Oh-I-guess-I-should-cross/"><h1>Oh I guess I should cross</h1></a>
+      <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/183586901534_0.gif" title=""><img src="https://saturdayxiii.github.io/media/183586901534_0.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/183586901534_1.gif" title=""><img src="https://saturdayxiii.github.io/media/183586901534_1.gif" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
+      
+        <p>/&gt;
+ /&gt;</p>
+
+<p>Oh, I guess I should cross post this.
+After a month of hard work on an entry for <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.thenew8bitheroes.com%2F&amp;t=ZDI3NDFjOTUzYzRlYjJjODJkNmFjZDZiOWJhYzQ0ZjMyZmNjMDRjZCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">NESMaker’s Byte Off</a> competition, <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fsaturdayxiii.itch.io%2Fpingback&amp;t=OWY2ZDFhZGRiMjg4OGI0OWQ3NjAyNmYxZWEyMWIxMDUwZTY0YjM4OCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">Pingback</a> is playable.
+Coming up with music that was actually listenable was probably my favorite part of the project.
+Please check out all the entries <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Farcade.thenew8bitheroes.com%2F&amp;t=NDM3NTJmYTAzMWMxYjlmMmNmMzI4OGIzYzdkMjA0NGQ1ZTczY2FiNSxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">here</a>.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/183586901534</small></p>
+&nbsp;<a class="read-more" href="//2019/03/20/Oh-I-guess-I-should-cross/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 20, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/20/Jalapeno-graveyard/"><h1>Jalapeno-graveyard</h1></a>
+      Mar 17, 2019 • Less than a minute read</span>
+  	<a href="//2019/03/17/Birds-Bear-Arms-were-amazi/"><h1>Birds Bear Arms were amazi</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/183530324689.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/183530324689.jpg" alt="Birds Bear Arms were amazi"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182175873024.jpg" />
+        <p>Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.</p>
 
-Jalapeno graveyard.
-I love jalapeno poppers, but I’ll be damned if I’m going to sit there and stuff peppers or pay $10 for a small frozen portion.
-So I made a Panko encrusted cheese dip for my delicious green goodies.
-
-<small>source: https://saturdayxiii.tumblr.com/post/182175873024</small>
-&nbsp;<a class="read-more" href="//2019/01/20/Jalapeno-graveyard/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/183530324689</small></p>
+&nbsp;<a class="read-more" href="//2019/03/17/Birds-Bear-Arms-were-amazi/">Read  →</a>
       
       </p>
 
@@ -388,41 +428,22 @@ So I made a Panko encrusted cheese dip for my delicious green goodies.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 18, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/18/Going-through-the-tutorial/"><h1>Going-through-the-tutorial</h1></a>
+      Mar 11, 2019 • Less than a minute read</span>
+  	<a href="//2019/03/11/Radio-gave-me-a-gift-today/"><h1>Radio gave me a gift today</h1></a>
       <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=1104501430&amp;ts=1618866013&amp;t=bfa9c841e05a38e5be81ecf8b7aa1119f4012a0c"></iframe>
+        
       
-        <img src="https://saturdayxiii.github.io/media/182126624604.gif" />
+        <p>Radio gave me a gift today.</p>
 
-Going through the tutorials for <a href="http://www.thenew8bitheroes.com" target="_blank">NESMaker</a> again, and its features are still giving me chills.
-
-<small>source: https://saturdayxiii.tumblr.com/post/182126624604</small>
-&nbsp;<a class="read-more" href="//2019/01/18/Going-through-the-tutorial/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Jan 17, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/17/Google-Music-has-honoured/"><h1>Google-Music-has-honoured-</h1></a>
-      <p>
-      
-        <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2965564688&amp;ts=1618890940&amp;t=ec0a6cf144fb90dac1b3fd52ae67d4dddf0b6d3f" />
-
-Google Music has honoured me with introduction to <a href="https://badcopbadcop.bandcamp.com" target="_blank">Bad Cop/Bad Cop</a>.
-Fun, danceable, punky brilliance with a strong agenda.
-
-<small>source: https://saturdayxiii.tumblr.com/post/182087732639</small>
-&nbsp;<a class="read-more" href="//2019/01/17/Google-Music-has-honoured/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/183382101139</small></p>
+&nbsp;<a class="read-more" href="//2019/03/11/Radio-gave-me-a-gift-today/">Read  →</a>
       
       </p>
 
@@ -435,18 +456,37 @@ Fun, danceable, punky brilliance with a strong agenda.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 17, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/17/An-intriguing-look-at-the/"><h1>An-intriguing-look-at-the-</h1></a>
+      Feb 16, 2019 • Less than a minute read</span>
+  	<a href="//2019/02/16/"><h1>NT</h1></a>
       <p>
-      
-        <a href="https://www.youtube.com/watch?v=YdSdvIRkkDY"><img src="http://i3.ytimg.com/vi/YdSdvIRkkDY/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
 
-An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be talked about more often.
-<figure class="tmblr-full" data-orig-height="325" data-orig-width="500"><img src="https://64.media.tumblr.com/6225571dfe9b48c1d44a9d553bc631af/tumblr_inline_plhyo8uhOP1rnrp45_540.gif" data-orig-height="325" data-orig-width="500" /> 
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/182860107679.jpg" title=""><img src="https://saturdayxiii.github.io/media/182860107679.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/44f5fac3b2993827cf28ae41667330fc/tumblr_inline_pn1yntEaV31rnrp45_540.gif" title=""><img src="https://64.media.tumblr.com/44f5fac3b2993827cf28ae41667330fc/tumblr_inline_pn1yntEaV31rnrp45_540.gif" alt="" /><span></span></a><a href="https://64.media.tumblr.com/38dff7f0616f3a96cceea172a6c5afe5/tumblr_inline_pn1yutYMAs1rnrp45_540.gif" title=""><img src="https://64.media.tumblr.com/38dff7f0616f3a96cceea172a6c5afe5/tumblr_inline_pn1yutYMAs1rnrp45_540.gif" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
+      
+        <p>/&gt;</p>
+
+<p>The A E S T H I T I C of <a href="https://store.steampowered.com/app/493710/Laraan/" target="_blank">Laraan</a> makes if very difficult to tell how far away things are, which is a bad thing for platforming. There’s also very floaty hit detection, like hit boxes are a ways outside of the physical objects; and the camera, which controls like it’s buoyantly moving through jelly, frequently jumps up close to the character which doesn’t let you see what’s in front of you. </p>
+<figure data-orig-width="500" data-orig-height="339" class="tmblr-full">/&gt;
+Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone, now bring me shiny things or die trying.”  There’s visual elements of a backstory, but what am I supposed to feel?  My only goal is to get shiny things.  Am I trying to please this menacing god?
+  Do I care for revenge?
+  Maybe my real motivation is just to find more sweet hover bikes that explode when rocks look at them funny.  Not a lot going on here for a game that performs so frustratingly.
+<br />
+<figure data-orig-width="500" data-orig-height="400" class="tmblr-full">/&gt; 
   
-<small>source: https://saturdayxiii.tumblr.com/post/182094690114</small>
-</figure>
-&nbsp;<a class="read-more" href="//2019/01/17/An-intriguing-look-at-the/">Read  →</a>
+<small>source: https://saturdayxiii.tumblr.com/post/182860107679</small>
+</figure></figure>
+&nbsp;<a class="read-more" href="//2019/02/16/">Read  →</a>
       
       </p>
 
@@ -457,24 +497,28 @@ An intriguing look at the layers and layers of puzzles that Jonathon Blow develo
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 16, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/16/Seatbelt-stop/"><h1>Seatbelt Stop</h1></a>
+      Feb 15, 2019 • Less than a minute read</span>
+  	<a href="//2019/02/15/Spent-Valentines-with-my-S/"><h1>Spent Valentines with my S</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/182828395039.gif" target="_blank"><img src="https://saturdayxiii.github.io/media/182828395039.gif" alt="Spent Valentines with my S"></a>
+        
+        
+        
       
-        <a href="https://www.thingiverse.com/make:595654"><img src="https://64.media.tumblr.com/9a5b6e71c9d97eeb032a2e29353b9e95/tumblr_plg0w8emxG1rtskmu_r1_og_500.jpg" alt="seatbeltStop" /></a>
-<h3 id="seatbelt-stop-by-saturdayxiii">Seatbelt Stop by saturdayxiii</h3>
-A device that you only acknowledge when you find yourself without one.
+        <p>Spent Valentines with my Sweetie, drinking coke and wine, while watching <a href="https://en.wikipedia.org/wiki/Bound_(1996_film)" target="_blank">Bound</a>, presented by <a href="https://www.facebook.com/HOMO-CIDAL-215031542009836/" target="_blank">Homo-cidal</a> at the <a href="http://www.metrocinema.org" target="_blank">Metro</a>.  All of my favorite things meshing together, it was more like my birthday or something.  What, Valentines is not supposed to be all about me?  <br /><br />I wish I had the ability to take my simplistic thoughts and make them engaging like the movie did.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/182066776749</small>
-&nbsp;<a class="read-more" href="//2019/01/16/Seatbelt-stop/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/182828395039</small></p>
+&nbsp;<a class="read-more" href="//2019/02/15/Spent-Valentines-with-my-S/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -493,7 +537,7 @@ A device that you only acknowledge when you find yourself without one.
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -507,9 +551,156 @@ A device that you only acknowledge when you find yourself without one.
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

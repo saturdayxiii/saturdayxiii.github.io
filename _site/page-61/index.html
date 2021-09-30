@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-61/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -366,24 +364,21 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 17, 2015 • Less than a minute read</span>
-  	<a href="//2015/03/17/I-remember-telling-Alix-th/"><h1>I-remember-telling-Alix-th</h1></a>
+      Dec 7, 2015 • Less than a minute read</span>
+  	<a href="//2015/12/07/High-Resolution-Graphics/"><h1>High Resolution Graphics</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/134745252369.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/134745252369.jpg" alt="High Resolution Graphics"></a>
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/185573413369_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/185573413369_1.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>High Resolution Graphics
+<a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a><br /></p>
 
-I remember telling Alix that the face on my phone case wasn’t a self portrait.  Now. I think. I can only describe it as a self portrait.
-
-<small>source: https://saturdayxiii.tumblr.com/post/185573413369</small>
-&nbsp;<a class="read-more" href="//2015/03/17/I-remember-telling-Alix-th/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/134745252369</small></p>
+&nbsp;<a class="read-more" href="//2015/12/07/High-Resolution-Graphics/">Read  →</a>
       
       </p>
 
@@ -394,19 +389,22 @@ I remember telling Alix that the face on my phone case wasn’t a self portrait.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 29, 2014 • 1&nbsp;min read</span>
-  	<a href="//2014/10/29/"><h1>NT</h1></a>
+      Dec 3, 2015 • Less than a minute read</span>
+  	<a href="//2015/12/03/Why-have-characters-when-y/"><h1>Why have characters when y</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/134502569594.png" target="_blank"><img src="https://saturdayxiii.github.io/media/134502569594.png" alt="Why have characters when y"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182014060474.jpg" />
+        <p>Why have characters when you can have tropes?</p>
 
-From a person who hasn’t played this type of strategy game in a long time, <a href="https://store.steampowered.com/app/311980/Isomer/" target="_blank">Isomer</a> is a lot of fun.<br /><br />Gameplay?  Well, it functions. Things aren’t polished, there’s a lot of features that we hope to see included, and the control limitations take a little getting used to, but it functions, and it’s fun. You play the aliens, invading from another planet, you fight humans, who are also invading from another planet, I guess. Gather resources, build your base, trade up your inventory, explore, and conquer. Some simple formulas done properly to give you great gameplay value.<br /><br />Now the game has tutorials: personally I liked it better without them. I liked being able just to play the game. You got attacked in your base in the first 2 minutes of game play? That’s the tutorial. Worked great for me. I had some questions about which actions should be prioritized, but learning that is the bulk of the enjoyability in this type of strategy game, and it’s not hard to figure out by experimentation. So it’s a great game if you actually like to learn while you play, rather than mindlessly carrying out instructions and quests. <br /><br />Isomer has a simple style; rather cartoony. I like that. Night time is even kind of creepy the first couple times. First play through of Minecraft kind of creepy, but less impending doom. There’s even hints of a developing story taking place. I sure hope that gets implemented more in the future!<br /><br />I haven’t played this type of game in a long time, and cartoony-ness doesn’t ruin my immersion. These are pros for me. Beyond that you still have a stable game that will bring quite a bit of fun if you are into casual strategy.
-<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/182014060474</small>
-&nbsp;<a class="read-more" href="//2014/10/29/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/134502569594</small></p>
+&nbsp;<a class="read-more" href="//2015/12/03/Why-have-characters-when-y/">Read  →</a>
       
       </p>
 
@@ -417,18 +415,24 @@ From a person who hasn’t played this type of strategy game in a long time, <a 
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 17, 2014 • 1&nbsp;min read</span>
-  	<a href="//2014/10/17/"><h1>NT</h1></a>
+      Nov 24, 2015 • Less than a minute read</span>
+  	<a href="//2015/11/24/1-Deny-climate-change/"><h1>1 Deny climate change</h1></a>
       <p>
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182014203904.jpg" />
+        <h2 id="ive-noticed-something">I’ve noticed something.</h2>
+<ol>
+  <li>Deny climate change.</li>
+  <li>Secretly prepare for zombie apocalypse.</li>
+</ol>
 
-I had watched a lets play of <a href="https://store.steampowered.com/app/46460/Scratches__Directors_Cut/" target="_blank">Scratches</a> and another mansion horror game: Pineview Drive. I wanted to give Pineview Drive a negative review because it sucks and is pointless, but that would mean having to pay for it. I already owned Scratches, so lets give this game a positive review instead.<br /><br />This game is great.<br /><br />Honestly it’s not for everyone, but seriously it’s great. Unlike Pineview Drive there is an actual story with real weight to it. Everything has a reason and a consequence, and it’s meaningful to a character that you learn to care about.<br /><br />The game is slow, dated interface and graphics, and requires a lot of reading without voice over. That’s a drawback to most people, but it’s atmosphere is great and meaningful. It has a couple puzzles and very few jump-scares but they are in places that actually matter to the story and give you a memorable experience unlike a certain other game.<br /><br />Scratches has a heavy story with not a whole lot of game action, definitely not everyone is into that, but this game is beautifully catered to the people who are into that. Great atmosphere, very immersive, great story.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/182014203904</small>
-&nbsp;<a class="read-more" href="//2014/10/17/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/133864209794</small></p>
+&nbsp;<a class="read-more" href="//2015/11/24/1-Deny-climate-change/">Read  →</a>
       
       </p>
 
@@ -439,19 +443,46 @@ I had watched a lets play of <a href="https://store.steampowered.com/app/46460/S
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 18, 2014 • 3&nbsp;min read</span>
-  	<a href="//2014/09/18/"><h1>NT</h1></a>
+      Nov 23, 2015 • Less than a minute read</span>
+  	<a href="//2015/11/23/Here-s-my-custom-gaming-sh/"><h1>Here s my custom gaming sh</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/133814245004_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/133814245004_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/133814245004_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/133814245004_1.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/133814245004_2.jpg" title=""><img src="https://saturdayxiii.github.io/media/133814245004_2.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/133814245004_3.jpg" title=""><img src="https://saturdayxiii.github.io/media/133814245004_3.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/133814245004_4.jpg" title=""><img src="https://saturdayxiii.github.io/media/133814245004_4.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182014542454.jpg" />
+        <p>/&gt;
+‘ .Couple trays unfinished, but you get the idea.  . 
+;
+ /&gt;
+‘ .Made of these modules.  . 
+;
+ /&gt;
+‘ .Fits all major consoles!  . 
+;
+ /&gt;
+‘ .Controller rests!  . 
+;
+ /&gt;
+‘ .The original design.  . 
+;</p>
 
-<a href="https://store.steampowered.com/app/280140/Millennium__A_New_Hope/" target="_blank">Millennium a New Hope</a> must have done well as a high school project. Based on the writing and overload of anime/rpg tropes I assume that’s what it was made for. I don’t know why there are at least 5 of these Millennium games out there, but I think I have a pretty good idea why only one made it to Steam so far, and I’m quite surprised that it did.<br /><br />This review is technically incomplete, because I haven’t finished the game. Everything could change, but I doubt that I’m going to get there. I’ve been playing for 12 hours and have only obtained 4 out of 5 main characters. That’s not a measure of judgment in itself, but I am bored enough to say that I probably won’t play much more. Nothing is compelling me to play more.<br /><br />As an RPG, this game does well in it’s mechanics. It’s got some interesting methods to power up your characters and lots of variety for weapons and enemies. The game play itself is actually quite commendable. … Except for the random jumping portions and other unseen elements, but you can’t win them all.<br /><br />Here’s the clincher for me. This game is more of a first time fan fiction to JRPGs. All these comments towards the immaturity of the writing of the game is because nothing happens for any reason. Or at least for any understandable reason. What’s the conflict? Big kingdom won’t help struggling country side and wants them all to starve to death. Solution? Peasant girl is moved by squirrels helping each other and think that humans need to act more like squirrels (?). Every one is sure to help each other and get along if only she can become leader of the kingdom in its next election. The twist? Democracy has failed! The election is rigged. Plus no one would want to vote for her anyway, but that’s not really addressed. Luckily the land has an ancient tradition for such times: “Martial Law”. When elections don’t go the way you want, find a posse and beat the hell out of people until they listen. If the game was trying to be ironic this would be great, but the sad music and dry story telling tell me it’s trying to be heartfelt and inspiring. <br /><br />So the story sucks, does this ruin the game? Not for everyone, sure, but the story is a major part of JRPG’s and is especially important to this reviewer. What made me stop playing the game is the inane dialogue that happens every scene. I’m tired of clicking through a dozen text bubbles filled with 1 dimensional character banter complete with <em>chuckles</em> and <em>looks away sadly</em> remarks every time a task is finished or started. The characters aren’t characters, they are tropes: ignorant, carefree, stubborn leader; sarcastic sidekick; cowardly tag-a-long; etc. and nothing in the miles of dialogue actually develops character or gives motivation. I only know that the characters have these personalities because the other characters say so. The cowardly tag-a-long seems quite reasonable to me. I was surprised to learn that the main character was “energetic” and carefree until she got sidekicks obsessed enough about her every idea and action to tell me so. Even the quests that every new character demands develop nothing for the characters or story.<br /><br />Some people do like this game, and that’s fine. Hardcore fans are probably more geared toward gameplay. Newbies probably appreciate the warm and simple storyline. Maybe something changes later that will actually grip me to want to progress, but I don’t want to risk another 10 hours on such a low possibility.
-<br />
+<p>Here’s my custom gaming shelf that I designed to meet my needs.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/182014542454</small>
-&nbsp;<a class="read-more" href="//2014/09/18/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/133814245004</small></p>
+&nbsp;<a class="read-more" href="//2015/11/23/Here-s-my-custom-gaming-sh/">Read  →</a>
       
       </p>
 
@@ -462,25 +493,28 @@ I had watched a lets play of <a href="https://store.steampowered.com/app/46460/S
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Aug 2, 2014 • Less than a minute read</span>
-  	<a href="//2014/08/02/"><h1>NT</h1></a>
+      Nov 19, 2015 • Less than a minute read</span>
+  	<a href="//2015/11/19/Is-this-show-still-on/"><h1>Is this show still on</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/133557827039.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/133557827039.jpg" alt="Is this show still on"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182015642344.jpg" />
+        <p>Is this show still on?</p>
 
-I’ve had <a href="https://store.steampowered.com/app/294140/They_Breathe/" target="_blank">They Breathe</a> for a number of years and still love it. Simple concept done perfectly. Only takes about 30 min to play, but it’s fun playing again and again. Great game.
-<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/182015642344</small>
-&nbsp;<a class="read-more" href="//2014/08/02/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/133557827039</small></p>
+&nbsp;<a class="read-more" href="//2015/11/19/Is-this-show-still-on/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -499,7 +533,7 @@ I’ve had <a href="https://store.steampowered.com/app/294140/They_Breathe/" tar
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -513,9 +547,156 @@ I’ve had <a href="https://store.steampowered.com/app/294140/They_Breathe/" tar
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-7/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,32 +362,79 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 15, 2020 • 1&nbsp;min read</span>
-  	<a href="//2020/09/15/"><h1></h1></a>
+      Apr 10, 2021 • Less than a minute read</span>
+  	<a href="//2021/04/10/PS1-Sentient/"><h1>PS1: Sentient</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N" target="_blank"><img src="http://i3.ytimg.com/vi/U8JRjwH6fTQ/maxresdefault.jpg" alt="PS1: Sentient"></a>
+        
+        
+        
       
-        <a href="https://pearltrees.com"><img src="https://64.media.tumblr.com/661cb0ee7b66f366a0a0745c0644dc03/9ceaf41243def2cf-82/s500x750/c0104ab27a14490621472666d42e15fe79f76d08.png" alt="pearltreeslogo" /></a>
+        <p>I’ve been hanging around some ps1 communities, and no one talks about Sentient, but I still think about it regularly.<br />
+SuperGreatFriend’s playthrough is probably the most complete source of information out there for this game.  Reminds me of when everyone needed to use MikeNnemonic’s LSD playthrough to research that game…  SGF got, I believe, 11 of the possible endings in the game, and there are still questions left unanswered.</p>
 
-I think I’ve finally found the ideal bookmark manager.  As far as I can tell, after using it for half a day.
+<p>This game probably deserves to be right up there with Martian Gothic, and Echo Night for ps1 story gems.<br />
+Depending on your attention span, you might want to start on video 5 or 6.  There’s a lot of false starts that are inevitable with a game this cryptic.</p>
 
-I started looking for a 3rd party manager when I started using different browsers on different computers.
+<p><small>source: https://saturdayxiii.tumblr.com/post/648101381193023488</small></p>
+&nbsp;<a class="read-more" href="//2021/04/10/PS1-Sentient/">Read  →</a>
+      
+      </p>
 
-My biggest desire was to use it like a checklist, like any task oriented web app.  Collect webpages based on projects I was working on.
+  </article>
 
-The first big recommendation was raindrop.io.  It was convenient, but really it just hooked me on mood boards, visual based organization.  Raindrop didn’t let you nest any bookmark collections in its free version.  Really hard to organize with only one level of organization.  So my priorities were now to be able to collect my project resources, and nest them in different categories, AND ideally be graphical about it.
 
-I nearly settled on Ggather.  It had one level of nesting, which seemed like, functionality wise, good enough, but thumbnails weren’t free this time.  Kind of worth settling, but a big clincher was that Ggather was only a couple years old, and I couldn’t find any hint of developer interactivity since early 2019.  Looks like the project could dismantle at any time.  So I searched a little bit more.
 
-Finally I hit Pearltrees.  It’s been around a long time, and it’s blog has been active within recent months.  It’s graphic base, and lets me nest collections of bookmarks.  I’ve found a weird bug where sometimes it saves a bookmark as a pdf rather than a link, which screws it all up, but it has a note feature that allows me to work around that, if they won’t fix it.  So that’s my needs met.
 
-What an exciting day.
 
-Let me know if I missed an obvious choice for bookmark management.
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Apr 9, 2021 • 1&nbsp;min read</span>
+  	<a href="//2021/04/09/Yesterday-I-caught-a-Sonic/"><h1>Yesterday I caught a Sonic</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <p><a href="https://www.youtube.com/watch?v=hIo3Gi7Tn2A"><img src="http://i3.ytimg.com/vi/hIo3Gi7Tn2A/hqdefault.jpg" alt="thumbnail" /></a>
+Yesterday I caught a Sonic Advance race on <a href="https://www.twitch.tv/gamesdonequick" target="_blank">GamesDoneQuick</a>.  It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how amazing it is.
+Maybe “under appreciated” is the wrong term, perhaps its too accepted.  Not controversial enough.  Sonic is a huge brand, so even though the Advance games are an offshoot, there is still a huge amount of people who have played them, and I’m under the impression that the majority have enjoyed it.  But when people speculate, albeit less so since Sonic Mania, how Sonic games haven’t really improved since the Genesis days, Sonic Advance is still regularly overlooked.
+I’d love to see the Advance games picked apart, or over glamorized, as much as the other Sonic titles.  Actually that goes for most of the Sonic portable titles, or at least including the Rush series.  There’s just so much there that was brought to the franchise that just seems like it’s fenced off in its own fractioned fandom.
+Anyway, here’s an old vid by the Geek Critique which I don’t agree with, but he makes a lot of great points that I think apply better to gaming in general.  I’d argue that being a good Sonic game is a bit different than being a good general game, but hairs would need to be split.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/629390179087581184</small>
-&nbsp;<a class="read-more" href="//2020/09/15/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/648018812796600320</small></p>
+&nbsp;<a class="read-more" href="//2021/04/09/Yesterday-I-caught-a-Sonic/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Apr 9, 2021 • Less than a minute read</span>
+  	<a href="//2021/04/09/People-dont-know-how-to/"><h1>People dont know how to</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <p><a href="https://www.youtube.com/watch?v=hTkt4Kd1MLI"><img src="http://i3.ytimg.com/vi/hTkt4Kd1MLI/hqdefault.jpg" alt="thumbnail" /></a>
+People don’t know how to play Nights.  Now I know, but I still can’t do it.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/648018882041364480</small></p>
+&nbsp;<a class="read-more" href="//2021/04/09/People-dont-know-how-to/">Read  →</a>
       
       </p>
 
@@ -402,16 +447,36 @@ Let me know if I missed an obvious choice for bookmark management.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jun 7, 2020 • Less than a minute read</span>
-  	<a href="//2020/06/07/3D-printed-Merge-Cube-Su/"><h1>3D-printed-Merge-Cube -Su</h1></a>
+      Apr 6, 2021 • Less than a minute read</span>
+  	<a href="//2021/04/06/Quick-week-Some-things-f/"><h1>Quick week  Some things f</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/647781832275984384_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_1.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_2.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_2.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_3.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_3.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_4.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_4.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_5.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_5.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/647781832275984384_6.jpg" title=""><img src="https://saturdayxiii.github.io/media/647781832275984384_6.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/620327675644592128.png" />
+        <p>/&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;</p>
 
-3D printed Merge Cube.  Super happy that turned out.<br />
+<p>Quick week.  Some things feel better, other things feel drastically worse.  Big focus on head shapes, I think.  Seems to mean I lost focus on feature proportions.<br /></p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/620327675644592128</small>
-&nbsp;<a class="read-more" href="//2020/06/07/3D-printed-Merge-Cube-Su/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/647781832275984384</small></p>
+&nbsp;<a class="read-more" href="//2021/04/06/Quick-week-Some-things-f/">Read  →</a>
       
       </p>
 
@@ -422,71 +487,28 @@ Let me know if I missed an obvious choice for bookmark management.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      May 9, 2020 • Less than a minute read</span>
-  	<a href="//2020/05/09/Just-read-through-a-href/"><h1>Just-read-through-a-href</h1></a>
+      Apr 6, 2021 • Less than a minute read</span>
+  	<a href="//2021/04/06/I-ve-been-enjoying-a/"><h1>I ve been enjoying a</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=apX3q5PCrQQ" target="_blank"><img src="http://i3.ytimg.com/vi/apX3q5PCrQQ/hqdefault.jpg" alt="I ve been enjoying a"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/617617631853346817.jpg" />
+        <p>I’ve been enjoying <a href="https://www.youtube.com/user/broadcaststsatic" target="_blank">Noah Caldwell-Gervais</a>’s Thorough Look series for insightful and indepth retrospectives of many story driven game series.  This God of War one was especially fun because the style of gameplay bled right into Noah’s writing style.  I’ve never been interested in GoW, and now I know for sure that I should never play it, but I’ve got a new appreciation for it now and am totally going to look up some long plays.</p>
 
-Just read through <a href="https://www.unicornjelly.com" target="_blank">Unicorn Jelly</a> again.  I have the hard copy, as well as To Save Her, but online is still the best way to read.  I wish I was smart enough to be able to have anything worth saying about it.  It opens so slow and simple, and ends so quick and complicated.  I’m amazed at how much went into the world, and how many levels there are to it, and how much I still get out of it on every level that I have in me.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/617617631853346817</small>
-&nbsp;<a class="read-more" href="//2020/05/09/Just-read-through-a-href/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/647738137008848896</small></p>
+&nbsp;<a class="read-more" href="//2021/04/06/I-ve-been-enjoying-a/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
-      
-      May 9, 2020 • Less than a minute read</span>
-  	<a href="//2020/05/09/Fermented-Tofu-chao-turn/"><h1>Fermented-Tofu-chao-turn</h1></a>
-      <p>
-      
-        <figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/16be957be792f699b383422f3a42786c/cce6c6e87800558e-8a/s540x810/18637e80f9d06fb42d49c4656e3b20cc91fbae52.jpg" alt="image" data-orig-width="2048" data-orig-height="1536" />
-Fermented Tofu, chao, turned out really well.  It's like a crumbly cheddar.  Super salty though.  I'd adjust that next time.  I followed this <a href="https://fullofplants.com/how-to-make-fermented-tofu-cheese-chao/" target="_blank">recipe</a>, but I fermented the Tofu for about a week, until it started to get actually moldy, then I used cooking sherry as the alcohol.  That's probably where the extra salt came in.  I think the sherry flavor was a plus though.  Totally going to make a larger batch next time.
-  
-<small>source: https://saturdayxiii.tumblr.com/post/617662256313991169</small>
-</figure>
-&nbsp;<a class="read-more" href="//2020/05/09/Fermented-Tofu-chao-turn/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      Feb 19, 2020 • 2&nbsp;min read</span>
-  	<a href="//2020/02/19/A-big-reminder-to-myself-n/"><h1>A-big-reminder-to-myself-n</h1></a>
-      <p>
-      
-        <img src="https://saturdayxiii.github.io/media/190913838744.jpg" />
-
-A big reminder to myself not to run disk checks/repairs on a glitchy hdd before attempting absolutely everything to get the files off.  RIP lossless, extended Escaflowne movie ost.<br />
-A detailed account in hopes that I don’t forget:<br />I had a large EXT4 HDD disappear off my Rpi nas (lol, so l337).  Restarted a couple times with no change.  Plugged in the drive after a bootup and got an error saying that the mount point was already taken.  Remove the drive from fstab and the error persists, but oddly enough the drive still shows up in the file manager, albeit devoid of content.
-Enter command line, where accessing the directory straight up tells me there’s read/write errors.  Dmesg barely elaborates by saying there’s a “medium critical” error, and everything online says to run e2fsck to fix the errors.  Well, attempting a safe run with e2fsck couldn’t complete, so I just had to say “y” to everything and now I have thousands of unnamed files to sort through.<br /><br />What I wish I knew was that I could have plugged the drive into my Windows machine and used ext2fsd to transfer the named files. Then flat out reformatting the corrupted drive would have been a simpler process.  I learned this because after renaming a good chunk of the recovered files, I shut down the system and waited for my replacement drive to arrive in the mail.  Upon boot up, that drive as well as a second one had become corrupted.  Apparently the USB hub which worked great for 4 years decided to start killing off my data, and I had to move over to my Windows machine to have enough ports for transferring.<br /><br />One more caveat though: it seems e2fsck doesn’t handle non-english characters well.  I don’t know what the exact conditions are, because some files made it through, but about 80% of my files with Japanese names, or accented é’s just didn’t show up in the explorer.  <br />
-I’m now prepared to do proper back ups, but really, maybe it’s time I just stopped being such a digital horder.  Honestly, I use enough streaming media that I rarely go through my personal files. but still I’m worried that one day after the apocalypse of online entertainment services, I’ll desperately want to play that drm-free copy of Witcher 2.   Here’s hoping there’s still compatibility tutorials to get it working on Windows XX.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/190913838744</small>
-&nbsp;<a class="read-more" href="//2020/02/19/A-big-reminder-to-myself-n/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -505,7 +527,7 @@ I’m now prepared to do proper back ups, but really, maybe it’s time I just s
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -519,9 +541,156 @@ I’m now prepared to do proper back ups, but really, maybe it’s time I just s
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

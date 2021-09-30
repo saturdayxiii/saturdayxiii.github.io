@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,62 +362,24 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Jun 1, 2021 • Less than a minute read</span>
-  	<a href="//2021/06/01/Borderline-Forever/"><h1>Borderline Forever</h1></a>
+      Sep 29, 2021 • 1&nbsp;min read</span>
+  	<a href="//2021/09/29/Truth-and-Reconciliation-Day/"><h1>Truth and Reconciliation Day</h1></a>
       <p>
+        
+        
+        
+        
       
-        <video muted="" autoplay="" controls="" loop="">
-    <source src="https://i.imgur.com/HMj1Jbc.mp4" type="video/mp4" />
-</video>
-Just some clips from <a href="https://www.youtube.com/watch?v=mhbVUf3yyB0&amp;t=3192s">Scott the Woz’s</a> 200th episode that made me rofl.
-<video muted="" autoplay="" controls="" loop="">
-    <source src="https://i.imgur.com/ICPVM1p.mp4" type="video/mp4" />
-</video>
-&nbsp;<a class="read-more" href="//2021/06/01/Borderline-Forever/">Read  →</a>
-      
-      </p>
+        <p>Tomorrow is Truth and Reconciliation Day.</p>
 
-  </article>
+<p>I had a friend ask what that was, so I told him about the bodies from Residential Schools, and how that was just the tip of the iceberg.  He said “Wow, now that’s proof that the government is out to get us.  It’s really us vs them.”  Now, I can’t speak to priority of class issues in my friend’s background, but I can say that for white upper-middle class Canadians like me, we are the Them in “us vs them”.  We can point the blame at our government and churches, but they were still our government, and our churches.  Our inaction has caused just as much destruction as the actions that were delberately designed to destroy.</p>
 
+<p>Now the narrative is often being shifted to how vaccines are the governments new weapon of choice.  And it’s true that medicine has been weaponized against visible minorities in the past, and still today, but as far as the covid vaccines go, our wealthy and privledged have been the first in line to get the vaccines and we’ve been caught giving expired vaccines to first nations people.  That’s not a narrative that victimizes my people.  It’s the same narrative of us taking from those that need it, then trying to cut off access before they can get it.</p>
 
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      May 28, 2021 • Less than a minute read</span>
-  	<a href="//2021/05/28/outdoor-listening/"><h1>Outdoor Listening</h1></a>
-      <p>
-      
-        <a href="https://i.postimg.cc/Rh1zTY0Q/PXL-20210529-004708664.jpg"><img src="https://i.postimg.cc/sDyz23nn/PXL-20210529-004708664.jpg" alt="outdoor stereo" /></a>
-
-I know no one likes it when other people do it… But I do enjoy this feeling.
-
-Moved the big speakers outside tonight to enjoy <a href="https://blindedm.bandcamp.com/album/featherlight">bLiNd’s</a> listening party for his latest album.
-&nbsp;<a class="read-more" href="//2021/05/28/outdoor-listening/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      May 24, 2021 • Less than a minute read</span>
-  	<a href="//2021/05/24/Health-and-Economic-Inequality/"><h1>Health & Economic Inequality</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=QezLxFuBxvM"><img src="http://i3.ytimg.com/vi/QezLxFuBxvM/maxresdefault.jpg" alt="How Wealth Influences Health" /></a>
-Like everyone on YouTube, <a href="https://www.youtube.com/c/GeorgRockallSchmidt/featured">Georg Rock-Smi’s latest videos</a> have been going full political rather than mere jabs at the state of our world wrapped in topics of hollywood and pop culture, and I appreaciate it. 
-This video excellently highlights the relationship between human suffering and not being able to keep up with the Jones’.  Food for thought which has left me hungry for more.
-&nbsp;<a class="read-more" href="//2021/05/24/Health-and-Economic-Inequality/">Read  →</a>
+<p>I really want to do, and be part of something better.</p>
+&nbsp;<a class="read-more" href="//2021/09/29/Truth-and-Reconciliation-Day/">Read  →</a>
       
       </p>
 
@@ -432,15 +392,18 @@ This video excellently highlights the relationship between human suffering and n
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
       
-      May 21, 2021 • Less than a minute read</span>
-  	<a href="//2021/05/21/gatorade-wine/"><h1>Gatorade Wine</h1></a>
+      Sep 24, 2021 • Less than a minute read</span>
+  	<a href="//2021/09/24/pain-au-chocolate/"><h1>Pain au chocolat de la ghetto</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/wBXY6XWC/PXL-20210924-194359719.jpg" target="_blank"><img src="https://i.postimg.cc/wBXY6XWC/PXL-20210924-194359719.jpg" alt="Pain au chocolat de la ghetto"></a>
+        
+        
+        
       
-        <img src="https://i.postimg.cc/yd29fc67/PXL-20210522-003055971.jpg" alt="gatorade wine" />
-
-Well… I can’t not recommend making wine out of Gatorade.  Would be nice with some strawberries… actually that’s probably the Gatorade flavour that I used.
-I can’t remember for sure though.
-&nbsp;<a class="read-more" href="//2021/05/21/gatorade-wine/">Read  →</a>
+        
+&nbsp;<a class="read-more" href="//2021/09/24/pain-au-chocolate/">Read  →</a>
       
       </p>
 
@@ -453,29 +416,97 @@ I can’t remember for sure though.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      May 19, 2021 • 1&nbsp;min read</span>
-  	<a href="//2021/05/19/iontophoresis/"><h1>Iontophoresis</h1></a>
+      Sep 17, 2021 • 2&nbsp;min read</span>
+  	<a href="//2021/09/17/Escitalopram-II/"><h1>Escitalopram pt II</h1></a>
       <p>
+        
+        
+        
+        
       
-        <a href="http://europepmc.org/article/MED/30533993"><img src="https://i.postimg.cc/T1pb7n6H/JCAS-11-153-g005.jpg" alt="iontophoresis" /></a>
+        <p>Okay.  It’s been long enough for me to feel confident about my depression medicine experience.  I’m so.  So.  Lucky.  I’m just over 2 months in and I feel great.  Like literally, if you asked me “how are you doing?” I could honestly say “I feel happy”.  That’s never been the case, as far as I know.  It’s been that way for at least 2 weeks now.  It’s been a bit of a journey, so here’s a break down.</p>
 
-I just found out about iontophoresis and it sounds like something I could benefit from.  I was contemplating buying a $500 machine which Facebook thought I needed, but a quick google brought me to some research about how to DIY it.
-  Awesome.
-  It looks like I have all the parts I need, but none of the papers went into any kind of description of how to hook things up, and I wasn’t 100% certain that I was following the wires correctly from the photos.  They just say “attach the wires”, and I’m like:
-  “Wait… just positive on one tub, negative to the other?”
-  After much hesitation, and some experimentation: Yes.
-  So my set up is currently a 12v 5a DC power supply and some hook up wire going into two plastic tubs with water, and I can feel that it’s working.
+<ul>
+  <li>week 1: drowsy + insomia + poor apetite + can’t orgasm + salt and starch over power other tastes</li>
+  <li>week 2: drowsy + poor apetite + can’t orgasm</li>
+  <li>week 3: drowsy + lower sex drive</li>
+  <li>week 4: drowsy to the point that I suggest to my doctor that I can’t keep this up.  He says try another month…ok.</li>
+  <li>week 5: I stop drinking diet sodas and start taking <a href="https://seed.com/">Seed probiotics</a>  Two days later I feel amazing.</li>
+  <li>week 6: No issues.  I have some trouble getting up in the morning, but I always seem to have enough energy in the day.</li>
+  <li>week 7: Great.  I need to figure out if this is the Escitalopram, or the seed pills, so I stop taking the seed pills.</li>
+  <li>week 8: Great, but i run out of escitalopram.</li>
+  <li>week 8.6: I still feel great.  Not sleeping as deeply, but still lots of energy, maybe even better social performance than usual.  I get my pescription refil.</li>
+  <li>week 9.2: Overly relaxed.  I’m stretching a lot and trying not to sleep in, but I still feel great.  I’m confident that my fasting from Seed pills and diet soda has done next to nothing compared to the escitalopram.</li>
+</ul>
 
-I wasn’t sure at first because I was using a 2.5v supply.  I could feel an itchy sensation where the water surface met my skin, but not below that.  I think it’s due to my softwater, and because I’m using plastic tubs instead of steel.
+<p>What a weird journey.  My last walk in got a different Doctor.  Even if I don’t pay attention to the name and voice over the phone, I can still tell because new doctors always ask if I’ve tried to kill myself lately.  He said the typical protocol is to use the medication for 6 months, if effects have been positive, then stop…  Sounds odd.  I’m liking that I lasted 4 days without it, so maybe my chronic mental illness has a chance of correcting itself, long term, after 6 months of seratonin support?</p>
 
-Anyway, there’s some reassurance that DIY Iontophoresis is as stupid simple as it looks.  Now in four weeks I should know whether or not it works for me.
-&nbsp;<a class="read-more" href="//2021/05/19/iontophoresis/">Read  →</a>
+<p>Whatever, it’s so amazing to feel like I always thought I should be able to feel like.  I’ll take what I can get for now.  And I realize how super privledged I am to have things work out so easily.  I don’t know what I would have done if I had to keep digging to find the right medication.  Maybe one more time, maybe two more times, to what?  Develop a habbit?  I mean, it took me 11 years since my last therapist visit to actually get proper medication.  It’s a hard sell, if you don’t know.</p>
+
+<p>It sucks, but if you’re in that position, please keep fighting.  I at least know that things that have always felt wrong do have the possibility of feeling right, so keep trying please.</p>
+&nbsp;<a class="read-more" href="//2021/09/17/Escitalopram-II/">Read  →</a>
       
       </p>
 
   </article>
 
 
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
+      
+      Sep 10, 2021 • Less than a minute read</span>
+  	<a href="//2021/09/10/Cucumber-Soda/"><h1>Cucumber Soda</h1></a>
+      <p>
+        
+        
+        
+        &nbsp;<video muted autoplay controls loop width="400">
+    <source src="https://i.imgur.com/TygBsom.mp4" type="video/mp4">
+</video>
+       
+        
+      
+        <p>Cucumber soda looks more fun than it tastes.  Makes me feel like a begrudged adult.  Lemon helps.</p>
+&nbsp;<a class="read-more" href="//2021/09/10/Cucumber-Soda/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Sep 8, 2021 • Less than a minute read</span>
+  	<a href="//2021/09/08/Brand-New-Cherry-Flavor/"><h1>Brand New Cherry Flavor</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/Sq4P6v0P/bncf.jpg" target="_blank"><img src="https://i.postimg.cc/Sq4P6v0P/bncf.jpg" alt="Brand New Cherry Flavor"></a>
+        
+        
+        &nbsp;<video muted autoplay controls loop width="400">
+    <source src="https://i.imgur.com/detqnQ6.mp4" type="video/mp4">
+</video>
+       
+        
+      
+        <p>Yep.  Brand New Cherry Flavor was great.  Fantastic edition to the <a href="https://saturdayxiii.github.io/2021/08/02/Channel-Zero-Dream-Door/">Channel Zero</a> series.</p>
+
+<p>I’ve seen criticisms of the ending, which aren’t wrong, but also kind of a given because Netflix needs to sequel bait.  However, I personally didn’t find it very disatisfying, I can handle dropping a show at a clif hanger though.</p>
+&nbsp;<a class="read-more" href="//2021/09/08/Brand-New-Cherry-Flavor/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -492,7 +523,7 @@ Anyway, there’s some reassurance that DIY Iontophoresis is as stupid simple as
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -506,9 +537,156 @@ Anyway, there’s some reassurance that DIY Iontophoresis is as stupid simple as
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

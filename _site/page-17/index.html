@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-17/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -366,16 +364,32 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 20, 2019 • Less than a minute read</span>
-  	<a href="//2019/03/20/Spot-on-I-didn-t-know-ab/"><h1>Spot-on -I-didn-t-know-ab</h1></a>
+      May 30, 2019 • 3&nbsp;min read</span>
+  	<a href="//2019/05/30/I-ve-seen-some-people-who/"><h1>I ve seen some people who</h1></a>
       <p>
+        
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=ZZswmxq-K1M"><img src="http://i3.ytimg.com/vi/ZZswmxq-K1M/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <h2 id="a-couple-of-desires-for-video-game-achievements">A Couple of Desires for Video Game Achievements</h2>
+<p>I’ve seen some people who can’t stand video game achievements, I’ve seen others who won’t play games without them and won’t play another game until they’ve hundred percented all the cheevies.  Like most aspects of my life I fall in the middle, and to a more casual side of the matter.  I definitely gravitate to games that mark my achievements, but I also have little problem ignoring cheevies that I don’t accomplish after a casual play through.  With that angle being disclosed, here’s two features that I wish achievement systems would adopt.</p>
+<ol>
+  <li>Categorization.  
+Pretty much all video games can be played in more than one way.  The most basic way is start to finish, which can be reflected through progress achievements; “You’ve reached this stage of the game, Here’s your notice.”  There are also stats achievements; “You did the mundane thing X number of times. Here’s your token.”  And challenge achievements; “You exceeded X goal, clearly mastering Y skill.  Here’s your badge.”  Even obscure achievements; “Well that never happens.  Here’s a cookie.”  
+I don’t see why achievement systems don’t already reflect this.  The trophy page always seems to be built around 100% or bust, despite the fact very few people (especially me) are even going to attempt to get the “Speed Running” achievement for each level of your physics based game.  I like achievements because they can make me feel good.  They make me feel achieved… er… accomplished.  However, if there are a subset of them that I regularly ignore, I’d like to be able to disregard them from my stats.  Please and thank you.
+Here’s another preface for my second feature request.  It can only be applied at the platform, or achievement service level, and one has to acknowledge that achievements can’t be taken too seriously.  I know all platforms strive to fight against cheaters, but really I don’t think it’s extensively worthwhile.  The higher the value we place on achievements the harder cheaters will try to find illegitimate ways of gaining them, and they will.  There is no sure way to bar someone from something in a digital medium.  So clearly this feature is going to be a stretch, but if you can’t get behind the idea that all achievements are exploitable then you might as well consider this the end of my article.
+Still here?
+Thanks for hearing me out.</li>
+  <li>Achievements from pre-recorded footage.
+I am in the camp of folks that will sometimes not play a game because I can’t get online and even if there is offline support for achievements, they always seem to screw up so I might as well wait.  And yet I don’t think I have a single device that doesn’t support screen recording.  I’d love to be able to link a cheevie service to my Twitch or YouTube vid and have it acknowledge some achievements.  This would have the bonus effect of allowing me to retroactively add achievements for games I played that didn’t support them until much later.
+Clearly this wouldn’t work for many stats based achievements, but any achievement that can be acknowledged from a menu or visual cue, like a life counter or stage title screen, should be trackable.  The system would parse a video frame by frame, and with Google Image-like AI it could be taught to recognize the visual cues of certain achievements.  It could even learn to apply certain standards to other games that might not support regular achievements.
+You might be thinking “But anyone can upload a video, if you’re going to be that lax about it, why not just mark off a public checklist”.  You’re essentially right.  If there’s a cheevie service that gives me acknowledgment just at my word, I’m down with that.  However, there still is legitimacy to uploading footage, after all, the speed running community does exactly this.  Some community scrutiny is required, and some cheaters do get through the system, but as previously declared: this will always be the case.
+There’s my long spiel for two rather mundane ideas.  There’s probably legitimate reasons why I’ve never heard anyone mention either before.  But I’m putting it out there.  Whether or not someone reads through this schlock or not, that’s a different matter.</li>
+</ol>
 
-Spot on.  I didn’t know about the new series coming out, but everything acknowledged here are things I’ve always found treasurable about the original.  Love the two sides of the same coin dynamic of Daria/Jodie, and the humanization of most all characters over the course of the series.  (Special shout out to the Stacey spotlight in the “movie”, though not mentioned here.)
-
-<small>source: https://saturdayxiii.tumblr.com/post/183598703359</small>
-&nbsp;<a class="read-more" href="//2019/03/20/Spot-on-I-didn-t-know-ab/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/185247441974</small></p>
+&nbsp;<a class="read-more" href="//2019/05/30/I-ve-seen-some-people-who/">Read  →</a>
       
       </p>
 
@@ -386,29 +400,33 @@ Spot on.  I didn’t know about the new series coming out, but everything ackno
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 20, 2019 • Less than a minute read</span>
-  	<a href="//2019/03/20/Oh-I-guess-I-should-cross/"><h1>Oh-I-guess-I-should-cross</h1></a>
+      May 26, 2019 • Less than a minute read</span>
+  	<a href="//2019/05/26/Best-part-about-living-dow/"><h1>Best part about living dow</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/185186455519_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/185186455519_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/185186455519_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/185186455519_1.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/183586901534_0.gif" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/183586901534_1.gif" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>/&gt;
+ /&gt;</p>
 
-Oh, I guess I should cross post this.
-After a month of hard work on an entry for <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.thenew8bitheroes.com%2F&amp;t=ZDI3NDFjOTUzYzRlYjJjODJkNmFjZDZiOWJhYzQ0ZjMyZmNjMDRjZCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">NESMaker’s Byte Off</a> competition, <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fsaturdayxiii.itch.io%2Fpingback&amp;t=OWY2ZDFhZGRiMjg4OGI0OWQ3NjAyNmYxZWEyMWIxMDUwZTY0YjM4OCxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">Pingback</a> is playable.
-Coming up with music that was actually listenable was probably my favorite part of the project.
-Please check out all the entries <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Farcade.thenew8bitheroes.com%2F&amp;t=NDM3NTJmYTAzMWMxYjlmMmNmMzI4OGIzYzdkMjA0NGQ1ZTczY2FiNSxmdmRpQ2NBUQ%3D%3D&amp;b=t%3A4oTW9UaVMagYoO9xD5RBnA&amp;p=http%3A%2F%2Fheavyhanded.ca%2Fpost%2F183500184007%2Fafter-a-month-of-hard-work-on-an-entry-for&amp;m=1" target="_blank">here</a>.
+<p>Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it.  Great show at The Tavern.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/183586901534</small>
-&nbsp;<a class="read-more" href="//2019/03/20/Oh-I-guess-I-should-cross/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/185186455519</small></p>
+&nbsp;<a class="read-more" href="//2019/05/26/Best-part-about-living-dow/">Read  →</a>
       
       </p>
 
@@ -419,18 +437,36 @@ Please check out all the entries <a href="https://t.umblr.com/redirect?z=http%3A
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 17, 2019 • Less than a minute read</span>
-  	<a href="//2019/03/17/Birds-Bear-Arms-were-amazi/"><h1>Birds-Bear-Arms-were-amazi</h1></a>
+      May 24, 2019 • Less than a minute read</span>
+  	<a href="//2019/05/24/They-still-made-it-worth-m/"><h1>They still made it worth m</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/185116082294_0.gif" title=""><img src="https://saturdayxiii.github.io/media/185116082294_0.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/185116082294_1.gif" title=""><img src="https://saturdayxiii.github.io/media/185116082294_1.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/185116082294_2.gif" title=""><img src="https://saturdayxiii.github.io/media/185116082294_2.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/185116082294_3.gif" title=""><img src="https://saturdayxiii.github.io/media/185116082294_3.gif" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/183530324689.jpg" />
+        <p>/&gt;
+ /&gt;
+ /&gt;
+ /&gt;</p>
 
-Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
+<p><a href="https://trampolinesounds.bandcamp.com" target="_blank">Trampoline</a> drove for days to put on a show at the Aviary in Edmonton last night.  I felt poorly about having to drive 10 minutes after dark.
+They still made it worth my while.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/183530324689</small>
-&nbsp;<a class="read-more" href="//2019/03/17/Birds-Bear-Arms-were-amazi/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/185116082294</small></p>
+&nbsp;<a class="read-more" href="//2019/05/24/They-still-made-it-worth-m/">Read  →</a>
       
       </p>
 
@@ -441,18 +477,23 @@ Birds Bear Arms were amazing at the Sewing Machine Factory yesterday.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 11, 2019 • Less than a minute read</span>
-  	<a href="//2019/03/11/Radio-gave-me-a-gift-today/"><h1>Radio-gave-me-a-gift-today</h1></a>
+      May 24, 2019 • Less than a minute read</span>
+  	<a href="//2019/05/24/"><h1>NT</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=ygYlxTxSaCM" target="_blank"><img src="http://i3.ytimg.com/vi/ygYlxTxSaCM/hqdefault.jpg" alt="NT"></a>
+        
+        
+        
       
-        <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=1104501430&amp;ts=1618866013&amp;t=bfa9c841e05a38e5be81ecf8b7aa1119f4012a0c" />
+        <p>Fun to think about, but I think this just shows how a lack of familiarity with most characters in media being based on archetypes fuels narrative conspiracies.
+<br /></p>
 
-Radio gave me a gift today.
-
-<small>source: https://saturdayxiii.tumblr.com/post/183382101139</small>
-&nbsp;<a class="read-more" href="//2019/03/11/Radio-gave-me-a-gift-today/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/185119861059</small></p>
+&nbsp;<a class="read-more" href="//2019/05/24/">Read  →</a>
       
       </p>
 
@@ -463,31 +504,26 @@ Radio gave me a gift today.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Feb 16, 2019 • 1&nbsp;min read</span>
-  	<a href="//2019/02/16/"><h1>NT</h1></a>
+      May 14, 2019 • Less than a minute read</span>
+  	<a href="//2019/05/14/You-thought-that-you-were/"><h1>You thought that you were</h1></a>
       <p>
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/182860107679.jpg" />
+        <p>You thought that you were just walking down steps, but the reality is that there’s a whole other swimming pool inside that swimming pool.</p>
 
-The A E S T H I T I C of <a href="https://store.steampowered.com/app/493710/Laraan/" target="_blank">Laraan</a> makes if very difficult to tell how far away things are, which is a bad thing for platforming. There’s also very floaty hit detection, like hit boxes are a ways outside of the physical objects; and the camera, which controls like it’s buoyantly moving through jelly, frequently jumps up close to the character which doesn’t let you see what’s in front of you. 
-<figure data-orig-width="500" data-orig-height="339" class="tmblr-full"><img src="https://64.media.tumblr.com/44f5fac3b2993827cf28ae41667330fc/tumblr_inline_pn1yntEaV31rnrp45_540.gif" alt="image" data-orig-width="500" data-orig-height="339" />
-Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone, now bring me shiny things or die trying.”  There’s visual elements of a backstory, but what am I supposed to feel?  My only goal is to get shiny things.  Am I trying to please this menacing god?
-  Do I care for revenge?
-  Maybe my real motivation is just to find more sweet hover bikes that explode when rocks look at them funny.  Not a lot going on here for a game that performs so frustratingly.
-<br />
-<figure data-orig-width="500" data-orig-height="400" class="tmblr-full"><img src="https://64.media.tumblr.com/38dff7f0616f3a96cceea172a6c5afe5/tumblr_inline_pn1yutYMAs1rnrp45_540.gif" alt="image" data-orig-width="500" data-orig-height="400" /> 
-  
-<small>source: https://saturdayxiii.tumblr.com/post/182860107679</small>
-</figure></figure>
-&nbsp;<a class="read-more" href="//2019/02/16/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/184875550194</small></p>
+&nbsp;<a class="read-more" href="//2019/05/14/You-thought-that-you-were/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -506,7 +542,7 @@ Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone,
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -520,9 +556,156 @@ Story wise it’s Noah’s ark&hellip; except God’s like “I killed everyone,
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

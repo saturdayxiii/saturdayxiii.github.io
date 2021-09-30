@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-23/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,16 +362,90 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      Feb 2, 2019 • Less than a minute read</span>
+  	<a href="//2019/02/02/An-upgrade-in-every-way-ex/"><h1>An upgrade in every way ex</h1></a>
+      <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/182502592759.png" title=""><img src="https://saturdayxiii.github.io/media/182502592759.png" alt="" /><span></span></a><a href="https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png" title=""><img src="https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
+      
+        <p>/&gt;</p>
+
+<p>The old beast is being replaced by the new hotness.
+<br />
+An upgrade in every way except for the lack of a graphics card.
+I’m hoping to use an external gpu via the wifi card slot.  Which is already a precarious decision, but makes me even more insecure because the ngff adapter I need seems harder to come by.  It’s also a newer format, so maybe it has better odds of success?
+The processor seems to have a stable run at 3.1GHz, rarely spiking up to 3.3, but no going back now.  Anyway, these days the games I play are pretty simple graphically.</p>
+<figure data-orig-width="1757" data-orig-height="743" class="tmblr-full"><a href="https://66.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_1280.png" target="_blank">/&gt;</a> 
+  
+<small>source: https://saturdayxiii.tumblr.com/post/182502592759</small>
+</figure>
+&nbsp;<a class="read-more" href="//2019/02/02/An-upgrade-in-every-way-ex/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
+      
+      Jan 30, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/30/Possibly-my-favorite-piece/"><h1>Possibly my favorite piece</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=t2AbBhwKzG0" target="_blank"><img src="http://i3.ytimg.com/vi/t2AbBhwKzG0/hqdefault.jpg" alt="Possibly my favorite piece"></a>
+        
+        
+        
+      
+        <p>Possibly my favorite piece of vgm ever.  The samples are so tight, and the rhythms sound so juxtapositioned yet thematically perfect.  I can never get over it.  Those 8 minutes fly by in a blink.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/182429048257</small></p>
+&nbsp;<a class="read-more" href="//2019/01/30/Possibly-my-favorite-piece/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 12, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/12/"><h1>NT</h1></a>
+      Jan 29, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/29/I-know-I-m-behind-the-time/"><h1>I know I m behind the time</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=mbnBYh-BJ1g" target="_blank"><img src="http://i3.ytimg.com/vi/mbnBYh-BJ1g/hqdefault.jpg" alt="I know I m behind the time"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=LuD2Aa0zFiA"><img src="http://i3.ytimg.com/vi/LuD2Aa0zFiA/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <p>I know I’m behind the times with these.  Buzzfeed branding makes me apprehensive.  But this series is fantastic and can’t possibly be not binge-watched.  The word play and the narrators reactions to the footage are enamoring.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/182016443259</small>
-&nbsp;<a class="read-more" href="//2019/01/12/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/182401763029</small></p>
+&nbsp;<a class="read-more" href="//2019/01/29/I-know-I-m-behind-the-time/">Read  →</a>
       
       </p>
 
@@ -384,47 +456,24 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 11, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/11/My-a-hrefhttpheavyha/"><h1>My-a-hrefhttpheavyha</h1></a>
+      Jan 26, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/26/Great-insights-on-the-rela/"><h1>Great insights on the rela</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=SP8EoIBGog0" target="_blank"><img src="http://i3.ytimg.com/vi/SP8EoIBGog0/hqdefault.jpg" alt="Great insights on the rela"></a>
+        
+        
+        
       
-        <h2 id="game-shelving-the-sequel">Game Shelving… the Sequel</h2>
-<a href="https://66.media.tumblr.com/42063a27de3f20132782d6250958c74e/tumblr_pl6nuv2kaN1rnrp45_1280.png" target="_blank" alt="Design sketch of Single Support shelf"><figure data-orig-width="1280" data-orig-height="1280" class="tmblr-full"><img src="https://64.media.tumblr.com/42063a27de3f20132782d6250958c74e/tumblr_pl6nuv2kaN1rnrp45_540.png" alt="image" data-orig-width="1280" data-orig-height="1280" />&lt;/a&gt;
-My <a href="http://heavyhanded.ca/post/144167964597/designed-and-painted-some-modular-shelving-for-my" target="_blank">game shelves </a>are… Still really good.  But I’m interested in going “boxless"for my consoles.
-Someone in one of my gamer groups posted some kind of rack they were using and I liked the idea, but I don’t know what the stand was called.  Wall-less shelf?  Pole shelf?  Google’s not helping me.<br />
-So here’s a sketch of how I might diy the same concept.  Not so clear on what I’d use as the base… Which is pretty important.  But the shelves themselves look easy enough.  Maybe the shelves need holes so they can overhang the brackets… I’ve got some ideas for v2.</figure></a>
+        <p>Great insights on the relationships between critics and content producers and mob mentality.  
+For the record, I don’t mind Uwe’s movies, and I like a lot of the ideas he has, but I also typically shut them off half way through.
+Double also: while drivel, there’s a lot to like about the inaccurate Resident Evil adaptations.  Especially when compared to their animated counter parts.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/181930991764</small>
-&nbsp;<a class="read-more" href="//2019/01/11/My-a-hrefhttpheavyha/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Jan 10, 2019 • 2&nbsp;min read</span>
-  	<a href="//2019/01/10/I-fell-in-love-with-a-hre/"><h1>I-fell-in-love-with-a-hre</h1></a>
-      <p>
-      
-        <img src="https://saturdayxiii.github.io/media/181907012504.jpg" />
-
-I fell in love with <a href="https://www.haikugamesco.com/" target="_blank">Haiku Games</a> for a little bit thanks to <a href="https://play.google.com/store/apps/details?id=com.haikugamesco.escape16&amp;hl" target="_blank">Dark Ruins</a>.  Few things have such a negative stimga these days as mobile games and modernized point and click adventure, but the markets are massive.  People want to love these games.  So when a publisher shows some competence, their products really shine.  
-Definitely keep an eye on <a href="https://www.haikugamesco.com/blog" target="_blank">Haiku Games’s blog</a> if you’re interested in indie studios specializing in mobile games.  Their gleams into behind the scenes hit all the right inspirational notes for me.  I haven’t played a lot of their catalogue, but even they seem to express that Dark Ruins is cream of their crop.  I hope they take what they’ve learned from it and apply it to all their future games.
-Dark Ruins stands out mainly due to the screen time they give their characters.  This caught me the most off guard as I’ve come to expect casual game characters to be nothing more than placeholders for story elements.  Unfortunately not all the characters are so developed, as the ones I expected to like quickly fell to the wayside; while the popular-media-crazy-teen-girl archtype, that I normally detest in any form, gradually turned into a character that I eagerly awaited more lines from and actually kind of gave a damn about her livestream.  That demonstrates some fine writing craftmanship imo.  
-An often neglected aspect of puzzle games is often the puzzles themselves, but I have to say that Dark Ruins is probably one of the only adventure games where the puzzles nearly always made a logical sense.  There still is that kind of nonsense where you’re counting natural chips in the decor, or bits of scenery in the background to work out the code on combination locks, but from a puzzle mechanic stand point the clues always made sense.  Not that it was easy.  I did require a walkthrough every so often, which it would then hit me over the head with how I wasn’t paying close enough attention.  The clues are clear and logical.  With better pacing I probably wouldn’t have needed the walkthrough at all.  Also nearly every puzzle came with a clever twist for that last clue which kept me on my toes and helped prevent puzzle burnout.
-<a href="https://66.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_1280.jpg" target="_blank&quot;"><figure data-orig-width="2048" data-orig-height="1536" class="tmblr-full"><img src="https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg" alt="image" data-orig-width="2048" data-orig-height="1536" />&lt;/a&gt;
-Soooo, this still is a casual point-and-click puzzle game.  If you absolutely detest them, then know that this game isn’t breaking any new ground to win your heart.  However, if you’re open to them, then this one is definitely worth some hype.  And God knows I hate hype.</figure></a>
-
-<small>source: https://saturdayxiii.tumblr.com/post/181907012504</small>
-&nbsp;<a class="read-more" href="//2019/01/10/I-fell-in-love-with-a-hre/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/182330559299</small></p>
+&nbsp;<a class="read-more" href="//2019/01/26/Great-insights-on-the-rela/">Read  →</a>
       
       </p>
 
@@ -437,58 +486,26 @@ Soooo, this still is a casual point-and-click puzzle game.  If you absolutely d
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jan 9, 2019 • 6&nbsp;min read</span>
-  	<a href="//2019/01/09/The-cute-characters-shiny/"><h1>The-cute-characters-shiny</h1></a>
+      Jan 25, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/25/3D-scanning-nope/"><h1>3D scanning nope</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/182299758994.png" target="_blank"><img src="https://saturdayxiii.github.io/media/182299758994.png" alt="3D scanning nope"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/181881333409.png" />
+        <p>3D scanning nope</p>
 
-The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with this title.
-I understand that it’s a pretty well loved show.  I can see why, but after having watched it I don’t understand why.  If I wasn’t aware of its popularity I’d tell the uninitiated that it’s a pretty show, but definitely not a “must see”.  However, knowing that it’s considered the “best anime of 2017″ makes me want to recommend… that people pay attention to how bad it is.  The fact that shows like this are considered the “best” is why I rarely watch anime anymore.  Made in Abyss definitely contributes to my list of reasons to not like anime.
-I will grant that the artwork, music, and premise are fantastic, but these three things do not a complete anime make.  It’s possible that the manga could be phenomenal, and the premise is strong enough that I’d be interested in reading it, but I’m talking about the anime here because that’s what my media circles share with me.  I’ve repeatedly heard the show described as “fantastic”, but the one word review I’d give it is “gross”.
-I’m aware that “gross” is a very subjective term and maybe doesn’t reflect quality, but I really think that should be the first thing that people notice when watching this show.  Watch for how gross it is.  Specifically?  I’m going to make my number one issue to do with child sexuality.  It’s honestly not something that’s at the forefront of the show, and I think many people over look it because, hey, it’s Japan; we’ve seen worse.  But it’s actually sprinkled pretty heavily throughout the show.  It also has next to nothing to do with our story, except maybe our budding protagonists are developing romantic feelings for each other, but it seems pretty obvious that this stuff isn’t in the show for development sake.
-Our main characters are 12 years old (though I thought there were 8 by their designs) and at the first minute mark of the first episode we get a mention of the main character being “strung up naked” as a punishment for something. Okay… That’s odd, and very tonally out of place in our fun childrens adventure.  Even odder is that they frame it as some kind of a gag that our hero is over reacting to as her company looks disinterested.  Then it becomes straight up creepy when this gag reoccurs throughout the series even with different characters.  Like this wondrous fantastical world is meant to draw you in and entice you, and hey also child abuse is a staple here, neat huh?  It’s one thing if this kind of situation is used as a plot point or even some kind of commentary, then there’s a possibility that its use could be redeemed with context, but no.  It doesn’t even drive any of our characters actions.  It’s paced and stylized to get a rise out of the audience, nothing more.  
-Combine that with the times that our otherwise attentive main character forgets to put on clothes, and repeated references to the deuteragonist‘s penis, and characters pleas of feeling violated being regularly ignored, and the main char having her legs pulled apart to administer medicine that “can’t be take orally”, and yah, uh, the show is gross.  And that’s not even the physically gross stuff.  I mean like animals being sliced open, guts being pulled out, unsuccessful limb amputation, vomit, urine, human silly puddy??  And they tell you that once you go so far into the Abyss, you’re going to bleed out of all your orifices.  They tell you this, and by golly they are going to show it.  Here it is!  Up close and everywhere, again and again.  I get that this stuff exists in real life, and life is gross, but none of it serves the story or makes any kind of point. It’s there because they think you enjoy it.  Do you enjoy it? I don’t sympathize with these characters and the less I can relate to them the better.
-Speaking of the story, even if you fixed all the unnecessary gross stuff, the story just doesn’t exist.  The show doesn’t end.  I guess they’re holding out for another season?  But if they had more space for story, then why did they fly through the Abyss so fast?  Isn’t that place rather important? The main character regularly talked about all the cool things she wanted to see as she went deeper and deeper into the abyss, but none of it was actually explored.  Just “There’s that thing I mentioned, okay either fight it quickly,  or lets move on to the next area”.  This is not the plot you are looking for.
-I still do see how the story has potential, but they glaze over all the things that made me want to watch the show.  Mystery world, cool monsters, lost technology, fun characters.  They are there, minus the characters being fun, but the presented show wouldn’t really change if you completely took out those things.  Nothing that I felt was advertised to me got developed.  Instead our main character disregards her interest in exploration and treasure hunting, and sets off with the sole goal of finding her mother at the bottom of the Abyss. Leaving behind all the characters that I thought were going to be important.  Were you preparing to get invested here?  Woops. 
-That’s honestly fine, new directions are welcome, but even the mother plot point doesn’t deliver.  It’s just a Shanks and Luffy dynamic, and the writers know that because they don’t bother having a back story like how Shanks made sacrifice to inspire Luffy.  You’ve seen that before, so we just skip to the conclusion trope of “The fact that I’m not here for you is proof that I’m so awesome. Chase me.”  Also, even Luffy had well developed settings ajg characters to support his story.  Yes, I know One Piece is currently infinity longer than Made in Abyss, but 13 episodes is still plenty of time to develop something.
-This season is squarely centered around our two main characters, but we learn as much about them as we do other characters that are only in the show for 2 or 3 episodes.  The only consistent way we know that our characters are developing and progressing is by how far they get in the abyss, and they fly through it without expanding on anything that was previously hyped.  Brand new dramatics happen, then the season ends with no hint of a conclusion.  So you get no story.  
-The only real story is in the last episode, the “one hour special”, and it has nothing to do with our main characters.  Maybe you could just watch that, but you probably won’t feel good about it.
-So why is show with no story, being praised as the best anime of 2017?  Was it (another) bad year for anime?  Why are people whole heartedly recommending a show without mentioning that it goes no where, and children are regularly brutalized and assaulted?  Recommending this show without context is the same as recommending Ebichu the hamster without mentioning that it’s nothing like Hamtaro.  Not that I’d recommend either of those, but I think you know what I’m saying.
-
-<small>source: https://saturdayxiii.tumblr.com/post/181881333409</small>
-&nbsp;<a class="read-more" href="//2019/01/09/The-cute-characters-shiny/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/182299758994</small></p>
+&nbsp;<a class="read-more" href="//2019/01/25/3D-scanning-nope/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Jan 9, 2019 • Less than a minute read</span>
-  	<a href="//2019/01/09/Not-really-a-whole-lot-to/"><h1>Not-really-a-whole-lot-to-</h1></a>
-      <p>
-      
-        <img src="https://saturdayxiii.github.io/media/181886640029.gif" />
-
-<a href="http://hitchhiker-game.com" target="_blank">Humble Bundle’s Hitchiker: First Ride</a>.
-Not really a whole lot to say about it.  I just played it.  About half an hour long?  Wasn’t even a walking simulator because it took place all in a car.
-It’s alright, if you must play your short stories rather than read them.
-Actually it’s a demo for a larger game, so that works.  I hope we’re not stuck in a car for the whole full length game, but I’m definitely interested in the “other gatekeepers” that this demo suggests we’ll come across.  I’ll keep an eye out for more news about this, but I’m not intrigued enough to chase it.
-
-<small>source: https://saturdayxiii.tumblr.com/post/181886640029</small>
-&nbsp;<a class="read-more" href="//2019/01/09/Not-really-a-whole-lot-to/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -507,7 +524,7 @@ Actually it’s a demo for a larger game, so that works.  I hope we’re not st
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -521,9 +538,156 @@ Actually it’s a demo for a larger game, so that works.  I hope we’re not st
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

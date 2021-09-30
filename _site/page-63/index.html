@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-63/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -366,16 +364,20 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Feb 7, 2014 • Less than a minute read</span>
-  	<a href="//2014/02/07/I-think-that-the-Sonic-the/"><h1>I-think-that-the-Sonic-the</h1></a>
+      Oct 26, 2015 • Less than a minute read</span>
+  	<a href="//2015/10/26/What-s-going-on-here/"><h1>What s going on here</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/131960088469.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/131960088469.jpg" alt="What s going on here"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/75910281418.jpg" />
+        <p>What’s going on here?</p>
 
-I think that the Sonic the Hedgehog 20th anniversary redesign was a missed opportunity for a more competent female protagonist.
-
-<small>source: https://saturdayxiii.tumblr.com/post/75910281418</small>
-&nbsp;<a class="read-more" href="//2014/02/07/I-think-that-the-Sonic-the/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/131960088469</small></p>
+&nbsp;<a class="read-more" href="//2015/10/26/What-s-going-on-here/">Read  →</a>
       
       </p>
 
@@ -386,31 +388,22 @@ I think that the Sonic the Hedgehog 20th anniversary redesign was a missed oppor
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 1, 2013 • Less than a minute read</span>
-  	<a href="//2013/09/01/"><h1>NT</h1></a>
+      Oct 26, 2015 • Less than a minute read</span>
+  	<a href="//2015/10/26/This-is-Banana-He-s-a-sn/"><h1>This is Banana  He s a sn</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/131960168699.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/131960168699.jpg" alt="This is Banana  He s a sn"></a>
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/60020705705_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/60020705705_1.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/60020705705_2.jpg" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/60020705705_3.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/60020705705_4.jpg" /></td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>This is Banana.  He’s a snake, and maybe a bit turtle…</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/60020705705</small>
-&nbsp;<a class="read-more" href="//2013/09/01/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/131960168699</small></p>
+&nbsp;<a class="read-more" href="//2015/10/26/This-is-Banana-He-s-a-sn/">Read  →</a>
       
       </p>
 
@@ -421,34 +414,22 @@ I think that the Sonic the Hedgehog 20th anniversary redesign was a missed oppor
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jul 23, 2013 • Less than a minute read</span>
-  	<a href="//2013/07/23/"><h1>NT</h1></a>
+      Oct 26, 2015 • Less than a minute read</span>
+  	<a href="//2015/10/26/They-gave-me-a-picture-to/"><h1>They gave me a picture to</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/131959904749.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/131959904749.jpg" alt="They gave me a picture to"></a>
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_0.png" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_1.png" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_2.png" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_3.png" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_4.png" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_5.png" /></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/56264253684_6.png" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>They gave me a picture to color.  I color what I want.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/56264253684</small>
-&nbsp;<a class="read-more" href="//2013/07/23/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/131959904749</small></p>
+&nbsp;<a class="read-more" href="//2015/10/26/They-gave-me-a-picture-to/">Read  →</a>
       
       </p>
 
@@ -459,13 +440,20 @@ I think that the Sonic the Hedgehog 20th anniversary redesign was a missed oppor
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 15, 2013 • Less than a minute read</span>
-  	<a href="//2013/03/15/guest-posts/"><h1>Guest Posts</h1></a>
+      Oct 26, 2015 • Less than a minute read</span>
+  	<a href="//2015/10/26/The-word-healthy-should/"><h1>The word  healthy  should</h1></a>
       <p>
+        
+        
+        
+        
       
-        If you want to create a guest post that will appear as if written by another author, simply add an <code>author</code> attribute to the front matter of your blog post.&nbsp;<a class="read-more" href="//2013/03/15/guest-posts/">Read  →</a>
+        <p>The word “healthy” should just be replaced with “won’t kill you quite as fast.”</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/131962689709</small></p>
+&nbsp;<a class="read-more" href="//2015/10/26/The-word-healthy-should/">Read  →</a>
       
       </p>
 
@@ -476,28 +464,29 @@ I think that the Sonic the Hedgehog 20th anniversary redesign was a missed oppor
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 25, 2012 • 3&nbsp;min read</span>
-  	<a href="//2012/04/25/This-last-year-has-been-a/"><h1>This-last-year-has-been-a-</h1></a>
+      Oct 26, 2015 • Less than a minute read</span>
+  	<a href="//2015/10/26/Nario-is-playing-Goldeneye/"><h1>Nario is playing Goldeneye</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/131960334269.png" target="_blank"><img src="https://saturdayxiii.github.io/media/131960334269.png" alt="Nario is playing Goldeneye"></a>
+        
+        
+        
       
-        <h2 id="my-initial-responce-to-5-htp">My Initial Responce to 5-HTP</h2>
-This last year has been a rough one.  I developed an emotional problem that effected every aspect of my life.  Up until recently I couldn’t pin point when I got the problem.  I’ve always had a critical perspective on my life.  I’ve often had troubles with loneliness and depression but I’ve always pulled through.  This year however, for the entire year, that didn’t feel to be the case.  I figured it was just a build up of all the depression spirals of my life swelling to a final climax.  More than once I was certain that I wouldn’t be able to allow myself to survive through the night. 
-A particular tough night that I had last week brought me to Google for help.  My therapist had told me before that it’s Adrenaline that makes me feel this way and I just need to calm down and put things into perspective.  I’ve calmed my way through hundreds of depression spirals in my life, it just didn’t work anymore.  So I Googled “what stops adrenaline?” and it didn’t take many hits to learn about serotonin and how to get it in the form of 5-HTP.  The next day I bought a bottle and took my first pill.
-There is an abundance of information online about what 5-HTP is, how it works, and the caution that needs to be applied to it’s users. so I’m not going to elaborate on that, this is just my experience from my first week of using it.  I bought a bottle of 50mg pills and I took one.  Instantly I felt calmer.  It felt like a subtle aura was growing around me and the anxiety that I had constantly felt for over a year was creeping backward.  About an hour later I took a nap.  My anxiety makes sleep difficult and at this time I didn’t even feel particularly tired.  I just laid down and went to sleep and everything felt fine.
-I’ve been using the pills for nearly a week now.  I’ve paired them with pills of rhodiola rosea, taking 50 mg of 5-HTP in the evenings before bed and 400mg of rhodiola with breakfast in the morning.  Things have been a lot more manageable this week.  I don’t have nearly as concrete of a feeling from taking the rhodiola, but there has been times were I’ve noticed myself being particularly anxious and even paranoid, these feelings allowed me to recall that I hadn’t taken my rhodiola pills that morning.  So I assume they’re doing something good.
-I told my therapist that I was insecure about taking medication because I didn’t know what it would do to me.  I really didn’t want to lose myself or feel that I was only different because of a pill.  5-HTP makes me feel like who I remember myself to be before I had chronic anxiety issues.  I still have all my feelings.  I have worries and anxieties, they just don’t seem nearly as critical and I can even put them aside to worry about later.  On good days I used to tell my girlfriend that it just feels like my problems are farther away, somewhere in the distance, and this is consistently true when I take 5-HTP.
-So my non medical opinion based on my first week of these drugs is: if you’re hurting enough to consider supplements, try 5-HTP and rhodiola rosea.  My personal goal is to use them steadily together for a month then test my progress.  Hopefully I’ll be able to stay off both for a while.  If not, I’ll try doing rhodiola rosea solo and report my experience.
+        <p>Nario is playing Goldeneye 64 on a Dance Pad today. <a href="http://itsalmo.st/#dancepadtime" target="_blank">http://itsalmo.st/#dancepadtime</a>
+<a href="http://www.twitch.tv/djnario" target="_blank">http://www.twitch.tv/djnario</a><br /></p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/21793003816</small>
-&nbsp;<a class="read-more" href="//2012/04/25/This-last-year-has-been-a/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/131960334269</small></p>
+&nbsp;<a class="read-more" href="//2015/10/26/Nario-is-playing-Goldeneye/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -516,7 +505,7 @@ So my non medical opinion based on my first week of these drugs is: if you’re 
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -530,9 +519,156 @@ So my non medical opinion based on my first week of these drugs is: if you’re 
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-13/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,20 +362,31 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Jun 7, 2019 • Less than a minute read</span>
-  	<a href="//2019/06/07/Last-night-I-finally-sat-d/"><h1>Last-night-I-finally-sat-d</h1></a>
+      Nov 7, 2019 • 3&nbsp;min read</span>
+  	<a href="//2019/11/07/I-ve-been-reevaluating-my/"><h1>I ve been reevaluating my</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://64.media.tumblr.com/b1bff5cb999f384f1058356672dc61f9/22c2c0dc7a79863f-40/s540x810/5bdff0d5bc46fb9e828f9ae59d8071d98afaa5f7.png" target="_blank"><img src="https://64.media.tumblr.com/b1bff5cb999f384f1058356672dc61f9/22c2c0dc7a79863f-40/s540x810/5bdff0d5bc46fb9e828f9ae59d8071d98afaa5f7.png" alt="I ve been reevaluating my"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=kaPgQrw_Ywk"><img src="http://i3.ytimg.com/vi/kaPgQrw_Ywk/hqdefault.jpg" alt="thumbnail" /></a>&gt;
-
-Last night I finally sat down and played a bit of <a href="https://www.gog.com/game/sanitarium" target="_blank">Sanitarium </a>for the first time.  I’ve never felt a strong need to play it because <a href="https://www.youtube.com/playlist?list=PLE50D27DF4F83907F" target="_blank">Adkit2′s 2009 playthrough</a> is one of my favorite Let’s Plays and I’ve watched it through countless times, night after night.
-It’s definitely an interesting experience 
-feeling through the clunky hit boxes for myself 10 years later, and finding little details that I didn’t pay attention to in the Let’s Play.  Plus, after watching a pivotal scene play out so many times, those progress achievements feel pretty sweet.
-
-<small>source: https://saturdayxiii.tumblr.com/post/185435894049</small>
-&nbsp;<a class="read-more" href="//2019/06/07/Last-night-I-finally-sat-d/">Read  →</a>
+        <p>I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effort.
+I don’t consider myself to be very particular when it comes to browsers.  Just a browser out of the box is about all I need; maybe a last.fm extension installed.  I started using Chrome years ago because I was heavily dependent on Drive and Gmail anyway, so it was only natural to have everything synced together.  I’ve also used Opera Portable on a USB stick for when I’m on my low-powered work laptop.  I’ve had difficulties with all browsers in the past, which is the way of anything computer related really.  Use something exclusively until something big goes wrong, then scramble to find a replacement, get excited with the new find, discover its own problems, then go back to what’s familiar and start the cycle over.
+To be fair, nothing has gone wrong with Chrome, but lately I’ve stopped using it because I’ve upgraded my USB stick to a PCIE SSD over USB-C.  It’s fast enough that the vast amount of my software can run on it without bottle-necking.  So I do that, but of course, for the first time in years Opera lost all of my saved data and sessions.  Granted this could be remedied by using Opera Sync, but I didn’t set up an account because while it was a secondary browser the occasional data loss wasn’t an issue.  But this time it was.
+From the few times I’ve tried Chrome portable, I consider it to be too unreliable, so I narrowed down my replacement options to Firefox and Vivaldi.  I have also had problem with Firefox portable in the past, but that was a long time ago and I have more faith in the Open Source community to address consumer annoyances than a corporate giant.  After installing I was surprised what a good fit Firefox was turning out to be.  It had all the main features that I wanted, but the nail in the coffin was the RAM usage.  One Youtube video running, fine, it’s running about 500mb.  A second Youtube tab and nope.  1.5 Gb and my laptop is chugging.
+Vivaldi I was most excited about because it was essentially Opera.  I’ve endorsed Opera as being an amazing light-weight browser in the past, but have always warned about how its corporate owners were devil incarnate.  I was surprised to learn that I wasn’t the only one who felt that way, and some time ago some of the old Opera devs split and started Vivaldi.  Vivaldi was great.  Lightweight, and customizable to the nines.  My favorite feature was the ability to shrink the UI without zooming out of webpages.  Made it very sleek and made up for the fact that there was a permanent side bar button, and the tabs weren’t tucked away in the title bar.  Though I was enjoying having the tabs hidden in the side bar rather than docked in the window.</p>
+<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1920">/&gt;
+But the nail in the coffin was the fact that Vivaldi didn’t have a proper portable app.  They have a standalone that could be run in isolation, but it reset all the data every time I changed machines.  Of course it has its own sync service, but this still needs to be signed into every time and it doesn’t keep web site preferences cached.  At least with Opera this only happened every so often, most likely with software updates, not with every machine change.
+So I’m back on Opera.  I’ve got sync set up and I’m feeling good.  I guess I don’t have a problem with the devil so long as he has good services.
+Vivaldi, if you want to be my savior: get on that portability, please.
+  
+<small>source: https://saturdayxiii.tumblr.com/post/188888561964</small>
+</figure>
+&nbsp;<a class="read-more" href="//2019/11/07/I-ve-been-reevaluating-my/">Read  →</a>
       
       </p>
 
@@ -388,96 +397,23 @@ feeling through the clunky hit boxes for myself 10 years later, and finding litt
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      May 30, 2019 • 3&nbsp;min read</span>
-  	<a href="//2019/05/30/I-ve-seen-some-people-who/"><h1>I-ve-seen-some-people-who-</h1></a>
+      Oct 25, 2019 • Less than a minute read</span>
+  	<a href="//2019/10/25/Here-s-a-catchy-tune-from/"><h1>Here s a catchy tune from</h1></a>
       <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2357788203&amp;ts=1572040060&amp;t=e714460b1ad3de819a0910b81fcc7972b1f61f52"></iframe>
+        
       
-        <h2 id="a-couple-of-desires-for-video-game-achievements">A Couple of Desires for Video Game Achievements</h2>
-I’ve seen some people who can’t stand video game achievements, I’ve seen others who won’t play games without them and won’t play another game until they’ve hundred percented all the cheevies.  Like most aspects of my life I fall in the middle, and to a more casual side of the matter.  I definitely gravitate to games that mark my achievements, but I also have little problem ignoring cheevies that I don’t accomplish after a casual play through.  With that angle being disclosed, here’s two features that I wish achievement systems would adopt.
-<ol>
-  <li>Categorization.  
-Pretty much all video games can be played in more than one way.  The most basic way is start to finish, which can be reflected through progress achievements; “You’ve reached this stage of the game, Here’s your notice.”  There are also stats achievements; “You did the mundane thing X number of times. Here’s your token.”  And challenge achievements; “You exceeded X goal, clearly mastering Y skill.  Here’s your badge.”  Even obscure achievements; “Well that never happens.  Here’s a cookie.”  
-I don’t see why achievement systems don’t already reflect this.  The trophy page always seems to be built around 100% or bust, despite the fact very few people (especially me) are even going to attempt to get the “Speed Running” achievement for each level of your physics based game.  I like achievements because they can make me feel good.  They make me feel achieved… er… accomplished.  However, if there are a subset of them that I regularly ignore, I’d like to be able to disregard them from my stats.  Please and thank you.
-Here’s another preface for my second feature request.  It can only be applied at the platform, or achievement service level, and one has to acknowledge that achievements can’t be taken too seriously.  I know all platforms strive to fight against cheaters, but really I don’t think it’s extensively worthwhile.  The higher the value we place on achievements the harder cheaters will try to find illegitimate ways of gaining them, and they will.  There is no sure way to bar someone from something in a digital medium.  So clearly this feature is going to be a stretch, but if you can’t get behind the idea that all achievements are exploitable then you might as well consider this the end of my article.
-Still here?
-Thanks for hearing me out.</li>
-  <li>Achievements from pre-recorded footage.
-I am in the camp of folks that will sometimes not play a game because I can’t get online and even if there is offline support for achievements, they always seem to screw up so I might as well wait.  And yet I don’t think I have a single device that doesn’t support screen recording.  I’d love to be able to link a cheevie service to my Twitch or YouTube vid and have it acknowledge some achievements.  This would have the bonus effect of allowing me to retroactively add achievements for games I played that didn’t support them until much later.
-Clearly this wouldn’t work for many stats based achievements, but any achievement that can be acknowledged from a menu or visual cue, like a life counter or stage title screen, should be trackable.  The system would parse a video frame by frame, and with Google Image-like AI it could be taught to recognize the visual cues of certain achievements.  It could even learn to apply certain standards to other games that might not support regular achievements.
-You might be thinking “But anyone can upload a video, if you’re going to be that lax about it, why not just mark off a public checklist”.  You’re essentially right.  If there’s a cheevie service that gives me acknowledgment just at my word, I’m down with that.  However, there still is legitimacy to uploading footage, after all, the speed running community does exactly this.  Some community scrutiny is required, and some cheaters do get through the system, but as previously declared: this will always be the case.
-There’s my long spiel for two rather mundane ideas.  There’s probably legitimate reasons why I’ve never heard anyone mention either before.  But I’m putting it out there.  Whether or not someone reads through this schlock or not, that’s a different matter.</li>
-</ol>
+        <p><a href="https://umbromaniii.bandcamp.com" target="_blank">Umbromaniii</a> and <a href="https://blindhandicap.bandcamp.com" target="_blank">bLiNd</a> keep putting out gold.  I could fill this whole blog with highlights from them, but my name is in the url so no.
+Here’s a catchy tune from Umbromaniii that I meant to share when it came out, but I was too hyped up on bLiNd’s <a href="https://saturdayxiii.tumblr.com/post/186866959138/blinds-latest-album-takes-me-to-deep-dark-places" target="_blank">Submerged</a> at the time.  Now Umbromaniii has even newer stuff I should be raving about, but I’m dedicated.  I love these dark, hollow tunes.  Makes me feel like everything wrong is right.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/185247441974</small>
-&nbsp;<a class="read-more" href="//2019/05/30/I-ve-seen-some-people-who/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      May 26, 2019 • Less than a minute read</span>
-  	<a href="//2019/05/26/Best-part-about-living-dow/"><h1>Best-part-about-living-dow</h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/185186455519_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/185186455519_1.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-Best part about living downtown: if you need live music, typically all you have to do is walk down the street and you’ll find it.  Great show at The Tavern.
-
-<small>source: https://saturdayxiii.tumblr.com/post/185186455519</small>
-&nbsp;<a class="read-more" href="//2019/05/26/Best-part-about-living-dow/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      May 24, 2019 • Less than a minute read</span>
-  	<a href="//2019/05/24/They-still-made-it-worth-m/"><h1>They-still-made-it-worth-m</h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/185116082294_0.gif" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/185116082294_1.gif" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/185116082294_2.gif" /></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/185116082294_3.gif" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<a href="https://trampolinesounds.bandcamp.com" target="_blank">Trampoline</a> drove for days to put on a show at the Aviary in Edmonton last night.  I felt poorly about having to drive 10 minutes after dark.
-They still made it worth my while.
-
-<small>source: https://saturdayxiii.tumblr.com/post/185116082294</small>
-&nbsp;<a class="read-more" href="//2019/05/24/They-still-made-it-worth-m/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/188591416559</small></p>
+&nbsp;<a class="read-more" href="//2019/10/25/Here-s-a-catchy-tune-from/">Read  →</a>
       
       </p>
 
@@ -490,23 +426,92 @@ They still made it worth my while.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      May 24, 2019 • Less than a minute read</span>
-  	<a href="//2019/05/24/"><h1>NT</h1></a>
+      Oct 24, 2019 • Less than a minute read</span>
+  	<a href="//2019/10/24/No-matter-how-sick-I-think/"><h1>No matter how sick I think</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=gKILYcpsOyE" target="_blank"><img src="http://i3.ytimg.com/vi/gKILYcpsOyE/hqdefault.jpg" alt="No matter how sick I think"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=ygYlxTxSaCM"><img src="http://i3.ytimg.com/vi/ygYlxTxSaCM/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <p>No matter how sick I think I am of watching <a href="https://www.youtube.com/playlist?list=PL8D687CA0AFC4C655" target="_blank">this Lets Play</a> over and over for the past decade; October rolls around and I just can’t help myself.  <br /><br />At one point I put the audio logs of the back story in chronological order for easy consumption: <a href="https://www.youtube.com/watch?v=-CiwRk7zKQ4" target="_blank">https://www.youtube.com/watch?v=-CiwRk7zKQ4</a></p>
 
-Fun to think about, but I think this just shows how a lack of familiarity with most characters in media being based on archetypes fuels narrative conspiracies.
-<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/185119861059</small>
-&nbsp;<a class="read-more" href="//2019/05/24/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/188570842984</small></p>
+&nbsp;<a class="read-more" href="//2019/10/24/No-matter-how-sick-I-think/">Read  →</a>
       
       </p>
 
   </article>
 
 
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+      
+      Sep 3, 2019 • Less than a minute read</span>
+  	<a href="//2019/09/03/"><h1>NT</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/187473778429.png" target="_blank"><img src="https://saturdayxiii.github.io/media/187473778429.png" alt="NT"></a>
+        
+        
+        
+      
+        <p>“Commissioned” art, yay!
+<a href="https://www.youtube.com/watch?v=5UjAKUmuDho" target="_blank">https://www.youtube.com/watch?v=5UjAKUmuDho</a><br />
+<a href="http://fav.me/ddfgvwb" target="_blank">http://fav.me/ddfgvwb</a><br /></p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/187473778429</small></p>
+&nbsp;<a class="read-more" href="//2019/09/03/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
+      
+      Aug 20, 2019 • Less than a minute read</span>
+  	<a href="//2019/08/20/"><h1>NT</h1></a>
+      <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/187147816849_0.gif" title=""><img src="https://saturdayxiii.github.io/media/187147816849_0.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/187147816849_1.gif" title=""><img src="https://saturdayxiii.github.io/media/187147816849_1.gif" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/187147816849_2.gif" title=""><img src="https://saturdayxiii.github.io/media/187147816849_2.gif" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
+      
+        <p>/&gt;
+ /&gt;
+ /&gt;</p>
+
+<p><a href="https://feminalfluids.bandcamp.com" target="_blank">Feminal Fluids</a> at the Aviary for This is Pop! weekend.  Hot times.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/187147816849</small></p>
+&nbsp;<a class="read-more" href="//2019/08/20/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -525,7 +530,7 @@ Fun to think about, but I think this just shows how a lack of familiarity with m
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -539,9 +544,156 @@ Fun to think about, but I think this just shows how a lack of familiarity with m
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-3/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -366,16 +364,21 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 12, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/12/May-walks-us-through-the-g/"><h1>May-walks-us-through-the-g</h1></a>
+      Jul 29, 2021 • Less than a minute read</span>
+  	<a href="//2021/07/29/the-exploring-series/"><h1>The Exploring Series</h1></a>
       <p>
+        
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=jy6TK3njrRU"><img src="http://i3.ytimg.com/vi/jy6TK3njrRU/hqdefault.jpg" alt="thumbnail" /></a>
-May walks us through the grim themes of Tideland so we don’t have to.
-This movie is sitting unwatched within my hoard, and this video was a rollercoaster.  I was set on deleting my copy through most of it, but the longer it went on, the more intricate and personal things got.  Tideland has lots to say about personal, social, and natural situations, and May captured and reflected all the best parts perfectly.  I thought about this movie, myself, my relationships, and the greater world that contains us all.  I’d call that a perfect review.
+        <p><a href="https://www.youtube.com/watch?v=XLlHeud8ocQ"><img src="http://i3.ytimg.com/vi/XLlHeud8ocQ/maxresdefault.jpg" alt="thumbnail" /></a>
+I’ve been addicted to <a href="https://www.youtube.com/c/TheExploringSeries/videos">The Exploring Series</a> for a while now, especially for sleeping to.  I can wake up at anypoint and follow along with something interesting or just be soothed back to sleep.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/648282593639481344</small>
-&nbsp;<a class="read-more" href="//2021/04/12/May-walks-us-through-the-g/">Read  →</a>
+<p>The bulk of the videos are curated and explained <a href="https://scp-wiki.wikidot.com/">SCP Foundation</a> stories.  I’ve tried to get into SCP before, and while I love the ideas, it can be a slog to try and find the good stuff.  TES makes it easy and is so well versed that they’ll make you quickly feel like you have an actual grasp on the universe.  If only.</p>
+
+<p>This particular tale I’ve chosen to start with presents the more goofy side of SCP, while still containing the Lovecraftian hallmarks.  It follows the adventurous Lord Blackwood as he fights religion in another dimension.</p>
+&nbsp;<a class="read-more" href="//2021/07/29/the-exploring-series/">Read  →</a>
       
       </p>
 
@@ -388,20 +391,72 @@ This movie is sitting unwatched within my hoard, and this video was a rollercoas
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 11, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/11/SuperGreatFriend-recently/"><h1>SuperGreatFriend-recently-</h1></a>
+      Jul 20, 2021 • Less than a minute read</span>
+  	<a href="//2021/07/20/Don-Hertzfeldt-simpsons-intro/"><h1>Don Hertzfeldt's Simpsons Intro</h1></a>
       <p>
+        
+        
+        
+        
       
-        <p class="npf_link" data-npf="{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://href.li/?http://www.youtube.com/playlist?list=PL4AF3053BF572C1E5&quot;,&quot;display_url&quot;:&quot;https://href.li/?http://www.youtube.com/playlist?list=PL4AF3053BF572C1E5&quot;,&quot;title&quot;:&quot;Let's Play Michigan: Report from Hell&quot;,&quot;description&quot;:&quot;Let's Play Michigan: Report from Hell&quot;,&quot;site_name&quot;:&quot;YouTube&quot;,&quot;poster&quot;:[{&quot;media_key&quot;:&quot;0591c87632b1fce4feeedadd11a74071:f42bd368b3ccb51d-6b&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:168,&quot;height&quot;:94}]}"><a href="https://href.li/?http://www.youtube.com/playlist?list=PL4AF3053BF572C1E5" target="_blank">Let's Play Michigan: Report from Hell</a>
-SuperGreatFriend recently <a href="https://www.youtube.com/watch?v=X-EyBetqar0" target="_blank">attempted</a> to play Michigan: Report from Hell.  Despite all the deserved flack this game gets, it's still amazing how it is never not entertaining.  No matter who plays it, or how apathetically.  The game is a comedy force.
-I'm sharing iconoclast187's playthrough because I favor his knowledgeable explanations of what's actually going on.
-This movie version is also good.
-[![thumbnail](http://i3.ytimg.com/vi/-nLO2kz2Txs/hqdefault.jpg)](https://www.youtube.com/watch?v=-nLO2kz2Txs)
-Neither is complete though.  100% playthroughs are not possible, and it's a shame to miss any of it.
-  
-<small>source: https://saturdayxiii.tumblr.com/post/648191989641347072</small>
+        <p><a href="https://www.youtube.com/watch?v=1f5Xt5pZZZM&amp;t=474s"><img src="http://i3.ytimg.com/vi/1f5Xt5pZZZM/hqdefault.jpg" alt="thumbnail" /></a></p>
 
-&nbsp;<a class="read-more" href="//2021/04/11/SuperGreatFriend-recently/">Read  →</a>
+<p><a href="https://www.youtube.com/channel/UCeTfBygNb1TahcNpZyELO8g">Jacob Gellar</a> Touches and expands on a couple of my current core beliefs.  The fact that we do live forever as a community consciousness, and how our desire to postpone individual death is one of the most narcistic disservices that we can do to ourselves and our world.</p>
+
+<p>… Jacob doesn’t really come close to talking about that, but that is what I wanted him say in this exploration of individual identity through immortality.</p>
+&nbsp;<a class="read-more" href="//2021/07/20/Don-Hertzfeldt-simpsons-intro/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      Jul 13, 2021 • 3&nbsp;min read</span>
+  	<a href="//2021/07/13/Escitalopram/"><h1>Escitalopram</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <p>I just took my first dose of the anti depression/anxiety medication Escitalopram (Es-sye-TAL-oh-pram, as the pamphlet says).  I’m pretty sure the doctor prescribed something else… starting with a “c” I think… but this is the generic version of that.</p>
+
+<p>Anyway, this is my first forray into medication deliberately for my mental health.  I’ve talked before about having a big breakdown, nearly 10 years ago now, but upon looking at the definition of a nervours/mental breakdown, I’d say I’ve actually experienced them once or twice a year for the last 10+ years.  I’ve been managing by having a generous sleep schedule, and taking generic multivitamins plus extra vitamin D.  Sometimes 5HTP as well, but I find it only works for the first dose after a break.  I’ve recently finished off a bottle but my anxiety has been extra high for a long time.</p>
+
+<p>I think it was about 4 years ago I properly came to terms that I wasn’t suicidal anymore, and the vitamins help my energy levels which allows me to do more hobbies which helps my depression, but I’ve never gotten a handle on my actual anxiety issues.  I can’t even pinpoint a reason for them.  I get cold sores almost anytime I take a vacation with family, even when I lived with family and we were just going out of town to the cabin.  I procrastinate against leaving my house, not because I have a fear of the outside or anything, but like, I just don’t like transitioning, even to a new location.  Going to work, or to a friend’s house, I get knots in my stomach.  That’s kind of my default anxiety tell: butterfly’s in the stomach.  I’ve been low-level nautious for a good 3 weeks now, starting to get regular headaches, like I’m clenching my jaws too much.  I’d say that’s a 6 out of 10 on the anxiety scale.  Sick with a good chance of getting worse.  My baseline these days is 4 out of 10.  Uncomfortable and not knowing which way it’ll go.  When I think I’m going to have a panic attack, I’d put my anxiety at a 9 out of 10.  I hit that every wednesday usually.  Wednesday is the first day of the work week for me, and we open with a staff meeting to review the week and make changes.  I like to blame work for my anxiety.  “If only I had more freetime.”  Covid has actually been great for my mental health.  I’m aware of the privledge in that statement.  But I actually don’t work that much.  Officially only like 25 hours a week.  I do do pro-bono homework, but it’s optional and I can stop when I want, I swear.  I decided a couple years ago that if I felt any other major depressive episodes coming on, I’d seek chemical help.  And now with the new job it’s become apparent that I can’t operate like a normal human being, so I’m seeking help.</p>
+
+<p>I think it’s been long enough since I took the first dose that I can record my reactions.  I took it while I was making breakfast and I didn’t feel like I needed to take food with it, though a while after I was done my meal I did start to feel nautious, but having a drink seemso to have fixed that.  I feel relaxed, but that’s because the pill has apparently made me tired.  I’m surprised I’m maintaining focus on this post.  I don’t feel like sleeping, but I don’t feel like moving either.  A very druggy experience.  I can’t tell if i’m properly de-anxious-ized, or just distracted.  Feels alright, but I’ll have to take these in the evening rather than mornings.  Now that I’ve acknowledged it, I’m definitley too tire dot come up with a smooth conclusion.  So I guess I’ll report back in 3-4 weeks with how it’s going.</p>
+&nbsp;<a class="read-more" href="//2021/07/13/Escitalopram/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+      
+      Jul 13, 2021 • Less than a minute read</span>
+  	<a href="//2021/07/13/Barrhead-Towing/"><h1>Barrhead Towing</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/fbKT7TPX/barrhead-towing-02.png" target="_blank"><img src="https://i.postimg.cc/fbKT7TPX/barrhead-towing-02.png" alt="Barrhead Towing"></a>
+        
+        
+        
+      
+        <p>I love it when a design comes together, and quickly.  <a href="https://www.haitelsgarage.com">Haitel’s Garage</a> sent a message saying they wanted to rebrand their tow trucks.  They gave me a concept, a little back and forth, then here we are next day with a finished logo.</p>
+&nbsp;<a class="read-more" href="//2021/07/13/Barrhead-Towing/">Read  →</a>
       
       </p>
 
@@ -414,69 +469,23 @@ Neither is complete though.  100% playthroughs are not possible, and it's a sham
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 10, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/10/Ive-been-hanging-around-s/"><h1>Ive-been-hanging-around-s</h1></a>
+      Jul 6, 2021 • Less than a minute read</span>
+  	<a href="//2021/07/06/Lonerboxisms/"><h1>Lonerboxisms</h1></a>
       <p>
+        
+        
+        
+        
       
-        <p class="npf_link" data-npf="{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N&quot;,&quot;display_url&quot;:&quot;https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N&quot;,&quot;title&quot;:&quot;Bumbling Through Sentient&quot;,&quot;site_name&quot;:&quot;YouTube&quot;,&quot;poster&quot;:[{&quot;media_key&quot;:&quot;d2e92f38a62c9b0baa3f9854e28a96af:9b1c32f5ffb91e76-d2&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:168,&quot;height&quot;:94}]}"><a href="https://href.li/?http://www.youtube.com/playlist?list=PLaSPgE4K0SB2BfYFVQWQYc_igiW4H2h-N" target="_blank">Bumbling Through Sentient</a>
-I've been hanging around some ps1 communities, and no one talks about Sentient, but I still think about it regularly.  
-SuperGreatFriend's playthrough is probably the most complete source of information out there for this game.  Reminds me of when everyone needed to use MikeNnemonic's LSD playthrough to research that game&hellip;  SGF got, I believe, 11 of the possible endings in the game, and there are still questions left unanswered.  This game probably deserves to be right up there with Martian Gothic, and Echo Night for ps1 story gems.  
-Depending on your attention span, you might want to start on video 5 or 6.  There's a lot of false starts that are inevitable with a game this cryptic.
-  
-<small>source: https://saturdayxiii.tumblr.com/post/648101381193023488</small>
-
-&nbsp;<a class="read-more" href="//2021/04/10/Ive-been-hanging-around-s/">Read  →</a>
+        <p><a href="https://www.youtube.com/watch?v=NFAYN6oWyIo"><img src="https://img.youtube.com/vi/NFAYN6oWyIo/0.jpg" alt="thumbnail" /></a>
+Finally doing some mild binging of <a href="https://www.youtube.com/channel/UCi5pr6jdzVMWNObsiiAYpEA">Lonerbox’s videos</a>.  His latest exploration of the benefits received by extremists when allowed freedom to platform, even when their ideas are bad, has been refreshing and I’m currently enjoying the rabbit hole through <a href="https://www.youtube.com/watch?v=-NEQoNUat0k">conservatives’s longstanding dependancey on willing untruthfulness</a>, and how <a href="https://www.youtube.com/watch?v=jx1Jg4QAPmM">geography and environment downsized most African’s needs to adopt and advance technologies</a>.</p>
+&nbsp;<a class="read-more" href="//2021/07/06/Lonerboxisms/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 9, 2021 • 1&nbsp;min read</span>
-  	<a href="//2021/04/09/Yesterday-I-caught-a-Sonic/"><h1>Yesterday-I-caught-a-Sonic</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=hIo3Gi7Tn2A"><img src="http://i3.ytimg.com/vi/hIo3Gi7Tn2A/hqdefault.jpg" alt="thumbnail" /></a>
-Yesterday I caught a Sonic Advance race on <a href="https://www.twitch.tv/gamesdonequick" target="_blank">GamesDoneQuick</a>.  It reminded me how under appreciated Sonic Advance 2 is, despite seemingly everyone in the chat reassuring each other on how amazing it is.
-Maybe “under appreciated” is the wrong term, perhaps its too accepted.  Not controversial enough.  Sonic is a huge brand, so even though the Advance games are an offshoot, there is still a huge amount of people who have played them, and I’m under the impression that the majority have enjoyed it.  But when people speculate, albeit less so since Sonic Mania, how Sonic games haven’t really improved since the Genesis days, Sonic Advance is still regularly overlooked.
-I’d love to see the Advance games picked apart, or over glamorized, as much as the other Sonic titles.  Actually that goes for most of the Sonic portable titles, or at least including the Rush series.  There’s just so much there that was brought to the franchise that just seems like it’s fenced off in its own fractioned fandom.
-Anyway, here’s an old vid by the Geek Critique which I don’t agree with, but he makes a lot of great points that I think apply better to gaming in general.  I’d argue that being a good Sonic game is a bit different than being a good general game, but hairs would need to be split.
-
-<small>source: https://saturdayxiii.tumblr.com/post/648018812796600320</small>
-&nbsp;<a class="read-more" href="//2021/04/09/Yesterday-I-caught-a-Sonic/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 9, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/09/People-dont-know-how-to-p/"><h1>People-dont-know-how-to-p</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=hTkt4Kd1MLI"><img src="http://i3.ytimg.com/vi/hTkt4Kd1MLI/hqdefault.jpg" alt="thumbnail" /></a>
-People don’t know how to play Nights.  Now I know, but I still can’t do it.
-
-<small>source: https://saturdayxiii.tumblr.com/post/648018882041364480</small>
-&nbsp;<a class="read-more" href="//2021/04/09/People-dont-know-how-to-p/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -495,7 +504,7 @@ People don’t know how to play Nights.  Now I know, but I still can’t do it.
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -509,9 +518,156 @@ People don’t know how to play Nights.  Now I know, but I still can’t do it.
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

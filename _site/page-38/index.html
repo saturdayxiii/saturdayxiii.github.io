@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-38/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,20 +362,44 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 4, 2016 • Less than a minute read</span>
-  	<a href="//2016/09/04/Still-sneakinppbr/"><h1>Still-sneakinppbr</h1></a>
+      Nov 16, 2016 • 2&nbsp;min read</span>
+  	<a href="//2016/11/16/On-Monday-night-I-saw-Miya/"><h1>On Monday night I saw Miya</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/85eb0f61913d3dcc775b8b8ee9934928/tumblr_inline_ogr8y5vlgz1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/ea95b35294ad3f386c5301a0dffa0a6c/tumblr_inline_ogrbqcw4pZ1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/ea95b35294ad3f386c5301a0dffa0a6c/tumblr_inline_ogrbqcw4pZ1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/fd8e461461064cc269f808a7b5071ee2/tumblr_inline_ogrbqp4uRY1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/fd8e461461064cc269f808a7b5071ee2/tumblr_inline_ogrbqp4uRY1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/d6331f05a9687c4c533f5ff61bb8a9b0/tumblr_inline_ogrbqvsazc1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/d6331f05a9687c4c533f5ff61bb8a9b0/tumblr_inline_ogrbqvsazc1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/7ae6e4748e823d97ed5e8ddf1da6eb4e/tumblr_inline_ogrbrfYGRq1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/7ae6e4748e823d97ed5e8ddf1da6eb4e/tumblr_inline_ogrbrfYGRq1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/149940042190.jpg" />
-
-Still sneakin.
-<br />
-<a href="https://en.wikipedia.org/wiki/Misumena_vatia" target="_blank">https://en.wikipedia.org/wiki/Misumena_vatia</a><br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/149940042190</small>
-&nbsp;<a class="read-more" href="//2016/09/04/Still-sneakinppbr/">Read  →</a>
+        <h2 id="further-topicless-ramblings-about-select-cartoons-journal">Further topicless ramblings about select cartoons [journal]</h2>
+<p>On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre.  So this is a follow up post to the one I’ve made in reaction to <a href="http://saturdayxiii.tumblr.com/post/151944972574/laputa-and-self-reflection-regarding-anime" target="_blank">Laputa: Castle in the Sky</a>.  I also thought it would be fun to attempt drawing in the dark theatre as the movie played.  So enjoy my renditions of certain “key” scenes.</p>
+<figure data-orig-width="2841" data-orig-height="3958" class="tmblr-full">/&gt;
+In true waffling fashion, as soon as I posted my laments towards being unable to enjoy anime I have found myself enjoying old anime.  Neon Genesis Evangelion has kept me entertained the last couple weeks, and I’m fairly eager to try rewatching Mars Daybreak, Mai Hime, and some others.  I’m thinking it will be Trigun, or Hunter X Hunter 2011, which tells me whether or not I’m truly a hypocrite.  Those first few episodes were brutal the last time I rewatched them, and honestly they still don’t look entirely appealing.
+<figure class="tmblr-full" data-orig-height="3719" data-orig-width="2184">/&gt;
+With such fluctuation in my anhedonia condition, it’s no surprise that I enjoyed Nausicaa, but that isn’t a surprise either way.  The question was: what is it about Miyazaki movies that make them enjoyable to watch, despite my sensitivity to tropes and repeat material.  With now having watched the majority of the Miyazaki collection, I don’t feel that I am much closer to an answer.  
+<figure class="tmblr-full" data-orig-height="3628" data-orig-width="2285">/&gt;
+I’m honestly surprised that I don’t see more complaints about how similar these movies are to one another, Nausicaa may as well be known as Proto-mononokehime, and yet I can sense why there aren’t such complaints.  Or at least none that I know of, not having specifically looked for them.  
+<figure class="tmblr-full" data-orig-height="2877" data-orig-width="2132">/&gt;
+From what I understand Nausicaa is the first true Miyazaki movie, and it is exactly what any aspiring fantasy writer/artist would hope for in their first feature film adaption.  Every Miyazaki movie has this base; a rich, intriguing world to hold its characters.  10 minutes in to Nausicaa and I thought it was going to be among my favorites, but once the background info was dealt with and the characters needed to go through the motions of finishing their little drama, I changed my mind.  From Laputa, to Mononoke, to Spirited Away, every movie’s world comes across a little bit deeper and the story is presented a bit more tactical.  I don’t mind seeing another, even though I know I’ve seen the basic elements that typically make up a Miyazaki film.
+<figure class="tmblr-full" data-orig-height="3653" data-orig-width="2543">/&gt;
+Oh, hey, wouldn’t you know that another movie is in the works!  Well, okay.  I’m not tremendously excited like some people, but it’s a far cry from how I’m rolling my eyeballs at the new live action Full Metal Alchemist trailers.  I get it.  It didn’t take many live action Japanese adaptations before I felt like I wasn’t going to see anything new.  I’m not surprised, I’m not impressed, I’m not invested, I’m not curious.  Another Miyazaki movie, however?  It could be alright.
+<figure class="tmblr-full" data-orig-height="1190" data-orig-width="2711">/&gt;
+Maybe I’m just spoilt.
+  
+<small>source: https://saturdayxiii.tumblr.com/post/153276318489</small>
+</figure></figure></figure></figure></figure></figure>
+&nbsp;<a class="read-more" href="//2016/11/16/On-Monday-night-I-saw-Miya/">Read  →</a>
       
       </p>
 
@@ -390,14 +412,20 @@ Still sneakin.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 3, 2016 • Less than a minute read</span>
-  	<a href="//2016/09/03/"><h1>NT</h1></a>
+      Nov 9, 2016 • Less than a minute read</span>
+  	<a href="//2016/11/09/These-days-I-m-always-out/"><h1>These days I m always out</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/152983433934.png" target="_blank"><img src="https://saturdayxiii.github.io/media/152983433934.png" alt="These days I m always out"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/149891937306.jpg" />
+        <p>These days I’m always out of practice.  And I can never draw spiders accurately anyway.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/149891937306</small>
-&nbsp;<a class="read-more" href="//2016/09/03/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/152983433934</small></p>
+&nbsp;<a class="read-more" href="//2016/11/09/These-days-I-m-always-out/">Read  →</a>
       
       </p>
 
@@ -408,31 +436,65 @@ Still sneakin.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 2, 2016 • Less than a minute read</span>
-  	<a href="//2016/09/02/Once-again-the-light-was-t/"><h1>Once-again-the-light-was-t</h1></a>
+      Nov 7, 2016 • Less than a minute read</span>
+  	<a href="//2016/11/07/"><h1>NT</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/152879526279.png" target="_blank"><img src="https://saturdayxiii.github.io/media/152879526279.png" alt="NT"></a>
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/149846307006_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/149846307006_1.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/149846307006_2.jpg" /></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/149846307006_3.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>My first DnD character: 
+Docktar Soo Jounz the Druid.</p>
 
-Once again the light was too low to give me enough focal range, but he’s still cute so you can pick the lesser of bad photos for yourself.
+<div id="footer">
+      <span id="timestamp"> November 7th, 2016 6:50pm </span>
+        <span class="tag">dnd</span>
+  <span class="tag">d&amp;d</span>
+  <span class="tag">dungeons and dragons</span>
+  <span class="tag">oc</span>
+  <span class="tag">character</span>
+  <span class="tag">druid</span>
+  <span class="tag">3.5</span>
+  <span class="tag">art</span>
+  <span class="tag">game</span>
+  
+  &lt;/body&gt;
+        &lt;/html&gt;
+        
+<small>source: https://saturdayxiii.tumblr.com/post/152879526279</small>
+</div>
+&nbsp;<a class="read-more" href="//2016/11/07/">Read  →</a>
+      
+      </p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/149846307006</small>
-&nbsp;<a class="read-more" href="//2016/09/02/Once-again-the-light-was-t/">Read  →</a>
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      Nov 3, 2016 • Less than a minute read</span>
+  	<a href="//2016/11/03/Tiny-Things/"><h1>Tiny Things</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <p>I’m learning to tumblr properly.  Here’s <a href="https://tinythings.tumblr.com/">another new blog</a> where I’ll be moving all  my insect and macro photos.  If you’ve followed me for those photos, please follow me over there.</p>
+
+<p>There’s clearly a mild following for my spider pictures and the like, and I feel bad every time I post some personal bs and it’s obvious that most of my followers aren’t here for that… True that I’ll probably never have followers interested in my BS, but still.  The mass amounts of insect pictures are being relocated and I’ll continue to post random art bits and blog posts here.  I’m sure the occasional bug will turn up here too.  Especially any new pictures of the snake.  Now if only I’d generate content worthy of my “professional” blog at <a href="https://heavyhanded.ca">https://heavyhanded.ca</a>, that really would be an improvement.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/152694719019</small></p>
+&nbsp;<a class="read-more" href="//2016/11/03/Tiny-Things/">Read  →</a>
       
       </p>
 
@@ -445,56 +507,39 @@ Once again the light was too low to give me enough focal range, but he’s still
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 1, 2016 • Less than a minute read</span>
-  	<a href="//2016/09/01/Where-I-hangppbr/"><h1>Where-I-hangppbr</h1></a>
+      Nov 1, 2016 • Less than a minute read</span>
+  	<a href="//2016/11/01/YoinkppHere-are-phot/"><h1>YoinkppHere are phot</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg" alt="" /><span></span></a><a href="https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg" title=""><img src="https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/149801109387.jpg" />
+        <p><a href="https://www.youtube.com/watch?v=lJ2PsS-DpRw"><img src="http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg" alt="thumbnail" /></a>&gt;</p>
 
-Where I hang.
-<br />
-One of these two I guess: 
-<a href="https://en.wikipedia.org/wiki/Clepsis_clemensiana" target="_blank">https://en.wikipedia.org/wiki/Clepsis_clemensian</a>a 
-<a href="https://en.wikipedia.org/wiki/Agriphila_ruricolella" target="_blank">https://en.wikipedia.org/wiki/Agriphila_ruricolella</a><br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/149801109387</small>
-&nbsp;<a class="read-more" href="//2016/09/01/Where-I-hangppbr/">Read  →</a>
+<p>Yoink.
+Here are photos, because they do not compete with video:</p>
+<figure data-orig-width="3612" data-orig-height="2681" class="tmblr-full">/&gt; 
+  
+<small>source: https://saturdayxiii.tumblr.com/post/152610129574</small>
+</figure>
+&nbsp;<a class="read-more" href="//2016/11/01/YoinkppHere-are-phot/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Aug 31, 2016 • Less than a minute read</span>
-  	<a href="//2016/08/31/I-m-not-normally-one-to-ju/"><h1>I-m-not-normally-one-to-ju</h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/149754879401_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/149754879401_1.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/149754879401_2.jpg" /></td>
-    </tr>
-  </tbody>
-</table>
-
-I’m not normally one to judge by appearances, but these things are probably evil.
-
-<small>source: https://saturdayxiii.tumblr.com/post/149754879401</small>
-&nbsp;<a class="read-more" href="//2016/08/31/I-m-not-normally-one-to-ju/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -513,7 +558,7 @@ I’m not normally one to judge by appearances, but these things are probably ev
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -527,9 +572,156 @@ I’m not normally one to judge by appearances, but these things are probably ev
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

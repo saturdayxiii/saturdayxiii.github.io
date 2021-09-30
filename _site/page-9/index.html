@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-9/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,49 +362,24 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Dec 27, 2019 • 1&nbsp;min read</span>
-  	<a href="//2019/12/27/I-put-a-lot-of-time-into-P/"><h1>I-put-a-lot-of-time-into-P</h1></a>
+      Mar 22, 2021 • 1&nbsp;min read</span>
+  	<a href="//2021/03/22/Ive-been-thinking-about-3/"><h1>Ive been thinking about 3</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://64.media.tumblr.com/d83843c4276208e03c12aecc2a9db64d/f357def2dc8666ce-fe/s640x960/d58f4d73a8de97e46c1f5e1d9279ac3dcdaee1fd.png" target="_blank"><img src="https://64.media.tumblr.com/d83843c4276208e03c12aecc2a9db64d/f357def2dc8666ce-fe/s640x960/d58f4d73a8de97e46c1f5e1d9279ac3dcdaee1fd.png" alt="Ive been thinking about 3"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/190407682119.jpg" />
-
-I put a lot of time into Penguin Isle, so I wanted to talk about it.  But what is there to say other than I’m a sucker?
-If you like this kind of watch-ads-and-tap-tap gameplay, this game should be your jam too.  I wouldn’t be surprised if this was the same company that made Abyssrium, or whatever they call it now.  As it is the same game, even some of the models appear to be the same.<br /><br />Something to note that might be common knowledge by now.  Always upgrade the fishing spot.  Whenever you can. It’s the one that achievements hang with.  For the lightening bolt upgrades, always do creation first, unless there’s an upgrade that you specifically want to benefit from right then.  Also, make sure you claim your achievement lightning bolt things as soon as they pop up.  You don’t want to open a chest, find out you need to open a chest, then have to wait for the next one to emerge.<br /><br />I played this when a whale gave you coins.  I don’t know what they replaced it with.  I quit when I got all the islands, and I don’t want to know what else has been added because I don’t want to get trapped again.  Tap tap.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/190407682119</small>
-&nbsp;<a class="read-more" href="//2019/12/27/I-put-a-lot-of-time-into-P/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Nov 7, 2019 • 3&nbsp;min read</span>
-  	<a href="//2019/11/07/I-ve-been-reevaluating-my/"><h1>I-ve-been-reevaluating-my</h1></a>
-      <p>
-      
-        <h2 id="im-back-on-opera-i-never-left-opera">I’m back on Opera.  I never left Opera.</h2>
-I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effort.
-I don’t consider myself to be very particular when it comes to browsers.  Just a browser out of the box is about all I need; maybe a last.fm extension installed.  I started using Chrome years ago because I was heavily dependent on Drive and Gmail anyway, so it was only natural to have everything synced together.  I’ve also used Opera Portable on a USB stick for when I’m on my low-powered work laptop.  I’ve had difficulties with all browsers in the past, which is the way of anything computer related really.  Use something exclusively until something big goes wrong, then scramble to find a replacement, get excited with the new find, discover its own problems, then go back to what’s familiar and start the cycle over.
-To be fair, nothing has gone wrong with Chrome, but lately I’ve stopped using it because I’ve upgraded my USB stick to a PCIE SSD over USB-C.  It’s fast enough that the vast amount of my software can run on it without bottle-necking.  So I do that, but of course, for the first time in years Opera lost all of my saved data and sessions.  Granted this could be remedied by using Opera Sync, but I didn’t set up an account because while it was a secondary browser the occasional data loss wasn’t an issue.  But this time it was.
-From the few times I’ve tried Chrome portable, I consider it to be too unreliable, so I narrowed down my replacement options to Firefox and Vivaldi.  I have also had problem with Firefox portable in the past, but that was a long time ago and I have more faith in the Open Source community to address consumer annoyances than a corporate giant.  After installing I was surprised what a good fit Firefox was turning out to be.  It had all the main features that I wanted, but the nail in the coffin was the RAM usage.  One Youtube video running, fine, it’s running about 500mb.  A second Youtube tab and nope.  1.5 Gb and my laptop is chugging.
-Vivaldi I was most excited about because it was essentially Opera.  I’ve endorsed Opera as being an amazing light-weight browser in the past, but have always warned about how its corporate owners were devil incarnate.  I was surprised to learn that I wasn’t the only one who felt that way, and some time ago some of the old Opera devs split and started Vivaldi.  Vivaldi was great.  Lightweight, and customizable to the nines.  My favorite feature was the ability to shrink the UI without zooming out of webpages.  Made it very sleek and made up for the fact that there was a permanent side bar button, and the tabs weren’t tucked away in the title bar.  Though I was enjoying having the tabs hidden in the side bar rather than docked in the window.
-<figure class="tmblr-full" data-orig-height="1080" data-orig-width="1920"><img src="https://64.media.tumblr.com/b1bff5cb999f384f1058356672dc61f9/22c2c0dc7a79863f-40/s540x810/5bdff0d5bc46fb9e828f9ae59d8071d98afaa5f7.png" data-orig-height="1080" data-orig-width="1920" />
-But the nail in the coffin was the fact that Vivaldi didn’t have a proper portable app.  They have a standalone that could be run in isolation, but it reset all the data every time I changed machines.  Of course it has its own sync service, but this still needs to be signed into every time and it doesn’t keep web site preferences cached.  At least with Opera this only happened every so often, most likely with software updates, not with every machine change.
-So I’m back on Opera.  I’ve got sync set up and I’m feeling good.  I guess I don’t have a problem with the devil so long as he has good services.
-Vivaldi, if you want to be my savior: get on that portability, please.
+        <figure class="tmblr-full" data-orig-height="1080" data-orig-width="1920">/&gt;
+I've been thinking about 3d modeling a lot lately.  I decided to try and do Sickly Wizard's awesome environment tutorial for ps1 graphics ( <a href="https://youtu.be/NcmO6Sxmq14" target="_blank">https://youtu.be/NcmO6Sxmq14</a> ).  Seems very approachable.  Of course the 15 minute tutorial took me 10 hours to do.  Further exasperated by the fact that it took days for me to think of a scene I even wanted to model.  I didn't even technically finish the tutorial because I didn't do any of the vertex lighting stuff.  I really wanted to be done, and this is a start I guess.  I'll do something different next time&hellip; With a lot less polygons.  I need to choose better textures, it's so easy to want to focus on a feature in the texture, but those identifiable features are what kill the repeatability.  I also can't seem to stop over working my models.  Way too much rounding on the boulders, yet but enough on the walls and ceiling.  Hopefully I'll have some other models to actually populate a scene with next time.  Plants and rocks type stuff. Now that I've got some exposure to the method, hopefully I can scale back my goals a bit more.
   
-<small>source: https://saturdayxiii.tumblr.com/post/188888561964</small>
+<small>source: https://saturdayxiii.tumblr.com/post/646375949032620032</small>
 </figure>
-&nbsp;<a class="read-more" href="//2019/11/07/I-ve-been-reevaluating-my/">Read  →</a>
+&nbsp;<a class="read-more" href="//2021/03/22/Ive-been-thinking-about-3/">Read  →</a>
       
       </p>
 
@@ -417,19 +390,78 @@ Vivaldi, if you want to be my savior: get on that portability, please.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 25, 2019 • Less than a minute read</span>
-  	<a href="//2019/10/25/Here-s-a-catchy-tune-from/"><h1>Here-s-a-catchy-tune-from-</h1></a>
+      Mar 16, 2021 • 6&nbsp;min read</span>
+  	<a href="//2021/03/16/Yesterday-at-work-I-had-a/"><h1>Yesterday at work I had a</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/645836584988590080_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/645836584988590080_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_1.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/645836584988590080_2.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_2.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/645836584988590080_3.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_3.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/645836584988590080_4.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_4.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/645836584988590080_5.jpg" title=""><img src="https://saturdayxiii.github.io/media/645836584988590080_5.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <embed type="audio/mpeg" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2357788203&amp;ts=1572040060&amp;t=e714460b1ad3de819a0910b81fcc7972b1f61f52" />
+        <p>/&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;</p>
 
-<a href="https://umbromaniii.bandcamp.com" target="_blank">Umbromaniii</a> and <a href="https://blindhandicap.bandcamp.com" target="_blank">bLiNd</a> keep putting out gold.  I could fill this whole blog with highlights from them, but my name is in the url so no.
-Here’s a catchy tune from Umbromaniii that I meant to share when it came out, but I was too hyped up on bLiNd’s <a href="https://saturdayxiii.tumblr.com/post/186866959138/blinds-latest-album-takes-me-to-deep-dark-places" target="_blank">Submerged</a> at the time.  Now Umbromaniii has even newer stuff I should be raving about, but I’m dedicated.  I love these dark, hollow tunes.  Makes me feel like everything wrong is right.
+<p>Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
+Why did it go so horribly?
+These pictures are my practice and while the one I half-assed at work wasn’t great, these ones are off the chart bad.  I don’t know what exactly I need to fix in my approach to even get on the right path, but needed to post my thoughts about the experience.  Maybe in hopes that that will be the trigger that helps me get better and leave these scraps behind, even though I don’t know how to improve even if I could be confident that I’d properly assessed my weaknesses.  I mean, that’s why I did these sketches, because I thought I knew what areas to focus on, and it took me a huge step backwards.
+What irritates me the most, is how none of the sketches even have the aura of their subjects.  There’s a hint here or there, but nothing like “yah, the art’s not tight, but that is definitely that person”, and that’s really what I want to accomplish the most.
+Here’s my individual notes:</p>
+<ol>
+  <li>I started digital because I really love the idea of having my one device that I take with me everywhere and do everything with.  I’ve been pushing myself to prioritize digital art for about 6 years now, even though I was always familiar with digital coloring/touch ups, but the weaknesses really glare here.  Accuracy is huge, as it’s next to impossible to get the lines that I want digitally.  It’s always sketch, undo, sketch, undo, sketch, undo, and then when I get sick of that it’s sketch sketch sketch, new layer, slow trace, undo, slow trace.  A lot of people understand this to be the nature of digital art, and I don’t 100% buy into that, but none the less it’s what I’m contending with.  I didn’t really concentrate on going slow, and I think that’s something I really need to consciously aim for, but right here that defeats the purpose of doing fast portraits.  I want to feel good and natural when drawing, so I decided to switch back to analogue art.</li>
+  <li>No. Stop.  No matter what, I have a ridiculous number of false starts.  Just trying to coordinate my brain with the medium I guess.  Warm up exercises would probably help, but it also seems like a waste of resources if I happen to get lucky and make something reasonable on my first try.
+3.  Skew.  I always skew.  I’m well aware of my inability to do symmetry, and I try really hard to correct this when drawing.  I’ve been addressing this for years, and it hasn’t gotten any better.  This handicap is laid bare when I can’t start with a rough sketch.  I am trying to measure and compare proportions, but they still skew as I go.  I guess I really need to get my hand off the page, stop and check my work.  But when I don’t have an initial sketch, and that’s the point of this exercise, what am I checking?  The lines that don’t exist are in my head, and they don’t end up on the paper in the same spots. I have to work with the mistakes I’ve made no matter what.
+4.  The features in this one are just so off.  I can’t even.  I had been marking points where I thought stuff should go, before drawing lines to connect them.  Not only is everything still completely inaccurate, but the picture just looks so dead.  It’s a corpse of a face that no one’s ever seen before.
+5.  So I bailed on pre mapping and went the n00b route of starting with individual features.  Of course the eyes are where I feel most comfortable. I probably am most happy with this portrait, but it’s such a step back from every tutorial that I’ve been getting help from these days.  I wish this was my starting point of my drawing exercise.  I might be able to continue from this approach, but I need to get comfortable with a better starting point as this brings the usual issue of not being able to keep my drawing on the page. I know Davinci started with the ear, but that’s a little too around the bend for me. Maybe I can try starting from the cheek to the forehead or something to help me work on features while still having a better overview of my total size… maybe.
+6.  This one is wrong, but like the last one it doesn’t upset me.  It was especially frustrating as I had the hair framing the face, then in full awareness but no ability to stop I watched myself draw the right eye too close to the hair, then the left eye too far away, despite having some pretty easy markers to work with.  Speaking of markers, I switched to a traditional sharpie pen for this one.  I had been using a dip pen.  I think I need to hunt down a chisel tip marker like at work as that seems to be best of both worlds.  Especially as my medium at work was pretty large, maybe about the size of legal paper, while everything I worked with at home was no larger than 6 inches.
+Hopefully this word vomit cleanses me, or something.  Though why would it?  I don’t think my art has improved for the last 15 years.  I have a couple helpful techniques for digital art, but nothing that applies in this exercise.  I can’t even pin point anything I did right in these sketches.  Like, nothing that’s says “that’s good, keep doing that.”  It’s just, throw it all away and start at square zero again.  At least I got some new teases, like, maybe try a chisel marker on a full canvas, find a way to fake a sketch that will let me test proportions before final lines, and looking at the thumbnails of my work is even helping me pick out better shapes in my subjects that I wish I noticed the first time.
+<em>sigh</em>, maybe at some decade in my life I’ll be able to do consistent work of an adequate quality, or at least perhaps the false hope will keep me from falling into complete anhedonia.  Maybe.<br /></li>
+</ol>
 
-<small>source: https://saturdayxiii.tumblr.com/post/188591416559</small>
-&nbsp;<a class="read-more" href="//2019/10/25/Here-s-a-catchy-tune-from/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/645836584988590080</small></p>
+&nbsp;<a class="read-more" href="//2021/03/16/Yesterday-at-work-I-had-a/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
+      
+      Mar 16, 2021 • Less than a minute read</span>
+  	<a href="//2021/03/16/"><h1>NT</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/645868701829251072.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/645868701829251072.jpg" alt="NT"></a>
+        
+        
+        
+      
+        <p>I don’t have tik tok, but this is my weird cocktail recipe that I’ve been enjoying lately.  It stems from my old, better tasting favorite of chocolate milk and sambuca.
+<br /></p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/645868701829251072</small></p>
+&nbsp;<a class="read-more" href="//2021/03/16/">Read  →</a>
       
       </p>
 
@@ -442,16 +474,20 @@ Here’s a catchy tune from Umbromaniii that I meant to share when it came out, 
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 24, 2019 • Less than a minute read</span>
-  	<a href="//2019/10/24/No-matter-how-sick-I-think/"><h1>No-matter-how-sick-I-think</h1></a>
+      Nov 25, 2020 • Less than a minute read</span>
+  	<a href="//2020/11/25/I-love-the-philosophical-i/"><h1>I love the philosophical i</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=ibpdNqrtar0" target="_blank"><img src="http://i3.ytimg.com/vi/ibpdNqrtar0/hqdefault.jpg" alt="I love the philosophical i"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=gKILYcpsOyE"><img src="http://i3.ytimg.com/vi/gKILYcpsOyE/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <p>I love the philosophical implications that arise from the study of cellular life.<br /></p>
 
-No matter how sick I think I am of watching <a href="https://www.youtube.com/playlist?list=PL8D687CA0AFC4C655" target="_blank">this Lets Play</a> over and over for the past decade; October rolls around and I just can’t help myself.  <br /><br />At one point I put the audio logs of the back story in chronological order for easy consumption: <a href="https://www.youtube.com/watch?v=-CiwRk7zKQ4" target="_blank">https://www.youtube.com/watch?v=-CiwRk7zKQ4</a>
-
-<small>source: https://saturdayxiii.tumblr.com/post/188570842984</small>
-&nbsp;<a class="read-more" href="//2019/10/24/No-matter-how-sick-I-think/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/635797997038518272</small></p>
+&nbsp;<a class="read-more" href="//2020/11/25/I-love-the-philosophical-i/">Read  →</a>
       
       </p>
 
@@ -464,24 +500,24 @@ No matter how sick I think I am of watching <a href="https://www.youtube.com/pla
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 3, 2019 • Less than a minute read</span>
-  	<a href="//2019/09/03/"><h1>NT</h1></a>
+      Nov 25, 2020 • Less than a minute read</span>
+  	<a href="//2020/11/25/"><h1>NT</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/635785394964840448.gif" target="_blank"><img src="https://saturdayxiii.github.io/media/635785394964840448.gif" alt="NT"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/187473778429.png" />
-
-“Commissioned” art, yay!
-<a href="https://www.youtube.com/watch?v=5UjAKUmuDho" target="_blank">https://www.youtube.com/watch?v=5UjAKUmuDho</a><br />
-<a href="http://fav.me/ddfgvwb" target="_blank">http://fav.me/ddfgvwb</a><br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/187473778429</small>
-&nbsp;<a class="read-more" href="//2019/09/03/">Read  →</a>
+        <p><small>source: https://saturdayxiii.tumblr.com/post/635785394964840448</small></p>
+&nbsp;<a class="read-more" href="//2020/11/25/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -500,7 +536,7 @@ No matter how sick I think I am of watching <a href="https://www.youtube.com/pla
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -514,9 +550,156 @@ No matter how sick I think I am of watching <a href="https://www.youtube.com/pla
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

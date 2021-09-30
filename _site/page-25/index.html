@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-25/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -366,18 +364,75 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Nov 24, 2018 • Less than a minute read</span>
-  	<a href="//2018/11/24/Went-out-to-see-Best-Freg/"><h1>Went-out-to-see-Best-Freg</h1></a>
+      Jan 18, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/18/Going-through-the-tutorial/"><h1>Going through the tutorial</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/182126624604.gif" target="_blank"><img src="https://saturdayxiii.github.io/media/182126624604.gif" alt="Going through the tutorial"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/181058445904.jpg" />
+        <p>Going through the tutorials for <a href="http://www.thenew8bitheroes.com" target="_blank">NESMaker</a> again, and its features are still giving me chills.</p>
 
-Went out to see Best F®iends Volume One with Greg Sestero in audience.  It was rather on whim, and I feel bad for the local chiptune show that really could have used the support, but it was still alright.  Weird having leather-clad Greg step up and slyly jab a non-present Tommy, who remains essentially exactly the same character in this movie; a character who I assume is at its core Tommy Wiseau.  
-The movie was decent too.  Probably the only kind of role that Tommy can genuinely play.  Movie came across as a very artsy production.  Greg admitted accurately that it was a long film, but they did a decent job keeping it entertaining.
-I couldn’t bring myself to stay up for the sequel.
+<p><small>source: https://saturdayxiii.tumblr.com/post/182126624604</small></p>
+&nbsp;<a class="read-more" href="//2019/01/18/Going-through-the-tutorial/">Read  →</a>
+      
+      </p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/181058445904</small>
-&nbsp;<a class="read-more" href="//2018/11/24/Went-out-to-see-Best-Freg/">Read  →</a>
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
+      
+      Jan 17, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/17/Google-Music-has-honoured/"><h1>Google Music has honoured</h1></a>
+      <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2965564688&amp;ts=1618890940&amp;t=ec0a6cf144fb90dac1b3fd52ae67d4dddf0b6d3f"></iframe>
+        
+      
+        <p>Google Music has honoured me with introduction to <a href="https://badcopbadcop.bandcamp.com" target="_blank">Bad Cop/Bad Cop</a>.
+Fun, danceable, punky brilliance with a strong agenda.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/182087732639</small></p>
+&nbsp;<a class="read-more" href="//2019/01/17/Google-Music-has-honoured/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Jan 17, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/17/An-intriguing-look-at-the/"><h1>An intriguing look at the</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=YdSdvIRkkDY" target="_blank"><img src="https://64.media.tumblr.com/6225571dfe9b48c1d44a9d553bc631af/tumblr_inline_plhyo8uhOP1rnrp45_540.gif" alt="An intriguing look at the"></a>
+        
+        
+        
+      
+        <p>An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be talked about more often.</p>
+<figure class="tmblr-full" data-orig-height="325" data-orig-width="500">/&gt; 
+  
+<small>source: https://saturdayxiii.tumblr.com/post/182094690114</small>
+</figure>
+&nbsp;<a class="read-more" href="//2019/01/17/An-intriguing-look-at-the/">Read  →</a>
       
       </p>
 
@@ -390,14 +445,20 @@ I couldn’t bring myself to stay up for the sequel.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Sep 1, 2018 • Less than a minute read</span>
-  	<a href="//2018/09/01/When-I-m-upset-and-can-t-s/"><h1>When-I-m-upset-and-can-t-s</h1></a>
+      Jan 16, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/16/Seatbelt-stop/"><h1>Seatbelt Stop</h1></a>
       <p>
+        
+        
+        
+        
       
-        When I’m upset and can’t sleep, I feel better holding a knife because it makes me feel like I have options.
+        <p><a href="https://www.thingiverse.com/make:595654"><img src="https://64.media.tumblr.com/9a5b6e71c9d97eeb032a2e29353b9e95/tumblr_plg0w8emxG1rtskmu_r1_og_500.jpg" alt="seatbeltStop" /></a></p>
+<h3 id="seatbelt-stop-by-saturdayxiii">Seatbelt Stop by saturdayxiii</h3>
+<p>A device that you only acknowledge when you find yourself without one.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/177613678329</small>
-&nbsp;<a class="read-more" href="//2018/09/01/When-I-m-upset-and-can-t-s/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/182066776749</small></p>
+&nbsp;<a class="read-more" href="//2019/01/16/Seatbelt-stop/">Read  →</a>
       
       </p>
 
@@ -410,64 +471,42 @@ I couldn’t bring myself to stay up for the sequel.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Aug 23, 2018 • Less than a minute read</span>
-  	<a href="//2018/08/23/"><h1>NT</h1></a>
+      Jan 16, 2019 • Less than a minute read</span>
+  	<a href="//2019/01/16/A-short-tour-of-the-painti/"><h1>A short tour of the painti</h1></a>
       <p>
-      
-        <img src="https://saturdayxiii.github.io/media/177308251944.jpg" />
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
 
-<small>source: https://saturdayxiii.tumblr.com/post/177308251944</small>
-&nbsp;<a class="read-more" href="//2018/08/23/">Read  →</a>
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/182065813689_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_1.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_2.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_2.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_3.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_3.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_4.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_4.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_5.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_5.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/182065813689_6.jpg" title=""><img src="https://saturdayxiii.github.io/media/182065813689_6.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
+      
+        <p>/&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;</p>
+
+<p>A short tour of the painting process of the <a href="http://heavyhanded.ca/post/181056446837/ps2-case-mod-artwork-of-sly-cooper-templated" target="_blank">Sly Cooper PS2.</a></p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/182065813689</small></p>
+&nbsp;<a class="read-more" href="//2019/01/16/A-short-tour-of-the-painti/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Aug 18, 2018 • Less than a minute read</span>
-  	<a href="//2018/08/18/"><h1>NT</h1></a>
-      <p>
-      
-        <embed type="audio/mpeg" src="spotify:track:2ImB4htG9emZk7vZebzwT3" />
-
-(via <a href="https://open.spotify.com/track/2ImB4htG9emZk7vZebzwT3" target="_blank">https://open.spotify.com/track/2ImB4htG9emZk7vZebzwT3</a>)
-
-<small>source: https://saturdayxiii.tumblr.com/post/177132923209</small>
-&nbsp;<a class="read-more" href="//2018/08/18/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      Jul 21, 2018 • Less than a minute read</span>
-  	<a href="//2018/07/21/Downtown-Edmontonp/"><h1>Downtown-Edmontonp-</h1></a>
-      <p>
-      
-        <img src="https://saturdayxiii.github.io/media/182065701899.jpg" />
-
-Downtown Edmonton
-
-<small>source: https://saturdayxiii.tumblr.com/post/182065701899</small>
-&nbsp;<a class="read-more" href="//2018/07/21/Downtown-Edmontonp/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -486,7 +525,7 @@ Downtown Edmonton
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -500,9 +539,156 @@ Downtown Edmonton
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

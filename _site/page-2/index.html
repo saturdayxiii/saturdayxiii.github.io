@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-2/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,108 +362,24 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 28, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/28/4k-to-280p/"><h1>4k to 280p</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=mcqskbCWPCs"><img src="http://i3.ytimg.com/vi/mcqskbCWPCs/maxresdefault.jpg" alt="thumbnail" /></a>
-
-I’m very skeptical of the bandwagon that gets pushed along the “bit perfect” trail, and I appreciate the irony of these perfection seekers flat out decimating modern games to fit their nostalgia tastes.  That being said, I think it’s still a super intriquing concept.  There are such cool things to see when somebody shows you what to look for.
-
-Digital Foundry also did a great video from a developers perspective.  I like the potential this gives me to say it’s the game developer’s problem if my low-midrange pc can’t handle the graphics.
-“Just give me the downscaled, smoother frames!  That’s easier for you, isn’t it?”
-
-<a href="https://www.youtube.com/watch?v=V8BVTHxc4LM"><img src="http://i3.ytimg.com/vi/V8BVTHxc4LM/maxresdefault.jpg" alt="thumbnail" /></a>
-&nbsp;<a class="read-more" href="//2021/04/28/4k-to-280p/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 24, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/24/friends/"><h1>Friends</h1></a>
-      <p>
-      
-        My friends are all people I used to know.&nbsp;<a class="read-more" href="//2021/04/24/friends/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 17, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/17/I-dont-know-why-robovoice/"><h1>I-dont-know-why-robovoice</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=BqBS3AyFPCY"><img src="http://i3.ytimg.com/vi/BqBS3AyFPCY/hqdefault.jpg" alt="thumbnail" /></a>
-I don’t know why robovoice stories appeal to me.  I think the lack of inflection helps get across the actual quality of the writing.  But I’m probably making that up because these newer videos obviously have artificial inflection coded in.
-There’s always a mix bag of quality for youtube green-text story tellers, but I really like how chass has branched out into other areas of the internet.  I guess 4chan ran out of stories.  Makes sense.<br />
-I enjoyed this story in particular for being such a macho ghost story.  Our lead character, Private Monkey, regularly acts in defiance of the supernatural, like an action hero, but the story still floats spooky.  It’s a very appealing juxtaposition, and much refreshing after countless leads running and cowering whenever the unexpected happens.  Leave that to me, as I listen to this while under my heated blankey.
-I’m curious how part two is going to go.  Part one here feels pretty stand alone and satisfying.
-
-<small>source: https://saturdayxiii.tumblr.com/post/648735561350299648</small>
-&nbsp;<a class="read-more" href="//2021/04/17/I-dont-know-why-robovoice/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 16, 2021 • 1&nbsp;min read</span>
-  	<a href="//2021/04/16/Im-like-Its-Wednesday/"><h1>Im Like Its Wednesday</h1></a>
+      Aug 31, 2021 • Less than a minute read</span>
+  	<a href="//2021/08/31/3D-Pixel-Art/"><h1>3D Pixel Art</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/MzpGJr4g/Holmesina.png" target="_blank"><img src="https://i.postimg.cc/MzpGJr4g/Holmesina.png" alt="3D Pixel Art"></a>
+        
+        
+        &nbsp;<video muted autoplay controls loop width="400">
+    <source src="https://i.imgur.com/fUVErj6.mp4" type="video/mp4">
+</video>
+       
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/d85feec655934299c117753326981f07/d7a02325e9927097-b9/s640x960/48280783fc0964ce1f17303fb0c262dfb6961ce4.jpg" /></td>
-      <td><img src="https://64.media.tumblr.com/3125f45d9f4a37c8485a077318c0812b/d7a02325e9927097-2a/s640x960/cb67d0d06090d780146e82adfa5cd59d12521d30.jpg" /></td>
-      <td><img src="https://64.media.tumblr.com/ffe731700ab8ae458f85b4e12a2d906b/d7a02325e9927097-76/s640x960/48ef68d8490c810d27854d6df097231a8b546445.jpg" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/5ac487c1cb13540c21922a6679d9edf4/d7a02325e9927097-49/s640x960/73d9ceb4c4b6ae38915d9c1d2033cff75fc2fd5a.jpg" /></td>
-      <td><img src="https://64.media.tumblr.com/4e3810b29403e275a9131fbd992476df/d7a02325e9927097-1f/s640x960/15e2e553f23f158a431d0028045c0b25ab11ab23.jpg" /></td>
-      <td><img src="https://64.media.tumblr.com/0c6f64f192327b89f5f63ad96fb19c9c/d7a02325e9927097-40/s640x960/fbca642a84e785aa792960362f9a5351f4cf9e28.jpg" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://64.media.tumblr.com/3d39264bd7140827aae5190b866799c3/d7a02325e9927097-0d/s640x960/4cc06ffe2a11e17841f9da040763931289f98784.jpg" /></td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-I’m like: It’s Wednesday.  I’m late for uploading my weekly portraits update.  But actually it’s Friday.
-
-I’m very happy to be getting more consistent.  I kind of have a process: get the shape of the face right, eyes halfway, nose halfway, mouth, watch the width! watch the width!  Obviously, I’m still not very accurate with the process.  I’m constantly having problems with width vs height of the head, then either too little forehead or too little chin, but I’m happy to be where I am.
-
-I’ve only got 2 more pages left in my sketchbook.  I think I’ll do another week, then hopefully try something else.  I want to do daily urban sketchings, but one of the hardest parts of this project was picking out which headshot I wanted to draw.  Finding interesting buildings is going to be much harder for me.
-
-oh well, we’ll see
-
-<small>source: https://saturdayxiii.tumblr.com/post/648681988194205696</small>
-&nbsp;<a class="read-more" href="//2021/04/16/Im-like-Its-Wednesday/">Read  →</a>
+        <p><a href="https://bonecollectors.itch.io/dino-hazard">Dino Hazard</a> was my inspiration for revisiting Blender pixel art.  I love that SNES Jurassic Park asthetic, but that swf Game Maker pixel art has always triggered me.  I don’t think this matches the style as much as I was hoping, but it was a fun project.</p>
+&nbsp;<a class="read-more" href="//2021/08/31/3D-Pixel-Art/">Read  →</a>
       
       </p>
 
@@ -476,28 +390,130 @@ oh well, we’ll see
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 15, 2021 • 2&nbsp;min read</span>
-  	<a href="//2021/04/15/Ive-always-been-a-critica/"><h1>Ive-always-been-a-critica</h1></a>
+      Aug 23, 2021 • Less than a minute read</span>
+  	<a href="//2021/08/23/iontophoresis-pt-2/"><h1>Iontophoresis Part 2</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/75gknFWc/PXL-20210824-014424995.jpg" target="_blank"><img src="https://i.postimg.cc/y8x8MWRQ/PXL-20210824.jpg" alt="Iontophoresis Part 2"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=iEvntSex-7Y"><img src="http://i3.ytimg.com/vi/iEvntSex-7Y/hqdefault.jpg" alt="thumbnail" /></a>
-I’ve always been a critical person and I’ve been trying to be less so, but I’ve got about 30 years of experience to walk back on.  I’ve been lucky enough to float around friend circles of a number of very, umm, un-critical (?) people, and I get to learn bits and pieces from them.  Part of the problem is I’ve always thought it to be smart to be critical, but clearly that’s not entirely true and I’m not as smart as I thought I was.<br />
-Harsh reviews of bad media have fallen out of fashion lately, and despite my internal claims to being an independent thinker, I’m still right there with the mainstream trends.  I’m loving modern reviews that are like “x is terrible, but I like it because…”<br />
-Minimme is excellent at this.  Their videos are more specifically about shining light on underrated or relatively unknown games, but the games are usually in that category because they’ve been panned by audiences for some reason.  This makes the reviews very complete and balanced feeling.  Not necessarily because they are balanced, but because the biases are clear.<br />
-Minimme is very clear why Alone in the Dark is a bad game, but is very objective about that, and about what the game has done well.  They do this from both a personal perspective and by comparing to other relative games.   It makes it very understandable what kind of audience the game is for.  So not only is it a great review, but the air of appreciation is infectious.  I, for one, do not want to play the game, but dang, some of those features are downright inspiring.  Maybe I could try it?  Well, at the very least I’ll try hunting down a Lets Play.
-I’m loving the good vibes that are bringing about encouragement.  That’s what I want in my life on a personal level.  I wanna see the critical aspects of things, but I want to be more upfront and excited about the positives.  Everything just kind of dies when the focus is on the critical.  Even if you get decent advice with the critique, it’s not encouraging to try again unless you’ve got some clear positives to build off of.  I want to learn to be more positive.
-As Minimme says, “Get yourself in a forgiving mood.”
+        <p>Long over due for an update on my <a href="https://saturdayxiii.github.io/2021/05/19/iontophoresis/">iontophoresis experiment</a>… it worked!</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/648587249729110018</small>
-&nbsp;<a class="read-more" href="//2021/04/15/Ive-always-been-a-critica/">Read  →</a>
+<p>As pictured, I’ve “upgraded” to a full body treatment.  I don’t think that is specificly working, at least not for everything.  Localized treatment definitely works best.</p>
+
+<p>It took about 3 weeks to see improvements.  My feet aren’t dry-blistered from being soaked all day, so I’m sweating less, and my shoes smell, like, normal bad, rather than old cheeto bad.  My girlfriend has complained of my overall lack of scent, so I think the bath is working as well, but after a couple months of just that I noticed that I was having to swap my shoes more often again.  So since I’m already well established into the process, I do each: a full bath, and a foot-specific bath, once a week.  That seems to give me the best coverage.</p>
+
+<p>I don’t think I have much specifics to add.  Other than, don’t accidently use AC.  That was exciting.</p>
+&nbsp;<a class="read-more" href="//2021/08/23/iontophoresis-pt-2/">Read  →</a>
       
       </p>
 
   </article>
 
 
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      Aug 17, 2021 • Less than a minute read</span>
+  	<a href="//2021/08/17/Blender-Pixel-Art/"><h1>Blender Pixel Art</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=eSqb6II3WMM" target="_blank"><img src="http://i3.ytimg.com/vi/eSqb6II3WMM/maxresdefault.jpg" alt="Blender Pixel Art"></a>
+        
+        
+        
+      
+        <p>I wanted to make some pixel art and having been introduced to Blender pixel art before, and loving how such a catch-all program Blender is, I decided that that’s what I wanted to do, but now I have to re-learn how to do that.  Well, it didn’t take long to find this video from <a href="https://www.youtube.com/channel/UCk0taWcQZnzVYN1qcSnwlpg">Soyaa</a> that is a fine tutorial, but more importantly has references in its description to learn every step in the process.  Wow.  I wish this wasn’t the last day of my weekend to go through this stuff.</p>
+
+<p>edit: As good as the tutorials are, <a href="https://www.youtube.com/channel/UCEbQnZQQtzATJreYx78uw6A">Mezaka’s</a> plugin is <a href="https://saturdayxiii.github.io/2021/08/31/3D-Pixel-Art/">awesome</a>.  Especially if you add the extra features he goes over in his video:
+<a href="https://www.youtube.com/watch?v=Cwh_TpouPfQ"><img src="http://i3.ytimg.com/vi/Cwh_TpouPfQ/maxresdefault.jpg" alt="thumbnail" /></a></p>
+&nbsp;<a class="read-more" href="//2021/08/17/Blender-Pixel-Art/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
+      
+      Aug 3, 2021 • Less than a minute read</span>
+  	<a href="//2021/08/03/chickpea-pasta/"><h1>Chickpea Pasta</h1></a>
+      <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://i.postimg.cc/SsbPVsHx/PXL-20210803-214334696-2.jpg" title="making pasta"><img src="https://i.postimg.cc/134b3bps/PXL-20210803-214334696.jpg" alt="making pasta" /><span>making pasta</span></a><a href="https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg" title="eating pasta"><img src="https://i.postimg.cc/15vLPyVv/PXL-20210803-221211530.jpg" alt="eating pasta" /><span>eating pasta</span></a></p>
+
+        
+        
+        
+        
+      
+        <p>Once again an ad on Facebook outed itself with a good idea that I could do much cheaper by myself.</p>
+
+<p>Chickpea Pasta</p>
+
+<p>Made up the same as regular pasta: 3/4 cup of chickpea flower, an egg, and a dab of oil and salt.</p>
+
+<p>It needs to be made much thinner than what I did though, as it really takes its time to cook through.  On the plus side it’s also very difficult to overcook, which is my main peeve with regular pasta.  It does have a noticeable chickpea taste, which is also a perk in my opinion.</p>
+
+<p>Might be time to invest in a cheap pasta roller.</p>
+&nbsp;<a class="read-more" href="//2021/08/03/chickpea-pasta/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Aug 2, 2021 • Less than a minute read</span>
+  	<a href="//2021/08/02/Channel-Zero-Dream-Door/"><h1>Channel Zero Dream Door</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/LX1B5W0d/channel-zero-Dream-Door-PJ-Hug.gif" target="_blank"><img src="https://i.postimg.cc/LX1B5W0d/channel-zero-Dream-Door-PJ-Hug.gif" alt="Channel Zero Dream Door"></a>
+        
+        
+        
+      
+        <p>I’m glad I never gave up on Channel Zero after that rough <a href="https://saturdayxiii.github.io/2016/10/14/I-watched-the-first-episod/">first season</a>, though I probably should have said something about the other seasons as I watched them.</p>
+
+<p>I enjoyed them.</p>
+
+<p>This last one, which admittedly came out a while ago, was probably my favorite, though they’ve all had their high and low moments.  I loved Pretzel Jack, he’s adorable and <a href="https://www.instagram.com/twistytroy">Twisty Troy</a> is amazing, and I remained amused even when the last episode devolved into synthy, contstruction area b-movie.
+A great show.</p>
+
+<p>And I do believe my intuition was kicking in for me to finally finish Channel Zero, as I’ve learned that Nick Antosca’s newest show, <a href="https://www.netflix.com/ca/title/80233374">Brand New Cherry Flavor</a>, is set to premier in a couple weeks.  Looking forward to that.</p>
+&nbsp;<a class="read-more" href="//2021/08/02/Channel-Zero-Dream-Door/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -516,7 +532,7 @@ As Minimme says, “Get yourself in a forgiving mood.”
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -530,9 +546,156 @@ As Minimme says, “Get yourself in a forgiving mood.”
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

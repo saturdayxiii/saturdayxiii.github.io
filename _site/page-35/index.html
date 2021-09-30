@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-35/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,21 +362,51 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
       
-      Nov 1, 2016 • Less than a minute read</span>
-  	<a href="//2016/11/01/YoinkppHere-are-phot/"><h1>YoinkppHere-are-phot</h1></a>
+      Jul 12, 2017 • 2&nbsp;min read</span>
+  	<a href="//2017/07/12/I-really-like-my-tiny-i5/"><h1>I really like my tiny i5</h1></a>
       <p>
+        
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=lJ2PsS-DpRw"><img src="http://i3.ytimg.com/vi/lJ2PsS-DpRw/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <h2 id="a-re-ignited-preliminary-linux-experience-journal-entry">a Re-Ignited, Preliminary Linux experience [journal entry]</h2>
+<p>I really like my tiny i5, 4gb acer laptop, but if I don’t reinstall install Windows on a monthly basis it slows down to a borderline unusable state.  So I decided to try Linux again.  I remember why I stopped using Linux.  I ran Ubuntu on my desktop a decade ago and got frustrated by how nothing worked exactly right.  Trips to Google are certainly part of the Linux experience, but this was incessant, and always to do with basic functions like display, audio, or networking.  The convenience of Windows won out for use on my desktop.  However, my lappy is a different story.
+I prize ease of use, but also wanted to try something I haven’t before, so after a bit of research I decided upon Manjaro and easily had it up and running beside my dying Windows partition.  I’m still impressed.  I have a pretty consistent set up on the Windows side and have a tight list of software that gets me by.  Every single one of my “must have” programs was available from the Arch repositories and, in most cases, performed better than their Windows versions.   It wasn’t a flawless transition.  It took me a while to learn that Opera required the additional install of Pepper-Flash, and I was slowly reacquainted with how ntfs-3g refuses to write to the Windows partitions without OK from chkdsk on the windows side, but overall I’m still amazed how it all went and how well my laptop works now.  I would love the same experience on my desktop.
+The desktop is a different beast.  It’s a hodge podge of an AMD FX6200 processor, Nvidia 1060 video card, and an M-Audio analogue soundcard.  With such a configuration I thought it best to try out the most supported and convenient distribution: Ubuntu 16 LTS.  What a load.
+It seems like nothing has changed since 10 years ago.  It took 8 attempts to get the OS to install properly, the default video driver did next to nothing for my card (to be expected, honestly), and my soundcard was recognized, but I had to install extra software to unmute it.  What?  It’s been nearly a week of configuring and I’ve barely gotten any of my main programs installed because absolutely nothing has worked through the Software Center.  At least with Manjaro I only had to Google for the software I wanted and not have to explore 4 or 5 forums worth of troubleshooting.
+I’ve started writing this rather prematurely, because I don’t have a solution, nor have I given up yet.  What does work in Ubuntu works very well, so I’m  going try a few more things before exploring other options.  I like Manjaro on my laptop, so on that level Arch Linux sounds good for my desktop, but that’s a joke if I can’t even handle configuring Ubuntu.  Manjaro was such a great experience, but Ubuntu is supposed to be the more “beginner friendly” distribution.  It’s possible that my AMD/Nvidia combo-ed desktop is just going to make things an uphill battle no matter what.  But, sheesh, even having tasted a broken Ubuntu, I’m not looking forward to being stuck with “Windoze” again.</p>
 
-Yoink.
-Here are photos, because they do not compete with video:
-<figure data-orig-width="3612" data-orig-height="2681" class="tmblr-full"><img src="https://64.media.tumblr.com/1c977427b4b5c5a9ae279b938ea998d7/tumblr_inline_ofzdaiUXgr1rnrp45_540.jpg" alt="image" data-orig-width="3612" data-orig-height="2681" /><figure data-orig-width="3024" data-orig-height="4032" class="tmblr-full"><img src="https://64.media.tumblr.com/ef2f144e229e2b8474cff0188b50e395/tumblr_inline_ofzdamgiJT1rnrp45_540.jpg" alt="image" data-orig-width="3024" data-orig-height="4032" /> 
-  
-<small>source: https://saturdayxiii.tumblr.com/post/152610129574</small>
-</figure></figure>
-&nbsp;<a class="read-more" href="//2016/11/01/YoinkppHere-are-phot/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/162908189184</small></p>
+&nbsp;<a class="read-more" href="//2017/07/12/I-really-like-my-tiny-i5/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
+      
+      Jul 11, 2017 • Less than a minute read</span>
+  	<a href="//2017/07/11/Treasure-from-the-radio-to/"><h1>Treasure from the radio to</h1></a>
+      <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2117398184&amp;ts=1618890940&amp;t=77239c6418de17745a2cbc1eb85eeab5e89f60f3"></iframe>
+        
+      
+        <p>Treasure from the radio today.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/162867885039</small></p>
+&nbsp;<a class="read-more" href="//2017/07/11/Treasure-from-the-radio-to/">Read  →</a>
       
       </p>
 
@@ -391,24 +419,34 @@ Here are photos, because they do not compete with video:
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 28, 2016 • Less than a minute read</span>
-  	<a href="//2016/10/28/Between-the-the-sheaves/"><h1>Between-the-the-sheaves</h1></a>
+      May 12, 2017 • Less than a minute read</span>
+  	<a href="//2017/05/12/Finished-product-Needs-a/"><h1>Finished product  Needs a</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/160594157914_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/160594157914_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/160594157914_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/160594157914_1.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/160594157914_2.jpg" title=""><img src="https://saturdayxiii.github.io/media/160594157914_2.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/160594157914_3.jpg" title=""><img src="https://saturdayxiii.github.io/media/160594157914_3.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/160594157914_4.jpg" title=""><img src="https://saturdayxiii.github.io/media/160594157914_4.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/152434361519_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/152434361519_1.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+        <p>/&gt;
+ /&gt;
+ /&gt;
+ /&gt;
+ /&gt;</p>
 
-Between the the sheaves.
+<p>Finished product.  Needs a bit of improvement: a couple inches wider, lost some air holes somewhere but accidentally made some unplanned ones elsewhere.  Works out.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/152434361519</small>
-&nbsp;<a class="read-more" href="//2016/10/28/Between-the-the-sheaves/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/160594157914</small></p>
+&nbsp;<a class="read-more" href="//2017/05/12/Finished-product-Needs-a/">Read  →</a>
       
       </p>
 
@@ -419,18 +457,20 @@ Between the the sheaves.
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 27, 2016 • Less than a minute read</span>
-  	<a href="//2016/10/27/Spider-toesp/"><h1>Spider-toesp-</h1></a>
+      May 7, 2017 • Less than a minute read</span>
+  	<a href="//2017/05/07/"><h1>NT</h1></a>
       <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=2611108810&amp;ts=1618890940&amp;t=a5da6ed7f509c9c43273386ee88c24191f7e87fe"></iframe>
+        
       
-        <img src="https://saturdayxiii.github.io/media/152390147284.jpg" />
-
-Spider toes!
-
-<small>source: https://saturdayxiii.tumblr.com/post/152390147284</small>
-&nbsp;<a class="read-more" href="//2016/10/27/Spider-toesp/">Read  →</a>
+        <p><small>source: https://saturdayxiii.tumblr.com/post/160413888109</small></p>
+&nbsp;<a class="read-more" href="//2017/05/07/">Read  →</a>
       
       </p>
 
@@ -441,48 +481,28 @@ Spider toes!
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff9359, black); border-image-slice: 1; padding: 10px;">
       
-      Oct 26, 2016 • Less than a minute read</span>
-  	<a href="//2016/10/26/you-walk-into-a-room-to-av/"><h1>you-walk-into-a-room-to-av</h1></a>
+      May 3, 2017 • Less than a minute read</span>
+  	<a href="//2017/05/03/I-love-hearing-a-new-song/"><h1>I love hearing a new song</h1></a>
       <p>
+        
+        
+        
+        
+        &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://bandcamp.com/stream_redirect?enc=mp3-128&amp;track_id=3060742330&amp;ts=1618828289&amp;t=3f513273e795169c1c71c329d18c98e60c5f56f0"></iframe>
+        
       
-        <h2 id="tfw">tfw</h2>
-you walk into a room to avoid social contact, but there is someone else in the room and you can’t explain your reasons for intruding on them.
+        <p>I love hearing a new song for the first time, unannounced on the radio, and instantly knowing who it is.  Can’t wait to check out the rest of the album.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/152346537089</small>
-&nbsp;<a class="read-more" href="//2016/10/26/you-walk-into-a-room-to-av/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/160265997979</small></p>
+&nbsp;<a class="read-more" href="//2017/05/03/I-love-hearing-a-new-song/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Oct 26, 2016 • Less than a minute read</span>
-  	<a href="//2016/10/26/Step-2-Put-it-in-everythi/"><h1>Step-2-Put-it-in-everythi</h1></a>
-      <p>
-      
-        <h2 id="the-plan">The Plan</h2>
-Step 1: Figure out how to levitate things with magnets.
-Step 2: Put it in everything.
-Step 3: ?????? (Kickstarter)
-Step 4: Profit!
-<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/152335677229</small>
-&nbsp;<a class="read-more" href="//2016/10/26/Step-2-Put-it-in-everythi/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -501,7 +521,7 @@ Step 4: Profit!
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -515,9 +535,156 @@ Step 4: Profit!
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

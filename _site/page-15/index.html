@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-15/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,20 +362,24 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 17, 2019 • Less than a minute read</span>
-  	<a href="//2019/04/17/Featuring-an-old-Lets-Play/"><h1>Featuring-an-old-Lets-Play</h1></a>
+      Jul 18, 2019 • Less than a minute read</span>
+  	<a href="//2019/07/18/I-m-loving-a-s/"><h1>I m loving a s</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/186380577444.gif" target="_blank"><img src="https://saturdayxiii.github.io/media/186380577444.gif" alt="I m loving a s"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=cjQrC5yB_aA"><img src="http://i3.ytimg.com/vi/cjQrC5yB_aA/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <p>I’m loving <a href="https://www.kongregate.com/games/terra0nova/aground" target="_blank">Aground</a>.  I was looking for something casual to pick up and go.  Some video game chores to keep me busy.  Aground was recommended through Kongregate and I lucked out because it kept me busy and was fun too.  I haven’t done much else but play this game for the last 4 days.
+It looks like a typical indie survival, crafting game, but the story goes farther than I was ever expecting.  I don’t really know what I can recommend to others about it, it just hits a lot of the points that I’ve been looking for in a game these days.  Pick up and play, exploration based, difficulty depends on how aggressive you play (very low for me), expanding story.
+I wasn’t expecting this to be anything more than an afternoon dip, but I’m still here swimming in it.  Now I’m about done digging up the massive crashed space ship, so I’ve gotta go finish raising and flying my dragons.</p>
 
-Featuring an old Lets Play that we always watch when we want comfort. 
-I have a hard time paying attention to a lot of Lets Plays, but Zergem’s leadership and Shadow of Destiny’s excellent time-voluted plot are pleasing to watch again and again.
-<a href="https://www.youtube.com/playlist?list=PL7GvZV4nKhERSI4wI1mVT1o1bCFFDEOGb" target="_blank">https://www.youtube.com/playlist?list=PL7GvZV4nKhERSI4wI1mVT1o1bCFFDEOGb</a><br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/184258280189</small>
-&nbsp;<a class="read-more" href="//2019/04/17/Featuring-an-old-Lets-Play/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/186380577444</small></p>
+&nbsp;<a class="read-more" href="//2019/07/18/I-m-loving-a-s/">Read  →</a>
       
       </p>
 
@@ -390,16 +392,22 @@ I have a hard time paying attention to a lot of Lets Plays, but Zergem’s leade
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 16, 2019 • Less than a minute read</span>
-  	<a href="//2019/04/16/Inspired-by-DaDeO-s-blacke/"><h1>Inspired-by-DaDeO-s-blacke</h1></a>
+      Jul 15, 2019 • Less than a minute read</span>
+  	<a href="//2019/07/15/Shout-out-to-my-supper-I/"><h1>Shout out to my supper  I</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://64.media.tumblr.com/1f0118771809eab419e536f0f2fdc2d0/03b803714297789b-19/s640x960/d5b93d16ccaf8066572638c654dba94abc0b29e8.jpg" target="_blank"><img src="https://64.media.tumblr.com/1f0118771809eab419e536f0f2fdc2d0/03b803714297789b-19/s640x960/d5b93d16ccaf8066572638c654dba94abc0b29e8.jpg" alt="Shout out to my supper  I"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/184230308926.jpg" />
-
-Inspired by DaDeO’s blackened tofu po’boy I attempted my own on a croissant.  The tofu was more brown than blackened, but it was still good and my pan is ruined.
-
-<small>source: https://saturdayxiii.tumblr.com/post/184230308926</small>
-&nbsp;<a class="read-more" href="//2019/04/16/Inspired-by-DaDeO-s-blacke/">Read  →</a>
+        <figure class="tmblr-full" data-orig-height="2459" data-orig-width="3689">/&gt;
+Shout out to my supper.  I oil fried my remaining tofu puffs and decided to have it in a wrap.  I thought "if only I could make it taste like bahn mi".  I don't know what's particularly special about bahn mi, but mayo, teriyaki, garlic, onion, jalepenos, and carrots seemed to do the trick.  Olives never hurt either.  I'm ready for round 2.
+  
+<small>source: https://saturdayxiii.tumblr.com/post/186315740519</small>
+</figure>
+&nbsp;<a class="read-more" href="//2019/07/15/Shout-out-to-my-supper-I/">Read  →</a>
       
       </p>
 
@@ -412,17 +420,50 @@ Inspired by DaDeO’s blackened tofu po’boy I attempted my own on a croissant.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 15, 2019 • Less than a minute read</span>
-  	<a href="//2019/04/15/My-favorite-mug-which-I-e/"><h1>My-favorite-mug-which-I-e</h1></a>
+      Jul 8, 2019 • Less than a minute read</span>
+  	<a href="//2019/07/08/A-Fancy-Triopppa-hr/"><h1>A Fancy Triopppa hr</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/186155863744.png" target="_blank"><img src="https://saturdayxiii.github.io/media/186155863744.png" alt="A Fancy Triopppa hr"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/184207088519.jpg" />
+        <p>A Fancy Triop.
+<a href="http://fav.me/ddb8ial" target="_blank">http://fav.me/ddb8ial</a><br />
+<a href="https://youtu.be/1jxa4Z3j7H8" target="_blank">https://youtu.be/1jxa4Z3j7H8</a><br /></p>
 
-My favorite mug, which I expertly painted, has a crack in it and will soon be RIP.
-May it forever be remembered here.
+<p><small>source: https://saturdayxiii.tumblr.com/post/186155863744</small></p>
+&nbsp;<a class="read-more" href="//2019/07/08/A-Fancy-Triopppa-hr/">Read  →</a>
+      
+      </p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/184207088519</small>
-&nbsp;<a class="read-more" href="//2019/04/15/My-favorite-mug-which-I-e/">Read  →</a>
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+      
+      Jun 27, 2019 • Less than a minute read</span>
+  	<a href="//2019/06/27/I-quite-like-this/"><h1>I quite like this</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/190407228749.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/190407228749.jpg" alt="I quite like this"></a>
+        
+        
+        
+      
+        <p>I quite like this.
+Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019
+<br /></p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/190407228749</small></p>
+&nbsp;<a class="read-more" href="//2019/06/27/I-quite-like-this/">Read  →</a>
       
       </p>
 
@@ -435,46 +476,27 @@ May it forever be remembered here.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
       
-      Apr 15, 2019 • Less than a minute read</span>
-  	<a href="//2019/04/15/If-this-doesn-t-make-you-w/"><h1>If-this-doesn-t-make-you-w</h1></a>
+      Jun 20, 2019 • 6&nbsp;min read</span>
+  	<a href="//2019/06/20/"><h1>NT</h1></a>
       <p>
+        
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=QRwIosijD3A"><img src="http://i3.ytimg.com/vi/QRwIosijD3A/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <h2 id="nesmakers-byte-off-19">NESMaker’s Byte Off 19</h2>
+<p><a href="http://arcade.thenew8bitheroes.com" target="_blank">Byte Off 19</a> is officially done and I am very happy to have been a part of it.  Here is a break down of the demos that were made available.
+Airboat Apocalypse<br />-Great combo of race against the clock arcade action and world map exploration in a monster swamp.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2369" target="_blank">Renegades Mountain Showdown</a><br />-A very unique and humorous mix of fantasy and everyday life in this solid top down adventure.<br /><br />Time Survivor<br />-Deserved award winner with excellent art, and a massive world and original story that will keep you exploring for answers in a “virtual” world.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2355" target="_blank">To The Ends Of The Earth</a><br />-Deserved award winner with a very detailed and stylistic high fantasy adventure that will tug at your heart strings. <br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2250" target="_blank">Fight of the Phoenix</a><br />-Exciting, crystal punching action with beautiful artwork.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2341" target="_blank">March of the Minotaurs</a><br />-Maze games are always classic and MotM is a solid contender. Dodge the monsters, get the star, it doesn’t get old.<br /><br />Llamagade<br />-Action platformer demo with the wildest attack move :D<br /><br />Shaolin Squirrel <br />-Tiny character, big moves. I really wish there was more of it.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2344" target="_blank">Hazard: Let Us Out</a><br />-What’s going on with the machines at work? Dodge and deliver bullets while searching for answers.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2326" target="_blank">Pizza Party!</a><br />A proper party game with a solid co-op mechanic that’s unique both on and off the NES.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2332" target="_blank">Dimension Shift</a><br />-Gorgeous award winner that puts even official NES games to shame.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2192" target="_blank">Flea!</a><br />-Probably the longest “Demo” in the collection? Level after level of tough as nails platforming and it never gets old.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2050" target="_blank">Diablobetes</a><br />-Classic, addictive, arcade maze action with a great sense of humor.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2331" target="_blank">Nix</a><br />-Truly underrated sci-fi, action/adventure with a one of a kind special move system and a vast world to explore. <br /><br />Dummy Duck 7<br />-A humorous adventure demo with such strong characters that I keep wanting to call it an RPG.<br /><br />40 Thieves<br />-A skillful Arabian arcade platformer that will steal your whole afternoon if you let it.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2337" target="_blank">Miner</a><br />-Tiny player makes for a great big platformer.<br /><br />The Delivery<br />-Probably the fastest paced game in the collection. Stay in the lines to collect and deliver packages. Simple and addictive.<br /><br />SpaceVania<br />-A deceptive title in more than one way. Almost a winner for creepiest monster.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2268" target="_blank">Hey Reset</a><br />-Quality all around in this striking minimalist, cartoony, platformer with a great soundtrack.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2451" target="_blank">Nessy The NES Robot</a><br />-If your nostalgia strings haven’t been pulled yet, Nessy will be the platformer to do it.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2350" target="_blank">Attack of the Gummy Bears</a><br />-Hardcore vertical platforming. Very solid game if you have the skills.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=1808" target="_blank">Time Chaser</a><br />-Another unsung entry with impressive mechanics not seen natively in the NESMaker software.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2333" target="_blank">Doodle Land</a><br />-A simple sketchpad theme executed well and taken as far as it can go. A definite fan favorite.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2422" target="_blank">Twilight Of Powers</a><br />-Amazing creature designs in this dark and creepy action platformer.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2372" target="_blank">Eternal Prelude</a><br />-A challenging dark and sombre fantasy that will draw you to try and try again to coax its secrets from a decrepit castle.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2375" target="_blank">Spacepunk’d</a><br />-The funkiest neon sci-fi shooter.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2386" target="_blank">Underground Adventure</a><br />-The game that gave us all proper two player capabilities.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2377" target="_blank">Kubo 2</a><br />-A pyramid adventure with many secrets and power ups. This simple game will surprise you with its depth.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2318" target="_blank">Silver Island</a><br />-Heavy metal monster hunting action with multiple weapons and flip flip flip!<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2419" target="_blank">Turtle Rescue: Unhatched</a><br />-IMO this was the most polished and complete “demo”. Adventure, power ups, puzzles, collectibles, and a boss rush all in a tight narrative about saving turtle eggs from crabs. Buttons that change function depending on what you’re interacting with, whoa.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2408" target="_blank">Artix</a><br />-Feel almighty as you hunt dragons and monsters with your gargantuan axe.<br /><br />Happy Scrappy and the Haunted Mansion<br />-Cute, creepy, and a bit psychedellic. This extensive platformer pushes a few boundaries. <br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2031" target="_blank">Jane Jones, Poet Detective</a><br />-Nesmaker’s groundbreaking point and click inspired adventure. By and and for literature lovers!<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2387" target="_blank">Bohpoli! - Magical Warps</a><br />-Definitely one of the most stand out titles with amazing art and challenging puzzle platform gameplay that breaks all the rules.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2358" target="_blank">Space Raft</a><br />-Fuel your van with hamburgers in this detailed post-apocalyptic runner.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2385" target="_blank">Pingback</a><br />-A maze adventure to get lost in.  One key, many doors, can you find your way out.  Or, is that really all that your supposed to be doing here? Hmmm.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2445" target="_blank">Jelly Jam’d</a><br />-Capture the jelly fish. This stylistic shooter should have got the cutest content award. From pixels to buttons, everything in this demo chirps fun.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2388" target="_blank">Xeno Creeps</a><br />-Fantastic and unique arcade action, blast hopping enemy to enemy.<br /><br />Ski Pirates<br />-The title still makes me wonder what could have been.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2389" target="_blank">Harry Dwarf</a><br />-A bad joke made into a gorgeous and addictive puzzle platformer.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2394" target="_blank">Shadow</a><br />-Collect cats in this quality, black and white, classic, platformer.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2410" target="_blank">Adventures of Eldorin</a><br />-Traverse the kingdom to find the cure for your beloved.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2010" target="_blank">Closeout</a><br />-A great start on an Atari port.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2393" target="_blank">Bogen</a><br />-Rock solid, pixel perfect platforming. Made by and for nostalgia.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2401" target="_blank">Soko Banana</a><br />-The most polished puzzle demo with amazing art, animation, and box pushing game play that we all want more of it.<br /><br />HammerSmack!<br />-The title is also the gameplay, and it smacks so well!<br /><br />Swamp Donkey<br />-Cutest main character? An adventure to discover what’s going down in your swamp… with rockets!<br /><br />Office Hero<br />-Pick-up-and-play stealth game that will keep you entertained for hours finding all the endings.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2414" target="_blank">Grave Adventure</a><br />-Purple never looked so good. An edgy platformer with loads of style.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2391" target="_blank">Page Turner</a><br />-Explore this classic adventure island to witness the actual creepiest character of all the contest entries.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2392" target="_blank">Pandora’s Blocks</a><br />-By NESMaker developers, for NESMaker developers.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2396" target="_blank">Project Kunoichi</a><br />-More than meets the eye in this action platformer with stealth elements.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2400" target="_blank">Nezumi</a><br />-Amazingly detailed, cinematic, samurai fantasy, action platformer.<br /><br />Momoc<br />-Well deserved award winner that shocked us all with it’s well executed resource management puzzles.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2404" target="_blank">Witch City</a><br />-Fight creepy monsters while exploring the city in this fantastic, gritty, action adventure.<br /><br />Pink Fucking Face<br />-The only other adventure maze game that I would still be trying to find the exit to if the dev didn’t admit that it wasn’t complete. Possibly the most expressive main character of the lot.<br /><br />Dragon Master<br />-Defeat monster after crazy monster in this kung-fu action demo.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=51&amp;t=2397" target="_blank">Shokan Doro</a><br />-One of my personal favorite epic samurai adventures.<br /><br /><a href="http://nesmakers.com/viewtopic.php?f=52&amp;t=2395" target="_blank">Windermere</a><br />-Classic haunted mansion horror adventure with an in-depth story and creepy vibes all around.
+<br /></p>
 
-If this doesn’t make you want to vote, I don’t know what will.
-
-<small>source: https://saturdayxiii.tumblr.com/post/184204348014</small>
-&nbsp;<a class="read-more" href="//2019/04/15/If-this-doesn-t-make-you-w/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/185734597309</small></p>
+&nbsp;<a class="read-more" href="//2019/06/20/">Read  →</a>
       
       </p>
 
   </article>
 
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 13, 2019 • Less than a minute read</span>
-  	<a href="//2019/04/13/"><h1>NT</h1></a>
-      <p>
-      
-        <img src="https://saturdayxiii.github.io/media/184258123999.jpg" />
-
-I always think this guy is going to be hard to put together, but even on the revamp he’s probably the easiest and funnest.
-<br />
-<a href="http://saturdayxiii.itch.io/pingback" target="_blank">http://saturdayxiii.itch.io/pingback</a>
-
-<small>source: https://saturdayxiii.tumblr.com/post/184258123999</small>
-&nbsp;<a class="read-more" href="//2019/04/13/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -493,7 +515,7 @@ I always think this guy is going to be hard to put together, but even on the rev
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -507,9 +529,156 @@ I always think this guy is going to be hard to put together, but even on the rev
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

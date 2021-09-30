@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-4/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,154 +362,146 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 6, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/06/Quick-week-Some-things-f/"><h1>Quick-week -Some-things-f</h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_1.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_2.jpg" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_3.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_4.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_5.jpg" /></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/647781832275984384_6.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-Quick week.  Some things feel better, other things feel drastically worse.  Big focus on head shapes, I think.  Seems to mean I lost focus on feature proportions.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/647781832275984384</small>
-&nbsp;<a class="read-more" href="//2021/04/06/Quick-week-Some-things-f/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 6, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/06/I-ve-been-enjoying-a-href/"><h1>I-ve-been-enjoying-a-href</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=apX3q5PCrQQ"><img src="http://i3.ytimg.com/vi/apX3q5PCrQQ/hqdefault.jpg" alt="thumbnail" /></a>&gt;
-
-I’ve been enjoying <a href="https://www.youtube.com/user/broadcaststsatic" target="_blank">Noah Caldwell-Gervais</a>’s Thorough Look series for insightful and indepth retrospectives of many story driven game series.  This God of War one was especially fun because the style of gameplay bled right into Noah’s writing style.  I’ve never been interested in GoW, and now I know for sure that I should never play it, but I’ve got a new appreciation for it now and am totally going to look up some long plays.
-
-<small>source: https://saturdayxiii.tumblr.com/post/647738137008848896</small>
-&nbsp;<a class="read-more" href="//2021/04/06/I-ve-been-enjoying-a-href/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
-      
-      Apr 2, 2021 • Less than a minute read</span>
-  	<a href="//2021/04/02/Another-week-of-progress/"><h1>Another-week-of-progress </h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_1.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_2.jpg" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_3.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_4.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_5.jpg" /></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><img src="https://saturdayxiii.github.io/media/647412041409232896_6.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-Another week of progress.  Kind of peaking, unfortunately.<br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/647412041409232896</small>
-&nbsp;<a class="read-more" href="//2021/04/02/Another-week-of-progress/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
-      
-      Mar 29, 2021 • 1&nbsp;min read</span>
-  	<a href="//2021/03/29/I-really-enjoy-when-insigh/"><h1>I-really-enjoy-when-insigh</h1></a>
-      <p>
-      
-        <a href="https://www.youtube.com/watch?v=rDkc2_phiJ4"><img src="http://i3.ytimg.com/vi/rDkc2_phiJ4/hqdefault.jpg" alt="thumbnail" /></a>&gt;
-
-I really enjoy when insightful videos about the original Blair Witch Project are randomly recommended to me.
-This one gets rather exhaustive on how imagery in the initial scenes reinforce the theme of the film.  It honestly gets rather listy, and suggests that the film was much more controlled and intentional than was let on.  Which I think is a valid insight, but not the extent of which is implied in this video.  I really like what it means for themes and how it relates to author intention.  
-I believe the film creators when they say that it was a frantic week of filming.  I don’t believe they had the time and energy to pay attention to every detail, especially when most of the camera work was handled by the actors themselves, who I do believe were kept in the dark about much of the film.  
-I think this shows how ingrained the base theme and backstory was, and how they were able to pass on this intention to the crew, allowing them to subliminally capture images that reinforced the themes.  Like how they didn’t necessarily need to actually recommend that interviewees dress in black, because the theme of found footage already favored high contrast visuals.  They likely didn’t need to choose and place specific Halloween decorations, because it’s a natural decision to set a creepy movie around Halloween and filming on location means many places already had decor set up.  Not saying it was coincidence that they circled an interviewee with flying witches, or had  a black cat appear on Heather’s shoulder, but I don’t think it was meticulously planned.  
-Having clear themes and intentions decided in the beginning of production allowed for creative supporting opportunities to naturally occur.<br />
-I’d be interested in taking an exhaustive look at one of the many films of the 2010 era that clearly had a poor time reinforcing theme, and see what can be gleamed of the clarity and intention put forth by their creators.
-
-<small>source: https://saturdayxiii.tumblr.com/post/647019646909841408</small>
-&nbsp;<a class="read-more" href="//2021/03/29/I-really-enjoy-when-insigh/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fff39c, black); border-image-slice: 1; padding: 10px;">
       
-      Mar 25, 2021 • Less than a minute read</span>
-  	<a href="//2021/03/25/I-m-happy-to-add-Kvass-to/"><h1>I-m-happy-to-add-Kvass-to-</h1></a>
+      Jun 15, 2021 • Less than a minute read</span>
+  	<a href="//2021/06/15/Ginger-Bug-Scoby/"><h1>Ginger Bug Scoby</h1></a>
       <p>
+        
+        
+        
+        
       
-        <embed src="../../media/646676325321605120.mp4" type="video/mp4" scale="aspect" autoplay="false" />
+        <p><a href="https://i.postimg.cc/MHTwVZRB/PXL-20210615-214407618.jpg"><img src="https://i.postimg.cc/JnKmsHym/PXL-20210615.jpg" alt="Ginger Bug Scoby" /></a></p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;figure class="tmblr-full" data-orig-height="3375" data-orig-width="2531"&gt;&lt;img src="https://64.media.tumblr.com/86ffd95fa0e564ae6df3a58fc71cf5c2/dac2194319e4ed8d-7f/s540x810/c66cc889233b28a5e31d856e6e24d837c76a17cd.jpg" data-orig-height="3375" data-orig-width="2531"/&gt; I’m happy to add Kvass to my collection of circulating fermented drinks.  It’s bread soda.  Flavoured with honey and mint. I used the recipe from &lt;a href="https://domesticdreamboat.com/bread-kvass/" target="_blank"&gt;Domestic Dreamboat&lt;/a&gt;, but essentially it’s just soak plain, stale, toasted bread in hot water for a while.  Filter out the bread, then add honey, sugar, mint, and a bit of sourdough starter (I’m sure you could use regular yeast from a package too).  When it bubbles, strain and bottle.  It’ll carbonate and get less sweet over time.  If you make it again, you don’t need new yeast, just use the sediment from the bottles.
-</code></pre></div></div>
+<p>I’ve had my ginger bug on the counter for a month, maybe two.  It stopped producing bubbles after a couple weeks, but it tastes fine so I kept it going in hopes it would bounce back.  Well, it probably bounces now.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/646676325321605120</small>
-&nbsp;<a class="read-more" href="//2021/03/25/I-m-happy-to-add-Kvass-to/">Read  →</a>
+<p>I pulled a very nice looking pellicle off of it today and… it’s tasty.  Much softer and fruitier than the pellicle’s off my actual kombucha.</p>
+
+<p>I’m pretty sure that this is cross contamination, but there doesn’t seem to be a lot of definite ginger bug information out there.  Does kombucha bacteria like ginger?  Maybe.  This pellicle grew in, maybe, two weeks.  It really took off when I put an airlock on the bottle.  Does Kombucha thrive in a low oxygen environment?  Does Ginger Bug?  The answer may shock you.  But I don’t know it.</p>
+&nbsp;<a class="read-more" href="//2021/06/15/Ginger-Bug-Scoby/">Read  →</a>
       
       </p>
 
   </article>
 
 
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Jun 13, 2021 • Less than a minute read</span>
+  	<a href="//2021/06/13/the-mist/"><h1>The Mist</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <video muted="" autoplay="" controls="" loop="" width="400">
+    <source src="https://i.imgur.com/Ji76zee.mp4" type="video/mp4" />
+</video>
+
+<p>I was in the mood for some Stephen King vibes, but in the realm of, like, Misery, then The Mist was right there on Netflix’s main page so I tried that.  Yah, no.  Not what I was after, but I did get into it and binged it anyway.</p>
+
+<p>Really unfortunate introduction to the story, but the characters have some great archs.  You have your different layers of good and rotten characters, then by the end everyone ercept one person is a complete asshole.  Normally I hate asshole media, but there was some quality misdirection happening.  I don’t really care if they continue the clifhanger ending into another season, I had a good time with this as it was.</p>
+&nbsp;<a class="read-more" href="//2021/06/13/the-mist/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      Jun 3, 2021 • Less than a minute read</span>
+  	<a href="//2021/06/03/Sonic-Tattoo/"><h1>Sonic Tattoo</h1></a>
+      <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://i.postimg.cc/XvRNgsNq/PXL-20210602-024748123.jpg" title="Tattoo Outline"><img src="https://i.postimg.cc/QC21cQ9r/PXL-20210602.jpg" alt="Tattoo Outline" /><span>Tattoo Outline</span></a><a href="https://i.postimg.cc/VvY87Txf/PXL-20210603-003950456.jpg" title="Tattoo Washed"><img src="https://i.postimg.cc/jqmHVb8k/PXL-20210603.jpg" alt="Tattoo Washed" /><span>Tattoo Washed</span></a></p>
+
+        
+        
+        
+        
+      
+        <p>I’ve wanted this tattoo for a long time.  I finally sat down to do it, but apparently I did something wrong and all the ink came out when I wiped the blood away.  This wasn’t an issue with my <a href="https://saturdayxiii.github.io/2015/10/27/Scarification-is-hard-I/">sea horse tattoo</a> so wuttupwitdatdo.  Honestly I wouldn’t mind this temporary henna-hybrid approach if it didn’t scab over after.  Meh.</p>
+&nbsp;<a class="read-more" href="//2021/06/03/Sonic-Tattoo/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+      
+      Jun 1, 2021 • Less than a minute read</span>
+  	<a href="//2021/06/01/Borderline-Forever/"><h1>Borderline Forever</h1></a>
+      <p>
+        
+        
+        
+        
+      
+        <video muted="" autoplay="" controls="" loop="" width="400">
+    <source src="https://i.imgur.com/HMj1Jbc.mp4" type="video/mp4" />
+</video>
+
+<h4 id="just-some-clips-from-scott-the-wozs-200th-episode-that-made-me-rofl">Just some clips from <a href="https://www.youtube.com/watch?v=mhbVUf3yyB0&amp;t=3192s">Scott the Woz’s</a> 200th episode that made me rofl.</h4>
+
+<video muted="" autoplay="" controls="" loop="" width="400">
+    <source src="https://i.imgur.com/ICPVM1p.mp4" type="video/mp4" />
+</video>
+&nbsp;<a class="read-more" href="//2021/06/01/Borderline-Forever/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, cyan, black); border-image-slice: 1; padding: 10px;">
+      
+      May 28, 2021 • Less than a minute read</span>
+  	<a href="//2021/05/28/outdoor-listening/"><h1>Outdoor Listening</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://i.postimg.cc/Rh1zTY0Q/PXL-20210529-004708664.jpg" target="_blank"><img src="https://i.postimg.cc/sDyz23nn/PXL-20210529-004708664.jpg" alt="Outdoor Listening"></a>
+        
+        
+        
+      
+        <p>I know no one likes it when other people do it… But I do enjoy this feeling.</p>
+
+<p>Moved the big speakers outside tonight to enjoy <a href="https://blindedm.bandcamp.com/album/featherlight">bLiNd’s</a> listening party for his latest album.</p>
+&nbsp;<a class="read-more" href="//2021/05/28/outdoor-listening/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -530,7 +520,7 @@ I’d be interested in taking an exhaustive look at one of the many films of the
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -544,9 +534,156 @@ I’d be interested in taking an exhaustive look at one of the many films of the
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

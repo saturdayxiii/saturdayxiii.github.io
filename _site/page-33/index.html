@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-33/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,18 +362,30 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Feb 19, 2017 • Less than a minute read</span>
-  	<a href="//2017/02/19/Sketching-some-piesp/"><h1>Sketching-some-piesp-</h1></a>
+      Oct 10, 2017 • 5&nbsp;min read</span>
+  	<a href="//2017/10/10/I-decided-to-treat-myself/"><h1>I decided to treat myself</h1></a>
       <p>
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/157453831474.jpg" />
+        <h2 id="vector-illustration-apps-for-android">Vector illustration apps for android</h2>
+<h3 id="pramble">Pramble:</h3>
+<p>I decided to treat myself and upgrade my laptop/drawing tablet combo.  I’ve found lots of comprehensive reviews for hardware and software and have happily purchased a Samsung Galaxy Tab S3.  While it will take a good long while of actually using the tablet to determine how well it can replace my old laptop, I am very optimistic.  I’ve found lots of recommendations for drawing and photo apps, but something I haven’t been coming across is apps for working with vector art.  So I’m going to compose a non-comprehensive list of the apps that look useful to me and will report what apps I stick with.<br /><br />As I stated, I have a Samsung Galaxy Tab S3, the SM-T820 something something, running stock Nougat 7.0.  The double edge sword of running android is that the OS and the apps change so quickly, so if you find this list somewhere at sometime, you should know that nothing is guaranteed.  Part of how I will grade apps is by how recently they were updated in the app store.  So even my opinions are related to this time in October 2017.  </p>
+<h3 id="heres-what-im-looking-for-in-a-vector-app-ullisvg-exportimportlilifeatures-the-more-the-better-but-useful-basics-will-take-priorityliliruler-or-ability-to-size-specificly-is-the-one-feature-that-i-really-needliliits-updated-recently-in-2017-ideallylilireviews-are-positive-or-the-developer-engages-with-user-issuesliul-the-trial-candidates-ulliadobe-illustrator-drawliligimpinkscape-for-androidlilivector-paintliliivy-drawliligraphic-designerliliinkerliliskedioliul-howd-they-do">Here’s what I’m looking for in a vector app: ###&lt;ul&gt;&lt;li&gt;SVG export/import&lt;/li&gt;&lt;li&gt;Features.  The more the better, but useful basics will take priority.<br />&lt;/li&gt;&lt;li&gt;Ruler or ability to size specificly is the one feature that I really need.&lt;/li&gt;&lt;li&gt;It’s updated recently, in 2017 ideally.<br />&lt;/li&gt;&lt;li&gt;Reviews are positive or the developer engages with user issues.<br />&lt;/li&gt;&lt;/ul&gt;### The trial candidates: ###&lt;ul&gt;&lt;li&gt;<a href="#adobeillustrator" target="_blank">Adobe Illustrator Draw</a>&lt;/li&gt;&lt;li&gt;<a href="#gimpinkscape" target="_blank">Gimp/Inkscape for Android</a>&lt;/li&gt;&lt;li&gt;<a href="#vectorpaint" target="_blank">Vector Paint</a>&lt;/li&gt;&lt;li&gt;<a href="#ivydraw" target="_blank">Ivy Draw</a><br />&lt;/li&gt;&lt;li&gt;<a href="#graphicdesigner" target="_blank">Graphic Designer</a><br />&lt;/li&gt;&lt;li&gt;<a href="#inker" target="_blank">Inker</a><br />&lt;/li&gt;&lt;li&gt;<a href="#skedio" target="_blank">Skedio</a><br />&lt;/li&gt;&lt;/ul&gt;### How’d they do?</h3>
+<p><a name="adobeillustrator" id="adobeillustrator">Adobe Illustrator</a><br />I knew <a href="https://play.google.com/store/apps/details?id=com.adobe.creativeapps.draw" target="_blank">Adobe Illustrator Draw</a> was out of the question for me before I started.  I’m hesitant to buy cheap apps let alone subscribe to an expensive one.  That said, the pen tools are solid.  It might be worth coming back to this for sketching, exporting to png, then using bucket fill to vectorize in another app.  That’s probably unnecessary though.  It’s possible that this isn’t even a vector app.  I can’t tell for sure without getting Creative Cloud.<br /><b>Last updated?</b>  A week ago.<br /><b>Reviews? Engagable developer?</b>  Reviews are mostly positive, and of course Adobe doesn’t engage the little people.<br /><b>Ads?</b>  No<br /><b>SVG Import/Export?</b>  Only if you export to desktop via Adobe’s Creative Cloud… presumably.<br /><br /><b>Freehand drawing?</b> Fantastic, as to be expected.<br /><b>Brushes?</b> 5 in the free version plus… French Curves?<br /><b>Point Editing?</b> Basic options.<br /><b>Measuring?</b> None.<br /><b>Object alignment?</b> Yes!<br /><b>Text editing?</b> 
+<a name="gimpinkscape" id="gimpinkscape">Gimp/Inkscape</a><br />Amazing.This is <a href="https://play.google.com/store/apps/details?id=org.gimp.inkscape" target="_blank">Gimp and Inkscape</a>.  It’s all there!  What more could you need?  Oh, wait, it’s super slow and doesn’t save.  Maybe there’s a work around, but the Dev stopped working on the app in 2015.  Without any sign of life it might be best to leave this app where it lies.
+<a name="vectorpaint" id="vectorpaint">Vector Paint</a><br /><a href="http://vectorpaint.yaks.co.nz" target="_blank">Vector Paint</a> is a web app.  It’s actually pretty cool.  It might work if in a pinch, but if I’m in a pinch I probably won’t have the required wifi access. It’s also missing some vital features.<br /><b>Last updated?</b>  Looks like 2014<br /><b>Reviews? Engagable developer?</b>  Developer’s Google Plus page hasn’t had updates since 2014.  I’m not hunting for reviews.<br /><b>Ads?</b>  None!<br /><b>SVG Import/Export?</b>  Yes!<br /><b>Freehand drawing?</b> Seems terriblely chunky at first, but lines can be smoothed out and it seems to follow the brush closely.<br /><b>Brushes?</b> No options.<br /><b>Point Editing?</b> Basic options.<br /><b>Measuring?</b> None.<br /><b>Object alignment?</b> Yes!<br /><b>Text editing?</b> Downloadable.  I don’t really want to mess with it because the basic text jumps lines everytime I tap on it.
+<a name="ivydraw" id="ivydraw">Ivy Draw</a><br /><a href="https://play.google.com/store/apps/details?id=com.shoebillsoftware.vectordraw" target="_blank">Ivy Draw</a>…<br /><b>Last updated?</b>  9 months ago.<br /><b>Reviews? Engagable developer?</b>  Reviews are decent, and the developer does comment here and there.<br /><b>Ads?</b>  Yes ｡･ﾟヾ(✦థ ｪ థ)ﾉ｡ﾟ･｡<br /><b>SVG Import/Export?</b>  In paid version.<br /><b>Freehand drawing?</b> It works.<br /><b>Brushes?</b> None.<br /><b>Point Editing?</b> Good!  maybe even great!<br /><b>Measuring?</b> Yes!  The canvas has actual inches and centimetres. Grids, Snap-to, and object transformation needs to be paid for though.<br /><b>Object alignment?</b> Yes!<br /><b>Text editing?</b> Decent!  Seems to have some good options.
+<a name="graphicdesigner" id="graphicdesigner">Graphic Designer</a><br /><a href="https://play.google.com/store/apps/details?id=com.ulm.designer" target="_blank">“Your” Graphic Designer</a> seems to have everything… except a paint bucket, but maybe I should let that hope die.  Unfortunately as soon as you put the pen down to the tablet, you know that there’s a reason for that low review score.  The canvas moves as you draw.  The developer says there’s a button for locking the canvas in place, but for me the button turns off my pen tool while still moving the canvas.  The app was updated back in March, so maybe the developer is still active?<br /><b>Last updated?</b>  9 months ago.<br /><b>Reviews? Engagable developer?</b>  Poor reviews.  Developer acknowledged specific user issues in app description.<br /><b>Ads?</b>  A hidden link for the just as broken paid version.<br /><b>SVG Import/Export?</b>  Yes! Working? dunno.<br /><b>Features:</b>  Getting your hopes up.<a></a>
+<a name="inker" id="inker">Inker</a><br /><a href="https://play.google.com/store/apps/details?id=co.inker" target="_blank">Inker</a> …<br /><b>Last updated?</b>  6 months ago.<br /><b>Reviews? Engagable developer?</b>  Reviews are mixed, but positive, and the developer does address peoples comments!<br /><b>Ads?</b>  No<br /><b>SVG Import/Export?</b>  In paid version.<br /><b>Freehand drawing?</b> Decent. Curves are nice, but shape adjusts itself pretty dramatically. Outline color is hidden by default.<br /><b>Brushes?</b> There’s a blanked out option. Future feature?<br /><b>Point Editing?</b> Great!  Lots of features for shaping your lines.<br /><b>Measuring?</b> There’s options to set canvas size and snap distance, but only in pixels.<br /><b>Object alignment?</b> Not seeing any.<br /><b>Text editing?</b> Basic.
+<a name="skedio" id="skedio">Skedio</a><br /><a href="https://play.google.com/store/apps/details?id=com.shturmsoft.skedio&amp;hl=en" target="_blank">Skedio</a>.  Dang.  This one’s close.  Finally something that lets me edit vector points, but am I missing something?  Is there no fill option, only outlining?  Odd.<br /><b>Last updated?</b>  10 months ago.<br /><b>Reviews? Engagable developer?</b>  Good reviews.  No sign of a developer presence.<br /><b>Ads?</b>  No<br /><b>SVG Import/Export?</b>  If paid for.<br /><b>Freehand drawing?</b> Feels great! Curves are smooth and accurate.<br /><b>Brushes?</b> No shapes, but there is width, pressure changes, and dashed line options.<br /><b>Point Editing?</b> Good. It has basic move, add, remove options. Or erase straight through everything!<br /><b>Measuring?</b> None.<br /><b>Object alignment?</b> Don’t think so.  Though there is an angular button in the corner that I can’t figure out what it does. <br /><b>Text editing?</b> Basic.</p>
 
-Sketching some pies.
-
-<small>source: https://saturdayxiii.tumblr.com/post/157453831474</small>
-&nbsp;<a class="read-more" href="//2017/02/19/Sketching-some-piesp/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/166264844829</small></p>
+&nbsp;<a class="read-more" href="//2017/10/10/I-decided-to-treat-myself/">Read  →</a>
       
       </p>
 
@@ -388,16 +398,21 @@ Sketching some pies.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Dec 14, 2016 • Less than a minute read</span>
-  	<a href="//2016/12/14/Not-perfect-but-it-s-bett/"><h1>Not-perfect-but-it-s-bett</h1></a>
+      Oct 4, 2017 • Less than a minute read</span>
+  	<a href="//2017/10/04/Thoughtspp-a/"><h1>Thoughtspp a</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/166054332554.png" target="_blank"><img src="https://saturdayxiii.github.io/media/166054332554.png" alt="Thoughtspp a"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/154473092964.jpg" />
+        <p>Thoughts?
+( <a href="http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county" target="_blank">http://acryptozoo.tumblr.com/post/163647622875/mexorchestia-carpenteri-carpenteri-wakulla-county</a> )</p>
 
-Not perfect, but it’s better than the coffee table.
-
-<small>source: https://saturdayxiii.tumblr.com/post/154473092964</small>
-&nbsp;<a class="read-more" href="//2016/12/14/Not-perfect-but-it-s-bett/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/166054332554</small></p>
+&nbsp;<a class="read-more" href="//2017/10/04/Thoughtspp-a/">Read  →</a>
       
       </p>
 
@@ -410,16 +425,34 @@ Not perfect, but it’s better than the coffee table.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Dec 8, 2016 • Less than a minute read</span>
-  	<a href="//2016/12/08/Best-thing-I-ve-heard-this/"><h1>Best-thing-I-ve-heard-this</h1></a>
+      Oct 3, 2017 • 4&nbsp;min read</span>
+  	<a href="//2017/10/03/Using-this-space-to-develo/"><h1>Using this space to develo</h1></a>
       <p>
+        
+        
+        
+        
       
-        <embed type="audio/mpeg" src="https://popplers5.bandcamp.com/download/track?enc=mp3-128&amp;fsig=bd48059a76bf6df6f4784240e1ef97a7&amp;id=1016019743&amp;nl=1&amp;stream=1&amp;ts=1481214164.0" />
+        <h2 id="reincarnation-game-first-thoughts">Reincarnation Game first thoughts</h2>
+<p>Using this space to develop game concept ideas.
+A game with reincarnation as a mechanic.  The player doesn’t know at the start, but the world will be destroyed by the end of the game, and if the player plays all the way through they will see it.  Death is inevitable, not just by game end, but during as well.  When you die, you come back as a new character. What kind of character will depend on how many compassion points you have.
+  Compassion points are earned or lost during specific encounters of animals that are in need, and by how the player interacts with enemies.  Higher compassion points means that the player will get a character with increased movement abilities, faster, jumping, flying, etc.  Lower compassion points gets the player a character with slower, more restricted movement.  To the point of becoming a crawling grub with no abilities.  However there will be more chances to increase your compassion points while playing a restricted character (time based compassion events?).  By the end of the game, the world is destroyed and you become a star, no matter how you played. 
+Motivation will be the story and world exploration, as you will need a high movement character to keep up with characters, events, and reach certain locations.  Story characters should also remember player interactions and what animal the player was a the time of interaction.</p>
+<h3 id="story">Story</h3>
+<p>Story is central to everything.  The story plays out regardless of player interaction, but the player should be rewarded for keeping up and seeking interaction with main characters.  Story enriching scenes could depend on a mix of time and compassion point restraints, while a more general story is presented to a player that takes their time or has less than ideal CP.  It may be an option to ignore the story entirely for players purposely playing “badly”.</p>
+<ul><li>Needs to be events that will require interaction from player and characters will remember what the player does as well as what form the player is in.</li><li>characters should reference past player lives often</li><li>if the player performs well in game, characters will become more attached, and distraught should the player die.  Possibly effecting the story in key scenes.</li><li>slow player movement speed, or inability to jump/fly, will bar them from more detailed scenes and character development</li><li>option to follow different characters?</li><li>There should be some story benefits to being a character with restricted movements, for replayability sake.  Maybe a non interactive side story?</li></ul>
+<h3 id="mechanics">Mechanics:</h3>
+<p>I imagine isometric world, but that’s not especially important.
+The world should have lots of enemies and traps.  Platforming style gameplay. It should be very difficult to stay alive.  Defending yourself from an attacking enemy won’t effect your compassion points, but attacking an idle enemy will. 
+Death </p>
+<ul><li>will result in some compassion points lost in order to motivate the player. </li><li>will respawn the character to a random location on the map.</li><li>will also reset any quests that the player is currently on.  Either the player will have to find the character that initiated the quest and start over, or the quest and any benefit it offered will be forfeited.<br /></li></ul>
+<p>Compassion Points </p>
+<ul><li>Can be earned or lost at key points in the story.  Heavy weighted scenes will sometimes result in scripted death of the player.</li><li>It will be compassion based on how many characters the choice affects during that scene, including unseen characters as long as they are directly implied.  IE: Buying all stock from a store despite shop keep warning that prices will increase for all customers.</li><li>Player speculation shouldn't be a factor.  If a player helps a npc in a scripted moment of need and that npc goes on to hurt other npcs in future scenes the player will still receive positive compassion points. For simplicity’s sake.<br /></li><li>There will be points on the map where players can help or harm animals or non-story characters to affect their CP.  If the player has a high movement character then these locations will be fewer and farther apart.  These locations will be pivitol for players getting the highest movement character type and unlocking the most intimate scenes of the story.</li></ul>
+<p>Levels of compassion: a basic hierarchy from high movement to low:</p>
+<ul><li>Bird - unlimited map access (except for isolated stories for players that play poorly)<br /></li><li>dog/cat - speedy and can jump small walls</li><li>rodent - decent speed but can’t jump</li><li>grasshopper/cricket - slow, but can jump</li><li>grub - slow, no jump</li></ul>
 
-Best thing I’ve heard this week.<br /><br />(oh, it’s gone now.  It was a track suddenly erased from <a href="https://trampolinesounds.bandcamp.com/album/sometimes-a-song-is-just-a-cigar-ep-2016" target="_blank">this album</a>
-
-<small>source: https://saturdayxiii.tumblr.com/post/154208728424</small>
-&nbsp;<a class="read-more" href="//2016/12/08/Best-thing-I-ve-heard-this/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/166005690104</small></p>
+&nbsp;<a class="read-more" href="//2017/10/03/Using-this-space-to-develo/">Read  →</a>
       
       </p>
 
@@ -432,16 +465,23 @@ Best thing I’ve heard this week.<br /><br />(oh, it’s gone now.  It was a t
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
       
-      Nov 27, 2016 • Less than a minute read</span>
-  	<a href="//2016/11/27/Hightech-special-forces/"><h1>Hightech-special-forces-</h1></a>
+      Oct 3, 2017 • 1&nbsp;min read</span>
+  	<a href="//2017/10/03/Overall-the-world-will-en/"><h1>Overall the world will en</h1></a>
       <p>
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/153740564569.jpg" />
+        <h2 id="reincarnation-game---story">Reincarnation Game - Story</h2>
+<p>Overall: the world will end.  Start with player saving food production for their nation.  This introduces the mechanics, of course, and the player dies at the end.  This same device that the player dies for is what kills the entire planet in the end.
+The main arch of the story involves a childish leader of a nation defending their country (and pride) from an unseen foreign threat.  Both sides have world devastating devices at their disposal.
+Player’s character never has a real place in the story. General story takes place with or without them, but they do have influence.  If player lives long and sees many interactions, characters that they spend time with will become attached to them.  If player dies regularly, characters may still remember key scenes and reflect confidence/reluctance based on past actions.  A confident character will play a stronger role in the story.
+Possible main characters and story angles:</p>
+<ul><li>The right-hand man: Loyal and fully trusts the leader.  Genuinely thinks their side is in the right and must defend their ideals at any cost.<br /></li><li>The princess and the spy:  Tragic love story.</li><li>the ruined prisoner: possible horror story, prisoner branded traitor for wanting peace between the nations, eventual martyr.</li></ul>
 
-High-tech special forces, Star Fox.
-
-<small>source: https://saturdayxiii.tumblr.com/post/153740564569</small>
-&nbsp;<a class="read-more" href="//2016/11/27/Hightech-special-forces/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/166013183424</small></p>
+&nbsp;<a class="read-more" href="//2017/10/03/Overall-the-world-will-en/">Read  →</a>
       
       </p>
 
@@ -454,22 +494,27 @@ High-tech special forces, Star Fox.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Nov 23, 2016 • Less than a minute read</span>
-  	<a href="//2016/11/23/Showing-off-some-mods-and/"><h1>Showing-off-some-mods-and-</h1></a>
+      Oct 1, 2017 • Less than a minute read</span>
+  	<a href="//2017/10/01/I-want-to-make-a-snowboard/"><h1>I want to make a snowboard</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/165936346764.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/165936346764.jpg" alt="I want to make a snowboard"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/153587983579.jpg" />
+        <p>I want to make a snowboard kids knock off.  so I’m just stashing some ideas here for later use.  Tagging: Downhill…something… need a more descriptive project title.<br />
+Level idea: Rail sliding in Chittogarh?</p>
 
-Showing off some mods and selling a few lesser wares this weekend at the Classic  Video Game Championships at NAIT.  3 months prep and I couldn’t come up with any creative customs for my controllers, so I just gave them some shiny colors.  Now I want to do a whole Genesis 3 in copper.
-
-<small>source: https://saturdayxiii.tumblr.com/post/153587983579</small>
-&nbsp;<a class="read-more" href="//2016/11/23/Showing-off-some-mods-and/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/165936346764</small></p>
+&nbsp;<a class="read-more" href="//2017/10/01/I-want-to-make-a-snowboard/">Read  →</a>
       
       </p>
 
   </article>
 
-
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -488,7 +533,7 @@ Showing off some mods and selling a few lesser wares this weekend at the Classic
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -502,9 +547,156 @@ Showing off some mods and selling a few lesser wares this weekend at the Classic
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>

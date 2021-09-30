@@ -236,6 +236,7 @@ for file in directory:
     link = ""
     oimgs = re.findall('<img src="(.*?)"', read_file)
     read_file = re.sub('<img src=".*"','',read_file) #hmm. maybe messy
+    read_file = re.sub('/>','',read_file) #not bad, if that's it
     ntub = re.findall('^.*\)\]\(?(http.*)?\)', read_file)
     if not ntub:
         ntub = oimgs

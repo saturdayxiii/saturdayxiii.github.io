@@ -30,13 +30,11 @@ Consumed by saturdayxiii
     <meta property="og:image" content="http://localhost:4000//img/og-image.jpg">
   
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="http://localhost:4000//page-46/">
-<meta property="og:description" content="
+<meta property="og:description" content="{% for post in paginator.posts %}{% assign minutes = post.content | number_of_words | divided_by: 180 %}{% if minutes == 0 %}  {% assign read-time = site.var...">
 
-This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here.
-">
-<!-- /og tags -->
+<!-- /og tags actual descripiton else - This is my personal consumption blog. Whether it be movies, shows, games, or actual food; if it has my attention I hope to feature it here. -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//js/modernizr.js"></script>
@@ -69,9 +67,6 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     
     </a>
   <nav>
-   <a href="//archive/">Timeline</a>
-   <a href="//tags1/">Tags</a>
-   <a href="//tags/showcase/">Showcase</a>
    <div class="dropdown">
      <button class="dropbtn">Topics</button>
      <div class="dropdown-content">
@@ -84,6 +79,8 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
          <a href="//tags/food/">Food</a>
          <a href="//tags/thoughts/">Thoughts</a>
 </div></div>
+   <a href="//tags/showcase/">Showcase</a>
+   <a href="//archive/">Timeline</a>
 </nav>
 
   
@@ -111,7 +108,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/saturdayxiii/saturdayxiii.github.io",
-  "build_revision": "1db6c630ff59a97e85d2ddcfbec60cd239845488",
+  "build_revision": "e2a44824e5c89c2815af886242563bff74a445f3",
   "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
   "contributors": [
     {
@@ -133,7 +130,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "received_events_url": "https://api.github.com/users/saturdayxiii/received_events",
       "type": "User",
       "site_admin": false,
-      "contributions": 220
+      "contributions": 435
     }
   ],
   "disabled": false,
@@ -171,7 +168,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
     "public_gists": 0,
     "public_repos": 1,
     "type": "User",
-    "updated_at": "2021-06-06 15:52:22 UTC"
+    "updated_at": "2021-09-29 23:10:41 UTC"
   },
   "owner_gravatar_url": "https://github.com/saturdayxiii.png",
   "owner_name": "saturdayxiii",
@@ -249,14 +246,14 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "releases_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/saturdayxiii/saturdayxiii.github.io/deployments",
       "created_at": "2021-04-19 23:23:11 UTC",
-      "updated_at": "2021-06-03 02:52:14 UTC",
-      "pushed_at": "2021-06-03 02:52:11 UTC",
+      "updated_at": "2021-09-30 05:52:13 UTC",
+      "pushed_at": "2021-09-30 05:52:10 UTC",
       "git_url": "git://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "ssh_url": "git@github.com:saturdayxiii/saturdayxiii.github.io.git",
       "clone_url": "https://github.com/saturdayxiii/saturdayxiii.github.io.git",
       "svn_url": "https://github.com/saturdayxiii/saturdayxiii.github.io",
       "homepage": "",
-      "size": 502757,
+      "size": 507109,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "HTML",
@@ -271,6 +268,7 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
       "disabled": false,
       "open_issues_count": 0,
       "license": null,
+      "allow_forking": true,
       "topics": [
 
       ],
@@ -364,48 +362,22 @@ This is my personal consumption blog. Whether it be movies, shows, games, or act
 
 
   <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #9c55ed, black); border-image-slice: 1; padding: 10px;">
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jul 4, 2016 • Less than a minute read</span>
-  	<a href="//2016/07/04/"><h1>NT</h1></a>
+      Aug 16, 2016 • Less than a minute read</span>
+  	<a href="//2016/08/16/When-you-re-shiny/"><h1>When you re shiny</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/149038615983.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/149038615983.jpg" alt="When you re shiny"></a>
+        
+        
+        
       
-        <a href="https://www.youtube.com/watch?v=zM_-XS5VIew"><img src="http://i3.ytimg.com/vi/zM_-XS5VIew/hqdefault.jpg" alt="thumbnail" /></a>&gt;
+        <p>When you’re shiny.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/146904889719</small>
-&nbsp;<a class="read-more" href="//2016/07/04/">Read  →</a>
-      
-      </p>
-
-  </article>
-
-
-
-
-
-  <article>
-    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, white, black); border-image-slice: 1; padding: 10px;">
-      
-      Jul 3, 2016 • Less than a minute read</span>
-  	<a href="//2016/07/03/Green-sneakerppbr/"><h1>Green-sneakerppbr</h1></a>
-      <p>
-      
-        <table>
-  <tbody>
-    <tr>
-      <td><img src="https://saturdayxiii.github.io/media/146855380840_0.jpg" /></td>
-      <td><img src="https://saturdayxiii.github.io/media/146855380840_1.jpg" /></td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
-
-Green sneaker.
-<br />
-<a href="https://en.wikipedia.org/wiki/Misumena_vatia" target="_blank">https://en.wikipedia.org/wiki/Misumena_vatia</a><br />
-
-<small>source: https://saturdayxiii.tumblr.com/post/146855380840</small>
-&nbsp;<a class="read-more" href="//2016/07/03/Green-sneakerppbr/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/149038615983</small></p>
+&nbsp;<a class="read-more" href="//2016/08/16/When-you-re-shiny/">Read  →</a>
       
       </p>
 
@@ -418,16 +390,20 @@ Green sneaker.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jul 2, 2016 • Less than a minute read</span>
-  	<a href="//2016/07/02/Pollinate-pollinate-poll/"><h1>Pollinate-pollinate-poll</h1></a>
+      Aug 16, 2016 • Less than a minute read</span>
+  	<a href="//2016/08/16/Ashley-in-lights/"><h1>Ashley in lights</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/149034981519.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/149034981519.jpg" alt="Ashley in lights"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/146807870671.gif" />
+        <p>Ashley in lights.</p>
 
-Pollinate, pollinate, pollinate.
-
-<small>source: https://saturdayxiii.tumblr.com/post/146807870671</small>
-&nbsp;<a class="read-more" href="//2016/07/02/Pollinate-pollinate-poll/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/149034981519</small></p>
+&nbsp;<a class="read-more" href="//2016/08/16/Ashley-in-lights/">Read  →</a>
       
       </p>
 
@@ -440,16 +416,35 @@ Pollinate, pollinate, pollinate.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jul 1, 2016 • Less than a minute read</span>
-  	<a href="//2016/07/01/Facecamp/"><h1>Facecamp-</h1></a>
+      Aug 15, 2016 • Less than a minute read</span>
+  	<a href="//2016/08/15/We-found-bed-bugs-last-wee/"><h1>We found bed bugs last wee</h1></a>
       <p>
+        
+          <style>
+            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+            .image-gallery-index a img {width: 100%; display: block;}
+            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+          </style>
+
+          &nbsp;<p class="image-gallery-index"><a href="https://saturdayxiii.github.io/media/148986095554_0.jpg" title=""><img src="https://saturdayxiii.github.io/media/148986095554_0.jpg" alt="" /><span></span></a><a href="https://saturdayxiii.github.io/media/148986095554_1.jpg" title=""><img src="https://saturdayxiii.github.io/media/148986095554_1.jpg" alt="" /><span></span></a></p>
+
+        
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/146761127860.jpg" />
+        <p>/&gt;
+‘ .Oh baby.  . 
+;
+ /&gt;
+‘ .Snug as a bug in my bed.  . 
+;</p>
 
-Facecam.
+<p>We found bed bugs last week, and it couldn’t have happened to a nicer guy, if I do say so myself.</p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/146761127860</small>
-&nbsp;<a class="read-more" href="//2016/07/01/Facecamp/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/148986095554</small></p>
+&nbsp;<a class="read-more" href="//2016/08/15/We-found-bed-bugs-last-wee/">Read  →</a>
       
       </p>
 
@@ -462,20 +457,53 @@ Facecam.
   <article>
     <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
       
-      Jul 1, 2016 • Less than a minute read</span>
-  	<a href="//2016/07/01/"><h1>NT</h1></a>
+      Aug 7, 2016 • Less than a minute read</span>
+  	<a href="//2016/08/07/one-of-these-I-thinkp/"><h1>one of these I thinkp</h1></a>
       <p>
+        
+        
+        &nbsp;<a href="https://www.youtube.com/watch?v=Cyk9V6CnYt8" target="_blank"><img src="http://i3.ytimg.com/vi/Cyk9V6CnYt8/hqdefault.jpg" alt="one of these I thinkp"></a>
+        
+        
+        
       
-        <img src="https://saturdayxiii.github.io/media/146771734149.jpg" />
+        <p>one of these I think
+<a href="https://en.wikipedia.org/wiki/List_of_fritillaries_(butterflies)" target="_blank">https://en.wikipedia.org/wiki/List_of_fritillaries_(butterflies)</a><br /></p>
 
-<small>source: https://saturdayxiii.tumblr.com/post/146771734149</small>
-&nbsp;<a class="read-more" href="//2016/07/01/">Read  →</a>
+<p><small>source: https://saturdayxiii.tumblr.com/post/148598120941</small></p>
+&nbsp;<a class="read-more" href="//2016/08/07/one-of-these-I-thinkp/">Read  →</a>
       
       </p>
 
   </article>
 
 
+
+
+
+  <article>
+    <span class="meta" style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #fc83b2, black); border-image-slice: 1; padding: 10px;">
+      
+      Aug 5, 2016 • Less than a minute read</span>
+  	<a href="//2016/08/05/When-you-have-a-favorite-c/"><h1>When you have a favorite c</h1></a>
+      <p>
+        
+        
+        &nbsp;<a href="https://saturdayxiii.github.io/media/148502555644.jpg" target="_blank"><img src="https://saturdayxiii.github.io/media/148502555644.jpg" alt="When you have a favorite c"></a>
+        
+        
+        
+      
+        <p>When you have a favorite cozy, but it’s not really that cozy.</p>
+
+<p><small>source: https://saturdayxiii.tumblr.com/post/148502555644</small></p>
+&nbsp;<a class="read-more" href="//2016/08/05/When-you-have-a-favorite-c/">Read  →</a>
+      
+      </p>
+
+  </article>
+
+<p><br></p>
 
   <div class="pagination clearfix">
   <div class="left">
@@ -494,7 +522,7 @@ Facecam.
 
 
 
-	  <script>
+		<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -508,9 +536,156 @@ Facecam.
 	</div>
 	<footer>
   <div class="inner">
-    <p>This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.</p>
+    <p>Peers:<br><a href="http://www.jefferysutherland.com" target="_blank">Jeffery Sutherland</a> / <a href="https://judahsutherland.com/" target="_blank">Judah Sutherland</a> / <a href="https://tinythings.tumblr.com" target="_blank">Tiny Things</a></p>
   </div>
 </footer>
+
+	<script>
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+      define(function() {
+        return factory(root);
+      });
+    } else if (typeof exports === 'object') {
+      module.exports = factory;
+    } else {
+      root.echo = factory(root);
+    }
+  })(this, function (root) {
+  
+    'use strict';
+  
+    var echo = {};
+  
+    var callback = function () {};
+  
+    var offset, poll, delay, useDebounce, unload;
+  
+    var isHidden = function (element) {
+      return (element.offsetParent === null);
+    };
+    
+    var inView = function (element, view) {
+      if (isHidden(element)) {
+        return false;
+      }
+  
+      var box = element.getBoundingClientRect();
+      return (box.right >= view.l && box.bottom >= view.t && box.left <= view.r && box.top <= view.b);
+    };
+  
+    var debounceOrThrottle = function () {
+      if(!useDebounce && !!poll) {
+        return;
+      }
+      clearTimeout(poll);
+      poll = setTimeout(function(){
+        echo.render();
+        poll = null;
+      }, delay);
+    };
+  
+    echo.init = function (opts) {
+      opts = opts || {};
+      var offsetAll = opts.offset || 0;
+      var offsetVertical = opts.offsetVertical || offsetAll;
+      var offsetHorizontal = opts.offsetHorizontal || offsetAll;
+      var optionToInt = function (opt, fallback) {
+        return parseInt(opt || fallback, 10);
+      };
+      offset = {
+        t: optionToInt(opts.offsetTop, offsetVertical),
+        b: optionToInt(opts.offsetBottom, offsetVertical),
+        l: optionToInt(opts.offsetLeft, offsetHorizontal),
+        r: optionToInt(opts.offsetRight, offsetHorizontal)
+      };
+      delay = optionToInt(opts.throttle, 250);
+      useDebounce = opts.debounce !== false;
+      unload = !!opts.unload;
+      callback = opts.callback || callback;
+      echo.render();
+      if (document.addEventListener) {
+        root.addEventListener('scroll', debounceOrThrottle, false);
+        root.addEventListener('load', debounceOrThrottle, false);
+      } else {
+        root.attachEvent('onscroll', debounceOrThrottle);
+        root.attachEvent('onload', debounceOrThrottle);
+      }
+    };
+  
+    echo.render = function (context) {
+      var nodes = (context || document).querySelectorAll('[data-echo], [data-echo-background]');
+      var length = nodes.length;
+      var src, elem;
+      var view = {
+        l: 0 - offset.l,
+        t: 0 - offset.t,
+        b: (root.innerHeight || document.documentElement.clientHeight) + offset.b,
+        r: (root.innerWidth || document.documentElement.clientWidth) + offset.r
+      };
+      for (var i = 0; i < length; i++) {
+        elem = nodes[i];
+        if (inView(elem, view)) {
+  
+          if (unload) {
+            elem.setAttribute('data-echo-placeholder', elem.src);
+          }
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + elem.getAttribute('data-echo-background') + ')';
+          }
+          else if (elem.src !== (src = elem.getAttribute('data-echo'))) {
+            elem.src = src;
+          }
+  
+          if (!unload) {
+            elem.removeAttribute('data-echo');
+            elem.removeAttribute('data-echo-background');
+          }
+  
+          callback(elem, 'load');
+        }
+        else if (unload && !!(src = elem.getAttribute('data-echo-placeholder'))) {
+  
+          if (elem.getAttribute('data-echo-background') !== null) {
+            elem.style.backgroundImage = 'url(' + src + ')';
+          }
+          else {
+            elem.src = src;
+          }
+  
+          elem.removeAttribute('data-echo-placeholder');
+          callback(elem, 'unload');
+        }
+      }
+      if (!length) {
+        echo.detach();
+      }
+    };
+  
+    echo.detach = function () {
+      if (document.removeEventListener) {
+        root.removeEventListener('scroll', debounceOrThrottle);
+      } else {
+        root.detachEvent('onscroll', debounceOrThrottle);
+      }
+      clearTimeout(poll);
+    };
+  
+    return echo;
+  
+  });
+</script>
+<script>
+    echo.init({
+      offset: 2500,
+      throttle: 250,
+      unload: false,
+      callback: function (element, op) {
+        //console.log(element, 'has been', op + 'ed')
+      }
+    });
+</script>
 
 </body>
 </html>
