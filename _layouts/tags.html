@@ -24,7 +24,7 @@ layout: default
                     rel="category tag">
                 #{{ tag }} {% endfor %}</small></span></a>
             {% elseif post.gallery %}
-                {% for item in page.gallery %}
+                {% for item in post.gallery %}
                 <a href="{{ post.url }}" title="{{ post.tags }}"><img src="{{ item.gimage }}" alt="{{ post.title }}" /></a><span><small>{% for tag in post.tags %}
                 {% assign tag_slug = tag | slugify: "raw" %}
                 <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
