@@ -1,6 +1,6 @@
 ---
 layout: post
-type: art food snd lnk me
+type: art tainment food snd lnk me
 title: ""
 gallery:
   - title: 
