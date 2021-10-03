@@ -3,10 +3,10 @@ layout: post
 title: Pearltrees
 type: me
 timestamp: September 15th, 2020 11:14pm
+image: https://64.media.tumblr.com/661cb0ee7b66f366a0a0745c0644dc03/9ceaf41243def2cf-82/s500x750/c0104ab27a14490621472666d42e15fe79f76d08.png
+link: https://pearltrees.com
 tags: ["bookmarks", "pearltrees", "recommended"]
 ---
-[![pearltreeslogo](https://64.media.tumblr.com/661cb0ee7b66f366a0a0745c0644dc03/9ceaf41243def2cf-82/s500x750/c0104ab27a14490621472666d42e15fe79f76d08.png)](https://pearltrees.com)
-                
 I think I’ve finally found the ideal bookmark manager.  As far as I can tell, after using it for half a day.
 
 I started looking for a 3rd party manager when I started using different browsers on different computers.
