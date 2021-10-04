@@ -2,8 +2,8 @@
 layout: post
 title: Cucumber Soda
 type: food
-audio: 
-video: https://i.imgur.com/TygBsom.mp4
+image: https://i.postimg.cc/yYJc6tX9/cucumber-soda.gif
+link: https://i.imgur.com/TygBsom.mp4
 tags: ["cucumber", "soda", "cucumber soda", "green", "drink", "food"]
 comments: true
 ---
