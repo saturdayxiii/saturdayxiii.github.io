@@ -18,7 +18,7 @@ gallery:
   - title: The Tower
     gimage: https://i.postimg.cc/XjnQfCTq/IMG-20200610-2036.jpg
     url: https://i.postimg.cc/hcQ7LJvc/IMG-20200610-203614.jpg
-tags: ['hydroponics', 'garden', 'vertical garden', 'grow tower', 'diy', 'design', 'food']
+tags: ['hydroponics', 'garden', 'vertical garden', 'grow tower', 'diy', 'design', 'food', 'showcase']
 comments: true
 ---
 This is fun, but considering the effort, I didn't really save that much money from just buying a "cheap" vertical garden on Amazon.  Could of saved that energy to learn how to actually take care of plants.  Oh, and next time I'd double the "Y" pipes rather than havind long spacers between them.
