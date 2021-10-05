@@ -33,15 +33,7 @@ tags: ["art", "sketch", "progress", "ink", "practise", "portrait", "marker"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
- />
-        
-Quick week.  Some things feel better, other things feel drastically worse.  Big focus on head shapes, I think.  Seems to mean I lost focus on feature proportions.<br/>
- 
+         
+Quick week.  Some things feel better, other things feel drastically worse.  Big focus on head shapes, I think.  Seems to mean I lost focus on feature proportions.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/647781832275984384</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/647781832275984384](https://saturdayxiii.tumblr.com/post/647781832275984384)</small>

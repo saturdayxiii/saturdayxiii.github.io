@@ -18,10 +18,8 @@ tags: ["gamecube", "nintendo", "art"]
 comments: true
 ---
 
- />
- />
-        
+         
 Aspirations realized.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/150924989914</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/150924989914](https://saturdayxiii.tumblr.com/post/150924989914)</small>

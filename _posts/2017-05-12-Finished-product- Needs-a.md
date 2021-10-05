@@ -27,13 +27,8 @@ tags: ["tarantula", "tank", "cage", "spider", "habitat", "arachnid", "pets", "sh
 comments: true
 ---
 
- />
- />
- />
- />
- />
-        
+         
 Finished product.  Needs a bit of improvement: a couple inches wider, lost some air holes somewhere but accidentally made some unplanned ones elsewhere.  Works out.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/160594157914</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/160594157914](https://saturdayxiii.tumblr.com/post/160594157914)</small>

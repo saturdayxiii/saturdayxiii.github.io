@@ -18,10 +18,8 @@ tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true
 ---
 
- />
- />
-        
+         
 Between the the sheaves.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/152434361519</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/152434361519](https://saturdayxiii.tumblr.com/post/152434361519)</small>

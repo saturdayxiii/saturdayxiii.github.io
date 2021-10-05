@@ -11,7 +11,6 @@ tags: ["microcosm", "death", "life", "ciliate", "show", "recommended"]
 comments: true
 ---
     
-I love the philosophical implications that arise from the study of cellular life.<br/>
- 
+I love the philosophical implications that arise from the study of cellular life.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/635797997038518272</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/635797997038518272](https://saturdayxiii.tumblr.com/post/635797997038518272)</small>

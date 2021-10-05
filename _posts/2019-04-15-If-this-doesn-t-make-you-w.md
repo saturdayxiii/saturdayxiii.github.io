@@ -14,4 +14,4 @@ comments: true
 If this doesn’t make you want to vote, I don’t know what will.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/184204348014</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/184204348014](https://saturdayxiii.tumblr.com/post/184204348014)</small>

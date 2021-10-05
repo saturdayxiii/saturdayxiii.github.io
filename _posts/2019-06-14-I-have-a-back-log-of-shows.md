@@ -10,7 +10,7 @@ link: https://64.media.tumblr.com/f7f165b06f7b97e150503c445bd19241/tumblr_pf0gd2
 tags: ["netflix", "atypical", "show", "recommended"]
 comments: true
 ---
-<figure class="tmblr-full" data-orig-height="222" data-orig-width="500">/>
+<figure class="tmblr-full" data-orig-height="222" data-orig-width="500">
 I have a back log of shows I want to at least give small shout outs to, but I just watched this and had the feels, so I’m sharing them.
 I will always watch things late. I know this show is well old and off the hype train, if there was one.  Heck, that’s the best time for me to watch so I can be unswayed by public opinions.  
 So, I've enjoyed Atypical.  It has an positive balance of feel-goodness and drama, and the recent season closure reinforced that.  The current story wrapped up, and it left a lot of character development open to the future.  That’s the most acceptable kind of cliff hanger.
@@ -21,4 +21,4 @@ In particular to this episode, and maybe it’s because I watched in in isolatio
 But I guess I should trust the writers a little.  Elsa’s affair had the same lack of backing, but its become pretty well established that her character has a petty duality.  The writing strikes me as really sophisticated to have developed her as subtly and consistently as it has.  Maybe I don’t need to judge this as sharply as other shows and perhaps I’ll learn some qualities about these characters that I didn't notice at first.
 Heck, now having worked through some of these thoughts, I have a greater appreciation for the show than I did when I started this post.   Good stuff.
   
-<small>source: https://saturdayxiii.tumblr.com/post/185591786294</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/185591786294](https://saturdayxiii.tumblr.com/post/185591786294)</small>

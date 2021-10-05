@@ -21,11 +21,8 @@ tags: ["evil", "bugs", "red", "horned", "macro", "insect", "photography", "art"]
 comments: true
 ---
 
- />
- />
- />
-        
+         
 I’m not normally one to judge by appearances, but these things are probably evil.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/149754879401</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/149754879401](https://saturdayxiii.tumblr.com/post/149754879401)</small>

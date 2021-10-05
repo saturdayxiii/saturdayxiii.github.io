@@ -15,4 +15,4 @@ Another bit of gold from the radio this morning.
 Music videos always seem to detract from the music, but I feel bad sharing just the music when a video is available.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/163176248664</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/163176248664](https://saturdayxiii.tumblr.com/post/163176248664)</small>

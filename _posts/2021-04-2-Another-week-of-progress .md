@@ -33,15 +33,7 @@ tags: ["art", "sketch", "progress", "ink", "portrait", "marker"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
- />
-        
-Another week of progress.  Kind of peaking, unfortunately.<br/>
- 
+         
+Another week of progress.  Kind of peaking, unfortunately.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/647412041409232896</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/647412041409232896](https://saturdayxiii.tumblr.com/post/647412041409232896)</small>

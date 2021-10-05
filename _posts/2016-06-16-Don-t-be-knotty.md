@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/146020178743.jpg
 tags: ["photo", "bark", "texture", "photography", "art"]
 comments: true
 ---
-
 Don’t be knotty.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/146020178743</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/146020178743](https://saturdayxiii.tumblr.com/post/146020178743)</small>

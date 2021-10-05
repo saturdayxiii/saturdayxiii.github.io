@@ -11,7 +11,7 @@ tags: ["recommended", "ps1", "show"]
 comments: true
 ---
     
-No matter how sick I think I am of watching <a href="https://www.youtube.com/playlist?list=PL8D687CA0AFC4C655" target="_blank">this Lets Play</a> over and over for the past decade; October rolls around and I just can’t help myself.  <br/><br/>At one point I put the audio logs of the back story in chronological order for easy consumption: <a href="https://www.youtube.com/watch?v=-CiwRk7zKQ4" target="_blank">https://www.youtube.com/watch?v=-CiwRk7zKQ4</a>
+No matter how sick I think I am of watching <a href="https://www.youtube.com/playlist?list=PL8D687CA0AFC4C655" target="_blank">this Lets Play</a> over and over for the past decade; October rolls around and I just can’t help myself.  <br<brAt one point I put the audio logs of the back story in chronological order for easy consumption: <a href="https://www.youtube.com/watch?v=-CiwRk7zKQ4" target="_blank">https://www.youtube.com/watch?v=-CiwRk7zKQ4</a>
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/188570842984</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/188570842984](https://saturdayxiii.tumblr.com/post/188570842984)</small>

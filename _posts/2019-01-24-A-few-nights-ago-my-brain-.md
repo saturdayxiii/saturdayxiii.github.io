@@ -36,17 +36,9 @@ tags: ["art", "comic", "dream", "thoughts", "personal"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
- />
- />
-        
+         
 A few nights ago my brain treated me to a trailer for a fictional tv show.  I’ve attempted to capture it here without putting extensive effort into it.  Note where all fucks stopped being given about this silly project.
 Also it’s really hard to find stock footage of people with legs visible beneath a table.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182284146754</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182284146754](https://saturdayxiii.tumblr.com/post/182284146754)</small>

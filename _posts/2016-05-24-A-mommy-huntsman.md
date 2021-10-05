@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/144865619215.jpg
 tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography", "art"]
 comments: true
 ---
-
 A mommy huntsman!
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/144865619215</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/144865619215](https://saturdayxiii.tumblr.com/post/144865619215)</small>

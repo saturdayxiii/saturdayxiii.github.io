@@ -15,7 +15,7 @@ for file in directory:
     print (file)
     #linkback to source
     iden = file[:-5]
-    source = "<small>source: https://saturdayxiii.tumblr.com/post/" + iden + "</small>"
+    source = "<small>source: [https://saturdayxiii.tumblr.com/post/" + iden + "](https://saturdayxiii.tumblr.com/post/" + iden + ")</small>"
     #now edit file
     #open_file = open(file,'r')#easy way, but
     with io.open(file,'r',encoding='utf8') as open_file:
@@ -217,7 +217,7 @@ for file in directory:
     newlines = ["<p></p>", "<p>", "</p>", "\n\s*\n", "\n\n\n", "\n\n"]
     for new in newlines:
         read_file = re.sub(new, '\n', read_file)
-    erases = ['<div>', '</div>', '##  ##', '          ', '</figure>', '</iframe>', '</embed>']
+    erases = ['/>\n', '<div>', '</div>', '##  ##\n', '##  ##', '          ', '</figure>', '</iframe>', '</embed>']
     for erase in erases:
         read_file = re.sub(erase, '', read_file)
     codebit = re.compile('<div class=".*?">')

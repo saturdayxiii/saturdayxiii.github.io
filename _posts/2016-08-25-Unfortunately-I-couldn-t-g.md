@@ -21,13 +21,8 @@ tags: ["spider", "arachnid", "macro", "web", "photography", "art"]
 comments: true
 ---
 
- />
- />
- />
-        
+         
 Unfortunately I couldn’t get the focus to cooperate.
-<br/>
-<a href="https://en.wikipedia.org/wiki/Araneus_diadematus" target="_blank">https://en.wikipedia.org/wiki/Araneus_diadematus</a><br/>
- 
+<br<a href="https://en.wikipedia.org/wiki/Araneus_diadematus" target="_blank">https://en.wikipedia.org/wiki/Araneus_diadematus</a><br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/149470001853</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/149470001853](https://saturdayxiii.tumblr.com/post/149470001853)</small>

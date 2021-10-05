@@ -16,4 +16,4 @@ Nario recently announced that he was going to get back into music.  Then, what,
 I love his layered progressions and soaring melodies.  It’s a special treat if you ever get to see him share his music via webcam.  He’s into it and his body cues let you know the important parts.  There’s always another layer, and the more you hear; the more you see; the deeper you go.  Which reminds me, I have yet to read his album notes.  Always another layer.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/184117379709</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/184117379709](https://saturdayxiii.tumblr.com/post/184117379709)</small>

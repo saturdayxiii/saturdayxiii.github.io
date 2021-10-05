@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/159536973094.jpg
 tags: ["cage", "design", "tarantula", "arachnid", "care", "habitat", "acrylic"]
 comments: true
 ---
-
 A new setup for Ashley, hopefully.  The only way to test it is to build it.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/159536973094</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/159536973094](https://saturdayxiii.tumblr.com/post/159536973094)</small>

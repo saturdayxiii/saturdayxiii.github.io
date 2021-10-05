@@ -10,7 +10,6 @@ link: https://saturdayxiii.github.io/media/181881333409.png
 tags: ["rant", "review", "opinion", "anime", "tv", "art"]
 comments: true
 ---
-
 The cute characters, shiny art, and exploration premise drew me into watching Made in Abyss season one; I have no other experience with this title.
 I understand that it’s a pretty well loved show.  I can see why, but after having watched it I don’t understand why.  If I wasn’t aware of its popularity I’d tell the uninitiated that it’s a pretty show, but definitely not a “must see”.  However, knowing that it’s considered the “best anime of 2017″ makes me want to recommend… that people pay attention to how bad it is.  The fact that shows like this are considered the “best” is why I rarely watch anime anymore.  Made in Abyss definitely contributes to my list of reasons to not like anime.
 I will grant that the artwork, music, and premise are fantastic, but these three things do not a complete anime make.  It’s possible that the manga could be phenomenal, and the premise is strong enough that I’d be interested in reading it, but I’m talking about the anime here because that’s what my media circles share with me.  I’ve repeatedly heard the show described as “fantastic”, but the one word review I’d give it is “gross”.
@@ -25,4 +24,4 @@ The only real story is in the last episode, the “one hour special”, and it h
 So why is show with no story, being praised as the best anime of 2017?  Was it (another) bad year for anime?  Why are people whole heartedly recommending a show without mentioning that it goes no where, and children are regularly brutalized and assaulted?  Recommending this show without context is the same as recommending Ebichu the hamster without mentioning that it’s nothing like Hamtaro.  Not that I’d recommend either of those, but I think you know what I’m saying.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/181881333409</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/181881333409](https://saturdayxiii.tumblr.com/post/181881333409)</small>

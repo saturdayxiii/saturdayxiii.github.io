@@ -27,13 +27,8 @@ tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", 
 comments: true
 ---
 
- />
- />
- />
- />
- />
-        
+         
 Look!  It’s PokePark on the Wii!
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/135414361959</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/135414361959](https://saturdayxiii.tumblr.com/post/135414361959)</small>

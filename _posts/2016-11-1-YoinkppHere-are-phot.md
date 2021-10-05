@@ -21,6 +21,6 @@ comments: true
     
 Yoink.
 Here are photos, because they do not compete with video:
-<figure data-orig-width="3612" data-orig-height="2681" class="tmblr-full">/> 
+<figure data-orig-width="3612" data-orig-height="2681" class="tmblr-full"> 
   
-<small>source: https://saturdayxiii.tumblr.com/post/152610129574</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/152610129574](https://saturdayxiii.tumblr.com/post/152610129574)</small>

@@ -24,13 +24,9 @@ tags: ["trampoline", "music", "recommended", "concert"]
 comments: true
 ---
 
- />
- />
- />
- />
-        
+         
 <a href="https://trampolinesounds.bandcamp.com" target="_blank">Trampoline</a> drove for days to put on a show at the Aviary in Edmonton last night.  I felt poorly about having to drive 10 minutes after dark.
 They still made it worth my while.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/185116082294</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/185116082294](https://saturdayxiii.tumblr.com/post/185116082294)</small>

@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/144915373212.jpg
 tags: ["illustration", "car", "werewolf", "vampire", "drawing", "ink", "art"]
 comments: true
 ---
-
 Werewolf, bugman, vampire&hellip; original characters, really?
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/144915373212</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/144915373212](https://saturdayxiii.tumblr.com/post/144915373212)</small>

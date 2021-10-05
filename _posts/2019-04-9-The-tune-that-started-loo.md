@@ -15,4 +15,4 @@ The tune that started looping in my head, seemingly from out of nowhere, today?
 Secret of Mana, Together Always
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/184062691789</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/184062691789](https://saturdayxiii.tumblr.com/post/184062691789)</small>

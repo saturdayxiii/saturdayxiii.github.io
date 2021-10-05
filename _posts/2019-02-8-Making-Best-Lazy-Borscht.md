@@ -18,10 +18,8 @@ tags: ["edible", "borscht", "food"]
 comments: true
 ---
 
- />
- />
-        
+         
 Making Best Lazy Borscht.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182664450609</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182664450609](https://saturdayxiii.tumblr.com/post/182664450609)</small>

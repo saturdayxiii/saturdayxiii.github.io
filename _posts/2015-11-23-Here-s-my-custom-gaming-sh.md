@@ -27,23 +27,18 @@ tags: ["game", "design", "gamer", "console", "nintendo", "sony", "organization",
 comments: true
 ---
 
- />
-' .Couple trays unfinished, but you get the idea.  . 
+ ' .Couple trays unfinished, but you get the idea.  . 
 ;
- />
-' .Made of these modules.  . 
+ ' .Made of these modules.  . 
 ;
- />
-' .Fits all major consoles!  . 
+ ' .Fits all major consoles!  . 
 ;
- />
-' .Controller rests!  . 
+ ' .Controller rests!  . 
 ;
- />
-' .The original design.  . 
+ ' .The original design.  . 
 ;
         
 Here’s my custom gaming shelf that I designed to meet my needs.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/133814245004</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/133814245004](https://saturdayxiii.tumblr.com/post/133814245004)</small>

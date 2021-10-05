@@ -12,6 +12,6 @@ comments: true
 ---
     
 An intriguing look at the layers and layers of puzzles that Jonathon Blow developed for his game The Witness; a game that needs to be talked about more often.
-<figure class="tmblr-full" data-orig-height="325" data-orig-width="500">/> 
+<figure class="tmblr-full" data-orig-height="325" data-orig-width="500"> 
   
-<small>source: https://saturdayxiii.tumblr.com/post/182094690114</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182094690114](https://saturdayxiii.tumblr.com/post/182094690114)</small>

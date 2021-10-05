@@ -33,15 +33,8 @@ tags: ["art", "customizing", "ps2", "showcase"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
- />
-        
+         
 A short tour of the painting process of the <a href="http://heavyhanded.ca/post/181056446837/ps2-case-mod-artwork-of-sly-cooper-templated" target="_blank">Sly Cooper PS2.</a>
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182065813689</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182065813689](https://saturdayxiii.tumblr.com/post/182065813689)</small>

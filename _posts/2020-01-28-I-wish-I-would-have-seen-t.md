@@ -11,7 +11,6 @@ tags: ["recommended", "youtube", "show"]
 comments: true
 ---
     
-I wish I would have seen this when anti-fa were hot topic.  Still lots of great information for a wide variety for political topics.<br/>
- 
+I wish I would have seen this when anti-fa were hot topic.  Still lots of great information for a wide variety for political topics.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/190525016499</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/190525016499](https://saturdayxiii.tumblr.com/post/190525016499)</small>

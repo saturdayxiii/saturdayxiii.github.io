@@ -30,14 +30,8 @@ tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "su
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
-        
+         
 These snugglie wormies will be out in full force next week or so in the Edmonton river valley.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/145827456504</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/145827456504](https://saturdayxiii.tumblr.com/post/145827456504)</small>

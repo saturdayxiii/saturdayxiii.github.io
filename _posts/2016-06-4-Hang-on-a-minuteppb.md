@@ -10,10 +10,7 @@ link: https://saturdayxiii.github.io/media/145412487706.jpg
 tags: ["photo", "moth", "insect", "photography", "art"]
 comments: true
 ---
-
 Hang on a minute.
-<br/>
-<a href="https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth" target="_blank">https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth</a><br/>
- 
+<br<a href="https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth" target="_blank">https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth</a><br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/145412487706</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/145412487706](https://saturdayxiii.tumblr.com/post/145412487706)</small>

@@ -10,10 +10,9 @@ link: https://saturdayxiii.github.io/media/136184969694.jpg
 tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
 comments: true
 ---
-
 Consoles for games that don’t exist.
 Bat Hunt: <a href="https://www.youtube.com/watch?v=ntmhiRqTM_M" target="_blank">https://www.youtube.com/watch?v=ntmhiRqTM_M</a>
 Carbarian: <a href="https://www.youtube.com/watch?v=_IAVUzjXgZg" target="_blank">https://www.youtube.com/watch?v=_IAVUzjXgZg</a>
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/136184969694</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/136184969694](https://saturdayxiii.tumblr.com/post/136184969694)</small>

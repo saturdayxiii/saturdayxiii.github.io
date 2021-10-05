@@ -14,4 +14,4 @@ comments: true
 Possibly my favorite piece of vgm ever.  The samples are so tight, and the rhythms sound so juxtapositioned yet thematically perfect.  I can never get over it.  Those 8 minutes fly by in a blink.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182429048257</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182429048257](https://saturdayxiii.tumblr.com/post/182429048257)</small>

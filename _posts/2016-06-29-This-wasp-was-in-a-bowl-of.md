@@ -11,8 +11,8 @@ tags: ["wasp", "insect", "bug", "macro", "cute", "photography", "art"]
 comments: true
 ---
     
-*music ends abruptly*<br/>Planet Boelex - Seadreamers<br/><a href="https://planetboelex.bandcamp.com/track/seadreamers" target="_blank">https://planetboelex.bandcamp.com/track/seadreamers</a>
+*music ends abruptly*<brPlanet Boelex - Seadreamers<br<a href="https://planetboelex.bandcamp.com/track/seadreamers" target="_blank">https://planetboelex.bandcamp.com/track/seadreamers</a>
 This wasp was in a bowl of water.  Now he's trying very hard to get dry.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/146663347297</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/146663347297](https://saturdayxiii.tumblr.com/post/146663347297)</small>

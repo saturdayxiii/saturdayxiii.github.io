@@ -31,17 +31,17 @@ comments: true
 ---
 ## Further topicless ramblings about select cartoons [journal] ##
 On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre.  So this is a follow up post to the one I’ve made in reaction to <a href="http://saturdayxiii.tumblr.com/post/151944972574/laputa-and-self-reflection-regarding-anime" target="_blank">Laputa: Castle in the Sky</a>.  I also thought it would be fun to attempt drawing in the dark theatre as the movie played.  So enjoy my renditions of certain “key” scenes.
-<figure data-orig-width="2841" data-orig-height="3958" class="tmblr-full">/>
+<figure data-orig-width="2841" data-orig-height="3958" class="tmblr-full">
 In true waffling fashion, as soon as I posted my laments towards being unable to enjoy anime I have found myself enjoying old anime.  Neon Genesis Evangelion has kept me entertained the last couple weeks, and I’m fairly eager to try rewatching Mars Daybreak, Mai Hime, and some others.  I’m thinking it will be Trigun, or Hunter X Hunter 2011, which tells me whether or not I’m truly a hypocrite.  Those first few episodes were brutal the last time I rewatched them, and honestly they still don’t look entirely appealing.
-<figure class="tmblr-full" data-orig-height="3719" data-orig-width="2184">/>
+<figure class="tmblr-full" data-orig-height="3719" data-orig-width="2184">
 With such fluctuation in my anhedonia condition, it’s no surprise that I enjoyed Nausicaa, but that isn’t a surprise either way.  The question was: what is it about Miyazaki movies that make them enjoyable to watch, despite my sensitivity to tropes and repeat material.  With now having watched the majority of the Miyazaki collection, I don’t feel that I am much closer to an answer.  
-<figure class="tmblr-full" data-orig-height="3628" data-orig-width="2285">/>
+<figure class="tmblr-full" data-orig-height="3628" data-orig-width="2285">
 I’m honestly surprised that I don’t see more complaints about how similar these movies are to one another, Nausicaa may as well be known as Proto-mononokehime, and yet I can sense why there aren’t such complaints.  Or at least none that I know of, not having specifically looked for them.  
-<figure class="tmblr-full" data-orig-height="2877" data-orig-width="2132">/>
+<figure class="tmblr-full" data-orig-height="2877" data-orig-width="2132">
 From what I understand Nausicaa is the first true Miyazaki movie, and it is exactly what any aspiring fantasy writer/artist would hope for in their first feature film adaption.  Every Miyazaki movie has this base; a rich, intriguing world to hold its characters.  10 minutes in to Nausicaa and I thought it was going to be among my favorites, but once the background info was dealt with and the characters needed to go through the motions of finishing their little drama, I changed my mind.  From Laputa, to Mononoke, to Spirited Away, every movie’s world comes across a little bit deeper and the story is presented a bit more tactical.  I don’t mind seeing another, even though I know I’ve seen the basic elements that typically make up a Miyazaki film.
-<figure class="tmblr-full" data-orig-height="3653" data-orig-width="2543">/>
+<figure class="tmblr-full" data-orig-height="3653" data-orig-width="2543">
 Oh, hey, wouldn’t you know that another movie is in the works!  Well, okay.  I’m not tremendously excited like some people, but it’s a far cry from how I’m rolling my eyeballs at the new live action Full Metal Alchemist trailers.  I get it.  It didn’t take many live action Japanese adaptations before I felt like I wasn’t going to see anything new.  I’m not surprised, I’m not impressed, I’m not invested, I’m not curious.  Another Miyazaki movie, however?  It could be alright.
-<figure class="tmblr-full" data-orig-height="1190" data-orig-width="2711">/>
+<figure class="tmblr-full" data-orig-height="1190" data-orig-width="2711">
 Maybe I’m just spoilt.
   
-<small>source: https://saturdayxiii.tumblr.com/post/153276318489</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/153276318489](https://saturdayxiii.tumblr.com/post/153276318489)</small>

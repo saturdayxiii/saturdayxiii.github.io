@@ -15,4 +15,4 @@ I’m am generally turned off by popular opinion, and yet the broad-scope of my 
 I showed up for the Little Mermaid bait, I meandered for the dissection of “Christian Exploitation” films, I think I’ll stick around for everything else.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/184717321736</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/184717321736](https://saturdayxiii.tumblr.com/post/184717321736)</small>

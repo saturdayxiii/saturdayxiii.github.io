@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/145013674071.jpg
 tags: ["photo", "reptile", "snake", "pets", "photography", "art"]
 comments: true
 ---
-
 Such a sharp snake!
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/145013674071</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/145013674071](https://saturdayxiii.tumblr.com/post/145013674071)</small>

@@ -10,9 +10,7 @@ link: https://saturdayxiii.github.io/media/165936346764.jpg
 tags: ["brainstorm", "levels", "downhill"]
 comments: true
 ---
-
-I want to make a snowboard kids knock off.  so I’m just stashing some ideas here for later use.  Tagging: Downhill…something… need a more descriptive project title.<br/>
-Level idea: Rail sliding in Chittogarh?
+I want to make a snowboard kids knock off.  so I’m just stashing some ideas here for later use.  Tagging: Downhill…something… need a more descriptive project title.<brLevel idea: Rail sliding in Chittogarh?
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/165936346764</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/165936346764](https://saturdayxiii.tumblr.com/post/165936346764)</small>

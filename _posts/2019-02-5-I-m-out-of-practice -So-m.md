@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/182589004919.png
 tags: ["design", "sketchup"]
 comments: true
 ---
-
 I’m out of practice.  So many revisions for a simple box.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182589004919</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182589004919](https://saturdayxiii.tumblr.com/post/182589004919)</small>

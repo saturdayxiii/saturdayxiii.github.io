@@ -24,4 +24,4 @@ Clearly this wouldn’t work for many stats based achievements, but any achievem
 You might be thinking “But anyone can upload a video, if you’re going to be that lax about it, why not just mark off a public checklist”.  You’re essentially right.  If there’s a cheevie service that gives me acknowledgment just at my word, I’m down with that.  However, there still is legitimacy to uploading footage, after all, the speed running community does exactly this.  Some community scrutiny is required, and some cheaters do get through the system, but as previously declared: this will always be the case.
 There’s my long spiel for two rather mundane ideas.  There’s probably legitimate reasons why I’ve never heard anyone mention either before.  But I’m putting it out there.  Whether or not someone reads through this schlock or not, that’s a different matter.
   
-<small>source: https://saturdayxiii.tumblr.com/post/185247441974</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/185247441974](https://saturdayxiii.tumblr.com/post/185247441974)</small>

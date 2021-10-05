@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/151441183214.png
 tags: ["pixel", "digital", "art", "showcase"]
 comments: true
 ---
-
 Pixelized a friend’s profile photo.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/151441183214</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/151441183214](https://saturdayxiii.tumblr.com/post/151441183214)</small>

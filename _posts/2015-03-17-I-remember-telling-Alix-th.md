@@ -18,10 +18,8 @@ tags: ["art", "mod", "paint", "case", "neon"]
 comments: true
 ---
 
- />
- />
-        
+         
 I remember telling Alix that the face on my phone case wasn't a self portrait.  Now. I think. I can only describe it as a self portrait.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/185573413369</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/185573413369](https://saturdayxiii.tumblr.com/post/185573413369)</small>

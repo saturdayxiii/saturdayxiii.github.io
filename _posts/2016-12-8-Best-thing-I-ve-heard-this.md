@@ -11,7 +11,7 @@ tags: ["experimental", "winnipeg", "avante", "indie", "punk", "eccentric", "pop"
 comments: true
 ---
 
-Best thing I’ve heard this week.<br/><br/>(oh, it’s gone now.  It was a track suddenly erased from <a href="https://trampolinesounds.bandcamp.com/album/sometimes-a-song-is-just-a-cigar-ep-2016" target="_blank">this album</a>
+Best thing I’ve heard this week.<br<br(oh, it’s gone now.  It was a track suddenly erased from <a href="https://trampolinesounds.bandcamp.com/album/sometimes-a-song-is-just-a-cigar-ep-2016" target="_blank">this album</a>
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/154208728424</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/154208728424](https://saturdayxiii.tumblr.com/post/154208728424)</small>

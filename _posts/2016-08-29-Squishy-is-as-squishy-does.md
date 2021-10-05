@@ -14,4 +14,4 @@ comments: true
 Squishy is as squishy does.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/149659541212</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/149659541212](https://saturdayxiii.tumblr.com/post/149659541212)</small>

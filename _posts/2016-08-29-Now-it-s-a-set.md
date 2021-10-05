@@ -21,11 +21,8 @@ tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography", "art"]
 comments: true
 ---
 
- />
- />
- />
-        
+         
 Now it’s a set!
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/149662527124</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/149662527124](https://saturdayxiii.tumblr.com/post/149662527124)</small>

@@ -14,4 +14,4 @@ comments: true
 I know I’m behind the times with these.  Buzzfeed branding makes me apprehensive.  But this series is fantastic and can’t possibly be not binge-watched.  The word play and the narrators reactions to the footage are enamoring.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182401763029</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182401763029](https://saturdayxiii.tumblr.com/post/182401763029)</small>

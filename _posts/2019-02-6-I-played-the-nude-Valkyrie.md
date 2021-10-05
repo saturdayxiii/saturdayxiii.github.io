@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/182623849724.jpg
 tags: ["Game", "beercade", "yeg"]
 comments: true
 ---
-
 I played the nude Valkyrie.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182623849724</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182623849724](https://saturdayxiii.tumblr.com/post/182623849724)</small>

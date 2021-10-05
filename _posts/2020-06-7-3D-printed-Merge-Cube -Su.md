@@ -10,8 +10,6 @@ link: https://saturdayxiii.github.io/media/620327675644592128.png
 tags: [""]
 comments: true
 ---
-
-3D printed Merge Cube.  Super happy that turned out.<br/>
- 
+3D printed Merge Cube.  Super happy that turned out.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/620327675644592128</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/620327675644592128](https://saturdayxiii.tumblr.com/post/620327675644592128)</small>

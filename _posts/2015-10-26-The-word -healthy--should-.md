@@ -10,7 +10,6 @@ link:
 tags: ["truth", "turth", "Thoughts", "personal"]
 comments: true
 ---
-
 The word “healthy” should just be replaced with “won’t kill you quite as fast.”
   
-<small>source: https://saturdayxiii.tumblr.com/post/131962689709</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/131962689709](https://saturdayxiii.tumblr.com/post/131962689709)</small>

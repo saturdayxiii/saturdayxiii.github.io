@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/145516013259.jpg
 tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 comments: true
 ---
-
 Maybe someday.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/145516013259</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/145516013259](https://saturdayxiii.tumblr.com/post/145516013259)</small>

@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/182613913184.jpg
 tags: ["nintendo", "rbg", "showcase"]
 comments: true
 ---
-
 The N64′s anti-aliasing makes it the least satisfying console to add RBG capabilities to.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182613913184</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182613913184](https://saturdayxiii.tumblr.com/post/182613913184)</small>

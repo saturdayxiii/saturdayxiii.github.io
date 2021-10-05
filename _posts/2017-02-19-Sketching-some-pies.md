@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/157453831474.jpg
 tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 comments: true
 ---
-
 Sketching some pies.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/157453831474</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/157453831474](https://saturdayxiii.tumblr.com/post/157453831474)</small>

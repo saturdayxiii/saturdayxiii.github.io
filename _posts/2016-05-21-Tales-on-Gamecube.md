@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/144710201771.jpg
 tags: ["photography", "photo", "painting", "gamecube", "nintendo", "symphonia", "mod", "art", "game", "showcase", "art"]
 comments: true
 ---
-
 Tales on Gamecube.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/144710201771</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/144710201771](https://saturdayxiii.tumblr.com/post/144710201771)</small>

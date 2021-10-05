@@ -10,8 +10,7 @@ link: https://saturdayxiii.github.io/media/144101661784.gif
 tags: ["tarantula", "spider", "cute", "eyes", "macro", "gif", "photography", "art"]
 comments: true
 ---
-
 That Ashley.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/144101661784</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/144101661784](https://saturdayxiii.tumblr.com/post/144101661784)</small>

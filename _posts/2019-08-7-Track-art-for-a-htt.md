@@ -36,16 +36,8 @@ tags: ["art", "covers", "pixel", "retro"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
- />
- />
-        
+         
 Track art for <a href="https://saturdayxiii.bandcamp.com/album/low-bit-adventure" target="_blank">Low Bit Adventure</a>
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/186843420859</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/186843420859](https://saturdayxiii.tumblr.com/post/186843420859)</small>

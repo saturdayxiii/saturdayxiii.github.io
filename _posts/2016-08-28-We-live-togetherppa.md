@@ -24,13 +24,8 @@ tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
 comments: true
 ---
 
- />
- />
- />
- />
-        
+         
 We live together.
-<a href="https://en.wikipedia.org/wiki/Plecoptera" target="_blank">https://en.wikipedia.org/wiki/Plecoptera</a><br/>
- 
+<a href="https://en.wikipedia.org/wiki/Plecoptera" target="_blank">https://en.wikipedia.org/wiki/Plecoptera</a><br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/149610653063</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/149610653063](https://saturdayxiii.tumblr.com/post/149610653063)</small>

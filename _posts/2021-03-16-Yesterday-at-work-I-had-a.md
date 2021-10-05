@@ -30,13 +30,7 @@ tags: ["art", "thoughts", "sketches", "portrait", "sketch", "ink", "personal"]
 comments: true
 ---
 
- />
- />
- />
- />
- />
- />
-        
+         
 Yesterday at work, I had an inspiration to do a quick portrait from a photo reference, so I did.  I used a black, fat, chisel marker on a panel of cardboard and it took about 5 minutes.  The results weren’t great, but if you looked at the reference I think you could tell what I was going for.  I was encouraged by this.  I love the idea of being able to do portraits or capture images in the moment and bust out  a recreation in a few minutes.  So I decided to do some more practicing when I got home that evening.
 Why did it go so horribly?
 These pictures are my practice and while the one I half-assed at work wasn’t great, these ones are off the chart bad.  I don’t know what exactly I need to fix in my approach to even get on the right path, but needed to post my thoughts about the experience.  Maybe in hopes that that will be the trigger that helps me get better and leave these scraps behind, even though I don’t know how to improve even if I could be confident that I’d properly assessed my weaknesses.  I mean, that’s why I did these sketches, because I thought I knew what areas to focus on, and it took me a huge step backwards.
@@ -49,7 +43,6 @@ Here’s my individual notes:
 5.  So I bailed on pre mapping and went the n00b route of starting with individual features.  Of course the eyes are where I feel most comfortable. I probably am most happy with this portrait, but it’s such a step back from every tutorial that I’ve been getting help from these days.  I wish this was my starting point of my drawing exercise.  I might be able to continue from this approach, but I need to get comfortable with a better starting point as this brings the usual issue of not being able to keep my drawing on the page. I know Davinci started with the ear, but that’s a little too around the bend for me. Maybe I can try starting from the cheek to the forehead or something to help me work on features while still having a better overview of my total size&hellip; maybe.
 6.  This one is wrong, but like the last one it doesn’t upset me.  It was especially frustrating as I had the hair framing the face, then in full awareness but no ability to stop I watched myself draw the right eye too close to the hair, then the left eye too far away, despite having some pretty easy markers to work with.  Speaking of markers, I switched to a traditional sharpie pen for this one.  I had been using a dip pen.  I think I need to hunt down a chisel tip marker like at work as that seems to be best of both worlds.  Especially as my medium at work was pretty large, maybe about the size of legal paper, while everything I worked with at home was no larger than 6 inches.
 Hopefully this word vomit cleanses me, or something.  Though why would it?  I don’t think my art has improved for the last 15 years.  I have a couple helpful techniques for digital art, but nothing that applies in this exercise.  I can’t even pin point anything I did right in these sketches.  Like, nothing that’s says “that’s good, keep doing that.”  It’s just, throw it all away and start at square zero again.  At least I got some new teases, like, maybe try a chisel marker on a full canvas, find a way to fake a sketch that will let me test proportions before final lines, and looking at the thumbnails of my work is even helping me pick out better shapes in my subjects that I wish I noticed the first time.
-*sigh*, maybe at some decade in my life I’ll be able to do consistent work of an adequate quality, or at least perhaps the false hope will keep me from falling into complete anhedonia.  Maybe.<br/>
- 
+*sigh*, maybe at some decade in my life I’ll be able to do consistent work of an adequate quality, or at least perhaps the false hope will keep me from falling into complete anhedonia.  Maybe.<br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/645836584988590080</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/645836584988590080](https://saturdayxiii.tumblr.com/post/645836584988590080)</small>

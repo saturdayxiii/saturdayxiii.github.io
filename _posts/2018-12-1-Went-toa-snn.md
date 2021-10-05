@@ -18,11 +18,9 @@ tags: ["concert", "music"]
 comments: true
 ---
 
- />
- />
-        
+         
 Went to<a href="https://nnedmonton.bandcamp.com" target="_blank"> NN</a>’s final show.  It was great.  Not sure if I’ve ever gotten “in to it” so hard at a concert before.  Probably was because of the great company of my best friend and my girlfriend.  
 NN hadn’t changed at all since my girlfriend and I saw them while on our first concert date (excluding the concert we decided to start dating at).  She doesn't remember them.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/181058091284</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/181058091284](https://saturdayxiii.tumblr.com/post/181058091284)</small>

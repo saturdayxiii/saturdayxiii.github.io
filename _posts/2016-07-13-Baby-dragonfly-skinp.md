@@ -10,9 +10,8 @@ link: https://saturdayxiii.github.io/media/147350957170.jpg
 tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography", "art"]
 comments: true
 ---
-
 Baby dragonfly skin!
 *Drastically overcompensates for the lack of focus*
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/147350957170</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/147350957170](https://saturdayxiii.tumblr.com/post/147350957170)</small>

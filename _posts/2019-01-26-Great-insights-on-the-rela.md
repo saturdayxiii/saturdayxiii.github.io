@@ -16,4 +16,4 @@ For the record, I don't mind Uwe's movies, and I like a lot of the ideas he has,
 Double also: while drivel, there's a lot to like about the inaccurate Resident Evil adaptations.  Especially when compared to their animated counter parts.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/182330559299</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/182330559299](https://saturdayxiii.tumblr.com/post/182330559299)</small>

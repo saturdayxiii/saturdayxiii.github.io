@@ -10,7 +10,6 @@ link: https://saturdayxiii.github.io/media/165301193429.jpg
 tags: ["sweetie", "painting", "edmonton", "art", "showcase"]
 comments: true
 ---
-
 I don’t think I’ve painted in a looong time.
  
   <div id="footer">
@@ -27,4 +26,4 @@ I don’t think I’ve painted in a looong time.
   </body>
         </html>
 
-<small>source: https://saturdayxiii.tumblr.com/post/165301193429</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/165301193429](https://saturdayxiii.tumblr.com/post/165301193429)</small>

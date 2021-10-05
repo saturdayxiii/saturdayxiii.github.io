@@ -24,12 +24,8 @@ tags: ["insect", "wasp", "macro", "flower", "garden", "tiny", "pollen", "photogr
 comments: true
 ---
 
- />
- />
- />
- />
-        
+         
 I love pollen boots!
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/146551152379</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/146551152379](https://saturdayxiii.tumblr.com/post/146551152379)</small>

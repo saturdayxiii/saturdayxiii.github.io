@@ -18,11 +18,8 @@ tags: ["insect", "bug", "macro", "tiny", "beetle", "photography", "art"]
 comments: true
 ---
 
- />
- />
-        
+         
 Scout.
-<a href="http://bugguide.net/node/view/50621" target="_blank">http://bugguide.net/node/view/50621</a><br/>
- 
+<a href="http://bugguide.net/node/view/50621" target="_blank">http://bugguide.net/node/view/50621</a><br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/146603521059</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/146603521059](https://saturdayxiii.tumblr.com/post/146603521059)</small>

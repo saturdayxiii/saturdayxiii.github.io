@@ -16,4 +16,4 @@ It’s definitely an interesting experience 
 feeling through the clunky hit boxes for myself 10 years later, and finding little details that I didn’t pay attention to in the Let’s Play.  Plus, after watching a pivotal scene play out so many times, those progress achievements feel pretty sweet.
  
   
-<small>source: https://saturdayxiii.tumblr.com/post/185435894049</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/185435894049](https://saturdayxiii.tumblr.com/post/185435894049)</small>

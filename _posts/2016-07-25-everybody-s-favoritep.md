@@ -21,12 +21,8 @@ tags: ["spider", "arachnid", "macro", "photography", "art"]
 comments: true
 ---
 
- />
- />
- />
-        
+         
 everybody’s favorite
-<a href="https://en.wikipedia.org/wiki/Zebra_spider" target="_blank">https://en.wikipedia.org/wiki/Zebra_spider</a><br/>
- 
+<a href="https://en.wikipedia.org/wiki/Zebra_spider" target="_blank">https://en.wikipedia.org/wiki/Zebra_spider</a><br 
   
-<small>source: https://saturdayxiii.tumblr.com/post/147948519604</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/147948519604](https://saturdayxiii.tumblr.com/post/147948519604)</small>
