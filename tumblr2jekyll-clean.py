@@ -250,14 +250,6 @@ for file in directory:
     andyet = ['\s*<p>\s*']
     for yet in andyet:
         read_file = re.sub(yet,'',read_file)
-    '''
-    #get title
-    if not h1:
-        titlelong = re.findall('<p>(\w.{0,25}).*?<', read_file)
-        titlelong.append('')
-        titleless = titlelong[0]
-        title = ''.join(titleless)
-    '''
 
     #find and flag instagram posts
     #print(re.search('instagram.com', read_file)) DONE WITH THAT
@@ -273,18 +265,18 @@ for file in directory:
         if char not in punc:
             no_punc = no_punc + char
     no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
-    no_punc = re.sub('p$','',no_punc)
-    no_punc = re.sub('p $','',no_punc)
-    no_punc = re.sub('http','',no_punc)
-    no_punc = re.sub('href','',no_punc)
-    no_punc = re.sub('thumbnail','',no_punc)
+    noneofthis = ['p\s*$', 'http','href','thumbnail']
+    for this in noneofthis:
+        no_punc = re.sub('this','',no_punc)
     no_punc = (no_punc[:30])
-    no_punc = re.sub(r'\s+\w$','',no_punc)
+    orthis = ['p\s+$','\s+\w$']
+    for this in orthis:
+        no_punc = re.sub(this,'',no_punc)
     if no_punc == '':
         no_punc = "NT"
     date += no_punc
-    date = re.sub('  ','-',date)
-    date = re.sub(" ","-",date)
+    date = re.sub('\s+','-',date)
+    #date = re.sub(" ","-",date)
     print (date)
     #date is now title I guess
     

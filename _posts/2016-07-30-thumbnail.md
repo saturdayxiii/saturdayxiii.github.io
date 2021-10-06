@@ -1,0 +1,14 @@
+---
+layout: post
+title: "thumbnail"
+type: art
+timestamp: July 30th, 2016 12:00pm
+audio: 
+video: 
+image: http://i3.ytimg.com/vi/F1OCxK_UejQ/hqdefault.jpg
+link: https://www.youtube.com/watch?v=F1OCxK_UejQ
+tags: ["dragonfly", "insect", "bug", "photography", "art"]
+comments: true
+---
+[![thumbnail](http://i3.ytimg.com/vi/F1OCxK_UejQ/hqdefault.jpg)](https://www.youtube.com/watch?v=F1OCxK_UejQ)
+<small>source: [https://saturdayxiii.tumblr.com/post/148205992976](https://saturdayxiii.tumblr.com/post/148205992976)</small>

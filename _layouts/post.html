@@ -10,7 +10,7 @@ layout: default
 {% endif %}
 
 <article>
-  <div style="border: 2px solid transparent;{% if page.type == "tainment" %} border-image: linear-gradient(to bottom, #9c55ed, black);{% elsif page.type == "art" %} border-image: linear-gradient(to bottom, #fc83b2, black);{% elsif page.type == "snd" %} border-image: linear-gradient(to bottom, #ff9359, black);{% elsif page.type == "me" %} border-image: linear-gradient(to bottom, cyan, black);{% elsif page.type == "food" %} border-image: linear-gradient(to bottom, #fff39c, black);{% else %} border-image: linear-gradient(to bottom, white, black);{% endif %} border-image-slice: 1; padding: 10px;">
+  <div style="border: 2px solid transparent;{% include border-colors-page.html %} border-image-slice: 1; padding: 10px;">
     <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
       {% for tag in page.tags %}
         {% assign tag_slug = tag | slugify: "raw" %}

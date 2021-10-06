@@ -17,4 +17,4 @@ This movie version is also good.
 
 Neither is complete though.  100% playthroughs are not possible, and it's a shame to miss any of it.
   
-<small>source: https://saturdayxiii.tumblr.com/post/648191989641347072</small>
+<small>source: [https://saturdayxiii.tumblr.com/post/648191989641347072](https://saturdayxiii.tumblr.com/post/648191989641347072)</small>
