@@ -3,7 +3,7 @@ layout: default
 ---
 <style>
     .grid-container {display: inline-grid; grid-template-columns: auto auto auto auto auto;}
-    .image-gallery {overflow: clip; margin: 1px 0 1px -1%!important; border: 1px solid transparent;{% include border-colors-post.html %};}
+
     .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; text-decoration: none !important;}
     .image-gallery a img {width: 100%; display: block; text-decoration: none;}
     .image-gallery a span {display: block; text-align: center; padding: 3px 0; text-decoration: none;}
@@ -16,6 +16,7 @@ layout: default
     <div class="grid-container">
         {% for post in site.posts %}
             {% if post.tags contains page.tag-name %}
+                    <style>.image-gallery {overflow: clip; margin: 1px 0 1px -1%!important; border: 1px solid transparent;{% include border-colors-post.html %};}</style>
                 <p class="image-gallery">
                     {% if post.image %}
                         <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="/img/blank.gif" alt="{{ post.title }}" data-echo="{{ post.image }}" /></a>
