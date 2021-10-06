@@ -10,7 +10,7 @@ layout: default
 {% endif %}
 
 <article>
-  <div style="border: 2px solid transparent;{% include border-colors-page.html %} border-image-slice: 1; padding: 10px;">
+  <div style="border: 2px solid transparent;{% include border-colors-page.html %} padding: 10px;">
     <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
       {% for tag in page.tags %}
         {% assign tag_slug = tag | slugify: "raw" %}
