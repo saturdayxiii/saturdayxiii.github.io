@@ -2,10 +2,10 @@
 layout: post
 type: art
 title: "Hydroponic Grow Tower"
+caption: Healthy Glow
+image: https://i.postimg.cc/CFTvKt7j/MVIMG-20200617-171800.jpg
+link: https://i.postimg.cc/Syk2bDrx/MVIMG-20200617-171800-2.jpg
 gallery:
-  - title: Healthy Glow
-    gimage: https://i.postimg.cc/CFTvKt7j/MVIMG-20200617-171800.jpg
-    url: https://i.postimg.cc/Syk2bDrx/MVIMG-20200617-171800-2.jpg
   - title: The Base
     gimage: https://i.postimg.cc/byLL3vhT/IMG-20200608-1802.jpg
     url: https://i.postimg.cc/fMxtP6YP/IMG-20200608-180247.jpg
