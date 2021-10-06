@@ -1,0 +1,29 @@
+---
+layout: post
+title: "I’m back on Opera  I neve"
+type: 
+timestamp: November 7th, 2019 3:33pm
+audio: 
+video: 
+image: https://64.media.tumblr.com/b1bff5cb999f384f1058356672dc61f9/22c2c0dc7a79863f-40/s540x810/5bdff0d5bc46fb9e828f9ae59d8071d98afaa5f7.png
+link: https://64.media.tumblr.com/b1bff5cb999f384f1058356672dc61f9/22c2c0dc7a79863f-40/s540x810/5bdff0d5bc46fb9e828f9ae59d8071d98afaa5f7.png
+tags: ["opera", "vivaldi"]
+comments: true
+---
+I’ve been re-evaluating my choice web browser for the last 3 days and I guess I feel the need to write out my findings to validate my effort.
+
+I don’t consider myself to be very particular when it comes to browsers.  Just a browser out of the box is about all I need; maybe a last.fm extension installed.  I started using Chrome years ago because I was heavily dependent on Drive and Gmail anyway, so it was only natural to have everything synced together.  I’ve also used Opera Portable on a USB stick for when I’m on my low-powered work laptop.  I’ve had difficulties with all browsers in the past, which is the way of anything computer related really.  Use something exclusively until something big goes wrong, then scramble to find a replacement, get excited with the new find, discover its own problems, then go back to what’s familiar and start the cycle over.
+
+To be fair, nothing has gone wrong with Chrome, but lately I’ve stopped using it because I’ve upgraded my USB stick to a PCIE SSD over USB-C.  It’s fast enough that the vast amount of my software can run on it without bottle-necking.  So I do that, but of course, for the first time in years Opera lost all of my saved data and sessions.  Granted this could be remedied by using Opera Sync, but I didn’t set up an account because while it was a secondary browser the occasional data loss wasn’t an issue.  But this time it was.
+
+From the few times I’ve tried Chrome portable, I consider it to be too unreliable, so I narrowed down my replacement options to Firefox and Vivaldi.  I have also had problem with Firefox portable in the past, but that was a long time ago and I have more faith in the Open Source community to address consumer annoyances than a corporate giant.  After installing I was surprised what a good fit Firefox was turning out to be.  It had all the main features that I wanted, but the nail in the coffin was the RAM usage.  One Youtube video running, fine, it’s running about 500mb.  A second Youtube tab and nope.  1.5 Gb and my laptop is chugging.
+
+Vivaldi I was most excited about because it was essentially Opera.  I’ve endorsed Opera as being an amazing light-weight browser in the past, but have always warned about how its corporate owners were devil incarnate.  I was surprised to learn that I wasn’t the only one who felt that way, and some time ago some of the old Opera devs split and started Vivaldi.  Vivaldi was great.  Lightweight, and customizable to the nines.  My favorite feature was the ability to shrink the UI without zooming out of webpages.  Made it very sleek and made up for the fact that there was a permanent side bar button, and the tabs weren’t tucked away in the title bar.  Though I was enjoying having the tabs hidden in the side bar rather than docked in the window.
+
+But the nail in the coffin was the fact that Vivaldi didn’t have a proper portable app.  They have a standalone that could be run in isolation, but it reset all the data every time I changed machines.  Of course it has its own sync service, but this still needs to be signed into every time and it doesn’t keep web site preferences cached.  At least with Opera this only happened every so often, most likely with software updates, not with every machine change.
+
+So I’m back on Opera.  I’ve got sync set up and I’m feeling good.  I guess I don’t have a problem with the devil so long as he has good services.
+
+Vivaldi, if you want to be my savior: get on that portability, please.
+
+<small>source: [https://saturdayxiii.tumblr.com/post/188888561964](https://saturdayxiii.tumblr.com/post/188888561964)</small>

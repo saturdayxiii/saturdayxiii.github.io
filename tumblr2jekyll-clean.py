@@ -258,22 +258,24 @@ for file in directory:
     if not h1:
         h1 = re.findall('^(.{1,200})', read_file)#why doesn't non greedy modifier do anything???
         h1 = ''.join(h1)
-        h1 = re.sub('\]\(.*\)','',h1)
-    punc = '''!()-[]{};:'"\,<>./?@#$%^&*_=~`'''
+        noneofthis = ['\]\(.*\)', 'p\s*$', 'http','href','thumbnail']
+        for this in noneofthis:
+            h1 = re.sub(this,'',h1)
+       # h1 = re.sub(,'',h1)
+    print (h1)
+    punc = '''!()-[]{};:'"\,<>./?@#$%^&*_=“”~`'''
     no_punc = ""
     for char in h1:
         if char not in punc:
             no_punc = no_punc + char
-    no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
-    noneofthis = ['p\s*$', 'http','href','thumbnail']
-    for this in noneofthis:
-        no_punc = re.sub('this','',no_punc)
-    no_punc = (no_punc[:30])
+    #no_punc = re.sub('[^\u0000-\u00af]',' ',no_punc)
+    no_punc = (no_punc[:25])
     orthis = ['p\s+$','\s+\w$']
     for this in orthis:
         no_punc = re.sub(this,'',no_punc)
     if no_punc == '':
         no_punc = "NT"
+    print (no_punc)
     date += no_punc
     date = re.sub('\s+','-',date)
     #date = re.sub(" ","-",date)
@@ -305,7 +307,7 @@ for file in directory:
     fmatt = fmatt + "\ntags: [" + tags + '"]\ncomments: true\n---'
     #print (fmatt)
     read_file = fmatt + "\n" + read_file + "\n" + sourcelink
-    print (read_file)
+    #print (read_file)
     #tumblrs better without titles and summaries?
     #"\ntitle: " + no_punc +
     #"\nsummary: " + summ + 
