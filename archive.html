@@ -15,7 +15,7 @@ layout: page
     ul.jekyllcodex_accordion li label::before {content: ">"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
     ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-270deg);}
     .grid-container {display: inline-grid; grid-template-columns: auto auto auto auto auto;}
-    .image-gallery {overflow: clip; margin: 0 0 0 -1%!important; border-color: #222; border-style: solid; border-width: 1px;}
+    .image-gallery {overflow: clip; margin: 0 0 0 -1%!important;}
     .image-gallery a {float: left; margin: 0 0 1% 1%; text-decoration: none !important;}
     .image-gallery a img {width: 100%; display: block; text-decoration: none;}
     .image-gallery a span {display: block; text-align: center; padding: 3px 0; text-decoration: none;}
@@ -34,7 +34,7 @@ layout: page
         {%- endunless -%}
             {% comment %}<br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} •</a><small> {{ post.date | date: site.date_format }}</small>{% endcomment %}
           {% comment %}  <div class="grid-container"> {% endcomment %}
-                <p class="image-gallery">
+                <p class="image-gallery" style="border: 1px solid transparent;{% include border-colors-post.html %}>
                     {% if post.image %}
                         <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="/img/blank.gif" alt="{{ post.title }}" data-echo="{{ post.image }}" /></a>
                         <span>
