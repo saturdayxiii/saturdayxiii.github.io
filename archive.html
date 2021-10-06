@@ -34,7 +34,7 @@ layout: page
         {%- endunless -%}
             {% comment %}<br><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} •</a><small> {{ post.date | date: site.date_format }}</small>{% endcomment %}
           {% comment %}  <div class="grid-container"> {% endcomment %}
-                <p class="image-gallery" style="border: 1px solid transparent;{% include border-colors-post.html %}>
+                <p class="image-gallery" style="border: 1px solid transparent;{% include border-colors-post.html %}">
                     {% if post.image %}
                         <a href="{{ post.url }}" title="{{ post.title }} published {{ post.date | date: '%Y-%m-%d' }}"><img src="/img/blank.gif" alt="{{ post.title }}" data-echo="{{ post.image }}" /></a>
                         <span>
