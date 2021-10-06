@@ -21,11 +21,12 @@ layout: default
       {% endfor %}
     </span>
     <h1>{{ page.title }}</h1><p></p>
-    {% if page.gallery %}
-      {% include image-gallery-index.html %}
-    {% endif %}
     {% if page.image %}
+      {% if page.gallery %}
+        {% include image-gallery-index.html %}
+      {% else %}
       &nbsp;<a href="{{ page.link }}" target="_blank"><img src="{{ page.image }}" alt="{{ page.title }}"></a><p></p>
+      {% endif %}
     {% endif %}
     {% if page.video %}
       <video muted autoplay controls loop width="400">
