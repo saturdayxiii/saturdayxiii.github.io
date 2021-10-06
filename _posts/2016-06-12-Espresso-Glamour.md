@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Espresso Glamour
+title: "Espresso Glamour"
 type: art
 timestamp: June 12th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["espresso", "drawing", "vector", "coffee", "machinery", "art", "Neon", "s
 comments: true
 ---
 Espresso Glamour.
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/145813300168](https://saturdayxiii.tumblr.com/post/145813300168)</small>

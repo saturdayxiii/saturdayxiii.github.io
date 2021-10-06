@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I quite like this
+title: "I quite like this"
 type: art
 timestamp: June 27th, 2019 12:37pm
 audio: 
@@ -11,7 +11,9 @@ tags: ["sgdq2019", "art", "crayola"]
 comments: true
 ---
 I quite like this.
+
 Marker sketch of the Dark Souls 2 character used in Summer Games Done Quick 2019
-<br 
-  
+
+
+
 <small>source: [https://saturdayxiii.tumblr.com/post/190407228749](https://saturdayxiii.tumblr.com/post/190407228749)</small>

@@ -2,9 +2,6 @@
 layout: default
 home: true
 ---
-
-
-
 {% for post in paginator.posts %}
 
 {% assign minutes = post.content | number_of_words | divided_by: 180 %}
@@ -28,19 +25,20 @@ home: true
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
-        {% if post.gallery %}
-          <style>
-            .image-gallery-index {overflow: auto; margin-left: -1%!important;}
-            .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
-            .image-gallery-index a img {width: 100%; display: block;}
-            .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
-          </style>
-
-          &nbsp;<p class="image-gallery-index">{% for item in post.gallery %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.gimage }}" alt="{{ item.title }}" /><span>{{ item.title }}</span></a>{% endfor %}</p>
-
-        {% endif %}
         {% if post.image %}
-        &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+          {% if post.gallery %}
+            <style>
+              .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+              .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 32%; text-decoration: none !important;}
+              .image-gallery-index a img {width: 100%; display: block;}
+              .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
+            </style>
+
+            <p class="image-gallery-index">&nbsp;<a href="{{ post.link }}" title="="{{ post.title }}"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>{% for item in post.gallery %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.gimage }}" alt="{{ item.title }}" /><span>{{ item.title }}</span></a>{% endfor %}</p>
+
+          {% else %}
+            &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+          {% endif %}
         {% endif %}
         {% if post.video %}
         &nbsp;<video muted autoplay controls loop width="400">

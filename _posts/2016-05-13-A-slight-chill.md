@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A slight chill
+title: "A slight chill"
 type: art
 timestamp: May 13th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["photo", "edmonton", "bridge", "ice", "water", "river", "cold", "photogra
 comments: true
 ---
 A slight chill.
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/144305857302](https://saturdayxiii.tumblr.com/post/144305857302)</small>

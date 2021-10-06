@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this show still on
+title: "Is this show still on"
 type: tainment
 timestamp: November 19th, 2015 4:40pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["childrens", "tv", "fun", "art", "show"]
 comments: true
 ---
 Is this show still on?
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/133557827039](https://saturdayxiii.tumblr.com/post/133557827039)</small>

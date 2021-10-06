@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I hope you can hear it
-type: art
+title: "I hope you can hear it"
+type: 
 timestamp: January 16th, 2020 10:23am
 audio: 
 video: 
@@ -11,6 +11,7 @@ tags: ["petscop", "garalina"]
 comments: true
 ---
 I hope you can hear it.
-<a href="https://www.thingiverse.com/thing:4105628" target="_blank">https://www.thingiverse.com/thing:4105628</a><br 
-  
+
+[https://www.thingiverse.com/thing:4105628](https://www.thingiverse.com/thing:4105628)
+
 <small>source: [https://saturdayxiii.tumblr.com/post/190292235709](https://saturdayxiii.tumblr.com/post/190292235709)</small>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downtown Edmonton
+title: "Downtown Edmonton"
 type: art
 timestamp: July 21st, 2018 10:30am
 audio: 
@@ -11,6 +11,4 @@ tags: ["photography", "edmonton", "alberta", "street", "art"]
 comments: true
 ---
 Downtown Edmonton
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/182065701899](https://saturdayxiii.tumblr.com/post/182065701899)</small>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: oregano blossoms
+title: "oregano blossoms"
 type: art
 timestamp: May 29th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["photo", "oregano", "flower", "macro", "photography", "art"]
 comments: true
 ---
 oregano blossoms
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/145111033223](https://saturdayxiii.tumblr.com/post/145111033223)</small>

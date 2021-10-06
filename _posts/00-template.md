@@ -2,12 +2,12 @@
 layout: post
 type: art tainment food snd lnk me
 title: ""
+image: 
+link: 
 gallery:
   - title: 
     gimage: 
     url: 
-image: 
-link: 
 tags: ['', '']
 comments: true
 ---

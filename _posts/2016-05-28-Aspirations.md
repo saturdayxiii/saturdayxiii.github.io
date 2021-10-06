@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aspirations
+title: "Aspirations"
 type: art
 timestamp: May 28th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["gba", "nintendo", "sonic", "idea", "art"]
 comments: true
 ---
 Aspirations.
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/145061451694](https://saturdayxiii.tumblr.com/post/145061451694)</small>

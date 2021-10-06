@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketching some pies
+title: "Sketching some pies"
 type: art
 timestamp: February 19th, 2017 2:04pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 comments: true
 ---
 Sketching some pies.
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/157453831474](https://saturdayxiii.tumblr.com/post/157453831474)</small>

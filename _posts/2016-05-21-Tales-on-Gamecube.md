@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tales on Gamecube
+title: "Tales on Gamecube"
 type: art
 timestamp: May 21st, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["photography", "photo", "painting", "gamecube", "nintendo", "symphonia", 
 comments: true
 ---
 Tales on Gamecube.
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/144710201771](https://saturdayxiii.tumblr.com/post/144710201771)</small>

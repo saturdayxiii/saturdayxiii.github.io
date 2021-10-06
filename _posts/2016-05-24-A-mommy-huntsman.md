@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A mommy huntsman
+title: "A mommy huntsman"
 type: art
 timestamp: May 24th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "phot
 comments: true
 ---
 A mommy huntsman!
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/144865619215](https://saturdayxiii.tumblr.com/post/144865619215)</small>

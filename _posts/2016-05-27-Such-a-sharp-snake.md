@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Such a sharp snake
+title: "Such a sharp snake"
 type: art
 timestamp: May 27th, 2016 12:00pm
 audio: 
@@ -11,6 +11,4 @@ tags: ["photo", "reptile", "snake", "pets", "photography", "art"]
 comments: true
 ---
 Such a sharp snake!
- 
-  
 <small>source: [https://saturdayxiii.tumblr.com/post/145013674071](https://saturdayxiii.tumblr.com/post/145013674071)</small>
