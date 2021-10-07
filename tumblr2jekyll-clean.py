@@ -1,15 +1,10 @@
-'''move these 2 lines
-to the first 2 lines
-!/usr/bin/python
--*- coding: UTF-8 -*-'''
 #links
 media = "https://saturdayxiii.github.io/media"
 tumblr = "https://saturdayxiii.tumblr.com/"
-#all html showing up as a code block
-#convert links to []() format
+
 import os,re,io
-directory = os.listdir('../../Sync/posts/html')
-os.chdir('../../Sync/posts/html')
+directory = os.listdir('html')
+os.chdir('html')
 
 for file in directory:
     print (file)
@@ -319,7 +314,7 @@ for file in directory:
     md = '.md'
     date += md
 
-    with io.open(date,'w', encoding='utf8') as write_file:
-        write_file.write(read_file)
+    #with io.open(date,'w', encoding='utf8') as write_file:
+   #     write_file.write(read_file)
     #break
 
