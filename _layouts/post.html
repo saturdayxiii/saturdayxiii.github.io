@@ -69,7 +69,7 @@ layout: default
     </div>
   </div>
 {% endif %}
-<div class="fb-comments" data-href="{{ page.url | prepend: site.baseurl }}" data-width="400" data-numposts="7" data-colorscheme="dark" data-mobile=true></div>
+<div class="fb-comments" data-href="{{ site.baseurl }}{{ page.url }}" data-width="400" data-numposts="7" data-colorscheme="dark" data-mobile=true></div>
 {% if site.disqus-shortname %}
   <div id="disqus_thread">
   </div>
