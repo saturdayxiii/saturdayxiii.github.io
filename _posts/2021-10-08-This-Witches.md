@@ -9,7 +9,7 @@ gallery:
   - title: byeee
     gimage: https://i.postimg.cc/TPgZDH1v/angelica-houston-bye.gif
     url: https://imgur.com/QcrlIFi
-tags: ['The Witches', 'Roald Dahl', 'Jim Henson', "Angelica Houston", 'movie', 'recommended']
+tags: ['The Witches', 'Roald Dahl', 'Jim Henson', "Anjelica Huston", 'movie', 'recommended']
 comments: true
 ---
 This is the vibe I'm craving this October.  It's ridiculous how versatile Jim Hension effects were.  
