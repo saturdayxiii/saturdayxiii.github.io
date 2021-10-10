@@ -9,7 +9,7 @@ gallery:
   - title: eating pasta
     gimage: https://i.postimg.cc/15vLPyVv/PXL-20210803-221211530.jpg
     url: https://i.postimg.cc/25ZJ4vct/PXL-20210803-221211530-2.jpg
-tags: ['food', 'chickpea', 'pasta', 'recipe']
+tags: ['food', 'chickpea', 'pasta', 'recipe', 'recommended']
 ---
 Once again an ad on Facebook outed itself with a good idea that I could do much cheaper by myself.
 
