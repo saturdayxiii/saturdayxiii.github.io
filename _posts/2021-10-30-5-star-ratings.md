@@ -15,7 +15,7 @@ How to use a five star rating system
 
 I'm not doing any research, and I have no idea how others use it.
 
-So ages ago itunes, or maybe winamp, or maybe realplayer, introduced the 5 star rating system for your music.  I painstakingly applied it to my library then suffered a hdd crash, lost it all, and didn't use it again for many years.  Several years ago I started using it again, and as a music hoader it's been a huge help.  Especially through Foobar2000.  Search up "%Rating% GREATER 3" and I don't have to worry about company randomly hearing a Final Fantasy death march.
+So ages ago itunes, or maybe winamp, or maybe realplayer, introduced the 5 star rating system for your music.  I painstakingly applied it to my library then suffered a hdd crash, lost it all, and didn't use it again for many years.  Several years ago I started using it again, and as a music hoarder it's been a huge help.  Especially through Foobar2000.  Search up "%Rating% GREATER 3" and I don't have to worry about company randomly hearing a Final Fantasy death march.
 
 It's useful, but daunting, especially if you have a lot of files.  But it doesn't have to be daunting, and it's so beneficial that I've been applying the logic to all of my entertainment files via [Tag Spaces](https://github.com/tagspaces/tagspaces).
 
