@@ -4,11 +4,6 @@ type: tainment
 title: "Comedy and Intent"
 image: http://i3.ytimg.com/vi/KSXKzPOcYDU/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=KSXKzPOcYDU
-caption: 
-gallery:
-  - title: 
-    gimage: 
-    url: 
 tags: ['politics', 'conservatives', 'comedy', 'some-more-news', 'youtube', 'show', 'recommended']
 comments: true
 ---
