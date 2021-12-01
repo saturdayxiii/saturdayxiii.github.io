@@ -10,5 +10,4 @@ gallery:
     gimage: 
     url: 
 tags: ['', '']
-comments: true
 ---
