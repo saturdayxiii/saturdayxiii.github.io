@@ -9,5 +9,8 @@ gallery:
   - title: 
     gimage: 
     url: 
+video: 
+vgallery:
+  - vid: 
 tags: ['', '']
 ---
