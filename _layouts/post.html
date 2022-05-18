@@ -29,9 +29,13 @@ layout: default
       {% endif %}
     {% endif %}
     {% if page.video %}
-      <video muted autoplay controls loop width="400">
-      <source src="{{ page.video }}" type="video/mp4">
-      </video>
+      {% if page.vgallery %}
+        {% include video-gallery-index.html %}
+      {% else %}
+        <video muted autoplay controls loop width="400">
+        <source src="{{ page.video }}" type="video/mp4">
+        </video>
+      {% endif %}
     {% endif %}
     {% if page.audio %}
       &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="{{ page.audio }}"></iframe>
