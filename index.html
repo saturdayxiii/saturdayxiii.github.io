@@ -42,7 +42,7 @@ home: true
         {% endif %}
     {% if post.video %}
       {% if post.vgallery %}
-        <video muted autoplay controls loop width="140"><source src="{{ post.video }}" type="video/mp4"></video>{% for item in post.vgallery %}<video muted autoplay controls loop width="120"><source src="{{ item.vid }}" type="video/mp4"></video>{% endfor %}
+        <video muted autoplay controls loop width="140"><source src="{{ post.video }}" type="video/mp4"></video>{% for item in post.vgallery %}<video muted autoplay controls loop width="140"><source src="{{ item.vid }}" type="video/mp4"></video>{% endfor %}
       {% else %}
         <video muted autoplay controls loop width="400">
         <source src="{{ post.video }}" type="video/mp4">
