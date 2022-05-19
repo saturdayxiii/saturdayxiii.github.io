@@ -40,11 +40,15 @@ home: true
             &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
           {% endif %}
         {% endif %}
-        {% if post.video %}
-        &nbsp;<video muted autoplay controls loop width="400">
-    <source src="{{ post.video }}" type="video/mp4">
-</video>
-       {% endif %}
+    {% if post.video %}
+      {% if post.vgallery %}
+        <video muted autoplay controls loop width="140"><source src="{{ post.video }}" type="video/mp4"></video>{% for item in post.vgallery %}<video muted autoplay controls loop width="120"><source src="{{ item.vid }}" type="video/mp4"></video>{% endfor %}
+      {% else %}
+        <video muted autoplay controls loop width="400">
+        <source src="{{ post.video }}" type="video/mp4">
+        </video>
+      {% endif %}
+    {% endif %}
         {% if post.audio %}
         &nbsp;<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="{{ post.audio }}"></iframe>
         {% endif %}
