@@ -1,7 +1,7 @@
 ---
 layout: post
 type: me
-title: "Relationsips Beg"
+title: "Relationships Beg"
 tags: ['thoughts', 'quote', 'me', 'proud of myself']
 ---
 
