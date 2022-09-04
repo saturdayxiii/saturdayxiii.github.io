@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "a sstoresteampoweredcomap"
+title: "Nightmares of the Deep"
 type: tainment
 timestamp: July 27th, 2014 4:37pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182016633414.jpg
 link: https://saturdayxiii.github.io/media/182016633414.jpg
-tags: ["game", "review"]
+tags: ["game", "review", "hidden-object"]
 comments: true
 ---
 <a href="https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/" target="_blank">
