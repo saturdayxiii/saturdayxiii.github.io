@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspired by DaDeO’s black"
-type: art
+type: food
 timestamp: April 16th, 2019 12:00pm
 audio: 
 video: 
