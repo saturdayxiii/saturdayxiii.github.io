@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/131960088469.jpg
 link: https://saturdayxiii.github.io/media/131960088469.jpg
-tags: ["marle", "snes", "japanese", "games", "box", "art", "character"]
+tags: ["marle", "snes", "japanese", "games", "box", "character"]
 comments: true
 ---
 What’s going on here?

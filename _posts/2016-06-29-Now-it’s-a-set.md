@@ -14,7 +14,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/149662527124_2.gif
     url: https://saturdayxiii.github.io/media/149662527124_2.gif
-tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography", "art"]
+tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography"]
 comments: true
 ---
 Now it’s a set!

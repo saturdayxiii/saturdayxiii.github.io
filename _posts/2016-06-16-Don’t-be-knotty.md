@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/146020178743.jpg
 link: https://saturdayxiii.github.io/media/146020178743.jpg
-tags: ["photo", "bark", "texture", "photography", "art"]
+tags: ["photo", "bark", "texture", "photography"]
 comments: true
 ---
 Don’t be knotty.

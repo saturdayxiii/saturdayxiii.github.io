@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/J01jgdLJHVw/hqdefault.jpg
 link: https://www.youtube.com/watch?v=J01jgdLJHVw
-tags: ["wasp", "insect", "bug", "macro", "cute", "photography", "art"]
+tags: ["wasp", "insect", "bug", "macro", "cute", "photography"]
 comments: true
 ---
 *music ends abruptly*

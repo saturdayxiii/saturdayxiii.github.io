@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149707794087.gif
 link: https://saturdayxiii.github.io/media/149707794087.gif
-tags: ["gif", "leaf", "nature", "wind", "photography", "art"]
+tags: ["gif", "leaf", "nature", "wind", "photography"]
 comments: true
 ---
 shaking like a&hellip;

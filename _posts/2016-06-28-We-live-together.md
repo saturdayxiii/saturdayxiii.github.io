@@ -17,7 +17,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/149610653063_3.jpg
     url: https://saturdayxiii.github.io/media/149610653063_3.jpg
-tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography", "art"]
+tags: ["bugs", "fly", "insect", "macro", "salmonfly", "photography"]
 comments: true
 ---
 We live together.

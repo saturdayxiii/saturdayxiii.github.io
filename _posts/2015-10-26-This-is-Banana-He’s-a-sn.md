@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/131960168699.jpg
 link: https://saturdayxiii.github.io/media/131960168699.jpg
-tags: ["snake", "pets", "cute", "animals", "habitat", "face", "reptile", "sunny", "cozy", "photography", "art"]
+tags: ["snake", "pets", "cute", "animals", "habitat", "face", "reptile", "sunny", "cozy", "photography"]
 comments: true
 ---
 This is Banana.  He’s a snake, and maybe a bit turtle&hellip;

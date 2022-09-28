@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144101661784.gif
 link: https://saturdayxiii.github.io/media/144101661784.gif
-tags: ["tarantula", "spider", "cute", "eyes", "macro", "gif", "photography", "art"]
+tags: ["tarantula", "spider", "cute", "eyes", "macro", "gif", "photography"]
 comments: true
 ---
 That Ashley.

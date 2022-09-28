@@ -14,7 +14,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/149470001853_2.jpg
     url: https://saturdayxiii.github.io/media/149470001853_2.jpg
-tags: ["spider", "arachnid", "macro", "web", "photography", "art"]
+tags: ["spider", "arachnid", "macro", "web", "photography"]
 comments: true
 ---
 Unfortunately I couldn’t get the focus to cooperate.

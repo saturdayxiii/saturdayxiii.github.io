@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145314581795.jpg
 link: https://saturdayxiii.github.io/media/145314581795.jpg
-tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography", "art"]
+tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography"]
 comments: true
 ---
 I can only do so much.

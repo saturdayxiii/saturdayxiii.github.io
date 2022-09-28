@@ -17,7 +17,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/146551152379_3.jpg
     url: https://saturdayxiii.github.io/media/146551152379_3.jpg
-tags: ["insect", "wasp", "macro", "flower", "garden", "tiny", "pollen", "photography", "art"]
+tags: ["insect", "wasp", "macro", "flower", "garden", "tiny", "pollen", "photography"]
 comments: true
 ---
 I love pollen boots!

@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145463187950.jpg
 link: https://saturdayxiii.github.io/media/145463187950.jpg
-tags: ["photo", "pets", "snake", "photography", "art"]
+tags: ["photo", "pets", "snake", "photography"]
 comments: true
 ---
 You’ve been here already.

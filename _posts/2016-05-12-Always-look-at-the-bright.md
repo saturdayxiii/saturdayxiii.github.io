@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144256891142.jpg
 link: https://saturdayxiii.github.io/media/144256891142.jpg
-tags: ["photo", "crab", "photography", "art"]
+tags: ["photo", "crab", "photography"]
 comments: true
 ---
 Always look at the bright side of the shell.

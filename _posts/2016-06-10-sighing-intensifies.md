@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145716014961.jpg
 link: https://saturdayxiii.github.io/media/145716014961.jpg
-tags: ["photo", "snake", "pets", "photography", "art"]
+tags: ["photo", "snake", "pets", "photography"]
 comments: true
 ---
 *sighing intensifies*

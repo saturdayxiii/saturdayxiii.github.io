@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/SKNOpYkJhsQ/hqdefault.jpg
 link: https://www.youtube.com/watch?v=SKNOpYkJhsQ
-tags: ["spider", "arachnid", "fly", "hunt", "wave", "cute", "wat", "photography", "art"]
+tags: ["spider", "arachnid", "fly", "hunt", "wave", "cute", "wat", "photography"]
 comments: true
 ---
 [https://en.wikipedia.org/wiki/Phidippus_audax](https://en.wikipedia.org/wiki/Phidippus_audax)

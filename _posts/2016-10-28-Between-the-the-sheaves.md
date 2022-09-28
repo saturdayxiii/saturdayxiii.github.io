@@ -11,7 +11,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/152434361519_1.jpg
     url: https://saturdayxiii.github.io/media/152434361519_1.jpg
-tags: ["spider", "arachnid", "macro", "photography", "art"]
+tags: ["spider", "arachnid", "macro", "photography"]
 comments: true
 ---
 Between the the sheaves.

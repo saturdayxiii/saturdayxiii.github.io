@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/145567052190.jpg
 link: https://saturdayxiii.github.io/media/145567052190.jpg
-tags: ["photo", "macro", "flower", "photography", "art"]
+tags: ["photo", "macro", "flower", "photography"]
 comments: true
 ---
 Whatever these are.

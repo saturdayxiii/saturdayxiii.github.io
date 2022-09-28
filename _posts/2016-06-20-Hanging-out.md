@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149230541170.jpg
 link: https://saturdayxiii.github.io/media/149230541170.jpg
-tags: ["spider", "arachnid", "macro", "nature", "photography", "art"]
+tags: ["spider", "arachnid", "macro", "nature", "photography"]
 comments: true
 ---
 Hanging out

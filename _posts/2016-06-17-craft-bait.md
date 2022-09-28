@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149087666693.jpg
 link: https://saturdayxiii.github.io/media/149087666693.jpg
-tags: ["flower", "photography", "macro", "art"]
+tags: ["flower", "photography", "macro"]
 comments: true
 ---
 craft bait.

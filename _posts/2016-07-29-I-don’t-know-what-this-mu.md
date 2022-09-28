@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/G1vLIfLtD60/hqdefault.jpg
 link: https://www.youtube.com/watch?v=G1vLIfLtD60
-tags: ["bug", "insect", "fly", "macro", "photography", "art"]
+tags: ["bug", "insect", "fly", "macro", "photography"]
 comments: true
 ---
 I don’t know what this music is, but I’m glad I found it.

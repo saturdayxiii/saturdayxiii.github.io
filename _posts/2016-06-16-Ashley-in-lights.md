@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149034981519.jpg
 link: https://saturdayxiii.github.io/media/149034981519.jpg
-tags: ["tarantula", "blacklight", "photography", "art"]
+tags: ["tarantula", "blacklight", "photography"]
 comments: true
 ---
 Ashley in lights.

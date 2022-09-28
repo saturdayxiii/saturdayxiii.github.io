@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149423030176.gif
 link: https://saturdayxiii.github.io/media/149423030176.gif
-tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography", "art"]
+tags: ["yeg", "zoo", "meerkat", "yegzoo", "photography"]
 comments: true
 ---
 went to the zoo yesterday. @buildingourzoo

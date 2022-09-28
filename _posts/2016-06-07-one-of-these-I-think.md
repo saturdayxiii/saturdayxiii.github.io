@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/Cyk9V6CnYt8/hqdefault.jpg
 link: https://www.youtube.com/watch?v=Cyk9V6CnYt8
-tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography", "art"]
+tags: ["butterfly", "nectar", "insect", "bug", "flower", "fritillaire", "photography"]
 comments: true
 ---
 one of these I think

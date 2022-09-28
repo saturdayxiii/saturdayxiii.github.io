@@ -23,7 +23,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/145827456504_5.jpg
     url: https://saturdayxiii.github.io/media/145827456504_5.jpg
-tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography", "art"]
+tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography"]
 comments: true
 ---
 These snugglie wormies will be out in full force next week or so in the Edmonton river valley.

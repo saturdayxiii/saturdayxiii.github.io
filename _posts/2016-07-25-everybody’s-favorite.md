@@ -14,7 +14,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/147948519604_2.jpg
     url: https://saturdayxiii.github.io/media/147948519604_2.jpg
-tags: ["spider", "arachnid", "macro", "photography", "art"]
+tags: ["spider", "arachnid", "macro", "photography"]
 comments: true
 ---
 everybody’s favorite

@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144660815594.jpg
 link: https://saturdayxiii.github.io/media/144660815594.jpg
-tags: ["photo", "rambana", "photography", "art"]
+tags: ["photo", "rambana", "photography"]
 comments: true
 ---
 

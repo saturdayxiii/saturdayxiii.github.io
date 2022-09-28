@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144611624248.jpg
 link: https://saturdayxiii.github.io/media/144611624248.jpg
-tags: ["moth", "insect", "hawaii", "photo", "nocturnal", "photography", "art"]
+tags: ["moth", "insect", "hawaii", "photo", "nocturnal", "photography"]
 comments: true
 ---
 [https://en.wikipedia.org/wiki/Ascalapha_odorata](https://en.wikipedia.org/wiki/Ascalapha_odorata)

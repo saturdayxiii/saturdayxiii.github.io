@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144865619215.jpg
 link: https://saturdayxiii.github.io/media/144865619215.jpg
-tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography", "art"]
+tags: ["photo", "arachnid", "spider", "huntsman", "hawaii", "spiderlings", "photography"]
 comments: true
 ---
 A mommy huntsman!

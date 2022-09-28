@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/144964873176.jpg
 link: https://saturdayxiii.github.io/media/144964873176.jpg
-tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography", "food", "art"]
+tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography", "food"]
 comments: true
 ---
 Do you know your malts?

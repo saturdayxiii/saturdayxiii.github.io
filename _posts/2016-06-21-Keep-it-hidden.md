@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149279138256.gif
 link: https://saturdayxiii.github.io/media/149279138256.gif
-tags: ["beetle", "bug", "insect", "leaf", "green", "macro", "gif", "photography", "art"]
+tags: ["beetle", "bug", "insect", "leaf", "green", "macro", "gif", "photography"]
 comments: true
 ---
 Keep it hidden.

@@ -11,7 +11,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/146855380840_1.jpg
     url: https://saturdayxiii.github.io/media/146855380840_1.jpg
-tags: ["arachnid", "spider", "macro", "camoflauge", "photography", "art"]
+tags: ["arachnid", "spider", "macro", "camoflauge", "photography"]
 comments: true
 ---
 Green sneaker.

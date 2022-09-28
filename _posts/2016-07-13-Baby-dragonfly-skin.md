@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/147350957170.jpg
 link: https://saturdayxiii.github.io/media/147350957170.jpg
-tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography", "art"]
+tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography"]
 comments: true
 ---
 Baby dragonfly skin!

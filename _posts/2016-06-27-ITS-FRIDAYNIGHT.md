@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149562517985.gif
 link: https://saturdayxiii.github.io/media/149562517985.gif
-tags: ["snake", "snek", "mouse", "feed", "reptile", "photography", "art"]
+tags: ["snake", "snek", "mouse", "feed", "reptile", "photography"]
 comments: true
 ---
 IT”S FRIDAYNIGHT!!

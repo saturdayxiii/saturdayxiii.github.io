@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/149038615983.jpg
 link: https://saturdayxiii.github.io/media/149038615983.jpg
-tags: ["Spider", "macro", "photography", "art"]
+tags: ["Spider", "macro", "photography"]
 comments: true
 ---
 When you’re shiny.
