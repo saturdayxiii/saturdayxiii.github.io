@@ -3,6 +3,7 @@ layout: post
 type: me
 title: "Guilt vs Shame"
 tags: ['me', 'thoughts', 'guilt', 'shame', 'responsibility', 'sociality']
+comments: true
 ---
 [RM Brown](https://www.youtube.com/watch?v=QuhqfaZNEOE) put me on a mini Briahna Joy Gray rabbit hole, and as one of the few mainstream leftists with smartly stated views, I'm totally fan girling over her.  This preamble is just to cover my source for my under devloped thoughts on the title topic.  As I was turned onto the idea by her article for [Current Affairs *The Politics of Shame*](https://www.currentaffairs.org/2018/03/the-politics-of-shame). Her article is about Trump and I'm literally going to talk about 2 sentences within it, so, make what you will of this intro.
 
