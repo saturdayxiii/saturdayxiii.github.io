@@ -47,9 +47,10 @@
       }
     </script>
   </head>
-  <body style="background-image: url('axolotl.webp')">
-  <h1></h1>
-<button class="accordion">Organics</button>
+  <body style="background-image: url('axolotl.webp'); background-size: 30%; transition: background-size 0.5s;">
+	<h1></h1>
+
+	<button class="accordion">Organics</button>
 	<div class="panel">
 	<div class="thumbnail" onclick="changeBackground('dragonfly.webp')" style="background-image: url('dragonfly.webp')"></div>
 	<div class="thumbnail" onclick="changeBackground('transparent low poly Crystal rainbow Jungle Leaves (2986408026).webp')" style="background-image: url('transparent low poly Crystal rainbow Jungle Leaves (2986408026).webp')"></div>
@@ -104,24 +105,46 @@
 		
 	</div>
 	<br>
+	<div style="display: inline; float: right; background-color: white;">
+		<button id="minus">-</button>
+		<span id="scale">30%</span>
+		<button id="plus">+</button>
+	</div>
+	<br>
 	<script>
 		var acc = document.getElementsByClassName("accordion");
 		var i;
 
 		for (i = 0; i < acc.length; i++) {
 		acc[i].addEventListener("click", function() {
-			this.classList.toggle("active");
-			var panel = this.nextElementSibling;
-		if (panel.style.display === "block") {
-			panel.style.display = "none";
-		} else {
-		panel.style.display = "block";
-    }
-  });
-}
-</script>
+				this.classList.toggle("active");
+				var panel = this.nextElementSibling;
+			if (panel.style.display === "block") {
+				panel.style.display = "none";
+				} else {
+					panel.style.display = "block";
+				}
+			});
+		}
+		
+		const plusBtn = document.querySelector("#plus");
+		const minusBtn = document.querySelector("#minus");
+		const scaleDisplay = document.querySelector("#scale");
+
+		let scaleValue = 30;
+
+		plusBtn.addEventListener("click", () => {
+		  scaleValue += 5;
+		  document.body.style.backgroundSize = `${scaleValue}%`;
+		  scaleDisplay.textContent = `${scaleValue}%`;
+		});
+
+		minusBtn.addEventListener("click", () => {
+		  scaleValue -= 5;
+		  document.body.style.backgroundSize = `${scaleValue}%`;
+		  scaleDisplay.textContent = `${scaleValue}%`;
+		});
+
+	</script>
   </body>
 </html>
-
-
-
