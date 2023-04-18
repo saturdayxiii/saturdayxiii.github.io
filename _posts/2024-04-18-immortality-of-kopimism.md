@@ -16,7 +16,7 @@ tags: ['kopimism', 'filler', 'thoughts', 'me']
 ---
 Good morning.
 
-I'm uh I got a little bit of free time and I'm desperate to post something with that time. So I'm gonna read a post I made on the Kopimism subreddit a month ago in a week attempt to inspire more activity there.
+I'm uh I got a little bit of free time and I'm desperate to post something with that time. So I'm gonna read a post I made on the [Kopimism subreddit](https://www.reddit.com/r/Kopimism/) a month ago in a week attempt to inspire more activity there.
 
 Titled the Immortality of Kopimism
 
