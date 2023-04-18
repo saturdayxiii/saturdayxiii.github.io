@@ -2,8 +2,8 @@
 layout: post
 type: me
 title: "Imortallity of Kopimism"
-image: https://i3.ytimg.com/vi/5XKY2QJMshM/maxresdefault.jpg
-link: https://www.youtube.com/watch?v=5XKY2QJMshM
+image: https://i3.ytimg.com/vi/So9z36TENk4/maxresdefault.jpg
+link: https://www.youtube.com/watch?v=So9z36TENk4
 caption: 
 gallery:
   - title: 
