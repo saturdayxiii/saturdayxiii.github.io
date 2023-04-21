@@ -4,14 +4,6 @@ type: me
 title: "Imortallity of Kopimism"
 image: https://i3.ytimg.com/vi/So9z36TENk4/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=So9z36TENk4
-caption: 
-gallery:
-  - title: 
-    gimage: 
-    url: 
-video: 
-vgallery:
-  - vid: 
 tags: ['kopimism', 'filler', 'thoughts', 'me']
 ---
 Good morning.
