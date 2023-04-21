@@ -4,14 +4,6 @@ type: me
 title: "Mobile Dreams"
 image: https://i3.ytimg.com/vi/5XKY2QJMshM/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=5XKY2QJMshM
-caption: 
-gallery:
-  - title: 
-    gimage: 
-    url: 
-video: 
-vgallery:
-  - vid: 
 tags: ['dreams', 'phone', 'thoughts', 'me']
 ---
 The meme said it couldn't be done, but I finally had my cell phone appear in a dream, and I hope it never happens again.  I caught a call just as it was going to voicemail, and the message was hilarious so I gathered my friends to listen to it, but everytime I hit "play" the message was something different.  It was essentially just playing whatever was on the radio.  So everyone was annoyed at me.
