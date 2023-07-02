@@ -18,7 +18,7 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/135414361959_4.jpg
     url: https://saturdayxiii.github.io/media/135414361959_4.jpg
-tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase", 'console_art', 'console_mod', 'game', 'video_game', 'art']
+tags: ["pokepark", "pokemon", "nintendo", "wii", "console", "mod", "engraving", "paint", "pikachu", "art", "showcase", 'console_art', 'console_mod', 'game', 'video_game', 'art', 'custom console']
 comments: true
 ---
 Look!  It’s PokePark on the Wii!
