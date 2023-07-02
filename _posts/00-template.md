@@ -13,4 +13,5 @@ video:
 vgallery:
   - vid: 
 tags: ['', '']
+comments: true
 ---
