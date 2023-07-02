@@ -7,7 +7,7 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/136184969694.jpg
 link: https://saturdayxiii.github.io/media/136184969694.jpg
-tags: ["nintendo", "nes", "console", "custom", "paint", "art"]
+tags: ["nintendo", "nes", "console", "custom", "paint", "art", 'showcase', 'console_mod', 'console_art', 'mod']
 comments: true
 ---
 Consoles for games that don’t exist.
