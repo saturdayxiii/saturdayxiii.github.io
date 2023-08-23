@@ -14,20 +14,25 @@
     position: fixed;
     top: 20px;
     left: 20px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 8px;
     padding: 0px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
     z-index: 1;
   }
   #menu button {
-    font-size: 16px;
-    padding: 0px 4px;
-    margin: 3px;
+    font: 20px bold;
+    color: white;
+    width: 45px;
+    height: 45px;
+    margin: 6px;
+    background-color: rgba(40,40,40,1);
     cursor: pointer;
+    border: 2px solid rgba(170,160,255,0.5);
+    border-radius: 10px;
   }
   #gallery {
-    column-count: 5;
+    column-count: 4;
     grid-gap: 0;
     padding: 0;
   }
@@ -69,9 +74,10 @@
 
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
-  <button id="decreaseColumns">-</button>
-  <button id="resetColumns">Reset</button>
-  <button id="increaseColumns">+</button>
+  <button id="decreaseColumns">-</button><br>
+  <button id="resetColumns">=</button><br>
+  <button id="increaseColumns">+</button><br>
+  <button id="loadMore">$</button>
 </div>
 <div id="zoomed">
   <img src="" alt="">
@@ -242,8 +248,9 @@ const imageSources = [
   const decreaseColumnsButton = document.getElementById('decreaseColumns');
   const resetColumnsButton = document.getElementById('resetColumns');
   const increaseColumnsButton = document.getElementById('increaseColumns');
+  const loadMoreButton = document.getElementById('loadMore');
 
-  let columns = 5;
+  let columns = 4;
   let currentPage = 1;
   const imagesPerPage = 20;
   let isLoading = false;
@@ -323,11 +330,15 @@ window.addEventListener('scroll', () => {
   });
 
   resetColumnsButton.addEventListener('click', () => {
-    updateColumns(5);
+    updateColumns(4);
   });
 
   increaseColumnsButton.addEventListener('click', () => {
     updateColumns(columns + 1);
+  });
+
+  loadMoreButton.addEventListener('click', () => {
+    loadNextImages();
   });
 
 </script>
