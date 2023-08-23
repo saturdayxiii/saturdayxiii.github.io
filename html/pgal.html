@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Collage Gallery</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  #menu {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    padding: 0px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  #menu button {
+    font-size: 16px;
+    padding: 0px 4px;
+    margin: 3px;
+    cursor: pointer;
+  }
+  #gallery {
+    column-count: 5;
+    grid-gap: 0;
+    padding: 0;
+  }
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    line-height: 0;
+  }
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    transition: transform 0.3s;
+  }
+#zoomed {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 2;
+  }
+  #zoomed img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+    max-width: 90%;
+    max-height: 90%;
+    border: solid rgba(255, 255, 255, 0.7) 2px;
+    line-height:0;
+  }
+</style>
+</head>
+<body>
+
+    <div id="loadingMessage" style="display: none;">Loading more images...</div>
+<div id="menu">
+  <button id="decreaseColumns">-</button>
+  <button id="resetColumns">Reset</button>
+  <button id="increaseColumns">+</button>
+</div>
+<div id="zoomed">
+  <img src="" alt="">
+</div>
+<div id="gallery"></div>
+<script>
+  // List of image sources
+const imageSources = [
+  'https://i.postimg.cc/RZwz5B39/100-0010.webp',
+'https://i.postimg.cc/LsTK53Bb/100-0029-2.webp',
+'https://i.postimg.cc/s2yC3NSW/100-0051.webp',
+'https://i.postimg.cc/Px5GwvSr/100-0317.webp',
+'https://i.postimg.cc/XYSTgzsP/100-0322.webp',
+'https://i.postimg.cc/WzxxCWTh/100-0401.webp',
+'https://i.postimg.cc/9M86tXkP/100-0402.webp',
+'https://i.postimg.cc/brZK6cX7/100-0405.webp',
+'https://i.postimg.cc/y8m2py58/100-0519.webp',
+'https://i.postimg.cc/KzHW3qKJ/100-0570.webp',
+'https://i.postimg.cc/jdJpPb4N/100-0590.webp',
+'https://i.postimg.cc/766c68L5/100-0657.webp',
+'https://i.postimg.cc/1zy2kNhc/100-0674.webp',
+'https://i.postimg.cc/BvNk4QJW/100-0675.webp',
+'https://i.postimg.cc/WzqHGGgj/100-0678.webp',
+'https://i.postimg.cc/sfBj6bJf/100-0690.webp',
+'https://i.postimg.cc/QM4DSq9W/100-0715.webp',
+'https://i.postimg.cc/kXKn98Zk/100-0717.webp',
+'https://i.postimg.cc/nzXJWQBS/100-0729-EDIT.webp',
+'https://i.postimg.cc/P5HdqJnN/100-0857.webp',
+'https://i.postimg.cc/mDKsW2SL/100-0866.webp',
+'https://i.postimg.cc/yNYBFGdH/100-0883.webp',
+'https://i.postimg.cc/WbGPxVqV/100-0979.webp',
+'https://i.postimg.cc/DfbhdL28/100-0995.webp',
+'https://i.postimg.cc/D0sKvkCq/100-0997-2.webp',
+'https://i.postimg.cc/zBbs7YY9/100-1019-2.webp',
+'https://i.postimg.cc/vZGdsK5V/100-1020.webp',
+'https://i.postimg.cc/0yZ12CCH/100-1028.webp',
+'https://i.postimg.cc/t4B8H4XK/100-1032-2.webp',
+'https://i.postimg.cc/h4xF7nrm/100-1035.webp',
+'https://i.postimg.cc/vmNR5Hkr/100-1036.webp',
+'https://i.postimg.cc/02qTY4WB/100-1039.webp',
+'https://i.postimg.cc/SK55J1YV/100-1044-2.webp',
+'https://i.postimg.cc/wMDSK5v2/100-1048.webp',
+'https://i.postimg.cc/YqfJbxTq/100-1049-2.webp',
+'https://i.postimg.cc/kGPpyVcb/100-1052-EDIT.webp',
+'https://i.postimg.cc/sf58gcj9/20220715-183231.webp',
+'https://i.postimg.cc/SRLt1yTt/20220715-225504-HDR.webp',
+'https://i.postimg.cc/RFHYf1cm/20220718-182241.webp',
+'https://i.postimg.cc/MGXNZJHv/20220718-182243.webp',
+'https://i.postimg.cc/CKZrTCr8/20220731-101055.webp',
+'https://i.postimg.cc/rFcH0rz6/20220830-133224-2.webp',
+'https://i.postimg.cc/SNyZNbtk/20220930-103127-HDR.webp',
+'https://i.postimg.cc/x11FgVKt/20221007-170440.webp',
+'https://i.postimg.cc/g2ttTtsd/20221007-170446.webp',
+'https://i.postimg.cc/Yq3s1Cmv/20221008-220453.webp',
+'https://i.postimg.cc/x8Q6zwfG/20221108-135717-HDR-PANO.webp',
+'https://i.postimg.cc/2yT7B3Xm/20221108-135722-HDR.webp',
+'https://i.postimg.cc/qBcbTvw1/20221119-235706.webp',
+'https://i.postimg.cc/BnzNgLZn/20221231-190510-HDR-2.webp',
+'https://i.postimg.cc/8PtZ7XqW/20230527-192609-2.webp',
+'https://i.postimg.cc/nhr0BYJW/20230604-115924-2.webp',
+'https://i.postimg.cc/6qhYLMqk/20230604-144910-HDRd.webp',
+'https://i.postimg.cc/xCDRwwzr/20230624-134646.webp',
+'https://i.postimg.cc/25BGXk3F/20230701-145926.webp',
+'https://i.postimg.cc/50B3bsBX/20230707-214748.webp',
+'https://i.postimg.cc/BbJC62pM/20230708-192304.webp',
+'https://i.postimg.cc/nrVvZpVW/20230711-174815-HDR.webp',
+'https://i.postimg.cc/Hkr9VY0D/IMG-20200509-115757.webp',
+'https://i.postimg.cc/WbW7NFkw/IMG-20200516-153237.webp',
+'https://i.postimg.cc/9XBpkNXS/IMG-20200516-153302.webp',
+'https://i.postimg.cc/J44qCcGh/IMG-20200516-205010.webp',
+'https://i.postimg.cc/y82XRMnJ/IMG-20200516-205018.webp',
+'https://i.postimg.cc/q7ncx1Z1/IMG-20200612-175844.webp',
+'https://i.postimg.cc/rmk1n5BM/IMG-20200612-180137.webp',
+'https://i.postimg.cc/P5DvgPzx/IMG-20200801-013008.webp',
+'https://i.postimg.cc/hvCVt6ft/IMG-20200813-181016.webp',
+'https://i.postimg.cc/G2xkZHRY/IMG-20200906-232720.webp',
+'https://i.postimg.cc/cHhnF27B/IMG-20210127-174335.webp',
+'https://i.postimg.cc/9fGT7rrS/IMG-20210703-171714.webp',
+'https://i.postimg.cc/TY4r8zzk/IMG-20210703-171723-2.webp',
+'https://i.postimg.cc/XNxfLGQ6/IMG-20210703-172711.webp',
+'https://i.postimg.cc/Gh2k5L58/IMG-20210703-173803.webp',
+'https://i.postimg.cc/MKMnBvLD/IMG-20230428-190612.webp',
+'https://i.postimg.cc/rpLRMMQ9/IMG-20230515-200001.webp',
+'https://i.postimg.cc/WpfDtM5z/IMG-20230701-121317.webp',
+'https://i.postimg.cc/6pCTHFt4/IMG-20230701-124642.webp',
+'https://i.postimg.cc/sx1vwXg3/IMG-20230701-131746.webp',
+'https://i.postimg.cc/cLW8NdDB/IMG-20230711-195627.webp',
+'https://i.postimg.cc/nLYjLgWf/IMG-pix2-20200722-121420-6.webp',
+'https://i.postimg.cc/504HQpcY/MVIMG-20200516-110828.webp',
+'https://i.postimg.cc/zvM3MryK/MVIMG-20200620-164035.webp',
+'https://i.postimg.cc/vHJctGFd/MVIMG-20200620-164038.webp',
+'https://i.postimg.cc/cJXx2SjC/MVIMG-20200705-150724.webp',
+'https://i.postimg.cc/Fzc12636/MVIMG-20200705-153934.webp',
+'https://i.postimg.cc/mgZ2wkXJ/MVIMG-20200711-164951.webp',
+'https://i.postimg.cc/SsPyQGmp/MVIMG-20200711-164958.webp',
+'https://i.postimg.cc/xT31MMRL/MVIMG-20200720-173132.webp',
+'https://i.postimg.cc/RhnvWn0J/MVIMG-20200722-114103.webp',
+'https://i.postimg.cc/nrtnQh9d/MVIMG-20200806-202442-1.webp',
+'https://i.postimg.cc/NfdwQ4DC/MVIMG-20200806-203334-1-2.webp',
+'https://i.postimg.cc/KzPdwr4N/MVIMG-20200806-203335.webp',
+'https://i.postimg.cc/mDfvm6Zk/MVIMG-20200806-210425.webp',
+'https://i.postimg.cc/pLyMrF1W/MVIMG-20200806-210741.webp',
+'https://i.postimg.cc/hPDBFwL7/MVIMG-20200806-211842.webp',
+'https://i.postimg.cc/QNq2qb2N/MVIMG-20200807-153907.webp',
+'https://i.postimg.cc/0j9LsMwq/MVIMG-20200808-115004.webp',
+'https://i.postimg.cc/HkrFdCVj/MVIMG-20200808-124540.webp',
+'https://i.postimg.cc/htN6G3ds/MVIMG-20200808-124947-1.webp',
+'https://i.postimg.cc/TY7BzP2Z/MVIMG-20200808-131721.webp',
+'https://i.postimg.cc/mk6V5t3j/MVIMG-20200808-133714.webp',
+'https://i.postimg.cc/m2tmFyR5/MVIMG-20200808-135319.webp',
+'https://i.postimg.cc/7PXRzLzf/MVIMG-20200808-141033.webp',
+'https://i.postimg.cc/vHk37xZH/MVIMG-20200808-144550.webp',
+'https://i.postimg.cc/q78bvB0B/MVIMG-20200809-112125.webp',
+'https://i.postimg.cc/3RYL4MJX/MVIMG-20200809-112202.webp',
+'https://i.postimg.cc/mkr8jQ9h/MVIMG-20200919-114400.webp',
+'https://i.postimg.cc/cHhFfDrV/PXL-20201003-040729489-PORTRAIT.webp',
+'https://i.postimg.cc/QtzTL5PF/PXL-20201003-212239283.webp',
+'https://i.postimg.cc/WpD9d7sf/PXL-20201003-212248137.webp',
+'https://i.postimg.cc/66HH3msZ/PXL-20201008-205625835-PORTRAIT-01-COVER.webp',
+'https://i.postimg.cc/cCKf6TY7/PXL-20201009-213124095.webp',
+'https://i.postimg.cc/CKYCJGTY/PXL-20201104-061821544.webp',
+'https://i.postimg.cc/x1mg6jXG/PXL-20201113-042029181.webp',
+'https://i.postimg.cc/MTp7JzpF/PXL-20201113-042057105.webp',
+'https://i.postimg.cc/rsvx4WCB/PXL-20210209-173750080-MP.webp',
+'https://i.postimg.cc/bYMQ4ccm/PXL-20210209-173813321.webp',
+'https://i.postimg.cc/Rq5Jhmv9/PXL-20210209-173818057.webp',
+'https://i.postimg.cc/RFhHbGPr/PXL-20210430-013450669.webp',
+'https://i.postimg.cc/N0M6WgMP/PXL-20210430-183713806.webp',
+'https://i.postimg.cc/tT8N3L9v/PXL-20210502-014227157.webp',
+'https://i.postimg.cc/c1QnkKhL/PXL-20210608-210344707.webp',
+'https://i.postimg.cc/GhdsWcgJ/PXL-20210608-210657622.webp',
+'https://i.postimg.cc/9XvLZqMX/PXL-20210608-211628166-MP.webp',
+'https://i.postimg.cc/dQTBst9b/PXL-20210608-213011159-MP.webp',
+'https://i.postimg.cc/JzRc53W8/PXL-20210608-215056308-MP.webp',
+'https://i.postimg.cc/Zn3FVVRb/PXL-20210608-215415360-MP.webp',
+'https://i.postimg.cc/g2MRyfDy/PXL-20210703-051734974-MP.webp',
+'https://i.postimg.cc/cJnRsFRQ/PXL-20210703-231245086.webp',
+'https://i.postimg.cc/ZYVdzGGG/PXL-20210703-231404200.webp',
+'https://i.postimg.cc/rpxVy4Kd/PXL-20210703-232501224-MP.webp',
+'https://i.postimg.cc/6qg65fLv/PXL-20210704-034708700.webp',
+'https://i.postimg.cc/rm4QP8Z2/PXL-20210704-034738041.webp',
+'https://i.postimg.cc/3xpNNVqJ/PXL-20210707-021828428.webp',
+'https://i.postimg.cc/QC5w1gZ5/PXL-20220604-034043003.webp',
+];
+
+  const zoomed = document.getElementById('zoomed');
+  const zoomedImage = zoomed.querySelector('img');
+  const gallery = document.getElementById('gallery');
+  const decreaseColumnsButton = document.getElementById('decreaseColumns');
+  const resetColumnsButton = document.getElementById('resetColumns');
+  const increaseColumnsButton = document.getElementById('increaseColumns');
+
+  let columns = 5;
+  let currentPage = 1;
+  const imagesPerPage = 20;
+  let isLoading = false;
+
+  function updateColumns(newColumns) {
+    columns = newColumns;
+    gallery.style.columnCount = columns;
+  }
+
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+
+  shuffleArray(imageSources);
+
+  function loadNextImages() {
+    if (isLoading) return;
+    isLoading = true;
+
+    const startIndex = (currentPage - 1) * imagesPerPage;
+    const endIndex = startIndex + imagesPerPage;
+
+    const imagesToLoad = imageSources.slice(startIndex, endIndex);
+
+    imagesToLoad.forEach((src, index) => {
+      const galleryItem = document.createElement('div');
+      galleryItem.classList.add('gallery-item');
+      const image = document.createElement('img');
+      image.src = src;
+      image.alt = `Image ${startIndex + index + 1}`;
+      galleryItem.appendChild(image);
+      gallery.appendChild(galleryItem);
+
+      // Add click event to zoom image
+      image.addEventListener('click', () => {
+        zoomedImage.src = src;
+        zoomed.style.display = 'block';
+      });
+    });
+
+    currentPage++;
+    isLoading = false;
+  }
+
+  // Load initial images
+  loadNextImages();
+
+// Function to check if user has reached the bottom of the page
+function isBottomReached() {
+  const scrolled = window.scrollY;
+  const viewportHeight = window.innerHeight;
+  const totalGalleryHeight = gallery.offsetHeight; // Use the height of the gallery container
+
+  return scrolled + viewportHeight >= totalGalleryHeight;
+}
+
+// Attach a scroll event listener to check if user has reached the bottom
+window.addEventListener('scroll', () => {
+  if (isBottomReached() &&
+      !isLoading) {
+    loadNextImages();
+  }
+});
+
+  // Attach close event
+  zoomed.addEventListener('click', () => {
+    zoomed.style.display = 'none';
+  });
+
+  decreaseColumnsButton.addEventListener('click', () => {
+    if (columns > 1) {
+      updateColumns(columns - 1);
+    }
+  });
+
+  resetColumnsButton.addEventListener('click', () => {
+    updateColumns(5);
+  });
+
+  increaseColumnsButton.addEventListener('click', () => {
+    updateColumns(columns + 1);
+  });
+
+</script>
+</body>
+</html>
