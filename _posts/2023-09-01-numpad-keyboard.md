@@ -10,7 +10,7 @@ I was waiting to become really good at using a one handed keyboard before making
 
 Portability was my main draw to the numpad keyboard, and the keyboard I have is already really portable, but there is still value in a one handed keyboard, and I hope the people who need it do find it.
 
-https://github.com/saturdayxiii/numpad-keyboard
+[https://github.com/saturdayxiii/numpad-keyboard](Github Download)
 
 If you're new to learning new keyboard layouts, prepare to work on something without really noticing improvements.  Be casual; as in, don't stress yourself out.  Aim to use the new layout as your main layout, but if you have important work to do or are just plain frusterated don't be scared to set it aside.  Keep yourself in good spirits so you can pick it back up if you take a break.
 
