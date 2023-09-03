@@ -2,10 +2,8 @@
 layout: post
 type: tech
 title: "Numpad Keyboard"
-image:
-link: 
-caption: 
-video: https://www.youtube.com/watch?v=52c01fJGBLw
+image:https://i.postimg.cc/R0NjGpbJ/numkeyboard.webp
+link: https://www.youtube.com/watch?v=52c01fJGBLw
 tags: ['tech', 'keyboard', 'numpad', 'keyboard layout', 'learn new things', 'learning',]
 ---
 I was waiting to become really good at using a one handed keyboard before making a video.  Well, I haven't worked on it in nearly a year so I figured now or never.  
