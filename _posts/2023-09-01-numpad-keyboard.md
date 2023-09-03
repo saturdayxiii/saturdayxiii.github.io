@@ -2,7 +2,7 @@
 layout: post
 type: tech
 title: "Numpad Keyboard"
-image:https://i.postimg.cc/R0NjGpbJ/numkeyboard.webp
+image: https://i.postimg.cc/R0NjGpbJ/numkeyboard.webp
 link: https://www.youtube.com/watch?v=52c01fJGBLw
 tags: ['tech', 'keyboard', 'numpad', 'keyboard layout', 'learn new things', 'learning',]
 ---
