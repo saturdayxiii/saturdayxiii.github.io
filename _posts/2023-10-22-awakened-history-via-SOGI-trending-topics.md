@@ -5,11 +5,11 @@ title: "Awakened history via SOGI trending topics"
 tags: ["me","thoughts","sex","SOGI","sex_education","childhood"]
 comments: true
 ---
-With all the recent SOGI protests and counter protests, I've been doing recollecting of my own childhood sexual education.  I don't mind talking about the spicier aspects, but I probably shouldn't in a public forum.
+With all the recent SOGI protests and counter protests, I've been doing recollecting of my own childhood sexual education.  I've concluded that relying solely on family values left me feeling problematic and socially stunted, and broader sexual education at a younger age likely would have given me better personal awareness and growth. I don't mind talking about the spicier aspects, but I probably shouldn't in a public forum.
 
-What I can say is that my earliest sexual experience (non explicit.  Chill.) is being young enough to be seated in the top of a grocery cart, well before school age, and not being able to keep my eyes off the magazine covers around the grocery checkout.  Then being mocked and feeling ashamed for it.
+What I can say is that my earliest sexual experience (non explicit.  Chill.) is being young enough to be seated in the top of a grocery cart, and not being able to keep my eyes off the magazine covers around the grocery checkout.  Then being mocked and feeling ashamed for it.
 
-I don't think there's anything particularly negative about the way that single situation was addressed by my caretakers, it certainly wasn't intentional to make me feel bad, but acknowledgement of my awareness of sex was few and far between and always, at its most positive, awkward.  I've never learned to control my internal desires, but I quickly learned to hide them.
+I don't think there's anything particularly negative about the way that single situation was addressed by my caretakers, (I want to point out this wasn't my parents) it certainly wasn't intentional to make me feel bad, but acknowledgement of my awareness of sex was few and far between; and always, at its most positive, awkward.  I've never learned to control my internal desires, but I quickly learned to hide them.
 
 I got thinking more about this due to the line in a [Regrettes song](https://ymusic.io/watch?v=FBoffvpXCf8): "I was kissing girls before I ever kissed a guy",  and I used to think "That seems pretty common for girls to find safety in same sex experiences before becoming interested in the opposite sex".  After more thought I've come to realize that I do in fact have the same experience.  
 
