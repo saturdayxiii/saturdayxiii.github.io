@@ -7,7 +7,14 @@ audio:
 video: 
 image: https://saturdayxiii.github.io/media/148502555644.jpg
 link: https://saturdayxiii.github.io/media/148502555644.jpg
-tags: ["snake", "snek", "reptile", "pets", "yeg", "animals", "photography"]
+tags:
+  - snake
+  - snek
+  - reptile
+  - pets
+  - yeg
+  - photography
+  - animal
 comments: true
 ---
 When you have a favorite cozy, but it’s not really that cozy.

@@ -1,13 +1,26 @@
 ---
 layout: post
-title: "They gave me a picture to"
+title: They gave me a picture to
 type: art
 timestamp: October 26th, 2015 11:17am
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/131959904749.jpg
 link: https://saturdayxiii.github.io/media/131959904749.jpg
-tags: ["mario", "wario", "luigi", "yoshi", "sonic", "knuckles", "tails", "amy", "hedgehog", "nintendo", "sega", "crayons", "art"]
+tags:
+  - mario
+  - wario
+  - luigi
+  - yoshi
+  - sonic
+  - knuckles
+  - tails
+  - hedgehog
+  - nintendo
+  - sega
+  - crayons
+  - art
+  - amy-rose
 comments: true
 ---
 They gave me a picture to color.  I color what I want.

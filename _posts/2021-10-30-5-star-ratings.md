@@ -1,8 +1,17 @@
 ---
 layout: post
 type: me
-title: "How to Use a 5 Star Rating System"
-tags: ['5-star', 'ratings', 'tags', 'rating system', 'advice', 'instruction', 'me', 'personal', 'thoughts']
+title: How to Use a 5 Star Rating System
+tags:
+  - 5-star
+  - tags
+  - rating
+  - system
+  - advice
+  - instruction
+  - me
+  - personal
+  - thoughts
 comments: true
 ---
 
