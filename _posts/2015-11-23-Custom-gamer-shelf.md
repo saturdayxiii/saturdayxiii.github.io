@@ -32,10 +32,5 @@ tags:
 comments: true
 ---
 Here’s my custom gaming shelf that I designed to meet my needs.
-1. Couple trays unfinished, but you get the idea.
-2. Made of these modules. 
-3. Fits all major consoles! 
-4. Controller rests!
-5. The original design sketch.
 
 <small>source: [https://saturdayxiii.tumblr.com/post/133814245004](https://saturdayxiii.tumblr.com/post/133814245004)</small>
