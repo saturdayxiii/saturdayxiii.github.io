@@ -12,6 +12,7 @@ gallery:
 video: 
 vgallery:
   - vid: 
-tags: ['', '']
+audio: 
+tags: 
 comments: true
 ---

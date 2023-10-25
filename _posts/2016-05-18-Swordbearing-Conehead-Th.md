@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Swordbearing Conehead  Th"
+title: Swordbearing Conehead  Th
 type: art
 timestamp: May 18th, 2016 12:00pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/144561714036.jpg
 link: https://saturdayxiii.github.io/media/144561714036.jpg
-tags: ["photo", "hawaii", "grasshopper", "pointy", "bastard", "insect", "photography"]
+tags:
+  - photo
+  - hawaii
+  - grasshopper
+  - insect
+  - photography
+  - pointy_bastard
 comments: true
 ---
 Sword-bearing Conehead.  The closest wiki I could find to it. 

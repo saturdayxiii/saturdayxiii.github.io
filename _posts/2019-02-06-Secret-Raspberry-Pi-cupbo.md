@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Secret Raspberry Pi cupbo"
+title: Secret Raspberry Pi cupbo
 type: 
 timestamp: February 8th, 2019 7:48pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182671455654.jpg
 link: https://saturdayxiii.github.io/media/182671455654.jpg
-tags: ["product", "purchase"]
+tags:
+  - product
+  - purchase
+  - computer
+  - minipc
 comments: true
 ---
 Secret Raspberry Pi cupboard with 10Tb of cloud storage.
