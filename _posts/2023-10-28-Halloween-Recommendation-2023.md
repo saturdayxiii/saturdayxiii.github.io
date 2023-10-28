@@ -5,10 +5,10 @@ title: Halloween Recommendation 2023
 image: https://i.postimg.cc/6p53GLFL/lsimps.webp
 link: https://i.postimg.cc/6p53GLFL/lsimps.webp
 tags:
-  - reccommended
   - halloween
   - show
   - Simpsons
+  - recommended
 comments: true
 ---
 It's hard to recommend a specific piece of media to commemorate this year's Halloween season because there's been so much great stuff.  [Dan's Gaming](www.twitch.tv/dansgaming)'s Horror Month has essentially been perfected and is always wonderful to burn yourself out on.  Even [The Exploring Series](www.youtube.com/@TheExploringSeries) has been doing nightly [SCP](scp-wiki.wikidot.com) readings.  But I think what's impacted me the most this year is last year's Treehouse of Horror from the Simpsons.

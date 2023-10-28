@@ -3,8 +3,6 @@ layout: post
 title: Now it’s a set
 type: art
 timestamp: August 29th, 2016 1:21pm
-audio: 
-video: 
 image: https://saturdayxiii.github.io/media/149662527124_0.gif
 link: https://saturdayxiii.github.io/media/149662527124_0.gif
 gallery:
@@ -14,7 +12,14 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/149662527124_2.gif
     url: https://saturdayxiii.github.io/media/149662527124_2.gif
-tags: ["feeding", "snake", "mouse", "noms", "snek", "gif", "photography"]
+tags:
+  - feeding
+  - snake
+  - mouse
+  - noms
+  - snek
+  - gif
+  - photography
 comments: true
 ---
 Now it’s a set!
