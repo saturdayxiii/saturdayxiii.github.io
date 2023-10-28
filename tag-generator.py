@@ -1,58 +1,62 @@
-#!/usr/bin/env python
-
-'''
-tag_generator.py
-Copyright 2017 Long Qian
-Contact: lqian8@jhu.edu
-This script creates tags for your Jekyll blog hosted by Github page.
-No plugins required.
-'''
-
-import glob
 import os
 import re
+import yaml
+import shutil
+import unicodedata
 
-post_dir = '_posts/'
-tag_dir = 'tags/'
+# Define the root folder and subfolders
+posts_folder = "_posts"
+tags_folder = "tags"
 
-filenames = glob.glob(post_dir + '*md')
+# Create the tags folder if it doesn't exist
+if not os.path.exists(tags_folder):
+    os.makedirs(tags_folder)
 
-total_tags = []
-for filename in filenames:
-    f = open(filename, 'r', encoding='utf8')
-    crawl = False
-    for line in f:
-        if crawl:
-            current_tags = line.strip().split(' ')
-            if current_tags[0] == 'tags:':
-                total_tags.extend(current_tags[1:])
-                crawl = False
-                break
-        if line.strip() == '---':
-            if not crawl:
-                crawl = True
-            else:
-                crawl = False
-                break
-    f.close()
-total_tags = set(total_tags)
+# Clear the existing files in the tags folder (moved outside of the loop)
+for tag_filename in os.listdir(tags_folder):
+    tag_file_path = os.path.join(tags_folder, tag_filename)
+    if os.path.isfile(tag_file_path):
+        os.remove(tag_file_path)
 
-old_tags = glob.glob(tag_dir + '*.md')
-for tag in old_tags:
-    os.remove(tag)
-    
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
+# Function to process and format tags
+def process_tags(tags):
+    processed_tags = []
+    for tag in tags:
+        # Remove spaces, replace apostrophes with empty string, convert to lowercase,
+        # and replace special characters with their basic equivalents
+        if tag:
+            print(f"Processing tag: {tag}")
+            processed_tag = tag.replace(' ', '_').replace('-', '_').replace("'", '').lower()
+            # Replace special characters with basic equivalents
+            processed_tag = ''.join(c for c in unicodedata.normalize('NFKD', processed_tag)
+                                    if not unicodedata.combining(c))
+            processed_tags.append(processed_tag)
+    return processed_tags
 
-for tag in total_tags:
-    tag = re.sub(r'"','',tag)
-    tag = re.sub(r',','',tag)
-    tag = re.sub(r'\[','',tag)
-    tag = re.sub(r'\]','',tag)
-    tag = tag.lower()
-    tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tags\ntitle: "Tag: ' + tag + '"\ntag-name: ' + tag + '\n---\n'
-    f.write(write_str)
-    f.close()
-print("Tags generated, count", total_tags.__len__())
+# Process each .md file in the _posts folder
+for filename in os.listdir(posts_folder):
+    if filename.endswith(".md"):
+        post_file = os.path.join(posts_folder, filename)
+        print(f"Processing file: {post_file}")
+
+        with open(post_file, "r", encoding="utf-8") as f:  # Specify the encoding as utf-8
+            content = f.read()
+            # Use regular expressions to extract the tags from the YAML front matter
+            match = re.search(r'^tags:(.*?)(?=\w+:|$)', content, re.DOTALL | re.MULTILINE)
+            if match:
+                print("Found tags:")
+                print(match)
+                tags_content = match.group(1).strip()
+                tags_list = yaml.safe_load(tags_content)
+                if tags_list:
+                    processed_tags = process_tags(tags_list)
+                    print(f"Processed tags: {processed_tags}")
+
+                    # Create tag files in the tags folder
+                    for tag in processed_tags:
+                        tag_file_path = os.path.join(tags_folder, f"{tag}.md")
+                        tag_yaml = f"---\nlayout: tags\ntitle: \"Tag: {tag}\"\ntag-name: {tag}\n---"
+                        with open(tag_file_path, "w") as tag_file:
+                            tag_file.write(tag_yaml)
+
+# Your tags should now be processed, and files created in the tags folder
