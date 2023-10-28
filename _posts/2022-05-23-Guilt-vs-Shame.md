@@ -1,0 +1,12 @@
+---
+layout: post
+type: me
+title: "Guilt vs Shame"
+tags: ['me', 'thoughts', 'guilt', 'shame', 'responsibility', 'sociality']
+comments: true
+---
+[RM Brown](https://www.youtube.com/watch?v=QuhqfaZNEOE) put me on a mini Briahna Joy Gray rabbit hole, and as one of the few mainstream leftists with smartly stated views, I'm totally fan girling over her.  This preamble is just to cover my source for my under devloped thoughts on the title topic.  As I was turned onto the idea by her article for [Current Affairs *The Politics of Shame*](https://www.currentaffairs.org/2018/03/the-politics-of-shame). Her article is about Trump and I'm literally going to talk about 2 sentences within it, so, make what you will of this intro.
+
+I guess I was inspired because I had already been thinking of the validity of different forms of repercussive actions.  My original concerns are of where to draw the lines of cutting out transgressive people from our lives, but that is a broader, possibly never ending debate.  Briahna mentions how the act of shaming a person can be dangerous because not only is it scientificly unhelpful, it can also lead to an identity of shame which will in turn lead to larger issues.  Think of (or in my case, remember) a child that only knows how to get attention by getting in trouble.  Guilt is considered here as a more desirable trait to impart.  My loose understanding being that guilt is shame but with a desire to change or sent things right.
+
+For me, this instantly brings forth images of Facebook comments on Rant pages calling for people to "name and shame" their transgressors.  I've never participated in such comments, but I don't know if I've ever had a problem with them.  However, with my new line of thinking, I may strive to participate in order to push a narrative of "name and point them on a course of corrective action".  Admittedtly, not as catchy, but I think it's an important change.  Not to diminish the importance of identifying where problems are in our lives, but we know the next step is to identify how to address those problems.  It feels like our society is in a place which often ignores, and never leaves the headspace of complaining; or skips that step and goes straight to removing the problem.  It's true that we don't always have the resources to come up with better solutions than just removing the problem, but the more we make it a habit the easier it will get.
