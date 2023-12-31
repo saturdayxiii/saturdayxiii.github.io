@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "NT"
+title: Game Classic Scratches
 type: tainment
 timestamp: October 17th, 2014 2:48pm
-audio: 
-video: 
 image: https://saturdayxiii.github.io/media/182014203904.jpg
 link: https://saturdayxiii.github.io/media/182014203904.jpg
-tags: ["game", "revolution", "recommended", "story"]
+tags:
+  - game
+  - revolution
+  - recommended
+  - story
 comments: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NT
+title: Tree Beasts
 type: art
 timestamp: June 30th, 2016 12:00pm
 audio: 

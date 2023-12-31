@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "NT"
+title: Kill Heart
 type: art
 timestamp: June 15th, 2016 12:00pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/145969714261.jpg
 link: https://saturdayxiii.github.io/media/145969714261.jpg
-tags: ["painting", "stencils", "art"]
+tags:
+  - painting
+  - stencils
+  - art
 comments: true
 ---
 

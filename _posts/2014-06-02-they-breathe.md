@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "NT"
+title: They Breathe
 type: tainment
 timestamp: August 2nd, 2014 3:50pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182015642344.jpg
 link: https://saturdayxiii.github.io/media/182015642344.jpg
-tags: ["game", "review", "recommended", "arcade"]
+tags:
+  - game
+  - review
+  - recommended
+  - arcade
 comments: true
 ---
 

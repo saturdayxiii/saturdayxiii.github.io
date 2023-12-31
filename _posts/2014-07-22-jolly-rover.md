@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "NT"
+title: Jolly Rover
 type: tainment
 timestamp: July 22nd, 2014 4:40pm
 audio: 
 video: 
 image: https://saturdayxiii.github.io/media/182016695849.jpg
 link: https://saturdayxiii.github.io/media/182016695849.jpg
-tags: ["game", "review", "recommended"]
+tags:
+  - game
+  - review
+  - recommended
 comments: true
 ---
 

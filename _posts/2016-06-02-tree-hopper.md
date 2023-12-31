@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NT
+title: Tree Hopper
 type: art
 timestamp: August 2nd, 2016 1:04pm
 audio: 
@@ -14,7 +14,13 @@ gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/148360085304_2.jpg
     url: https://saturdayxiii.github.io/media/148360085304_2.jpg
-tags: ["bug", "insect", "fly", "flower", "macro", "photography"]
+tags:
+  - bug
+  - insect
+  - fly
+  - flower
+  - macro
+  - photography
 comments: true
 ---
 

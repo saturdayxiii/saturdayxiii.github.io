@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NT
+title: Stone Weevil
 type: art
 timestamp: July 4th, 2016 12:00pm
 audio: 
