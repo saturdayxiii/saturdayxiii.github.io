@@ -23,7 +23,7 @@ gallery:
   - title: 
     gimage: https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg
     url: https://64.media.tumblr.com/b170ba4ec5633f2adb84c3f8eb6eb278/tumblr_inline_ogrbpfAS8u1rnrp45_540.jpg
-tags: ["anime", "blog", "journal", "rambling", "pointless", "sketches", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie", "personal"]
+tags: ["anime", "blog", "journal", "rambling", "pointless", "sketch", "ink", "illustration", "copying", "art", "nausicaa", "Thoughts", "movie", "personal"]
 comments: true
 ---
 On Monday night I saw Miyazaki’s Nausicaa of the Valley of the Wind at my local theatre.  So this is a follow up post to the one I’ve made in reaction to [Laputa: Castle in the Sky](http://saturdayxiii.tumblr.com/post/151944972574/laputa-and-self-reflection-regarding-anime).  I also thought it would be fun to attempt drawing in the dark theatre as the movie played.  So enjoy my renditions of certain “key” scenes.

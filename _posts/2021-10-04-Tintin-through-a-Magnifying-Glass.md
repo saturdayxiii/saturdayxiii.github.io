@@ -4,7 +4,7 @@ type: tainment
 title: "Tintin through a Magnifying Glass"
 image: http://i3.ytimg.com/vi/CCIZ_jROYh4/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=CCIZ_jROYh4
-tags: ['tintin', 'Georges Remi', 'Hergé', 'breadsword', 'wwii', 'movie', 'youtube', 'recommended']
+tags: ['tintin', 'Georges Remi', 'Herge', 'breadsword', 'wwii', 'movie', 'youtube', 'recommended']
 comments: true
 ---
 Tintin 2011 must be one of the most under appreciated movies in history.  I saw it when it came to theatre and I loved it, but now, having had to look up its release date, I'm pretty sure I saw a re-release of it and didn't know of it's existance in 2011.  That sounds insane to me.

@@ -3,7 +3,7 @@ layout: post
 type: me
 title: How to Use a 5 Star Rating System
 tags:
-  - 5-star
+  - 5star
   - tags
   - rating
   - system

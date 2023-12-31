@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/iEvntSex-7Y/hqdefault.jpg
 link: https://www.youtube.com/watch?v=iEvntSex-7Y)<p>I&rsquo;ve always been a critical person and I&rsquo;ve been trying to be less so, but I&rsquo;ve got about 30 years of experience to walk back on.  I&rsquo;ve been lucky enough to float around friend circles of a number of very, umm, un-critical (?
-tags: ["minimme", "game", "review", "shows", "recommended", "thoughts", "Youtube", "personal"]
+tags: ["minimme", "game", "review", "show", "recommended", "thoughts", "Youtube", "personal"]
 comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/iEvntSex-7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=iEvntSex-7Y)I've always been a critical person and I've been trying to be less so, but I've got about 30 years of experience to walk back on.  I've been lucky enough to float around friend circles of a number of very, umm, un-critical (?) people, and I get to learn bits and pieces from them.  Part of the problem is I've always thought it to be smart to be critical, but clearly that's not entirely true and I'm not as smart as I thought I was.  

@@ -2,7 +2,7 @@
 layout: post
 type: me
 title: "Covid Conundrum"
-tags: ['covid', 'corona virus', 'privledge', 'healthcare', 'human-rights', 'thoughts', 'me']
+tags: ['covid', 'corona virus', 'privledge', 'healthcare', 'human_rights', 'thoughts', 'me']
 comments: true
 ---
 My boss often jokes that he'll end up in a covid concentration camp for not being vaccinated, but it's pretty clear that he thinks that is a real possibility.  He's definitely not the only one I know to consider vaccines and passports comparable to the holocaust, but lets be real: the absolute worst the vaccinated can do to the unvaccinated is vaccinate them.  There's no point rounding up, capturing, or murdering the unvaccinated.  The most dystopian thing that could happen is police restraint, then a shot in the arm.  I'm not condoning that, but that's the worst that can happen to the unvaccinated.  Then they're back in the same boat as the rest of us.

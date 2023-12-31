@@ -7,7 +7,7 @@ audio:
 video: 
 image: http://i3.ytimg.com/vi/BqBS3AyFPCY/hqdefault.jpg
 link: https://www.youtube.com/watch?v=BqBS3AyFPCY
-tags: ["spoopy", "chass", "greentext", "shows", "youtube", "recommended", "Youtube"]
+tags: ["spoopy", "chass", "greentext", "show", "Youtube", "recommended", "Youtube"]
 comments: true
 ---
 [![thumbnail](http://i3.ytimg.com/vi/BqBS3AyFPCY/hqdefault.jpg)](https://www.youtube.com/watch?v=BqBS3AyFPCY)I don't know why robovoice stories appeal to me.  I think the lack of inflection helps get across the actual quality of the writing.  But I'm probably making that up because these newer videos obviously have artificial inflection coded in.

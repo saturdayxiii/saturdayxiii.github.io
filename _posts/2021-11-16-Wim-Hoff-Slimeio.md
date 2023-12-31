@@ -4,7 +4,7 @@ type: tainment
 title: "Wim Hoff / Slimeio"
 image: http://i3.ytimg.com/vi/fgEwWWOlicE/maxresdefault.jpg
 link: https://youtu.be/fgEwWWOlicE
-tags: ['thoughtslime', 'curio', 'wim-hoff', 'cold-resistance', 'show', 'youtube']
+tags: ['thoughtslime', 'curio', 'wim_hoff', 'cold_resistance', 'show', 'youtube']
 ---
 [Thought Slime](https://www.youtube.com/channel/UCrr7y8rEXb7_RiVniwvzk9w) has a new podcast format this week.  A "Cringe Corner" with [CurioVids](https://www.youtube.com/c/CurioVids) Matt tells us about how [The Wim Hof Method makes us Super-Human](https://www.youtube.com/watch?v=fgEwWWOlicE) and we get to react along with Sophie in this demonstration of the genetically gifted selling their privledge in a training package where you supposedly just need to work hard and be committed enough to obtain.
 

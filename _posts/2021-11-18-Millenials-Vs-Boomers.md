@@ -4,7 +4,7 @@ type: tainment
 title: "Millenials Vs Boomers"
 image: http://i3.ytimg.com/vi/Pit-WT0pU34/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=Pit-WT0pU34
-tags: ['leftism', 'politics', 'youtube', 'some-more-news', 'show', 'recommended']
+tags: ['leftism', 'politics', 'youtube', 'some_more_news', 'show', 'recommended']
 comments: true
 ---
 What, another one by [Some More News](https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng)?

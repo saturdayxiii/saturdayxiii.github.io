@@ -3,7 +3,7 @@ layout: post
 type: me
 title: "Tuesday Giving"
 link: https://www.sociologylens.net/topics/collective-behaviour-and-social-movements/holiday-giving-the-role-of-charity-in-capitalism/12731
-tags: ['charity', 'non-profit', 'thoughts']
+tags: ['charity', 'nonprofit', 'thoughts']
 ---
 > [Charity at its core reflects a symptomatic problem with capitalism. There are individuals throughout the world that are desperate for the most basic necessities in life and have to rely on the generosity of others. The very idea of needing charity is a reflection of a capitalist society that promotes an ‘everybody for themselves’ ethos, leaving many people to fight for scraps.](https://www.sociologylens.net/topics/collective-behaviour-and-social-movements/holiday-giving-the-role-of-charity-in-capitalism/12731)
 

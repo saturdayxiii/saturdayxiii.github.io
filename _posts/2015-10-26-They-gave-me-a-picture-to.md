@@ -20,7 +20,7 @@ tags:
   - sega
   - crayons
   - art
-  - amy-rose
+  - amy_rose
 comments: true
 ---
 They gave me a picture to color.  I color what I want.

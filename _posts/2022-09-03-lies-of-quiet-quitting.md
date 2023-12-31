@@ -2,7 +2,7 @@
 layout: post
 type: me
 title: "Lies of Quiet Quitting"
-tags: ['me', 'thoughts', 'quiet-quitting', 'antiwork', 'responsibility', 'employment', 'freedom']
+tags: ['me', 'thoughts', 'quiet_quitting', 'antiwork', 'responsibility', 'employment', 'freedom']
 comments: true
 ---
 Canadians and American's are often vocal of how they love to support freedom, yet many of these most vocal proponents are very directly pro-slavery.  Our society has a movement corruptly labled as "quiet quitting" and is considered "anti work", but the definition of that action is to do no more than what your job contracts.  That is the very basis of employment.  We've normalized the basis of work to be a form of "quitting".

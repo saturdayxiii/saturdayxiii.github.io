@@ -4,7 +4,7 @@ type: tainment
 title: "Comedy and Intent"
 image: http://i3.ytimg.com/vi/KSXKzPOcYDU/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=KSXKzPOcYDU
-tags: ['politics', 'conservatives', 'comedy', 'some-more-news', 'youtube', 'show', 'recommended']
+tags: ['politics', 'conservatives', 'comedy', 'some_more_news', 'youtube', 'show', 'recommended']
 comments: true
 ---
 This topic is way over done, and this video is way too long.  But despite that, I've never felt so educated by such low brow comedy.  This video made me feel more enlightened about comedy, and the conservative mindset, and after only a couple repititions I couldn't help but laugh at the embarrarssingly juvinile example jokes.
