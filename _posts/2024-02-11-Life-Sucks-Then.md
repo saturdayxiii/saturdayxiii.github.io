@@ -9,19 +9,19 @@ gallery:
   - title: 
     gimage: https://i.postimg.cc/Y4cL2522/Life-Sucks-Then-02.webp
     url: https://i.postimg.cc/s39TVDmT/Life-Sucks-Then-02.webp
- - title: 
+  - title: 
     gimage: https://i.postimg.cc/3yg4ktWX/Life-Sucks-Then-03.webp
     url: https://i.postimg.cc/XVjQXSD4/Life-Sucks-Then-03.webp
- - title: 
+  - title: 
     gimage: https://i.postimg.cc/DmfJzdhG/Life-Sucks-Then-04.webp
     url: https://i.postimg.cc/cW5X1z7G/Life-Sucks-Then-04.webp
- - title: 
+  - title: 
     gimage: https://i.postimg.cc/q67zZ0ww/Life-Sucks-Then-06.webp
     url: https://i.postimg.cc/pW7Z09VL/Life-Sucks-Then-06.webp
- - title: 
+  - title: 
     gimage: https://i.postimg.cc/TLfygnWZ/Life-Sucks-Then-07-2.webp
     url: https://i.postimg.cc/mbmVHX0M/Life-Sucks-Then-07-2.webp
- - title: 
+  - title: 
     gimage: https://i.postimg.cc/7G95Vb3b/Life-Sucks-Then-08-2.webp
     url: https://i.postimg.cc/tq7ktdjc/Life-Sucks-Then-08-2.webp
 tags:
