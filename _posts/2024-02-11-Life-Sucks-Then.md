@@ -2,27 +2,27 @@
 layout: post
 type: art
 title: Life Sucks Then
-image: https://i.postimg.cc/87frSpSn/Life-Sucks-Then-01.webp
+image: https://i.postimg.cc/Qd0gcCns/Life-Sucks-Then-01.webp
 link: https://i.postimg.cc/Qjr6GWQB/Life-Sucks-Then-01.webp
 caption: 
 gallery:
   - title: 
-    gimage: https://i.postimg.cc/Y4cL2522/Life-Sucks-Then-02.webp
+    gimage: https://i.postimg.cc/7Lh394pz/Life-Sucks-Then-02.webp
     url: https://i.postimg.cc/s39TVDmT/Life-Sucks-Then-02.webp
   - title: 
-    gimage: https://i.postimg.cc/3yg4ktWX/Life-Sucks-Then-03.webp
+    gimage: https://i.postimg.cc/cJzQ5jSb/Life-Sucks-Then-03.webp
     url: https://i.postimg.cc/XVjQXSD4/Life-Sucks-Then-03.webp
   - title: 
-    gimage: https://i.postimg.cc/DmfJzdhG/Life-Sucks-Then-04.webp
+    gimage: https://i.postimg.cc/Y2Y1bbyd/Life-Sucks-Then-04.webp
     url: https://i.postimg.cc/cW5X1z7G/Life-Sucks-Then-04.webp
   - title: 
-    gimage: https://i.postimg.cc/q67zZ0ww/Life-Sucks-Then-06.webp
+    gimage: https://i.postimg.cc/XqfdqYyR/Life-Sucks-Then-06.webp
     url: https://i.postimg.cc/pW7Z09VL/Life-Sucks-Then-06.webp
   - title: 
-    gimage: https://i.postimg.cc/TLfygnWZ/Life-Sucks-Then-07-2.webp
+    gimage: https://i.postimg.cc/gJ6v9Dck/Life-Sucks-Then-07-2.webp
     url: https://i.postimg.cc/mbmVHX0M/Life-Sucks-Then-07-2.webp
   - title: 
-    gimage: https://i.postimg.cc/7G95Vb3b/Life-Sucks-Then-08-2.webp
+    gimage: https://i.postimg.cc/rsX5qrzG/Life-Sucks-Then-08-2.webp
     url: https://i.postimg.cc/tq7ktdjc/Life-Sucks-Then-08-2.webp
 tags:
   - art
