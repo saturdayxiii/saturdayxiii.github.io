@@ -7,7 +7,7 @@ link: https://i.postimg.cc/09hCf1bY/01c.webp
 caption: 
 gallery:
   - title: 
-    gimage: https://i.postimg.cc/2qtytnsb/02c.webp
+    gimage: https://i.postimg.cc/Y9rFh383/02c.webp
     url: https://i.postimg.cc/08m0XXwL/02c.webp
   - title: 
     gimage: https://i.postimg.cc/bs0GvDtW/03c.webp
