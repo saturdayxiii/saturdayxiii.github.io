@@ -2,15 +2,7 @@
 layout: default
 home: true
 ---
-<script>
-	$(document).ready(function() {
-	  // Change feature image on thumbnail click
-	  $('.thumbnail').click(function() {
-		var featureImageSrc = $(this).attr('data-feature-image');
-		$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
-	  });
-	});
-</script>
+
 {% for post in paginator.posts %}
 
 {% assign minutes = post.content | number_of_words | divided_by: 180 %}
@@ -34,48 +26,59 @@ home: true
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
+	  <script>
+	$(document).ready(function() {
+	  // Change feature image on thumbnail click
+	  $('.thumbnail').click(function() {
+		var featureImageSrc = $(this).attr('data-feature-image');
+		$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+	  });
+	});
+</script>
         {% if post.image %}
-          {% if post.gallery %}
-		    {% assign gallery_images = post.gallery | push: post.image %}
-            <style>
-				.image-gallery {
-				  text-align: center;
-				  margin-bottom: 20px;
-				}
+  {% if post.gallery %}
+    <style>
+      .image-gallery {
+        text-align: center;
+        margin-bottom: 20px;
+      }
 
-				.feature-image {
-				  max-height: 800px;
-				  width: auto;
-				}
+      .feature-image {
+        max-height: 800px;
+        width: auto;
+      }
 
-				.thumbnail-gallery {
-				  display: flex;
-				  overflow-x: auto;
-				  gap: 10px;
-				  margin-top: 10px;
-				}
+      .thumbnail-gallery {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+        margin-top: 10px;
+      }
 
-				.thumbnail {
-				  max-width: 100px;
-				  height: auto;
-				  cursor: pointer;
-				}
+      .thumbnail {
+        max-width: 100px;
+        height: auto;
+        cursor: pointer;
+      }
 
-            </style>
+    </style>
 
-            <div class="image-gallery">
-			  <a href="{{ item.link }}"><img src="{{ post.image }}" alt="{{ post.title }}" class="feature-image"></a>
-			  <div class="thumbnail-gallery">
-				{% for item in gallery_images %}
-				  <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}">
-				{% endfor %}
-			  </div>
-			</div>
+    <div class="image-gallery">
+      <a href="{{ item.link }}"><img src="{{ post.image }}" alt="{{ post.title }}" class="feature-image"></a>
+      <div class="thumbnail-gallery">
+        {% assign gallery_images = post.gallery | push: post.image %}
+        {% for item in gallery_images %}
+          <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}">
+        {% endfor %}
+      </div>
+    </div>
 
-          {% else %}
-            &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
-          {% endif %}
-        {% endif %}
+  {% else %}
+    &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+  {% endif %}
+{% endif %}
+
+
     {% if post.video %}
       {% if post.vgallery %}
         <video muted autoplay controls loop width="140"><source src="{{ post.video }}" type="video/mp4"></video>{% for item in post.vgallery %}<video muted autoplay controls loop width="140"><source src="{{ item.vid }}" type="video/mp4"></video>{% endfor %}
