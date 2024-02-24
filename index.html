@@ -62,11 +62,13 @@ home: true
       }
 
     </style>
-
+ 	{% assign feature_image = post.image %}
+    {% assign feature_link = post.link %}
+    {% assign gallery_images = post.gallery | push: post.image %}
+	
     <div class="image-gallery">
-      <a href="{{ item.link }}"><img src="{{ post.image }}" alt="{{ post.title }}" class="feature-image"></a>
+      <a href="{{ feature_link }}" target="_blank"><img src="{{ feature_image }}" alt="{{ post.title }}" class="feature-image"></a>
       <div class="thumbnail-gallery">
-        {% assign gallery_images = post.gallery | push: post.image %}
         {% for item in gallery_images %}
           <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}">
         {% endfor %}
