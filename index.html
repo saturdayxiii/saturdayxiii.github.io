@@ -2,13 +2,14 @@
 layout: default
 home: true
 ---
-<script>$(document).ready(function() {
-  // Change feature image on thumbnail click
-  $('.thumbnail').click(function() {
-    var featureImageSrc = $(this).attr('data-feature-image');
-    $('.feature-image').attr('src', featureImageSrc);
-  });
-});
+<script>
+	$(document).ready(function() {
+	  // Change feature image on thumbnail click
+	  $('.thumbnail').click(function() {
+		var featureImageSrc = $(this).attr('data-feature-image');
+		$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+	  });
+	});
 </script>
 {% for post in paginator.posts %}
 
