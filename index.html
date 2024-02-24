@@ -79,7 +79,7 @@ home: true
       <a href="{{ feature_link }}" target="_blank"><img src="{{ feature_image }}" alt="{{ post.title }}" class="feature-image"></a>
       <div class="thumbnail-gallery">
         {% for item in gallery_images %}
-          <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}">
+          <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.gimage }}" data-item-link="{{ item.url }}">
         {% endfor %}
       </div>
     </div>
