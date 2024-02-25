@@ -27,15 +27,43 @@ home: true
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
 	  <script>
-		  $(document).ready(function() {
-		// Change feature image on thumbnail click
+		 $(document).ready(function() {
+			// Change feature image on thumbnail click
 			$('.thumbnail').click(function() {
 			  var featureImageSrc = $(this).attr('data-feature-image');
 			  var featureImageLink = $(this).attr('data-item-link');
 			  $(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
 			  $(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
 			});
-		});
+
+			// Change feature image on left panel click
+			$('.left-panel').click(function() {
+			  var currentThumbnail = $(this).closest('.image-gallery').find('.thumbnail.active');
+			  var prevThumbnail = currentThumbnail.prev();
+			  if (prevThumbnail.length > 0) {
+				var featureImageSrc = prevThumbnail.attr('data-feature-image');
+				var featureImageLink = prevThumbnail.attr('data-item-link');
+				currentThumbnail.removeClass('active');
+				prevThumbnail.addClass('active');
+				$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+				$(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
+			  }
+			});
+
+			// Change feature image on right panel click
+			$('.right-panel').click(function() {
+			  var currentThumbnail = $(this).closest('.image-gallery').find('.thumbnail.active');
+			  var nextThumbnail = currentThumbnail.next();
+			  if (nextThumbnail.length > 0) {
+				var featureImageSrc = nextThumbnail.attr('data-feature-image');
+				var featureImageLink = nextThumbnail.attr('data-item-link');
+				currentThumbnail.removeClass('active');
+				nextThumbnail.addClass('active');
+				$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+				$(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
+			  }
+			});
+		  });
 	</script>
 		{% if post.image %}
         {% if post.gallery %}
@@ -66,7 +94,9 @@ home: true
             </style>
 
             <div class="image-gallery">
+			  <div class="panel left-panel"></div>
 			  <a href="{{ post.link }}" target="_blank" class="feature-image-link"><img src="{{ post.image }}" alt="{{ post.caption }}" class="feature-image"></a>
+			  <div class="panel right-panel"></div>
 			  <div class="thumbnail-gallery">
 				<img src="{{ post.image }}" alt="{{ post.caption }}" class="thumbnail" data-feature-image="{{ post.image }}" data-item-link="{{ post.link }}">
 				{% for item in post.gallery %}
