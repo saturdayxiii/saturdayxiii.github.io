@@ -67,7 +67,7 @@ home: true
     </style>
  	{% assign feature_image = post.image %}
     {% assign feature_link = post.link %}
-    {% assign gallery_images = post.gallery | push: post.image %}
+    {% assign gallery_images = "" | push: post.image | concat: post.gallery %}
 	
     <div class="image-gallery">
       <a href="{{ feature_link }}" target="_blank"><img src="{{ feature_image }}" alt="{{ post.title }}" class="feature-image"></a>
