@@ -94,7 +94,7 @@ home: true
 				.panel {
 					width: 50px;
 					height: 100%;
-					position: absolute;
+					position: relative;
 					top: 0;
 					background-color: rgba(255, 255, 255, 0.15);
 					cursor: pointer;
@@ -115,12 +115,12 @@ home: true
 			  <div class="panel left-panel"></div>
 			  <a href="{{ post.link }}" target="_blank" class="feature-image-link"><img src="{{ post.image }}" alt="{{ post.caption }}" class="feature-image"></a>
 			  <div class="panel right-panel"></div>
+			  </div>
 			  <div class="thumbnail-gallery">
-				<img src="{{ post.image }}" alt="{{ post.caption }}" class="thumbnail" data-feature-image="{{ post.image }}" data-item-link="{{ post.link }}">
+				<img src="{{ post.image }}" alt="{{ post.caption }}" class="thumbnail active" data-feature-image="{{ post.image }}" data-item-link="{{ post.link }}">
 				{% for item in post.gallery %}
 				  <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}" data-item-link="{{ item.url }}">
 				{% endfor %}
-			  </div>
 			</div>
 
           {% else %}
