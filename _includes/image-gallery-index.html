@@ -39,7 +39,7 @@
 			  <a href="{{ page.link }}" target="_blank" class="feature-image-link"><img src="{{ page.image }}" alt="{{ page.caption }}" class="feature-image"></a>
 			  <div class="thumbnail-gallery">
 				<img src="{{ page.image }}" alt="{{ page.caption }}" class="thumbnail" data-feature-image="{{ page.image }}" data-item-link="{{ page.link }}">
-				{% for item in post.gallery %}
+				{% for item in page.gallery %}
 				  <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}" data-item-link="{{ item.url }}">
 				{% endfor %}
 			  </div>
