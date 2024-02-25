@@ -1,8 +1,46 @@
-<style>
-    .image-gallery-index {overflow: auto; margin-left: -1%!important;}
-    .image-gallery-index a {float: left; display: block; margin: 0 0 1% 1%; width: 49%; text-decoration: none !important;}
-    .image-gallery-index a img {width: 100%; display: block;}
-    .image-gallery-index a span {display: block; text-align: center; padding: 3px 0;}
-</style>
+<script>
+		  $(document).ready(function() {
+		// Change feature image on thumbnail click
+			$('.thumbnail').click(function() {
+			  var featureImageSrc = $(this).attr('data-feature-image');
+			  var featureImageLink = $(this).attr('data-item-link');
+			  $(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+			  $(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
+			});
+		});
+	</script>
+            <style>
+				.image-gallery {
+				  text-align: center;
+				  margin-bottom: 20px;
+				}
 
-<p class="image-gallery-index"><a href="{{ page.link }}" title="{{ page.caption }}"><img src="{{ page.image }}" alt="{{ page.caption }}" /><span>{{ page.caption }}</span></a>{% for item in page.gallery %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="{{ item.gimage }}" alt="{{ item.title }}" /><span>{{ item.title }}</span></a>{% endfor %}</p>
+				.feature-image {
+				  max-height: 800px;
+				  width: auto;
+				}
+
+				.thumbnail-gallery {
+				  display: flex;
+				  overflow-x: auto;
+				  gap: 10px;
+				  margin-top: 10px;
+				}
+
+				.thumbnail {
+				  max-width: 100px;
+				  height: auto;
+				  cursor: pointer;
+				}
+
+            </style>
+
+            <div class="image-gallery">
+			  <a href="{{ page.link }}" target="_blank" class="feature-image-link"><img src="{{ page.image }}" alt="{{ page.caption }}" class="feature-image"></a>
+			  <div class="thumbnail-gallery">
+				<img src="{{ page.image }}" alt="{{ page.caption }}" class="thumbnail" data-feature-image="{{ page.image }}" data-item-link="{{ page.link }}">
+				{% for item in post.gallery %}
+				  <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}" data-item-link="{{ item.url }}">
+				{% endfor %}
+			  </div>
+			</div>
