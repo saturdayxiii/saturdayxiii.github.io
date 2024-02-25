@@ -33,13 +33,7 @@ home: true
 		var featureImageSrc = $(this).attr('data-feature-image');
 		var featureImageLink = $(this).attr('data-item-link');
 		$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
-		$(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
-	  });
-
-	  // Open link when clicking on feature image
-	  $('.feature-image').click(function() {
-		var featureImageLink = $(this).closest('.image-gallery').find('.feature-image-link').attr('href');
-		window.open(featureImageLink, '_blank');
+		$(this).closest('.image-gallery').find('.feature-image').attr('href', featureImageLink);
 	  });
 	});
 
@@ -76,7 +70,7 @@ home: true
     {% assign gallery_images = post.gallery | push: post.image %}
 	
     <div class="image-gallery">
-      <a href="{{ feature_image_link }}" target="_blank"><img src="{{ feature_image }}" alt="{{ post.title }}" class="feature-image"></a>
+      <a href="{{ feature_link }}" target="_blank"><img src="{{ feature_image }}" alt="{{ post.title }}" class="feature-image"></a>
       <div class="thumbnail-gallery">
         {% for item in gallery_images %}
           <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.gimage }}" data-item-link="{{ item.url }}">
