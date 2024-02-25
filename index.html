@@ -27,14 +27,14 @@ home: true
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
 	  <script>
-		$(document).ready(function() {
-		  // Change feature image on thumbnail click
-		  $('.thumbnail').click(function() {
-			var featureImageSrc = $(this).attr('data-feature-image');
-			var featureImageLink = $(this).attr('data-item-link');
-			$(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
-			$(this).closest('.image-gallery').find('.feature-image').attr('href', featureImageLink);
-		  });
+		  $(document).ready(function() {
+		// Change feature image on thumbnail click
+			$('.thumbnail').click(function() {
+			  var featureImageSrc = $(this).attr('data-feature-image');
+			  var featureImageLink = $(this).attr('data-item-link');
+			  $(this).closest('.image-gallery').find('.feature-image').attr('src', featureImageSrc);
+			  $(this).closest('.image-gallery').find('.feature-image-link').attr('href', featureImageLink);
+			});
 		});
 	</script>
 		{% if post.image %}
@@ -66,14 +66,14 @@ home: true
             </style>
 
             <div class="image-gallery">
-            <a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.caption }}" class="feature-image"></a>
-            <div class="thumbnail-gallery">
-				<img src="{{ post.image }}" alt="{{ post.caption }}"class="thumbnail" data-feature-image="{{ post.image }}" data-item-link="{{ post.link }}">
-              {% for item in post.gallery %}
-                <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}" data-item-link="{{ item.url }}">
-              {% endfor %}
-            </div>
-          </div>
+			  <a href="{{ post.link }}" target="_blank" class="feature-image-link"><img src="{{ post.image }}" alt="{{ post.caption }}" class="feature-image"></a>
+			  <div class="thumbnail-gallery">
+				<img src="{{ post.image }}" alt="{{ post.caption }}" class="thumbnail" data-feature-image="{{ post.image }}" data-item-link="{{ post.link }}">
+				{% for item in post.gallery %}
+				  <img src="{{ item.gimage }}" alt="{{ item.title }}" class="thumbnail" data-feature-image="{{ item.url }}" data-item-link="{{ item.url }}">
+				{% endfor %}
+			  </div>
+			</div>
 
           {% else %}
             &nbsp;<a href="{{ post.link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
