@@ -26,7 +26,7 @@ gallery:
     url: https://i.postimg.cc/B4YpjK3w/08c.webp
 tags:
   - art
-  - comics
+  - comic
   - illustration
   - demon
   - fantasy

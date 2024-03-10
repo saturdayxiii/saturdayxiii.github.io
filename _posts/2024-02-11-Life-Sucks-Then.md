@@ -26,7 +26,7 @@ gallery:
     url: https://i.postimg.cc/tq7ktdjc/Life-Sucks-Then-08-2.webp
 tags:
   - art
-  - comics
+  - comic
   - illustration
   - birds
   - gore

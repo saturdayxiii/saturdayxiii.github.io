@@ -26,7 +26,7 @@ gallery:
     url: https://i.postimg.cc/Y0QPZVGL/08.webp
 tags:
   - art
-  - comics
+  - comic
   - illustration
   - pixelart
   - sci-fi

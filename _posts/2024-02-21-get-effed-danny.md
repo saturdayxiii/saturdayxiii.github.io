@@ -26,7 +26,7 @@ gallery:
     url: https://i.postimg.cc/VmHSY9t7/Predetermination-08.webp
 tags:
   - art
-  - comics
+  - comic
   - illustration
   - gore
   - TimeTravel
