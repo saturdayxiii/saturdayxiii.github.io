@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Consumed by saturdayxiii
+title: Consumed by saturdayxiii
 
 description:
 
@@ -160,4 +160,4 @@ defaults:
       excerpt_separator: "<!--more-->"
 
 plugins:
-  - tag_generator
+#  - tag_generator
