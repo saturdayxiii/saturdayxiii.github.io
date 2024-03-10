@@ -5,8 +5,8 @@ type: me
 timestamp: May 7th, 2019 10:30am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/184715780939.jpg
-link: https://saturdayxiii.github.io/media/184715780939.jpg
+image: https://saturdayxiii.github.io/media/184715780939.webp
+link: https://saturdayxiii.github.io/media/184715780939.webp
 tags: ["update", "yeg", "expo", "display", "presentation", "journal", "showcase"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type:
 timestamp: May 9th, 2020 12:34am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/617617631853346817.jpg
-link: https://saturdayxiii.github.io/media/617617631853346817.jpg
+image: https://saturdayxiii.github.io/media/617617631853346817.webp
+link: https://saturdayxiii.github.io/media/617617631853346817.webp
 tags: ["recommended", "comic"]
 comments: true
 ---

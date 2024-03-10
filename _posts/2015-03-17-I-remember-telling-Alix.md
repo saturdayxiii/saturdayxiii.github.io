@@ -5,12 +5,12 @@ type: art
 timestamp: March 17th, 2015 4:27pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/185573413369_0.jpg
-link: https://saturdayxiii.github.io/media/185573413369_0.jpg
+image: https://saturdayxiii.github.io/media/185573413369_0.webp
+link: https://saturdayxiii.github.io/media/185573413369_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/185573413369_1.jpg
-    url: https://saturdayxiii.github.io/media/185573413369_1.jpg
+    gimage: https://saturdayxiii.github.io/media/185573413369_1.webp
+    url: https://saturdayxiii.github.io/media/185573413369_1.webp
 tags: ["art", "mod", "paint", "case", "neon"]
 comments: true
 ---

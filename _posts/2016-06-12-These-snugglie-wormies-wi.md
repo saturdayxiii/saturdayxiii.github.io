@@ -9,20 +9,20 @@ image: https://saturdayxiii.github.io/media/145827456504_0.gif
 link: https://saturdayxiii.github.io/media/145827456504_0.gif
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/145827456504_1.jpg
-    url: https://saturdayxiii.github.io/media/145827456504_1.jpg
+    gimage: https://saturdayxiii.github.io/media/145827456504_1.webp
+    url: https://saturdayxiii.github.io/media/145827456504_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/145827456504_2.jpg
-    url: https://saturdayxiii.github.io/media/145827456504_2.jpg
+    gimage: https://saturdayxiii.github.io/media/145827456504_2.webp
+    url: https://saturdayxiii.github.io/media/145827456504_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/145827456504_3.jpg
-    url: https://saturdayxiii.github.io/media/145827456504_3.jpg
+    gimage: https://saturdayxiii.github.io/media/145827456504_3.webp
+    url: https://saturdayxiii.github.io/media/145827456504_3.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/145827456504_4.jpg
-    url: https://saturdayxiii.github.io/media/145827456504_4.jpg
+    gimage: https://saturdayxiii.github.io/media/145827456504_4.webp
+    url: https://saturdayxiii.github.io/media/145827456504_4.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/145827456504_5.jpg
-    url: https://saturdayxiii.github.io/media/145827456504_5.jpg
+    gimage: https://saturdayxiii.github.io/media/145827456504_5.webp
+    url: https://saturdayxiii.github.io/media/145827456504_5.webp
 tags: ["worm", "caterpillar", "insect", "bug", "cute", "nature", "edmonton", "summer", "larva", "photography"]
 comments: true
 ---

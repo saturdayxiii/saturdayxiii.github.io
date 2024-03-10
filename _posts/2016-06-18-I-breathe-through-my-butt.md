@@ -5,8 +5,8 @@ type: art
 timestamp: August 18th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149135903859.jpg
-link: https://saturdayxiii.github.io/media/149135903859.jpg
+image: https://saturdayxiii.github.io/media/149135903859.webp
+link: https://saturdayxiii.github.io/media/149135903859.webp
 tags: ["pillbug", "macro", "photography"]
 comments: true
 ---

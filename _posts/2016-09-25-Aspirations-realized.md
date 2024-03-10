@@ -5,12 +5,12 @@ type: art
 timestamp: September 25th, 2016 1:45pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/150924989914_0.jpg
-link: https://saturdayxiii.github.io/media/150924989914_0.jpg
+image: https://saturdayxiii.github.io/media/150924989914_0.webp
+link: https://saturdayxiii.github.io/media/150924989914_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/150924989914_1.jpg
-    url: https://saturdayxiii.github.io/media/150924989914_1.jpg
+    gimage: https://saturdayxiii.github.io/media/150924989914_1.webp
+    url: https://saturdayxiii.github.io/media/150924989914_1.webp
 tags: ["gamecube", "nintendo", "art"]
 comments: true
 ---

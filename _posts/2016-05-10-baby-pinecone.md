@@ -5,8 +5,8 @@ type: art
 timestamp: May 10th, 2016 4:39pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144168607409.jpg
-link: https://saturdayxiii.github.io/media/144168607409.jpg
+image: https://saturdayxiii.github.io/media/144168607409.webp
+link: https://saturdayxiii.github.io/media/144168607409.webp
 tags:
   - pinecone
   - nature

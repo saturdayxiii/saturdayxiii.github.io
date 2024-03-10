@@ -5,8 +5,8 @@ type: art
 timestamp: September 13th, 2017 11:53am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/165301193429.jpg
-link: https://saturdayxiii.github.io/media/165301193429.jpg
+image: https://saturdayxiii.github.io/media/165301193429.webp
+link: https://saturdayxiii.github.io/media/165301193429.webp
 tags: ["sweetie", "painting", "edmonton", "art", "showcase"]
 comments: true
 ---

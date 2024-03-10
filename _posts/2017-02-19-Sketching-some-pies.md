@@ -5,8 +5,8 @@ type: art
 timestamp: February 19th, 2017 2:04pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/157453831474.jpg
-link: https://saturdayxiii.github.io/media/157453831474.jpg
+image: https://saturdayxiii.github.io/media/157453831474.webp
+link: https://saturdayxiii.github.io/media/157453831474.webp
 tags: ["magpie", "sketch", "drawing", "pencil", "bird", "birb", "yeg", "art"]
 comments: true
 ---

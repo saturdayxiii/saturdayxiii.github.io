@@ -5,8 +5,8 @@ type:
 timestamp: January 16th, 2020 10:23am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190292235709.jpg
-link: https://saturdayxiii.github.io/media/190292235709.jpg
+image: https://saturdayxiii.github.io/media/190292235709.webp
+link: https://saturdayxiii.github.io/media/190292235709.webp
 tags: ["petscop", "garalina"]
 comments: true
 ---

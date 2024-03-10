@@ -5,8 +5,8 @@ type: art
 timestamp: May 18th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144561714036.jpg
-link: https://saturdayxiii.github.io/media/144561714036.jpg
+image: https://saturdayxiii.github.io/media/144561714036.webp
+link: https://saturdayxiii.github.io/media/144561714036.webp
 tags:
   - photo
   - hawaii

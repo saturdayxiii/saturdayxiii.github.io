@@ -5,8 +5,8 @@ type: tainment
 timestamp: July 22nd, 2014 4:40pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182016695849.jpg
-link: https://saturdayxiii.github.io/media/182016695849.jpg
+image: https://saturdayxiii.github.io/media/182016695849.webp
+link: https://saturdayxiii.github.io/media/182016695849.webp
 tags:
   - game
   - review

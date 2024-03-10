@@ -5,8 +5,8 @@ type:
 timestamp: February 8th, 2019 7:48pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182671455654.jpg
-link: https://saturdayxiii.github.io/media/182671455654.jpg
+image: https://saturdayxiii.github.io/media/182671455654.webp
+link: https://saturdayxiii.github.io/media/182671455654.webp
 tags:
   - product
   - purchase

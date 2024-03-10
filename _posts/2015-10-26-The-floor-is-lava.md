@@ -5,8 +5,8 @@ type:
 timestamp: October 26th, 2015 9:51pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/131996653304.jpg
-link: https://saturdayxiii.github.io/media/131996653304.jpg
+image: https://saturdayxiii.github.io/media/131996653304.webp
+link: https://saturdayxiii.github.io/media/131996653304.webp
 tags: ["insect", "caterpillar", "fuzzy", "tiny", "small", "bug", "whiskers"]
 comments: true
 ---

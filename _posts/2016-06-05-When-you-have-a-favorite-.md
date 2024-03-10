@@ -5,8 +5,8 @@ type: art
 timestamp: August 5th, 2016 11:06am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/148502555644.jpg
-link: https://saturdayxiii.github.io/media/148502555644.jpg
+image: https://saturdayxiii.github.io/media/148502555644.webp
+link: https://saturdayxiii.github.io/media/148502555644.webp
 tags:
   - snake
   - snek

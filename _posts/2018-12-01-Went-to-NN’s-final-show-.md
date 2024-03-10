@@ -5,12 +5,12 @@ type: snd
 timestamp: December 1st, 2018 12:28am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/181058091284_0.jpg
-link: https://saturdayxiii.github.io/media/181058091284_0.jpg
+image: https://saturdayxiii.github.io/media/181058091284_0.webp
+link: https://saturdayxiii.github.io/media/181058091284_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/181058091284_1.jpg
-    url: https://saturdayxiii.github.io/media/181058091284_1.jpg
+    gimage: https://saturdayxiii.github.io/media/181058091284_1.webp
+    url: https://saturdayxiii.github.io/media/181058091284_1.webp
 tags: ["concert", "music"]
 comments: true
 ---

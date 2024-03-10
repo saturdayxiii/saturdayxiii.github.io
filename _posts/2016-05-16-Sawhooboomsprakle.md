@@ -5,8 +5,8 @@ type: art
 timestamp: May 16th, 2016 10:53am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144458734159.jpg
-link: https://saturdayxiii.github.io/media/144458734159.jpg
+image: https://saturdayxiii.github.io/media/144458734159.webp
+link: https://saturdayxiii.github.io/media/144458734159.webp
 tags: ["fireworks", "hokkaido", "hanabi", "photography", "art"]
 comments: true
 ---

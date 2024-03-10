@@ -5,8 +5,8 @@ type: art
 timestamp: June 15th, 2019 4:27pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/185617874449.jpg
-link: https://saturdayxiii.github.io/media/185617874449.jpg
+image: https://saturdayxiii.github.io/media/185617874449.webp
+link: https://saturdayxiii.github.io/media/185617874449.webp
 tags: ["Yeg", "beercade", "Nintendo", "Mario", "art"]
 comments: true
 ---

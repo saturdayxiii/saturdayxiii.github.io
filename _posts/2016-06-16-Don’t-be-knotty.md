@@ -5,8 +5,8 @@ type: art
 timestamp: June 16th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/146020178743.jpg
-link: https://saturdayxiii.github.io/media/146020178743.jpg
+image: https://saturdayxiii.github.io/media/146020178743.webp
+link: https://saturdayxiii.github.io/media/146020178743.webp
 tags: ["photo", "bark", "texture", "photography"]
 comments: true
 ---

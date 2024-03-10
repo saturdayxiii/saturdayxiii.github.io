@@ -5,8 +5,8 @@ type: art
 timestamp: June 2nd, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145314581795.jpg
-link: https://saturdayxiii.github.io/media/145314581795.jpg
+image: https://saturdayxiii.github.io/media/145314581795.webp
+link: https://saturdayxiii.github.io/media/145314581795.webp
 tags: ["photo", "snail", "frog", "aquarium", "underwater", "photography"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: food
 timestamp: January 15th, 2019 10:20pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182050264469.jpg
-link: https://saturdayxiii.github.io/media/182050264469.jpg
+image: https://saturdayxiii.github.io/media/182050264469.webp
+link: https://saturdayxiii.github.io/media/182050264469.webp
 tags: ["Edible", "food", "pizza", "food"]
 comments: true
 ---

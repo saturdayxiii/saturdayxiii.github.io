@@ -5,8 +5,8 @@ type: tainment
 timestamp: October 12th, 2015 7:34pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182151348049.jpg
-link: https://saturdayxiii.github.io/media/182151348049.jpg
+image: https://saturdayxiii.github.io/media/182151348049.webp
+link: https://saturdayxiii.github.io/media/182151348049.webp
 tags: ["game"]
 comments: true
 ---

@@ -9,11 +9,11 @@ image: https://saturdayxiii.github.io/media/185506000804_0.gif
 link: https://saturdayxiii.github.io/media/185506000804_0.gif
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/185506000804_1.jpg
-    url: https://saturdayxiii.github.io/media/185506000804_1.jpg
+    gimage: https://saturdayxiii.github.io/media/185506000804_1.webp
+    url: https://saturdayxiii.github.io/media/185506000804_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/185506000804_2.jpg
-    url: https://saturdayxiii.github.io/media/185506000804_2.jpg
+    gimage: https://saturdayxiii.github.io/media/185506000804_2.webp
+    url: https://saturdayxiii.github.io/media/185506000804_2.webp
 tags: ["music", "event", "yeg", "yegmusic", "arcadia"]
 comments: true
 ---

@@ -5,12 +5,12 @@ type: snd
 timestamp: May 26th, 2019 1:27am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/185186455519_0.jpg
-link: https://saturdayxiii.github.io/media/185186455519_0.jpg
+image: https://saturdayxiii.github.io/media/185186455519_0.webp
+link: https://saturdayxiii.github.io/media/185186455519_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/185186455519_1.jpg
-    url: https://saturdayxiii.github.io/media/185186455519_1.jpg
+    gimage: https://saturdayxiii.github.io/media/185186455519_1.webp
+    url: https://saturdayxiii.github.io/media/185186455519_1.webp
 tags: ["music"]
 comments: true
 ---

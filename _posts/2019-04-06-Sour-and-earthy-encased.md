@@ -5,8 +5,8 @@ type: food
 timestamp: April 6th, 2019 7:54pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/183999761984.jpg
-link: https://saturdayxiii.github.io/media/183999761984.jpg
+image: https://saturdayxiii.github.io/media/183999761984.webp
+link: https://saturdayxiii.github.io/media/183999761984.webp
 tags: ["Edible", "beer", "yeg", "townsquare", "beets", "food"]
 comments: true
 ---

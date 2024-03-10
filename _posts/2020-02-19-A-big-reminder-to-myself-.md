@@ -5,8 +5,8 @@ type:
 timestamp: February 19th, 2020 9:52am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190913838744.jpg
-link: https://saturdayxiii.github.io/media/190913838744.jpg
+image: https://saturdayxiii.github.io/media/190913838744.webp
+link: https://saturdayxiii.github.io/media/190913838744.webp
 tags: ["computer", "ext4", "e2fsck", "ext2fsd"]
 comments: true
 ---

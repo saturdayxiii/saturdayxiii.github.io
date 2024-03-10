@@ -5,8 +5,8 @@ type: art
 timestamp: April 13th, 2019 12:00am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/184258123999.jpg
-link: https://saturdayxiii.github.io/media/184258123999.jpg
+image: https://saturdayxiii.github.io/media/184258123999.webp
+link: https://saturdayxiii.github.io/media/184258123999.webp
 tags: ["art", "charac", "pixly", "nes", "8bit"]
 comments: true
 ---

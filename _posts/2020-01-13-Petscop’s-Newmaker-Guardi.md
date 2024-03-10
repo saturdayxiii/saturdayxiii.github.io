@@ -5,8 +5,8 @@ type: art
 timestamp: January 13th, 2020 9:21pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190247453939.jpg
-link: https://saturdayxiii.github.io/media/190247453939.jpg
+image: https://saturdayxiii.github.io/media/190247453939.webp
+link: https://saturdayxiii.github.io/media/190247453939.webp
 tags: ["art", "3d_print", "petscop"]
 comments: true
 ---

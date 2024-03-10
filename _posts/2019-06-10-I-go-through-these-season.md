@@ -5,8 +5,8 @@ type: art
 timestamp: June 10th, 2019 9:33pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/185510960669.jpg
-link: https://saturdayxiii.github.io/media/185510960669.jpg
+image: https://saturdayxiii.github.io/media/185510960669.webp
+link: https://saturdayxiii.github.io/media/185510960669.webp
 tags: ["art", "pencil", "drawing", "charcoal", "duck"]
 comments: true
 ---

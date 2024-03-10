@@ -5,8 +5,8 @@ type: tainment
 timestamp: January 10th, 2019 3:21pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/181907012504.jpg
-link: https://saturdayxiii.github.io/media/181907012504.jpg
+image: https://saturdayxiii.github.io/media/181907012504.webp
+link: https://saturdayxiii.github.io/media/181907012504.webp
 gallery:
   - title: 
     gimage: https://64.media.tumblr.com/1d4e5695af5335726dbb58508fbe6830/tumblr_inline_pl4zeeW36S1rnrp45_540.jpg

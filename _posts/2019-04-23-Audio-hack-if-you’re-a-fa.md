@@ -5,8 +5,8 @@ type:
 timestamp: April 23rd, 2019 3:47pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/184397769579.jpg
-link: https://saturdayxiii.github.io/media/184397769579.jpg
+image: https://saturdayxiii.github.io/media/184397769579.webp
+link: https://saturdayxiii.github.io/media/184397769579.webp
 tags: ["audiophile", "hacks", "recommended", "cheap", "stereo"]
 comments: true
 ---

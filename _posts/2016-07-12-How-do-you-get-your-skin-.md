@@ -5,8 +5,8 @@ type: art
 timestamp: July 12th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/147298958206.jpg
-link: https://saturdayxiii.github.io/media/147298958206.jpg
+image: https://saturdayxiii.github.io/media/147298958206.webp
+link: https://saturdayxiii.github.io/media/147298958206.webp
 tags: ["bug", "beetle", "macro", "weevil", "insect", "photography"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type:
 timestamp: January 22nd, 2020 2:01pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190408289769.jpg
-link: https://saturdayxiii.github.io/media/190408289769.jpg
+image: https://saturdayxiii.github.io/media/190408289769.webp
+link: https://saturdayxiii.github.io/media/190408289769.webp
 tags: [""]
 comments: true
 ---

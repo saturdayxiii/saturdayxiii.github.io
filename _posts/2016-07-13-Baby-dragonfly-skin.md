@@ -5,8 +5,8 @@ type: art
 timestamp: July 13th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/147350957170.jpg
-link: https://saturdayxiii.github.io/media/147350957170.jpg
+image: https://saturdayxiii.github.io/media/147350957170.webp
+link: https://saturdayxiii.github.io/media/147350957170.webp
 tags: ["bug", "shell", "insect", "dragonfly", "larvae", "photography"]
 comments: true
 ---

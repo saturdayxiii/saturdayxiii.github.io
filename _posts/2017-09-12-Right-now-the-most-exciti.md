@@ -5,8 +5,8 @@ type: art
 timestamp: September 12th, 2017 9:15am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/165261868799.jpg
-link: https://saturdayxiii.github.io/media/165261868799.jpg
+image: https://saturdayxiii.github.io/media/165261868799.webp
+link: https://saturdayxiii.github.io/media/165261868799.webp
 tags: ["dreamcast", "retro", "photo"]
 comments: true
 ---

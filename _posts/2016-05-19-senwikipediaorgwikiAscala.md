@@ -5,8 +5,8 @@ type: art
 timestamp: May 19th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144611624248.jpg
-link: https://saturdayxiii.github.io/media/144611624248.jpg
+image: https://saturdayxiii.github.io/media/144611624248.webp
+link: https://saturdayxiii.github.io/media/144611624248.webp
 tags: ["moth", "insect", "hawaii", "photo", "nocturnal", "photography"]
 comments: true
 ---

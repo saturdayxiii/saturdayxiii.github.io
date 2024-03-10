@@ -5,8 +5,8 @@ type:
 timestamp: May 31st, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145214590836.jpg
-link: https://saturdayxiii.github.io/media/145214590836.jpg
+image: https://saturdayxiii.github.io/media/145214590836.webp
+link: https://saturdayxiii.github.io/media/145214590836.webp
 tags: ["cage", "tank", "crabitat", "crabinet", "pets"]
 comments: true
 ---

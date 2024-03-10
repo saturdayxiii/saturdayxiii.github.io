@@ -5,8 +5,8 @@ type: art
 timestamp: December 7th, 2015 2:02pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/134745252369.jpg
-link: https://saturdayxiii.github.io/media/134745252369.jpg
+image: https://saturdayxiii.github.io/media/134745252369.webp
+link: https://saturdayxiii.github.io/media/134745252369.webp
 tags: ["carbarian", "video", "indie", "car", "smash", "arcade", "arnie", "crom", "game", "art"]
 comments: true
 ---

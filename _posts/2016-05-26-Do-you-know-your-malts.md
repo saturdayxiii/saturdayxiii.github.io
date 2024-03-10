@@ -5,8 +5,8 @@ type: art
 timestamp: May 26th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144964873176.jpg
-link: https://saturdayxiii.github.io/media/144964873176.jpg
+image: https://saturdayxiii.github.io/media/144964873176.webp
+link: https://saturdayxiii.github.io/media/144964873176.webp
 tags: ["photo", "brewery", "malts", "grains", "seeds", "edible", "photography", "food"]
 comments: true
 ---

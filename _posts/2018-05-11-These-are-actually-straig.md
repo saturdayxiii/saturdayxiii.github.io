@@ -5,36 +5,36 @@ type:
 timestamp: May 11th, 2018 11:09am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/173801922419_0.jpg
-link: https://saturdayxiii.github.io/media/173801922419_0.jpg
+image: https://saturdayxiii.github.io/media/173801922419_0.webp
+link: https://saturdayxiii.github.io/media/173801922419_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_1.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_1.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_1.webp
+    url: https://saturdayxiii.github.io/media/173801922419_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_2.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_2.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_2.webp
+    url: https://saturdayxiii.github.io/media/173801922419_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_3.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_3.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_3.webp
+    url: https://saturdayxiii.github.io/media/173801922419_3.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_4.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_4.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_4.webp
+    url: https://saturdayxiii.github.io/media/173801922419_4.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_5.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_5.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_5.webp
+    url: https://saturdayxiii.github.io/media/173801922419_5.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_6.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_6.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_6.webp
+    url: https://saturdayxiii.github.io/media/173801922419_6.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_7.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_7.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_7.webp
+    url: https://saturdayxiii.github.io/media/173801922419_7.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_8.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_8.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_8.webp
+    url: https://saturdayxiii.github.io/media/173801922419_8.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/173801922419_09.jpg
-    url: https://saturdayxiii.github.io/media/173801922419_09.jpg
+    gimage: https://saturdayxiii.github.io/media/173801922419_09.webp
+    url: https://saturdayxiii.github.io/media/173801922419_09.webp
 tags: ["snapmaker"]
 comments: true
 ---

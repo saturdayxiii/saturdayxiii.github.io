@@ -5,8 +5,8 @@ type: art
 timestamp: January 20th, 2019 5:04pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182175873024.jpg
-link: https://saturdayxiii.github.io/media/182175873024.jpg
+image: https://saturdayxiii.github.io/media/182175873024.webp
+link: https://saturdayxiii.github.io/media/182175873024.webp
 tags: ["Edible", "jalapeno", "dip", "photography", "food"]
 comments: true
 ---

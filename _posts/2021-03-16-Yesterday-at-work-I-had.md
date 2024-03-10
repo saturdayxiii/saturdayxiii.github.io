@@ -5,24 +5,24 @@ type: me
 timestamp: March 16th, 2021 12:02pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/645836584988590080_0.jpg
-link: https://saturdayxiii.github.io/media/645836584988590080_0.jpg
+image: https://saturdayxiii.github.io/media/645836584988590080_0.webp
+link: https://saturdayxiii.github.io/media/645836584988590080_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/645836584988590080_1.jpg
-    url: https://saturdayxiii.github.io/media/645836584988590080_1.jpg
+    gimage: https://saturdayxiii.github.io/media/645836584988590080_1.webp
+    url: https://saturdayxiii.github.io/media/645836584988590080_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/645836584988590080_2.jpg
-    url: https://saturdayxiii.github.io/media/645836584988590080_2.jpg
+    gimage: https://saturdayxiii.github.io/media/645836584988590080_2.webp
+    url: https://saturdayxiii.github.io/media/645836584988590080_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/645836584988590080_3.jpg
-    url: https://saturdayxiii.github.io/media/645836584988590080_3.jpg
+    gimage: https://saturdayxiii.github.io/media/645836584988590080_3.webp
+    url: https://saturdayxiii.github.io/media/645836584988590080_3.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/645836584988590080_4.jpg
-    url: https://saturdayxiii.github.io/media/645836584988590080_4.jpg
+    gimage: https://saturdayxiii.github.io/media/645836584988590080_4.webp
+    url: https://saturdayxiii.github.io/media/645836584988590080_4.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/645836584988590080_5.jpg
-    url: https://saturdayxiii.github.io/media/645836584988590080_5.jpg
+    gimage: https://saturdayxiii.github.io/media/645836584988590080_5.webp
+    url: https://saturdayxiii.github.io/media/645836584988590080_5.webp
 tags: ["art", "Thoughts", "sketch", "portrait", "sketch", "ink", "personal"]
 comments: true
 ---

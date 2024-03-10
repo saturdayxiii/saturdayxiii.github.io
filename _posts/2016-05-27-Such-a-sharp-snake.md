@@ -5,8 +5,8 @@ type: art
 timestamp: May 27th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145013674071.jpg
-link: https://saturdayxiii.github.io/media/145013674071.jpg
+image: https://saturdayxiii.github.io/media/145013674071.webp
+link: https://saturdayxiii.github.io/media/145013674071.webp
 tags: ["photo", "reptile", "snake", "pets", "photography", "art"]
 comments: true
 ---

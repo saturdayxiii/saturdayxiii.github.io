@@ -5,8 +5,8 @@ type: tainment
 timestamp: July 27th, 2014 4:37pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182016633414.jpg
-link: https://saturdayxiii.github.io/media/182016633414.jpg
+image: https://saturdayxiii.github.io/media/182016633414.webp
+link: https://saturdayxiii.github.io/media/182016633414.webp
 tags: ["game", "review", "hidden-object"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: tainment
 timestamp: November 19th, 2015 4:40pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/133557827039.jpg
-link: https://saturdayxiii.github.io/media/133557827039.jpg
+image: https://saturdayxiii.github.io/media/133557827039.webp
+link: https://saturdayxiii.github.io/media/133557827039.webp
 tags: ["childrens", "tv", "fun", "art", "show"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: art
 timestamp: March 29th, 2017 10:26pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/158990166644.jpg
-link: https://saturdayxiii.github.io/media/158990166644.jpg
+image: https://saturdayxiii.github.io/media/158990166644.webp
+link: https://saturdayxiii.github.io/media/158990166644.webp
 tags:
   - scannography
   - textures

@@ -5,8 +5,8 @@ type: art
 timestamp: June 4th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145412487706.jpg
-link: https://saturdayxiii.github.io/media/145412487706.jpg
+image: https://saturdayxiii.github.io/media/145412487706.webp
+link: https://saturdayxiii.github.io/media/145412487706.webp
 tags: ["photo", "moth", "insect", "photography"]
 comments: true
 ---

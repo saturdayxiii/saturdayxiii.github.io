@@ -5,8 +5,8 @@ type: art
 timestamp: September 21st, 2017 1:29pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/165590796589.jpg
-link: https://saturdayxiii.github.io/media/165590796589.jpg
+image: https://saturdayxiii.github.io/media/165590796589.webp
+link: https://saturdayxiii.github.io/media/165590796589.webp
 tags: ["painting", "brain", "acrylic", "abstract", "silhouette", "art", "showcase"]
 comments: true
 ---

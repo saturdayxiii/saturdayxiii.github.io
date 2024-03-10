@@ -5,8 +5,8 @@ type:
 timestamp: October 1st, 2017 9:45am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/165936346764.jpg
-link: https://saturdayxiii.github.io/media/165936346764.jpg
+image: https://saturdayxiii.github.io/media/165936346764.webp
+link: https://saturdayxiii.github.io/media/165936346764.webp
 tags: ["brainstorm", "levels", "downhill"]
 comments: true
 ---

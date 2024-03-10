@@ -5,8 +5,8 @@ type: tainment
 timestamp: February 6th, 2019 10:12pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182623849724.jpg
-link: https://saturdayxiii.github.io/media/182623849724.jpg
+image: https://saturdayxiii.github.io/media/182623849724.webp
+link: https://saturdayxiii.github.io/media/182623849724.webp
 tags: ["Game", "beercade", "yeg"]
 comments: true
 ---

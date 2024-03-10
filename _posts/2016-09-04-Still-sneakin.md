@@ -5,8 +5,8 @@ type: art
 timestamp: September 4th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149940042190.jpg
-link: https://saturdayxiii.github.io/media/149940042190.jpg
+image: https://saturdayxiii.github.io/media/149940042190.webp
+link: https://saturdayxiii.github.io/media/149940042190.webp
 tags: ["spider", "arachnid", "macro", "whenisawit", "photography"]
 comments: true
 ---

@@ -5,18 +5,18 @@ type: art
 timestamp: September 2nd, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149846307006_0.jpg
-link: https://saturdayxiii.github.io/media/149846307006_0.jpg
+image: https://saturdayxiii.github.io/media/149846307006_0.webp
+link: https://saturdayxiii.github.io/media/149846307006_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/149846307006_1.jpg
-    url: https://saturdayxiii.github.io/media/149846307006_1.jpg
+    gimage: https://saturdayxiii.github.io/media/149846307006_1.webp
+    url: https://saturdayxiii.github.io/media/149846307006_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/149846307006_2.jpg
-    url: https://saturdayxiii.github.io/media/149846307006_2.jpg
+    gimage: https://saturdayxiii.github.io/media/149846307006_2.webp
+    url: https://saturdayxiii.github.io/media/149846307006_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/149846307006_3.jpg
-    url: https://saturdayxiii.github.io/media/149846307006_3.jpg
+    gimage: https://saturdayxiii.github.io/media/149846307006_3.webp
+    url: https://saturdayxiii.github.io/media/149846307006_3.webp
 tags: ["spider", "arachnid", "macro", "photography"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: art
 timestamp: October 26th, 2015 11:23am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/131960168699.jpg
-link: https://saturdayxiii.github.io/media/131960168699.jpg
+image: https://saturdayxiii.github.io/media/131960168699.webp
+link: https://saturdayxiii.github.io/media/131960168699.webp
 tags:
   - snake
   - pets

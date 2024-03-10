@@ -5,8 +5,8 @@ type: food
 timestamp: February 8th, 2019 1:58pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182664450609_0.jpg
-link: https://saturdayxiii.github.io/media/182664450609_0.jpg
+image: https://saturdayxiii.github.io/media/182664450609_0.webp
+link: https://saturdayxiii.github.io/media/182664450609_0.webp
 gallery:
   - title: 
     gimage: https://saturdayxiii.github.io/media/182664450609_1.gif

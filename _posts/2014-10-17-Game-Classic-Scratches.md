@@ -3,8 +3,8 @@ layout: post
 title: Game Classic Scratches
 type: tainment
 timestamp: October 17th, 2014 2:48pm
-image: https://saturdayxiii.github.io/media/182014203904.jpg
-link: https://saturdayxiii.github.io/media/182014203904.jpg
+image: https://saturdayxiii.github.io/media/182014203904.webp
+link: https://saturdayxiii.github.io/media/182014203904.webp
 tags:
   - game
   - revolution

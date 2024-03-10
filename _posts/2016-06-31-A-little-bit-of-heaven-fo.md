@@ -5,8 +5,8 @@ type: food
 timestamp: August 31st, 2016 6:46pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149770647029.jpg
-link: https://saturdayxiii.github.io/media/149770647029.jpg
+image: https://saturdayxiii.github.io/media/149770647029.webp
+link: https://saturdayxiii.github.io/media/149770647029.webp
 tags: ["liquor", "plush", "edible", "food"]
 comments: true
 ---

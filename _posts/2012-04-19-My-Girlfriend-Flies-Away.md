@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Girlfriend Flies Away "
+title: "My Girlfriend Flies Away"
 type: me
 timestamp: April 19th, 2012 10:37am
 tags:

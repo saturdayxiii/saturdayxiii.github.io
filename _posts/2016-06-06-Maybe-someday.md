@@ -5,8 +5,8 @@ type: art
 timestamp: June 6th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145516013259.jpg
-link: https://saturdayxiii.github.io/media/145516013259.jpg
+image: https://saturdayxiii.github.io/media/145516013259.webp
+link: https://saturdayxiii.github.io/media/145516013259.webp
 tags: ["gamecube", "nintendo", "sonic", "case", "idea", "art"]
 comments: true
 ---

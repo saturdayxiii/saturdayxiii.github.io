@@ -5,8 +5,8 @@ type:
 timestamp: December 27th, 2019 1:10pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190407682119.jpg
-link: https://saturdayxiii.github.io/media/190407682119.jpg
+image: https://saturdayxiii.github.io/media/190407682119.webp
+link: https://saturdayxiii.github.io/media/190407682119.webp
 tags: ["recommended"]
 comments: true
 ---

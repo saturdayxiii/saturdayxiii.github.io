@@ -5,24 +5,24 @@ type: art
 timestamp: January 13th, 2020 8:56pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190247077034_0.jpg
-link: https://saturdayxiii.github.io/media/190247077034_0.jpg
+image: https://saturdayxiii.github.io/media/190247077034_0.webp
+link: https://saturdayxiii.github.io/media/190247077034_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/190247077034_1.jpg
-    url: https://saturdayxiii.github.io/media/190247077034_1.jpg
+    gimage: https://saturdayxiii.github.io/media/190247077034_1.webp
+    url: https://saturdayxiii.github.io/media/190247077034_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/190247077034_2.jpg
-    url: https://saturdayxiii.github.io/media/190247077034_2.jpg
+    gimage: https://saturdayxiii.github.io/media/190247077034_2.webp
+    url: https://saturdayxiii.github.io/media/190247077034_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/190247077034_3.jpg
-    url: https://saturdayxiii.github.io/media/190247077034_3.jpg
+    gimage: https://saturdayxiii.github.io/media/190247077034_3.webp
+    url: https://saturdayxiii.github.io/media/190247077034_3.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/190247077034_4.jpg
-    url: https://saturdayxiii.github.io/media/190247077034_4.jpg
+    gimage: https://saturdayxiii.github.io/media/190247077034_4.webp
+    url: https://saturdayxiii.github.io/media/190247077034_4.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/190247077034_5.jpg
-    url: https://saturdayxiii.github.io/media/190247077034_5.jpg
+    gimage: https://saturdayxiii.github.io/media/190247077034_5.webp
+    url: https://saturdayxiii.github.io/media/190247077034_5.webp
 tags: ["art", "nintendo", "gamecube", "atari", "ink"]
 comments: true
 ---

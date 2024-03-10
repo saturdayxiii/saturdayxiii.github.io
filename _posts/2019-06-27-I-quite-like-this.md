@@ -5,8 +5,8 @@ type: art
 timestamp: June 27th, 2019 12:37pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/190407228749.jpg
-link: https://saturdayxiii.github.io/media/190407228749.jpg
+image: https://saturdayxiii.github.io/media/190407228749.webp
+link: https://saturdayxiii.github.io/media/190407228749.webp
 tags: ["sgdq2019", "art", "crayola"]
 comments: true
 ---

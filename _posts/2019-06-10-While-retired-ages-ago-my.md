@@ -5,12 +5,12 @@ type: art
 timestamp: June 10th, 2019 3:16pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/185503955994_0.jpg
-link: https://saturdayxiii.github.io/media/185503955994_0.jpg
+image: https://saturdayxiii.github.io/media/185503955994_0.webp
+link: https://saturdayxiii.github.io/media/185503955994_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/185503955994_1.jpg
-    url: https://saturdayxiii.github.io/media/185503955994_1.jpg
+    gimage: https://saturdayxiii.github.io/media/185503955994_1.webp
+    url: https://saturdayxiii.github.io/media/185503955994_1.webp
 tags: ["art", "journal", "memories", "mod", "bag", "fashion", "paint"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: art
 timestamp: August 22nd, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149328992985.jpg
-link: https://saturdayxiii.github.io/media/149328992985.jpg
+image: https://saturdayxiii.github.io/media/149328992985.webp
+link: https://saturdayxiii.github.io/media/149328992985.webp
 tags: ["toadette", "game", "nintendo", "painting", "acrylic", "wii", "art"]
 comments: true
 ---

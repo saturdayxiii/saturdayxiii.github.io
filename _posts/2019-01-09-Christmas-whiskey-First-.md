@@ -5,8 +5,8 @@ type: food
 timestamp: January 9th, 2019 6:40pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/181884034944.jpg
-link: https://saturdayxiii.github.io/media/181884034944.jpg
+image: https://saturdayxiii.github.io/media/181884034944.webp
+link: https://saturdayxiii.github.io/media/181884034944.webp
 tags: ["Alcohol", "whiskey", "glassware", "edible", "food"]
 comments: true
 ---

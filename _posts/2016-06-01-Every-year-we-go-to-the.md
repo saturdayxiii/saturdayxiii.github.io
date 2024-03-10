@@ -5,8 +5,8 @@ type: art
 timestamp: June 1st, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145264893918.jpg
-link: https://saturdayxiii.github.io/media/145264893918.jpg
+image: https://saturdayxiii.github.io/media/145264893918.webp
+link: https://saturdayxiii.github.io/media/145264893918.webp
 tags: ["photo", "wormies", "insect", "caterpillar", "photography"]
 comments: true
 ---

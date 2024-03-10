@@ -5,8 +5,8 @@ type: tainment
 timestamp: May 19th, 2014 1:35pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182012332324.jpg
-link: https://saturdayxiii.github.io/media/182012332324.jpg
+image: https://saturdayxiii.github.io/media/182012332324.webp
+link: https://saturdayxiii.github.io/media/182012332324.webp
 tags: ["review", "recommended", "wizorb", "pixel", "game"]
 comments: true
 ---

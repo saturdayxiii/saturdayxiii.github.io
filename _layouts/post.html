@@ -11,8 +11,7 @@ layout: default
 
 <article>
   <div style="border: 2px solid transparent;{% include border-colors-page.html %} padding: 10px;">
-    <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • Liquid version: {% liquid_version %}
-
+    <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} •
 
       {% for tag in page.tags %}
         {% assign tag_slug = tag | slugify: "raw" %}

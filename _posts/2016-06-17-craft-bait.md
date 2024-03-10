@@ -5,8 +5,8 @@ type: art
 timestamp: August 17th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149087666693.jpg
-link: https://saturdayxiii.github.io/media/149087666693.jpg
+image: https://saturdayxiii.github.io/media/149087666693.webp
+link: https://saturdayxiii.github.io/media/149087666693.webp
 tags: ["flower", "photography", "macro"]
 comments: true
 ---

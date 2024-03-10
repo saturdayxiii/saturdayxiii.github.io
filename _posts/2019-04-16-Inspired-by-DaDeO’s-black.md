@@ -5,8 +5,8 @@ type: food
 timestamp: April 16th, 2019 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/184230308926.jpg
-link: https://saturdayxiii.github.io/media/184230308926.jpg
+image: https://saturdayxiii.github.io/media/184230308926.webp
+link: https://saturdayxiii.github.io/media/184230308926.webp
 tags: ["edible", "sandwich", "tofu", "food", "recommended", "food"]
 comments: true
 ---

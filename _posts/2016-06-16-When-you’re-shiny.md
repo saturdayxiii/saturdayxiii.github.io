@@ -5,8 +5,8 @@ type: art
 timestamp: August 16th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/149038615983.jpg
-link: https://saturdayxiii.github.io/media/149038615983.jpg
+image: https://saturdayxiii.github.io/media/149038615983.webp
+link: https://saturdayxiii.github.io/media/149038615983.webp
 tags: ["Spider", "macro", "photography"]
 comments: true
 ---

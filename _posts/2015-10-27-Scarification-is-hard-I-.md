@@ -5,8 +5,8 @@ type: art
 timestamp: October 27th, 2015 9:07am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/132020150369.jpg
-link: https://saturdayxiii.github.io/media/132020150369.jpg
+image: https://saturdayxiii.github.io/media/132020150369.webp
+link: https://saturdayxiii.github.io/media/132020150369.webp
 tags: ["seahorse", "scar", "scarification", "cutting", "blood", "scab", "tattoo", "art"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: art
 timestamp: October 28th, 2015 11:57am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/132093594809.jpg
-link: https://saturdayxiii.github.io/media/132093594809.jpg
+image: https://saturdayxiii.github.io/media/132093594809.webp
+link: https://saturdayxiii.github.io/media/132093594809.webp
 tags: ["character", "sketch", "design", "ink", "drawing", "sega", "art"]
 comments: true
 ---

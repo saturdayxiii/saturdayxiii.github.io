@@ -5,8 +5,8 @@ type: food
 timestamp: May 23rd, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144815258057.jpg
-link: https://saturdayxiii.github.io/media/144815258057.jpg
+image: https://saturdayxiii.github.io/media/144815258057.webp
+link: https://saturdayxiii.github.io/media/144815258057.webp
 tags: ["capuccino", "flower", "coffee", "edible", "art", "showcase", "food"]
 comments: true
 ---

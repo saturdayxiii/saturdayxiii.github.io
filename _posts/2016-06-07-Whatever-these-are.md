@@ -5,8 +5,8 @@ type: art
 timestamp: June 7th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145567052190.jpg
-link: https://saturdayxiii.github.io/media/145567052190.jpg
+image: https://saturdayxiii.github.io/media/145567052190.webp
+link: https://saturdayxiii.github.io/media/145567052190.webp
 tags: ["photo", "macro", "flower", "photography"]
 comments: true
 ---

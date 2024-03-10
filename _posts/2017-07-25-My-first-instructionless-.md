@@ -5,8 +5,8 @@ type: art
 timestamp: July 25th, 2017 9:34pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/163432477994.jpg
-link: https://saturdayxiii.github.io/media/163432477994.jpg
+image: https://saturdayxiii.github.io/media/163432477994.webp
+link: https://saturdayxiii.github.io/media/163432477994.webp
 tags: ["photo"]
 comments: true
 ---

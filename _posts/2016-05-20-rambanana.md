@@ -5,8 +5,8 @@ type: art
 timestamp: May 20th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/144660815594.jpg
-link: https://saturdayxiii.github.io/media/144660815594.jpg
+image: https://saturdayxiii.github.io/media/144660815594.webp
+link: https://saturdayxiii.github.io/media/144660815594.webp
 tags: ["photo", "rambana", "photography"]
 comments: true
 ---

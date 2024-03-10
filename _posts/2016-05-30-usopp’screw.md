@@ -5,8 +5,8 @@ type:
 timestamp: May 30th, 2016 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/145162968683.jpg
-link: https://saturdayxiii.github.io/media/145162968683.jpg
+image: https://saturdayxiii.github.io/media/145162968683.webp
+link: https://saturdayxiii.github.io/media/145162968683.webp
 tags: ["usopp", "craft"]
 comments: true
 ---
