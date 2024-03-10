@@ -11,7 +11,7 @@ layout: default
 
 <article>
   <div style="border: 2px solid transparent;{% include border-colors-page.html %} padding: 10px;">
-    <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • 
+    <span class="meta">{{ page.date | date: site.date_format }} • {{ read-time }} • Liquid version: {{ liquid_version }}
       {% for tag in page.tags %}
         {% assign tag_slug = tag | slugify: "raw" %}
         <a href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
