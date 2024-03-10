@@ -43,8 +43,24 @@ for filename in os.listdir(posts_folder):
             content = f.read()
             # Use regular expressions to extract the tags from the YAML front matter
             match = re.search(r'^tags:(.*?)(?=\w+:|$)', content, re.DOTALL | re.MULTILINE)
-            if match:
-                print("Found tags:")
+            if match and match.group(0).strip() == 'tags:':
+                match = re.search(r'^tags:\s*(.*?)(?=\n[^\s])', content, re.DOTALL | re.MULTILINE)
+                print("Found tag list:")
+                print(match)
+                tags_content = match.group(1).strip()
+                # Use re.findall() to extract tags
+                tags_list = re.findall(r'\s*-\s*(?:"([^"]*)"|\'([^\']*)\'|(\S+))', tags_content)
+                processed_tags = process_tags([tag for tag in sum(tags_list, ()) if tag])
+                print(f"Processed tags: {processed_tags}")
+
+                # Create tag files in the tags folder
+                for tag in processed_tags:
+                    tag_file_path = os.path.join(tags_folder, f"{tag}.md")
+                    tag_yaml = f"---\nlayout: tags\ntitle: \"Tag: {tag}\"\ntag-name: {tag}\n---"
+                    with open(tag_file_path, "w") as tag_file:
+                        tag_file.write(tag_yaml)
+            else:
+                print("Found tag string:")
                 print(match)
                 tags_content = match.group(1).strip()
                 tags_list = yaml.safe_load(tags_content)

@@ -2,7 +2,7 @@
 layout: post
 type: me
 title: "Awakened history via SOGI trending topics"
-tags: ["me","thoughts","sex","SOGI","sex_education","childhood"]
+tags: ["me","thoughts","sex","sogi","sex_education","childhood"]
 comments: true
 ---
 With all the recent SOGI protests and counter protests, I've been doing recollecting of my own childhood sexual education.  I've concluded that relying solely on family values while growing up left me feeling problematic and socially stunted, and broader sexual education at a younger age likely would have given me better personal awareness and growth. I don't mind talking about the spicier aspects, but I probably shouldn't in a public forum.
