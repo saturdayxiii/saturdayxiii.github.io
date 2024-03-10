@@ -5,8 +5,8 @@ type: art
 timestamp: November 9th, 2016 10:17pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/152983433934.png
-link: https://saturdayxiii.github.io/media/152983433934.png
+image: https://saturdayxiii.github.io/media/152983433934.webp
+link: https://saturdayxiii.github.io/media/152983433934.webp
 tags: ["spider", "arachnid", "sketch", "mypaint", "pencil", "scribble", "illustration", "art"]
 comments: true
 ---

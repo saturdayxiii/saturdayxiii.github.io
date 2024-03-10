@@ -5,8 +5,8 @@ type: art
 timestamp: September 3rd, 2019 3:43pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/187473778429.png
-link: https://saturdayxiii.github.io/media/187473778429.png
+image: https://saturdayxiii.github.io/media/187473778429.webp
+link: https://saturdayxiii.github.io/media/187473778429.webp
 tags: ["ibispaintx", "furry", "art", "showcase"]
 comments: true
 ---

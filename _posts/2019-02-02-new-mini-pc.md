@@ -5,8 +5,8 @@ type: me
 timestamp: February 2nd, 2019 10:50am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/182502592759.png
-link: https://saturdayxiii.github.io/media/182502592759.png
+image: https://saturdayxiii.github.io/media/182502592759.webp
+link: https://saturdayxiii.github.io/media/182502592759.webp
 gallery:
   - title: 
     gimage: https://64.media.tumblr.com/cdf0be575f8d3c5f5a70c690527d2bf2/tumblr_inline_pmb8811Zz51rnrp45_540.png

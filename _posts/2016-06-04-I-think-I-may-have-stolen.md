@@ -5,8 +5,8 @@ type: art
 timestamp: August 4th, 2016 1:58pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/148460620264.png
-link: https://saturdayxiii.github.io/media/148460620264.png
+image: https://saturdayxiii.github.io/media/148460620264.webp
+link: https://saturdayxiii.github.io/media/148460620264.webp
 tags: ["pixel", "graphics", "tiny", "art"]
 comments: true
 ---

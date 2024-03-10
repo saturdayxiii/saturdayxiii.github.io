@@ -5,8 +5,8 @@ type: art
 timestamp: October 6th, 2016 3:18pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/151441183214.png
-link: https://saturdayxiii.github.io/media/151441183214.png
+image: https://saturdayxiii.github.io/media/151441183214.webp
+link: https://saturdayxiii.github.io/media/151441183214.webp
 tags: ["pixel", "digital", "art", "showcase"]
 comments: true
 ---

@@ -5,8 +5,8 @@ type: art
 timestamp: July 8th, 2019 9:32pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/186155863744.png
-link: https://saturdayxiii.github.io/media/186155863744.png
+image: https://saturdayxiii.github.io/media/186155863744.webp
+link: https://saturdayxiii.github.io/media/186155863744.webp
 tags: ["triops", "ibispaintx", "art"]
 comments: true
 ---

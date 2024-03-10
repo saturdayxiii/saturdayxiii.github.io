@@ -5,30 +5,30 @@ type: art
 timestamp: August 7th, 2019 12:00pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/186843420859_0.png
-link: https://saturdayxiii.github.io/media/186843420859_0.png
+image: https://saturdayxiii.github.io/media/186843420859_0.webp
+link: https://saturdayxiii.github.io/media/186843420859_0.webp
 gallery:
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_1.png
-    url: https://saturdayxiii.github.io/media/186843420859_1.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_1.webp
+    url: https://saturdayxiii.github.io/media/186843420859_1.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_2.png
-    url: https://saturdayxiii.github.io/media/186843420859_2.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_2.webp
+    url: https://saturdayxiii.github.io/media/186843420859_2.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_3.png
-    url: https://saturdayxiii.github.io/media/186843420859_3.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_3.webp
+    url: https://saturdayxiii.github.io/media/186843420859_3.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_4.png
-    url: https://saturdayxiii.github.io/media/186843420859_4.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_4.webp
+    url: https://saturdayxiii.github.io/media/186843420859_4.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_5.png
-    url: https://saturdayxiii.github.io/media/186843420859_5.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_5.webp
+    url: https://saturdayxiii.github.io/media/186843420859_5.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_6.png
-    url: https://saturdayxiii.github.io/media/186843420859_6.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_6.webp
+    url: https://saturdayxiii.github.io/media/186843420859_6.webp
   - title: 
-    gimage: https://saturdayxiii.github.io/media/186843420859_7.png
-    url: https://saturdayxiii.github.io/media/186843420859_7.png
+    gimage: https://saturdayxiii.github.io/media/186843420859_7.webp
+    url: https://saturdayxiii.github.io/media/186843420859_7.webp
 tags: ["art", "covers", "pixel", "retro"]
 comments: true
 ---

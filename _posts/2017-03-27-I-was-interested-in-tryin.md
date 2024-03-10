@@ -5,8 +5,8 @@ type:
 timestamp: March 27th, 2017 11:02am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/158895318979.png
-link: https://saturdayxiii.github.io/media/158895318979.png
+image: https://saturdayxiii.github.io/media/158895318979.webp
+link: https://saturdayxiii.github.io/media/158895318979.webp
 tags: ["mini", "arcade", "stand", "miami", "shelf", "sketchup"]
 comments: true
 ---

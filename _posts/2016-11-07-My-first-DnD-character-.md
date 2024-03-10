@@ -5,8 +5,8 @@ type: tainment
 timestamp: November 7th, 2016 6:50pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/152879526279.png
-link: https://saturdayxiii.github.io/media/152879526279.png
+image: https://saturdayxiii.github.io/media/152879526279.webp
+link: https://saturdayxiii.github.io/media/152879526279.webp
 tags: ["dnd", "oc", "character", "druid", "art", "game"]
 comments: true
 ---

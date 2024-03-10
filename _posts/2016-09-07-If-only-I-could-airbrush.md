@@ -5,8 +5,8 @@ type: art
 timestamp: September 7th, 2016 11:07am
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/150081411419.png
-link: https://saturdayxiii.github.io/media/150081411419.png
+image: https://saturdayxiii.github.io/media/150081411419.webp
+link: https://saturdayxiii.github.io/media/150081411419.webp
 tags: ["ecco", "delphinus", "sega", "genesis", "mod", "idea", "aspiration", "controllers", "art"]
 comments: true
 ---

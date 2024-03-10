@@ -5,8 +5,8 @@ type:
 timestamp: June 7th, 2020 10:29pm
 audio: 
 video: 
-image: https://saturdayxiii.github.io/media/620327675644592128.png
-link: https://saturdayxiii.github.io/media/620327675644592128.png
+image: https://saturdayxiii.github.io/media/620327675644592128.webp
+link: https://saturdayxiii.github.io/media/620327675644592128.webp
 tags: [""]
 comments: true
 ---
