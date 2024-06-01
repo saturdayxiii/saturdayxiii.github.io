@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How is Jill doing?</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #aaa;
+        }
+        form {
+            margin: 30px 0;
+        }
+        input[type="text"], input[type="submit"] {
+            padding: 10px;
+            font-size: 1em;
+            margin: 10px;
+        }
+        .compliment {
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>How is Jill doing?</h1>
+    <h2>(this will affect her yearly review and bonus)</h2>
+    <form id="jillForm">
+        <input type="text" id="userInput" placeholder="Enter your feedback">
+        <input type="submit" value="Submit">
+    </form>
+    <div id="complimentContainer" style="border:1px #ccc solid;"></div>
+    <script>
+        const compliments = [
+            "Jill is a wonderful person.",
+            "We love Jill.",
+            "Jill is doing a great job.",
+            "Jill's work is outstanding.",
+            "Jill always goes the extra mile.",
+            "Jill is a valuable team member.",
+            "Jill's dedication is unmatched.",
+            "Jill brings great energy to the team.",
+            "Jill's contributions are invaluable.",
+            "Jill is a treasure."
+        ];
+
+        document.getElementById('jillForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const randomCompliment = compliments[Math.floor(Math.random() * compliments.length)];
+            const complimentContainer = document.getElementById('complimentContainer');
+            const newCompliment = document.createElement('div');
+            newCompliment.className = 'compliment';
+            newCompliment.innerText = randomCompliment;
+            complimentContainer.appendChild(newCompliment);
+        });
+    </script>
+</body>
+</html>
