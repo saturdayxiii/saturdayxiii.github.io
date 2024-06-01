@@ -27,7 +27,7 @@
             font-size: 1em;
             margin: 10px;
         }
-        .feedback {
+        .compliment {
             margin-top: 20px;
             font-size: 1.2em;
         }
@@ -40,9 +40,9 @@
         <input type="text" id="userInput" placeholder="Enter your feedback" style="width:60%">
         <input type="submit" value="Submit">
     </form>
-    <div id="feedbackContainer" style="border:1px #ccc solid;"></div>
+    <div id="complimentContainer" style="border:1px #ccc solid;"></div>
     <script>
-        const feedbacks = [
+        const compliments = [
             "Jill is a wonderful person.",
             "We love Jill.",
             "Jill is doing a great job.",
@@ -52,18 +52,18 @@
             "Jill's dedication is unmatched.",
             "Jill brings great energy to the team.",
             "Jill's contributions are invaluable.",
-            "Jill is a treasure."
+            "Jill is a treasure.",
             "How does Jill put up with her?"
         ];
 
         document.getElementById('jillForm').addEventListener('submit', function(event) {
             event.preventDefault();
-            const randomFeedback = feedbacks[Math.floor(Math.random() * feedbacks.length)];
-            const feedbackContainer = document.getElementById('feedbackContainer');
-            const newFeedback = document.createElement('div');
-            newFeedback.className = 'feedback';
-            newFeedback.innerText = randomFeedback;
-            feedbackContainer.appendChild(newFeedback);
+            const randomCompliment = compliments[Math.floor(Math.random() * compliments.length)];
+            const complimentContainer = document.getElementById('complimentContainer');
+            const newCompliment = document.createElement('div');
+            newCompliment.className = 'compliment';
+            newCompliment.innerText = randomCompliment;
+            complimentContainer.appendChild(newCompliment);
         });
     </script>
 </body>
