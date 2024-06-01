@@ -27,7 +27,7 @@
             font-size: 1em;
             margin: 10px;
         }
-        .compliment {
+        .feedback {
             margin-top: 20px;
             font-size: 1.2em;
         }
@@ -37,12 +37,12 @@
     <h1>How is Jill doing?</h1>
     <h2>(this will affect her yearly review and bonus)</h2>
     <form id="jillForm">
-        <input type="text" id="userInput" placeholder="Enter your feedback">
+        <input type="text" id="userInput" placeholder="Enter your feedback" style="width:60%">
         <input type="submit" value="Submit">
     </form>
-    <div id="complimentContainer" style="border:1px #ccc solid;"></div>
+    <div id="feedbackContainer" style="border:1px #ccc solid;"></div>
     <script>
-        const compliments = [
+        const feedbacks = [
             "Jill is a wonderful person.",
             "We love Jill.",
             "Jill is doing a great job.",
@@ -53,16 +53,17 @@
             "Jill brings great energy to the team.",
             "Jill's contributions are invaluable.",
             "Jill is a treasure."
+            "How does Jill put up with her?"
         ];
 
         document.getElementById('jillForm').addEventListener('submit', function(event) {
             event.preventDefault();
-            const randomCompliment = compliments[Math.floor(Math.random() * compliments.length)];
-            const complimentContainer = document.getElementById('complimentContainer');
-            const newCompliment = document.createElement('div');
-            newCompliment.className = 'compliment';
-            newCompliment.innerText = randomCompliment;
-            complimentContainer.appendChild(newCompliment);
+            const randomFeedback = feedbacks[Math.floor(Math.random() * feedbacks.length)];
+            const feedbackContainer = document.getElementById('feedbackContainer');
+            const newFeedback = document.createElement('div');
+            newFeedback.className = 'feedback';
+            newFeedback.innerText = randomFeedback;
+            feedbackContainer.appendChild(newFeedback);
         });
     </script>
 </body>
