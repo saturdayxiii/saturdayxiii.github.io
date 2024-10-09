@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Color Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #chart-container {
+            width: 80%;
+            margin: auto;
+        }
+        canvas {
+            max-width: 100%;
+            max-height: 500px; /* Prevent canvas from growing indefinitely */
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Image Color Analysis</h1>
+
+<!-- Image upload -->
+<input type="file" id="imageInput" accept="image/*">
+<br><br>
+
+<!-- Options -->
+<label for="bucketSize">Color Bucket Size:</label>
+<input type="number" id="bucketSize" value="25" min="1">
+<br><br>
+
+<label for="colorLimit">Number of Top Colors:</label>
+<input type="number" id="colorLimit" value="10" min="1">
+<br><br>
+
+<label for="excludeTop">Exclude # of Most Frequent Colors:</label>
+<input type="number" id="excludeTop" value="1" min="0">
+<br><br>
+
+<label for="chartType">Chart Type:</label>
+<select id="chartType">
+    <option value="pie">Pie</option>
+    <option value="bar">Bar</option>
+</select>
+<br><br>
+
+<label for="labelFormat">Label Format:</label>
+<select id="labelFormat">
+    <option value="rgba">RGBA</option>
+    <option value="hex">Hex</option>
+</select>
+<br><br>
+
+<button id="analyzeBtn">Analyze Image</button>
+
+<div id="colorInfo"></div>
+
+<div style="display: flex; justify-content: space-around; align-items: center; width:80%;">
+    <!-- Chosen image display -->
+    <div>
+        <h4>Uploaded Image:</h4>
+        <img id="uploadedImage" style="max-width: 400px; max-height: 400px;" alt="Uploaded image will appear here" />
+    </div>
+
+    <!-- Chart display -->
+    <div>
+        <h4>Color Chart:</h4>
+        <canvas id="colorChartCanvas"></canvas>
+    </div>
+</div>
+
+<script>
+    const imageInput = document.getElementById('imageInput');
+    const bucketSizeInput = document.getElementById('bucketSize');
+    const colorLimitInput = document.getElementById('colorLimit');
+    const excludeTopInput = document.getElementById('excludeTop');
+    const chartTypeInput = document.getElementById('chartType');
+    const labelFormatInput = document.getElementById('labelFormat');
+    const analyzeBtn = document.getElementById('analyzeBtn');
+    const colorChartCanvas = document.getElementById('colorChartCanvas').getContext('2d');
+    let colorChart;
+
+    // Utility to round color values to the nearest bucket
+    function bucketColor(color, bucketSize) {
+        return color.map(channel => Math.floor(channel / bucketSize) * bucketSize);
+    }
+
+    // Convert RGB to Hex
+    function rgbToHex([r, g, b]) {
+        return '#' + [r, g, b].map(x => x.toString(16).padStart(2, '0')).join('');
+    }
+
+    // Convert RGB to RGBA string
+    function rgbaString([r, g, b, a = 255]) {
+        return `rgba(${r},${g},${b},${a / 255})`;
+    }
+
+    // Function to count unique colors without bucket size
+    function countUniqueColors(pixels) {
+        const uniqueColors = new Set();
+        for (let i = 0; i < pixels.length; i += 4) {
+            const color = [pixels[i], pixels[i + 1], pixels[i + 2]];
+            uniqueColors.add(color.join(','));
+        }
+        return uniqueColors.size;
+    }
+
+    // Function to count bucketed colors
+    function countBucketedColors(pixels, bucketSize) {
+        const bucketedColors = new Set();
+        for (let i = 0; i < pixels.length; i += 4) {
+            const color = bucketColor([pixels[i], pixels[i + 1], pixels[i + 2]], bucketSize);
+            bucketedColors.add(color.join(','));
+        }
+        return bucketedColors.size;
+    }
+
+    // Load image and process its pixel data
+    function loadImageAndAnalyze() {
+        const bucketSize = parseInt(bucketSizeInput.value);
+        const colorLimit = parseInt(colorLimitInput.value);
+        const excludeTop = parseInt(excludeTopInput.value);
+        const chartType = chartTypeInput.value;
+        const labelFormat = labelFormatInput.value;
+
+        const imageFile = imageInput.files[0];
+        if (!imageFile) return alert('Please upload an image.');
+
+        const img = new Image();
+        const uploadedImageElement = document.getElementById('uploadedImage');
+        img.src = URL.createObjectURL(imageFile);
+
+        // Display the chosen image in the <img> element
+        uploadedImageElement.src = img.src;
+
+        img.onload = () => {
+            const canvas = document.createElement('canvas');
+            canvas.width = img.width;
+            canvas.height = img.height;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(img, 0, 0);
+
+            const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+            const pixels = imageData.data;
+
+            // 1. Count the unique colors in the original image
+            const uniqueColorCount = countUniqueColors(pixels);
+
+            // 2. Count the colors after bucketing
+            const bucketedColorCount = countBucketedColors(pixels, bucketSize);
+
+            // Display color information
+            const colorInfoDiv = document.getElementById('colorInfo');
+            colorInfoDiv.innerHTML = `
+                <p>Original number of unique colors: ${uniqueColorCount}</p>
+                <p>Number of unique colors after bucketing (bucket size ${bucketSize}): ${bucketedColorCount}</p>
+            `;
+
+            // Count color occurrences after bucketing
+            const colorCounts = new Map();
+            for (let i = 0; i < pixels.length; i += 4) {
+                const color = bucketColor([pixels[i], pixels[i + 1], pixels[i + 2]], bucketSize);
+                const key = color.join(',');
+                colorCounts.set(key, (colorCounts.get(key) || 0) + 1);
+            }
+
+            // Sort by frequency and exclude top N colors
+            const sortedColors = [...colorCounts.entries()]
+                .sort((a, b) => b[1] - a[1])
+                .slice(excludeTop, excludeTop + colorLimit);
+
+            // Prepare data for chart
+            const chartData = {
+                labels: sortedColors.map(([color]) => {
+                    const rgb = color.split(',').map(Number);
+                    return labelFormat === 'rgba' ? rgbaString(rgb) : rgbToHex(rgb);
+                }),
+                datasets: [{
+                    data: sortedColors.map(([, count]) => count),
+                    backgroundColor: sortedColors.map(([color]) => {
+                        const [r, g, b] = color.split(',').map(Number);
+                        return `rgba(${r},${g},${b},0.7)`;
+                    })
+                }]
+            };
+
+            // Render chart
+            if (colorChart) colorChart.destroy();
+            colorChart = new Chart(colorChartCanvas, {
+                type: chartType,
+                data: chartData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true, // Prevents growing issue
+                    scales: chartType === 'bar' ? {
+                        x: { display: false },
+                        y: { beginAtZero: true }
+                    } : undefined
+                }
+            });
+        };
+    }
+
+    analyzeBtn.addEventListener('click', loadImageAndAnalyze);
+</script>
+
+</body>
+</html>
