@@ -19,6 +19,26 @@
             max-height: 500px; /* Prevent canvas from growing indefinitely */
             display: block;
         }
+		.spinner {
+    border: 8px solid #f3f3f3; /* Light grey */
+    border-top: 8px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#loadingSpinner {
+    text-align: center;
+    margin: 20px 0;
+}
+
     </style>
 </head>
 <body>
@@ -58,9 +78,15 @@
 
 <button id="analyzeBtn">Analyze Image</button>
 
+<div id="loadingSpinner" style="display: none;">
+    <div class="spinner"></div>
+    <p>Analyzing image, please wait...</p>
+</div>
+
+
 <div id="colorInfo"></div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; width:80%;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
     <!-- Chosen image display -->
     <div>
         <h4>Uploaded Image:</h4>
@@ -120,91 +146,100 @@
         return bucketedColors.size;
     }
 
-    // Load image and process its pixel data
-    function loadImageAndAnalyze() {
-        const bucketSize = parseInt(bucketSizeInput.value);
-        const colorLimit = parseInt(colorLimitInput.value);
-        const excludeTop = parseInt(excludeTopInput.value);
-        const chartType = chartTypeInput.value;
-        const labelFormat = labelFormatInput.value;
+    const loadingSpinner = document.getElementById('loadingSpinner');
 
-        const imageFile = imageInput.files[0];
-        if (!imageFile) return alert('Please upload an image.');
+function loadImageAndAnalyze() {
+    const bucketSize = parseInt(bucketSizeInput.value);
+    const colorLimit = parseInt(colorLimitInput.value);
+    const excludeTop = parseInt(excludeTopInput.value);
+    const chartType = chartTypeInput.value;
+    const labelFormat = labelFormatInput.value;
 
-        const img = new Image();
-        const uploadedImageElement = document.getElementById('uploadedImage');
-        img.src = URL.createObjectURL(imageFile);
+    const imageFile = imageInput.files[0];
+    if (!imageFile) return alert('Please upload an image.');
 
-        // Display the chosen image in the <img> element
-        uploadedImageElement.src = img.src;
+    const img = new Image();
+    const uploadedImageElement = document.getElementById('uploadedImage');
+    img.src = URL.createObjectURL(imageFile);
 
-        img.onload = () => {
-            const canvas = document.createElement('canvas');
-            canvas.width = img.width;
-            canvas.height = img.height;
-            const ctx = canvas.getContext('2d');
-            ctx.drawImage(img, 0, 0);
+    // Show the spinner
+    loadingSpinner.style.display = 'block';
 
-            const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
-            const pixels = imageData.data;
+    // Display the chosen image in the <img> element
+    uploadedImageElement.src = img.src;
 
-            // 1. Count the unique colors in the original image
-            const uniqueColorCount = countUniqueColors(pixels);
+    img.onload = () => {
+        const canvas = document.createElement('canvas');
+        canvas.width = img.width;
+        canvas.height = img.height;
+        const ctx = canvas.getContext('2d');
+        ctx.drawImage(img, 0, 0);
 
-            // 2. Count the colors after bucketing
-            const bucketedColorCount = countBucketedColors(pixels, bucketSize);
+        const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        const pixels = imageData.data;
 
-            // Display color information
-            const colorInfoDiv = document.getElementById('colorInfo');
-            colorInfoDiv.innerHTML = `
-                <p>Original number of unique colors: ${uniqueColorCount}</p>
-                <p>Number of unique colors after bucketing (bucket size ${bucketSize}): ${bucketedColorCount}</p>
-            `;
+        // 1. Count the unique colors in the original image
+        const uniqueColorCount = countUniqueColors(pixels);
 
-            // Count color occurrences after bucketing
-            const colorCounts = new Map();
-            for (let i = 0; i < pixels.length; i += 4) {
-                const color = bucketColor([pixels[i], pixels[i + 1], pixels[i + 2]], bucketSize);
-                const key = color.join(',');
-                colorCounts.set(key, (colorCounts.get(key) || 0) + 1);
-            }
+        // 2. Count the colors after bucketing
+        const bucketedColorCount = countBucketedColors(pixels, bucketSize);
 
-            // Sort by frequency and exclude top N colors
-            const sortedColors = [...colorCounts.entries()]
-                .sort((a, b) => b[1] - a[1])
-                .slice(excludeTop, excludeTop + colorLimit);
+        // Display color information
+        const colorInfoDiv = document.getElementById('colorInfo');
+        colorInfoDiv.innerHTML = `
+            <p>Original number of unique colors: ${uniqueColorCount}</p>
+            <p>Number of unique colors after bucketing (bucket size ${bucketSize}): ${bucketedColorCount}</p>
+        `;
 
-            // Prepare data for chart
-            const chartData = {
-                labels: sortedColors.map(([color]) => {
-                    const rgb = color.split(',').map(Number);
-                    return labelFormat === 'rgba' ? rgbaString(rgb) : rgbToHex(rgb);
-                }),
-                datasets: [{
-                    data: sortedColors.map(([, count]) => count),
-                    backgroundColor: sortedColors.map(([color]) => {
-                        const [r, g, b] = color.split(',').map(Number);
-                        return `rgba(${r},${g},${b},0.7)`;
-                    })
-                }]
-            };
+        // Count color occurrences after bucketing
+        const colorCounts = new Map();
+        for (let i = 0; i < pixels.length; i += 4) {
+            const color = bucketColor([pixels[i], pixels[i + 1], pixels[i + 2]], bucketSize);
+            const key = color.join(',');
+            colorCounts.set(key, (colorCounts.get(key) || 0) + 1);
+        }
 
-            // Render chart
-            if (colorChart) colorChart.destroy();
-            colorChart = new Chart(colorChartCanvas, {
-                type: chartType,
-                data: chartData,
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: true, // Prevents growing issue
-                    scales: chartType === 'bar' ? {
-                        x: { display: false },
-                        y: { beginAtZero: true }
-                    } : undefined
-                }
-            });
+        // Sort by frequency and exclude top N colors
+        const sortedColors = [...colorCounts.entries()]
+            .sort((a, b) => b[1] - a[1])
+            .slice(excludeTop, excludeTop + colorLimit);
+
+        // Prepare data for chart
+        const chartData = {
+            labels: sortedColors.map(([color]) => {
+                const rgb = color.split(',').map(Number);
+                return labelFormat === 'rgba' ? rgbaString(rgb) : rgbToHex(rgb);
+            }),
+            datasets: [{
+                data: sortedColors.map(([, count]) => count),
+                backgroundColor: sortedColors.map(([color]) => {
+                    const [r, g, b] = color.split(',').map(Number);
+                    return `rgba(${r},${g},${b},1)`;
+                })
+            }]
         };
-    }
+
+        // Render chart
+        if (colorChart) colorChart.destroy();
+        colorChart = new Chart(colorChartCanvas, {
+            type: chartType,
+            data: chartData,
+            options: chartType === 'bar' ? {
+                scales: {
+                    x: { display: false },
+                    y: { beginAtZero: true }
+                }
+            } : {
+                responsive: true,
+                maintainAspectRatio: false
+            }
+        });
+
+        // Hide the spinner once analysis is done
+        loadingSpinner.style.display = 'none';
+    };
+}
+
 
     analyzeBtn.addEventListener('click', loadImageAndAnalyze);
 </script>
