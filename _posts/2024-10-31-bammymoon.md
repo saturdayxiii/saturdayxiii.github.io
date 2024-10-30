@@ -33,3 +33,5 @@ tags:
 comments: true
 ---
 Halloween cross over of [Molly Moon](https://www.tiktok.com/@mollymoonn2) and [Bammy](https://www.tiktok.com/@bammytrothers)
+
+[print your own copy (2 sided flip over short edge)](https://drive.google.com/file/d/1MKcWeXE6fHKp3FuCrcgqn2dfqCSg5MRj/view?usp=sharing)
