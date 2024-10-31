@@ -3,27 +3,27 @@ layout: post
 type: art
 title: Once in a Bammy Moon
 image: https://i.postimg.cc/YCc8wV92/Bammy-Moon-1.webp
-link: https://i.postimg.cc/L49qsNvW/Predetermination-01.webp
+link: https://i.postimg.cc/Z4nQ6zzN/Bammy-Moon-1.webp
 caption: 
 gallery:
   - title: 
     gimage: https://i.postimg.cc/qv8wBLhs/Bammy-Moon-2.webp
-    url: https://i.postimg.cc/rcMRgwc9/Predetermination-02.webp
+    url: https://i.postimg.cc/PT7R4VdR/Bammy-Moon-2.webp
   - title: 
     gimage: https://i.postimg.cc/xdnRXzMW/Bammy-Moon-3.webp
-    url: https://i.postimg.cc/Sqd2Pbxb/Predetermination-03.webp
+    url: https://i.postimg.cc/pPn11QTX/Bammy-Moon-3.webp
   - title: 
     gimage: https://i.postimg.cc/hGs0Tt0h/Bammy-Moon-4-5.webp
-    url: https://i.postimg.cc/8NCJQX7J/Predetermination-04-05.webp
+    url: https://i.postimg.cc/yV4rqJgh/Bammy-Moon-4-5.webp
   - title: 
     gimage: https://i.postimg.cc/4d3Q5R8P/Bammy-Moon-6.webp
-    url: https://i.postimg.cc/t9Zs71t9/Predetermination-06.webp
+    url: https://i.postimg.cc/vQr2GQfJ/Bammy-Moon-6.webp
   - title: 
     gimage: https://i.postimg.cc/0QHdXXFs/Bammy-Moon-7.webp
-    url: https://i.postimg.cc/k70BSnfK/Predetermination-07.webp
+    url: https://i.postimg.cc/pWPGTgBp/Bammy-Moon-7.webp
   - title: 
     gimage: https://i.postimg.cc/zvbwsSYR/Bammy-Moon-8.webp
-    url: https://i.postimg.cc/VmHSY9t7/Predetermination-08.webp
+    url: https://i.postimg.cc/xfgsbtsg/Bammy-Moon-8.webp
 tags:
   - art
   - comic
