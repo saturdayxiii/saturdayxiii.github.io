@@ -2,6 +2,8 @@
 layout: post
 type: me
 title: "Victimhood"
+image: https://i3.ytimg.com/vi/fPHy931YO6k/maxresdefault.jpg
+link: https://www.youtube.com/watch?v=fPHy931YO6k
 tags: ['thoughts', 'victimhood', 'victimizing', 'science', 'conservativism', 'success']
 comments: true
 ---
