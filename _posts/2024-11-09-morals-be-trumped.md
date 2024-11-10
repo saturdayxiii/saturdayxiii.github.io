@@ -2,6 +2,8 @@
 layout: post
 type: me
 title: "Trumped Morals"
+image: https://i3.ytimg.com/vi/Z-1si1oKHEg/maxresdefault.jpg
+link: https://www.youtube.com/watch?v=Z-1si1oKHEg
 tags: 
   - politics
   - thoughts
