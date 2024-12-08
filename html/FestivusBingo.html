@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bingo Card Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+	
+    .bingo-card {
+      border: 0px solid #333;
+      border-collapse: collapse;
+    }
+
+    .bingo-card th,
+    .bingo-card td {
+      width: 120px;
+      height: 120px;
+      border: 1px solid #333;
+	  padding: 5px;
+      text-align: center;
+    }
+
+    .bingo-card th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+<div>
+
+</div><br>
+  <div class="bingo-card">
+	<div style="display: flex; justify-content: space-between; align-items: center;">
+		<div></div>
+      
+	  <div></div>
+	</div>
+	<div style="display: flex; justify-content: space-between; align-items: center; letter-spacing: calc(100% - 1em); font-size: 5vw;">
+	<span style="display: inline-block;"></span>
+	<span style="display: inline-block;">B</span>
+	<span style="display: inline-block;">I</span>
+	<span style="display: inline-block;">N</span>
+	<span style="display: inline-block;">G</span>
+	<span style="display: inline-block;">O</span>
+	<span style="display: inline-block;"></span>
+	</div>
+    <table>
+      <thead>
+<!--         <tr>
+          <th>B</th>
+          <th>I</th>
+          <th>N</th>
+          <th>G</th>
+          <th>O</th>
+        </tr> -->
+      </thead>
+      <tbody id="bingo-card-body"></tbody>
+    </table>
+  </div>
+  <script>
+    const words = [
+      "Someone says HAPPY FESTIVUS", "Someone orders a salad", "Someone coughs", "Someone is wearing a scarf", "Someone is wearing seasonal earrings", "Someone doesn’t like Christmas carols", "Someone has a live Christmas tree", "Someone orders beer", "Jan makes a pun", "Someone describes a Miracle", "Someone is wearing red boots", 
+	"Someone talks about their cat or dog", "Someone loves eggnog", "Someone doesn’t eat meat", "Someone (not you) says CHRISTMAS", "You meet someone new", "Someone speaks more than one language", "Someone orders Diet Coke with no ice", "Someone loves snow", "Someone returns your smile", "You put a present at the Festivus Pole", "Someone is wearing green", "You saw your breath when you were outside", "4 people are wearing rings"
+    ];
+
+    function generateRandomWords() {
+      const shuffled = words.sort(() => 0.5 - Math.random());
+      const selected = shuffled.slice(0, 24);
+      selected.splice(12, 0, "<strong>FREE</strong>");
+      return selected;
+    }
+
+    function generateBingoCard() {
+      const bingoCardBody = document.getElementById("bingo-card-body");
+      const words = generateRandomWords();
+      let index = 0;
+      for (let i = 0; i < 5; i++) {
+        const row = document.createElement("tr");
+        for (let j = 0; j < 5; j++) {
+          const cell = document.createElement("td");
+          cell.innerHTML = words[index];
+          row.appendChild(cell);
+          index++;
+        }
+        bingoCardBody.appendChild(row);
+      }
+    }
+
+    generateBingoCard();
+  </script>
+</body>
+</html>
