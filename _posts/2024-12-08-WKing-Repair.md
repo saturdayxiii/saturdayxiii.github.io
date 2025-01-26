@@ -4,15 +4,6 @@ type: tech
 title: "W-King Bluetooth Speaker Repair"
 image: https://i.postimg.cc/zzfX5jMY/W-King-Bluetooth-Speaker-Repair.webp
 link: https://i.postimg.cc/NMWwk1Bd/W-King-Bluetooth-Speaker-Repair.webp
-caption: 
-gallery:
-  - title: 
-    gimage: 
-    url: 
-video: 
-vgallery:
-  - vid: 
-audio: 
 tags: ['tech', 'repair', 'speaker', 'teardown']
 comments: true
 ---
