@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cleanerscope</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 1.5rem;
+    }
+    .result {
+      margin-top: 2rem;
+      padding: 1rem;
+      background-color: #fff3cd;
+      border: 1px solid #ffeeba;
+      border-radius: 5px;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>🧼 Cleanerscope</h1>
+  <form id="quiz">
+    <div id="questions"></div>
+    <button type="submit">Reveal My Cleaning Tool Sign</button>
+  </form>
+  <div class="result" id="result" style="display:none;"></div>
+
+  <script>
+    const questions = [
+      {
+        q: "What do you notice first in a new space?",
+        options: { A: "The lighting", B: "The smell", C: "The little details", D: "The exits" }
+      },
+      {
+        q: "Pick an object you might keep even though it’s broken:",
+        options: { A: "A cracked mug", B: "A childhood toy", C: "A dull key", D: "A burned-out lightbulb" }
+      },
+      {
+        q: "When you’re overwhelmed, you tend to:",
+        options: { A: "Move furniture", B: "Nap", C: "Scroll", D: "Vanish" }
+      },
+      {
+        q: "What’s the vibe of your workspace?",
+        options: { A: "Organized chaos", B: "Sentimental clutter", C: "Intentionally curated", D: "Minimalist survival zone" }
+      },
+      {
+        q: "Choose an approach to fixing a mess:",
+        options: { A: "Dive in and figure it out", B: "Clean around it for a while", C: "Look for the root cause", D: "Burn it all down and start over" }
+      },
+      {
+        q: "You find an old note you wrote to yourself. What does it say?",
+        options: { A: "Almost there.", B: "You’re doing your best.", C: "Don’t forget this feeling.", D: "Delete everything." }
+      },
+      {
+        q: "Which weird superstition appeals to you most?",
+        options: { A: "Knocking on wood", B: "Talking to houseplants", C: "Not stepping on cracks", D: "Avoiding mirrors after midnight" }
+      },
+      {
+        q: "A friend shows up at your door unannounced. You:",
+        options: { A: "Offer to help with their problem", B: "Make tea and sit in silence", C: "Ask questions until something breaks open", D: "Suggest leaving the house immediately" }
+      }
+    ];
+
+    const resultMap = {
+      AB: { 
+        sign: "🧼 Mop", 
+        description: "TW9wcyBhcmUgcmVsaWFibGUsIGFsd2F5cyByZWFkeSB0byBnZXQgdGhlIGpvYiBkb25lLiBUaGV5IHdvcmsgdGlyZWxlc3NseSBidXQgb2Z0ZW4gZmVlbCB0YWtlbiBmb3IgZ3JhbnRlZC4gTW9wcyBicmluZyBjYWxtIHdpdGggdGhlaXIgcHJlc2VuY2UgYnV0IGNhbiBiZWNvbWUgb3ZlcndoZWxtZWQgd2l0aCB0b28gbWFueSBkZW1hbmRzLg==", 
+        message: "UmVtZW1iZXIgdG8gcGFjZSB5b3Vyc2VsZi4gWW91J3JlIG5lZWRlZCwgYnV0IG5vdCBhdCB5b3VyIG93biBleHBlbnNlLiBTYXkgbm8gdG8gYnVybm91dC4=",
+		friend:
+		"8J+nvSBTcG9uZ2UgKGVtb3Rpb25hbCBjbGVhbnVwIGNyZXcsIHVuaXRlKS4=",
+		foe:
+		"8J+OryBMaW50IFJvbGxlciAodGhleSB3b27igJl0IHdhbnQgdG8gZ2V0IG1lc3N5KS4="	
+      },
+      AC: { 
+        sign: "🧽 Sponge", 
+        description: "U3BvbmdlcyBzb2FrIHVwIGV2ZXJ5dGhpbmcsIG11Y2ggbGlrZSB5b3VyIGFiaWxpdHkgdG8gYWJzb3JiIGVtb3Rpb25zLCBpbmZvcm1hdGlvbiwgYW5kIGVuZXJneSBmcm9tIHRoZSB3b3JsZCBhcm91bmQgeW91LiBZb3UgY2FuIGZlZWwgb3ZlcndoZWxtZWQgaWYgeW91IGRvbuKAmXQgc2V0IHN0cm9uZyBib3VuZGFyaWVzLg==", 
+        message: "WW91J3JlIHNvYWtpbmcgdXAgZXZlcnlvbmUncyBlbmVyZ3kuIFNldCBib3VuZGFyaWVzIGFuZCB0YWtlIHRpbWUgdG8gd3JpbmcgeW91cnNlbGYgb3V0Lg==",
+		friend:
+		"8J+nvCBNb3AgKHlvdSBib3RoIHVuZGVyc3RhbmQgZW1vdGlvbmFsIG1lc3Nlcyku",
+		foe:
+		"8J+MgCBWYWN1dW0gKHRoZXkgbWlnaHQgZHJhaW4geW91ciBlbmVyZ3kpLg=="	
+      },
+      AD: { 
+        sign: "🚽 Toilet Brush", 
+        description: "QnJhdmUsIG1pc3VuZGVyc3Rvb2QsIGJ1dCBuZWNlc3NhcnkuIFlvdSBnbyBpbnRvIG1lc3N5IHNpdHVhdGlvbnMgaGVhZGZpcnN0LCBjbGVhbmluZyB1cCB3aGF0IG90aGVycyBhdm9pZC4gU29tZXRpbWVzLCB0aG91Z2gsIHlvdSBtaWdodCBuZWVkIGEgYnJlYWsgYWZ0ZXIgdGhlIGhhcmQgd29yay4=", 
+        message: "WW914oCZcmUgdGhlIGJyYXZlIG9uZS4gVGFja2xlIHdoYXQgb3RoZXJzIHdvbuKAmXTigJRidXQgZG9u4oCZdCBmb3JnZXQgdG8gcmVzdC4=",
+		friend:
+		"8J+Nve+4jyBEaXNoIFNjcnViYmVyIChmZWxsb3cgZGVlcC1jbGVhbmVyIHdpdGggZ3JpdCku",
+		foe:
+		"8J+niiBTcXVlZWdlZSAodGhleSBtaWdodCBub3Qgd2FudCB0byBnbyBhcyBkZWVwIGFzIHlvdSBkbyku"	
+      },
+      BA: { 
+        sign: "🪶 Feather Duster", 
+        description: "RmVhdGhlciBkdXN0ZXJzIGdsaWRlIHRocm91Z2ggc3BhY2VzIGxpZ2h0bHksIGFkZGluZyBhIHRvdWNoIG9mIGZyZXNobmVzcy4gWW91IHByZWZlciB0byBrZWVwIHRoaW5ncyBsaWdodCBhbmQgYWlyeSwgYnV0IGJlIGNhcmVmdWwgbm90IHRvIGJydXNoIHBhc3QgaW1wb3J0YW50IG1hdHRlcnMgdGhhdCBuZWVkIGF0dGVudGlvbi4=", 
+        message: "RmxvYXQgdGhyb3VnaCB0aGUgY2hhb3MuIFlvdXIgbGlnaHQgdG91Y2ggYnJpbmdzIGpveSB0byBvdGhlcnMgdGhpcyBtb250aC4=",
+		friend:
+		"8J+OryBMaW50IFJvbGxlciAodG9nZXRoZXIsIHlvdSdyZSBzb2NpYWxseSB1bnN0b3BwYWJsZSku",
+		foe:
+		"8J+nvSBTcG9uZ2UgKHlvdSBtYXkgZnJ1c3RyYXRlIHRoZW0gd2l0aCB5b3VyIGF2b2lkYW5jZSBvZiBkZWVwIGlzc3Vlcyku"	
+      },
+      BC: { 
+        sign: "🎯 Lint Roller", 
+        description: "WW91IHN0aWNrIHRvIHRoZSBkZXRhaWxzLiBZb3XigJlyZSB0aGUgb25lIHdobyBub3RpY2VzIHRoZSBzbWFsbCB0aGluZ3MgdGhhdCBvdGhlcnMgb3Zlcmxvb2suIEZvY3VzZWQgYW5kIHRob3JvdWdoLCB5b3UgbWlnaHQgZ2V0IGEgbGl0dGxlIGNhdWdodCB1cCBpbiBwZXJmZWN0aW9uLCBidXQgeW91ciBhdHRlbnRpb24gbWFrZXMgYSBiaWcgZGlmZmVyZW5jZS4=", 
+        message: "U3RpY2sgdG8gdGhlIGRldGFpbHMuIFlvdeKAmWxsIHRocml2ZSBieSBmb2N1c2luZyBvbiB0aGUgc21hbGwgc3R1ZmYgdGhhdCBvdGhlcnMgb3Zlcmxvb2su",
+		friend:
+		"8J+qtiBGZWF0aGVyIER1c3RlciAoYSBsaWdodC1oZWFydGVkIHBvd2VyIGR1byku",
+		foe:
+		"8J+nvCBNb3AgKHRvbyBtdWNoIG1lc3Mgc3RyZXNzZXMgeW91IG91dCku"	
+      },
+      BD: { 
+        sign: "🧻 Disinfecting Wipe", 
+        description: "UXVpY2sgYW5kIGVmZmVjdGl2ZSwgeW91IGdldCB0byB0aGUgcG9pbnQsIGJ1dCBmaW5kIHlvdXJzZWxmIG9mdGVuIGJlaW5nIHRha2VuIGZvciBncmFudGVkLiBZb3XigJlyZSBncmVhdCBhdCBoYW5kbGluZyBzdWRkZW4gbWVzc2VzIGFuZCBjbGVhbmluZyB1cCBhZnRlciBjaGFvcywgYnV0IGJlIGNhcmVmdWwgbm90IHRvIGdldCB0b28gY2F1Z2h0IHVwIGluIHRoZSBydXNoIHRvIGZpeCB0aGluZ3MgaW1tZWRpYXRlbHku", 
+        message: "UXVpY2ssIGNsZWFuIGFjdGlvbiBpcyB5b3VyIHN0cmVuZ3RoLiBKdXN0IGRvbuKAmXQgdGhyb3cgYXdheSBzb21ldGhpbmcgd29ydGggc2F2aW5nLg==",
+		friend:
+		"8J+SpiBQcmVzc3VyZSBXYXNoZXIgKGJvdGggYm9sZCBhbmQgZmFzdC1hY3RpbmcpLg==",
+		foe:
+		"8J+qtiBGZWF0aGVyIER1c3RlciAodGhleSBtYXkgZmVlbCBqdWRnZWQpLg=="	
+      },
+      CA: { 
+        sign: "🍽️ Dish Scrubber", 
+        description: "WW91IHRha2UgdGhlIGxvbmcgcm9hZCB0byBjbGVhbmxpbmVzcywgdGFja2xpbmcgdG91Z2ggY2hhbGxlbmdlcyB3aXRoIHBhdGllbmNlIGFuZCBwZXJzaXN0ZW5jZS4gTGlrZSBhIGRpc2ggc2NydWJiZXIsIHlvdSBjYW4gaGFuZGxlIHRoZSBtZXNzaWVzdCBzaXR1YXRpb25zIGlmIHlvdeKAmXJlIGdpdmVuIGVub3VnaCB0aW1lIHRvIHdvcmsgdGhyb3VnaCB0aGVtLg==", 
+        message: "V29yayBtYXkgZmVlbCBlbmRsZXNzLCBidXQgcGVyc2lzdGVuY2UgcGF5cyBvZmYuIENlbGVicmF0ZSBzbWFsbCB3aW5zLg==",
+		friend:
+		"8J+avSBUb2lsZXQgQnJ1c2ggKGRvd24tdG8tZWFydGggYW5kIHJlbGlhYmxlKS4=",
+		foe:
+		"8J+niiBTcXVlZWdlZSAodGhleSBtYXkgY2FsbCB5b3Ugb3V0IG9uIG92ZXJkb2luZyBpdCku"	
+      },
+      CC: { 
+        sign: "🧳 Vacuum", 
+        description: "WW914oCZcmUgZWZmaWNpZW50IGF0IHBpY2tpbmcgdXAgb24gdGhlIGZpbmVyIGRldGFpbHMsIHF1aWNrbHkgY2xlYW5pbmcgdXAgbWVzc2VzLiBZb3XigJlyZSBhbHdheXMgbG9va2luZyBmb3Igd2hhdCBuZWVkcyBhdHRlbnRpb24sIHNvbWV0aW1lcyB0byB0aGUgcG9pbnQgb2Ygb3ZlcmFuYWx5emluZywgYnV0IHlvdSBnZXQgcmVzdWx0cy4=", 
+        message: "SXTigJlzIHdoaXJsd2luZCBzZWFzb24uIENsZWFuIGhvdXNl4oCUZW1vdGlvbmFsbHksIHBoeXNpY2FsbHksIHNwaXJpdHVhbGx5Lg==",
+		friend:
+		"8J+niiBTcXVlZWdlZSAodGhleSBrZWVwIHlvdXIgZ29hbHMgaW4gZm9jdXMpLg==",
+		foe:
+		"8J+nvSBTcG9uZ2UgKHlvdSBtaWdodCBvdmVyd2hlbG0gdGhlaXIgc29mdCB2aWJlKS4="	
+      },
+      CD: { 
+        sign: "🧽 Squeegee", 
+        description: "WW91IGFyZSB2ZXJ5IHRob3JvdWdoIGFuZCBwdWxsIHRocm91Z2ggZ3JpbWUsIGJ1dCBuZWVkIHRvIHRha2UgY2FyZSBmb3IgbGVhdmluZyBzdHJlYWtzIGluIHlvdXIgd2FrZS4gWW91IGhhdmUgYSBuby1ub25zZW5zZSBhdHRpdHVkZeKAlGNsZWFyaW5nIHRoZSBjbHV0dGVyIGFuZCBmb2N1c2luZyBvbiB3aGF0J3MgZXNzZW50aWFsLiBZb3Ugd29yayBiZXN0IGluIGEgZmFzdC1wYWNlZCwgY2xlYXIgZW52aXJvbm1lbnQu", 
+        message: "Q3V0IHRocm91Z2ggY29uZnVzaW9uLiBDbGFyaXR5IGlzIHlvdXIgZ2lmdCwgYnV0IHlvdSBoYXZlIGFuIGVkZ2UsIHNvIHVzZSBpdCBnZW50bHku",
+		friend:
+		"8J+MgCBWYWN1dW0gKHlvdSBoZWxwIHJlZmluZSB0aGVpciB3aGlybHdpbmQgZW5lcmd5KS4=",
+		foe:
+		"8J+nvSBTcG9uZ2UgKHRoZXkgbWF5IGZlZWwgc2VlbuKAlGJ1dCBub3QgdW5kZXJzdG9vZCku"	
+      },
+      DA: { 
+        sign: "🧼 Dustpan", 
+        description: "RHVzdHBhbnMgY2F0Y2ggd2hhdCBicm9vbXMgY2Fu4oCZdC4gWW91IGhhdmUgYSBrbmFjayBmb3IgcGlja2luZyB1cCB0aGUgc21hbGwgdGhpbmdzIG90aGVycyBtaXNzLCBlbnN1cmluZyBub3RoaW5nIGlzIGxlZnQgYmVoaW5kLiBTb21ldGltZXMsIHlvdeKAmXJlIHRoZSBxdWlldCBvbmUgaW4gdGhlIGJhY2tncm91bmQsIGJ1dCB5b3VyIGNvbnRyaWJ1dGlvbiBpcyBlc3NlbnRpYWwu", 
+        message: "WW914oCZcmUgc3RlYWR5IGFuZCBlc3NlbnRpYWwuIE9ic2VydmUgdGhhdC4gIEhhbmcgYmFjayBhbmQgbGV0IHNvbWVvbmUgZWxzZSBub3RpY2UgeW91ciB2YWx1ZSB0aGlzIG1vbnRoLg==",
+		friend:
+		"8J+nuSBCcm9vbSAoY2xhc3NpYyBoYXJtb255IGFuZCByZXNwZWN0KS4=",
+		foe:
+		"8J+SpiBQcmVzc3VyZSBXYXNoZXIgKHRoZXkgbW92ZSB0b28gZmFzdCBmb3IgeW91ciBwYWNlKS4="		
+      },
+      DB: { 
+        sign: "💨 Pressure Washer", 
+        description: "You bring a sense of urgency and power. Like a pressure washer, you’re capable of cleaning up even the most stubborn messes. You’re energetic and direct, but make sure you don't burn out with all that force.", 
+        message: "WW914oCZcmUgYSBmb3JjZS4gQmUgYm9sZCwgYnV0IHdhdGNoIHdob+KAmXMgaW4geW91ciBzcGxhc2ggem9uZS4=" 
+      }
+    };
+
+    const form = document.getElementById("quiz");
+    const questionsContainer = document.getElementById("questions");
+    const resultBox = document.getElementById("result");
+
+    questions.forEach((q, i) => {
+      const div = document.createElement("div");
+      div.className = "question";
+      div.innerHTML = `<p><strong>${i + 1}. ${q.q}</strong></p>`;
+      Object.entries(q.options).forEach(([key, text]) => {
+        div.innerHTML += `
+          <label>
+            <input type="radio" name="q${i}" value="${key}" required /> ${text}
+          </label><br/>
+        `;
+      });
+      questionsContainer.appendChild(div);
+    });
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      const data = new FormData(form);
+      const counts = { A: 0, B: 0, C: 0, D: 0 };
+
+      for (let [key, value] of data.entries()) {
+        counts[value]++;
+      }
+
+      const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      const top = sorted[0][0];
+      const second = sorted[1][0];
+      const key = top + second;
+      const result = resultMap[key] || { sign: "✨ Undefined", message: "WW91J3JlIGluIGEgc3RhdGUgb2YgdHJhbnNmb3JtYXRpb24uIFRyeSBhZ2FpbiBzb29uLg==" };  // Default message
+
+      resultBox.style.display = "block";
+      resultBox.innerHTML = `<h2>Your Sign: ${result.sign}</h2><p>${atob(result.description)}</p><p>${atob(result.message)}</p><b>Best match:</b> ${atob(result.friend)}<p></p><p><b>Caution with:</b> ${atob(result.foe)}</p>`;
+    });
+  </script>
+</body>
+</html>
