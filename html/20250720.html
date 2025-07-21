@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Collage Gallery</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  #menu {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    padding: 0px;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
+    z-index: 1;
+  }
+  #menu button {
+    font: 20px bold;
+    color: white;
+    width: 45px;
+    height: 45px;
+    margin: 6px;
+    background-color: rgba(40,40,40,1);
+    cursor: pointer;
+    border: 2px solid rgba(170,160,255,0.5);
+    border-radius: 10px;
+  }
+  #gallery {
+    column-count: 4;
+    grid-gap: 0;
+    padding: 0;
+  }
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    line-height: 0;
+  }
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    transition: transform 0.3s;
+  }
+#zoomed {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 2;
+  }
+  #zoomed img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+    max-width: 90%;
+    max-height: 90%;
+    border: solid rgba(255, 255, 255, 0.7) 2px;
+    line-height:0;
+  }
+</style>
+</head>
+<body>
+
+    <div id="loadingMessage" style="display: none;">Loading more images...</div>
+<div id="menu">
+  <button id="decreaseColumns">-</button><br>
+  <button id="resetColumns">=</button><br>
+  <button id="increaseColumns">+</button><br>
+  <button id="loadMore">$</button>
+</div>
+<div id="zoomed">
+  <img src="" alt="">
+</div>
+<div id="gallery"></div>
+<script>
+  // List of image sources
+const imageSources = ['https://postimg.cc/bdmmCgNC][img]https://i.postimg.cc/bdmmCgNC/20250720-115124.jpg',
+'https://postimg.cc/56ZqTRc3][img]https://i.postimg.cc/56ZqTRc3/20250720-115129.jpg',
+'https://postimg.cc/gn5Nd0h3][img]https://i.postimg.cc/gn5Nd0h3/20250720-115137.jpg',
+'https://postimg.cc/mhLdyJR1][img]https://i.postimg.cc/mhLdyJR1/20250720-115603.jpg',
+'https://postimg.cc/JtsX855d][img]https://i.postimg.cc/JtsX855d/20250720-140437.jpg',
+'https://postimg.cc/qz8zBbhQ][img]https://i.postimg.cc/qz8zBbhQ/20250720-140442.jpg',
+'https://postimg.cc/fVDkVcYs][img]https://i.postimg.cc/fVDkVcYs/20250720-140508.jpg',
+'https://postimg.cc/2q56wCHX][img]https://i.postimg.cc/2q56wCHX/20250720-140528.jpg',
+'https://postimg.cc/r0BwMxqv][img]https://i.postimg.cc/r0BwMxqv/20250720-140600.jpg',
+'https://postimg.cc/JsYmRZqP][img]https://i.postimg.cc/JsYmRZqP/20250720-140607.jpg',
+'https://postimg.cc/SjcycXSx][img]https://i.postimg.cc/SjcycXSx/20250720-140614.jpg',
+'https://postimg.cc/FYHNtDjY][img]https://i.postimg.cc/FYHNtDjY/20250720-140845.jpg',
+'https://postimg.cc/bGGPrrV8][img]https://i.postimg.cc/bGGPrrV8/20250720-140857.jpg',
+'https://postimg.cc/mzyTfq6F][img]https://i.postimg.cc/mzyTfq6F/20250720-140949.jpg',
+'https://postimg.cc/zLRm5M3G][img]https://i.postimg.cc/zLRm5M3G/20250720-141620.jpg',
+'https://postimg.cc/75RvFDHR][img]https://i.postimg.cc/75RvFDHR/20250720-141628.jpg',
+'https://postimg.cc/7GvFLVTM][img]https://i.postimg.cc/7GvFLVTM/20250720-141646.jpg',
+'https://postimg.cc/4mNxZfG4][img]https://i.postimg.cc/4mNxZfG4/20250720-141737.jpg',
+'https://postimg.cc/jLgdSpqH][img]https://i.postimg.cc/jLgdSpqH/20250720-141754.jpg',
+'https://postimg.cc/CRRMBcdW][img]https://i.postimg.cc/CRRMBcdW/20250720-141841.jpg',
+'https://postimg.cc/r0kqHcgk][img]https://i.postimg.cc/r0kqHcgk/20250720-141929.jpg',
+'https://postimg.cc/CRnYLdQ0][img]https://i.postimg.cc/CRnYLdQ0/20250720-142004.jpg',
+'https://postimg.cc/sGfsVctH][img]https://i.postimg.cc/sGfsVctH/20250720-142049.jpg',
+'https://postimg.cc/kDjdQxr9][img]https://i.postimg.cc/kDjdQxr9/20250720-142117.jpg',
+'https://postimg.cc/4mqkMsNS][img]https://i.postimg.cc/4mqkMsNS/20250720-142140.jpg',
+'https://postimg.cc/bssf3s8n][img]https://i.postimg.cc/bssf3s8n/20250720-142152.jpg',
+'https://postimg.cc/Z9PGCNPG][img]https://i.postimg.cc/Z9PGCNPG/20250720-142401.jpg',
+'https://postimg.cc/LJKQLXs2][img]https://i.postimg.cc/LJKQLXs2/20250720-142435.jpg',
+'https://postimg.cc/Nybd3kkj][img]https://i.postimg.cc/Nybd3kkj/20250720-142454.jpg',
+'https://postimg.cc/TLwtf5tq][img]https://i.postimg.cc/TLwtf5tq/20250720-142511.jpg',
+'https://postimg.cc/1njJtRTx][img]https://i.postimg.cc/1njJtRTx/20250720-142529.jpg',
+'https://postimg.cc/yJ6PySC4][img]https://i.postimg.cc/yJ6PySC4/20250720-143115.jpg',
+'https://postimg.cc/Tykc7YTy][img]https://i.postimg.cc/Tykc7YTy/20250720-143121.jpg',
+'https://postimg.cc/r0KNvXpf][img]https://i.postimg.cc/r0KNvXpf/20250720-143143.jpg',
+'https://postimg.cc/tZwNbSZp][img]https://i.postimg.cc/tZwNbSZp/20250720-143157.jpg',
+'https://postimg.cc/K3tB2ZhD][img]https://i.postimg.cc/K3tB2ZhD/20250720-143840.jpg',
+'https://postimg.cc/gxzRCFS3][img]https://i.postimg.cc/gxzRCFS3/20250720-143851.jpg',
+'https://postimg.cc/rKL59t5n][img]https://i.postimg.cc/rKL59t5n/20250720-143906.jpg',
+'https://postimg.cc/VdBnZLRY][img]https://i.postimg.cc/VdBnZLRY/20250720-143911.jpg',
+'https://postimg.cc/K35jf4yw][img]https://i.postimg.cc/K35jf4yw/20250720-143942.jpg',
+'https://postimg.cc/gLpr3813][img]https://i.postimg.cc/gLpr3813/20250720-143954.jpg',
+'https://postimg.cc/cvzHXVVx][img]https://i.postimg.cc/cvzHXVVx/20250720-144122.jpg',
+'https://postimg.cc/G8Fm399t][img]https://i.postimg.cc/G8Fm399t/20250720-144132.jpg',
+'https://postimg.cc/F1XpHKT4][img]https://i.postimg.cc/F1XpHKT4/20250720-144138.jpg',
+'https://postimg.cc/DmQgJKNb][img]https://i.postimg.cc/DmQgJKNb/20250720-145619.jpg',
+'https://postimg.cc/jLZ4c4tx][img]https://i.postimg.cc/jLZ4c4tx/20250720-145631.jpg',
+'https://postimg.cc/jLshyFV3][img]https://i.postimg.cc/jLshyFV3/20250720-145644.jpg'
+];
+
+  const zoomed = document.getElementById('zoomed');
+  const zoomedImage = zoomed.querySelector('img');
+  const gallery = document.getElementById('gallery');
+  const decreaseColumnsButton = document.getElementById('decreaseColumns');
+  const resetColumnsButton = document.getElementById('resetColumns');
+  const increaseColumnsButton = document.getElementById('increaseColumns');
+  const loadMoreButton = document.getElementById('loadMore');
+
+  let columns = 4;
+  let currentPage = 1;
+  const imagesPerPage = 20;
+  let isLoading = false;
+
+  function updateColumns(newColumns) {
+    columns = newColumns;
+    gallery.style.columnCount = columns;
+  }
+
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+
+  shuffleArray(imageSources);
+
+  function loadNextImages() {
+    if (isLoading) return;
+    isLoading = true;
+
+    const startIndex = (currentPage - 1) * imagesPerPage;
+    const endIndex = startIndex + imagesPerPage;
+
+    const imagesToLoad = imageSources.slice(startIndex, endIndex);
+
+    imagesToLoad.forEach((src, index) => {
+      const galleryItem = document.createElement('div');
+      galleryItem.classList.add('gallery-item');
+      const image = document.createElement('img');
+      image.src = src;
+      image.alt = `Image ${startIndex + index + 1}`;
+      galleryItem.appendChild(image);
+      gallery.appendChild(galleryItem);
+
+      // Add click event to zoom image
+      image.addEventListener('click', () => {
+        zoomedImage.src = src;
+        zoomed.style.display = 'block';
+      });
+    });
+
+    currentPage++;
+    isLoading = false;
+  }
+
+  // Load initial images
+  loadNextImages();
+
+// Function to check if user has reached the bottom of the page
+function isBottomReached() {
+  const scrolled = window.scrollY;
+  const viewportHeight = window.innerHeight;
+  const totalGalleryHeight = gallery.offsetHeight; // Use the height of the gallery container
+
+  return scrolled + viewportHeight >= totalGalleryHeight;
+}
+
+// Attach a scroll event listener to check if user has reached the bottom
+window.addEventListener('scroll', () => {
+  if (isBottomReached() &&
+      !isLoading) {
+    loadNextImages();
+  }
+});
+
+  // Attach close event
+  zoomed.addEventListener('click', () => {
+    zoomed.style.display = 'none';
+  });
+
+  decreaseColumnsButton.addEventListener('click', () => {
+    if (columns > 1) {
+      updateColumns(columns - 1);
+    }
+  });
+
+  resetColumnsButton.addEventListener('click', () => {
+    updateColumns(4);
+  });
+
+  increaseColumnsButton.addEventListener('click', () => {
+    updateColumns(columns + 1);
+  });
+
+  loadMoreButton.addEventListener('click', () => {
+    loadNextImages();
+  });
+
+</script>
+</body>
+</html>
