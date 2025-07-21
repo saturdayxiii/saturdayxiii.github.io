@@ -94,7 +94,7 @@
 </style>
 </head>
 <body>
-<audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" autoplay loop muted></audio>
+<audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" loop></audio>
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
     <button id="toggleMute">🔊</button><br>
@@ -107,11 +107,23 @@
 </div>
 <div id="gallery"></div>
 <script>
+ const audio = document.getElementById('bg-music');
+const musicButton = document.getElementById('toggleMusic');
+
+musicButton.addEventListener('click', () => {
+  if (audio.paused) {
+    audio.volume = 0.5;
+    audio.play().then(() => {
+      musicButton.textContent = '⏸️ Music';
+    }).catch((err) => {
+      console.log('Play failed:', err);
+    });
+  } else {
+    audio.pause();
+    musicButton.textContent = '▶️ Music';
+  }
+});
   
- 
-
-
-
 // List of image sources
 const imageSources = ['https://i.postimg.cc/qvzSR1XB/20250720-115124.webp',
 'https://i.postimg.cc/65HFtkZ1/20250720-115129.webp',
