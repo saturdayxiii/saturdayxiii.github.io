@@ -106,17 +106,12 @@
 </div>
 <div id="gallery"></div>
 <script>
-  document.addEventListener('click', () => {
-  const audio = document.getElementById('bg-music');
-  if (audio && audio.paused) {
-    audio.play();
-  }
-});
+  
   window.addEventListener('DOMContentLoaded', () => {
   const audio = document.getElementById('bg-music');
   const muteButton = document.getElementById('toggleMute');
 
-  // Ensure audio is muted initially so autoplay works
+  // Start muted so autoplay works
   audio.muted = true;
   audio.volume = 0.5;
 
@@ -126,18 +121,19 @@
 
   muteButton.addEventListener('click', () => {
     audio.muted = !audio.muted;
-    audio.play().catch(() => {});
+    if (audio.paused) {
+      audio.play().catch(() => {});
+    }
     updateButtonIcon();
   });
 
-  // Trigger playback/unmute on first click or scroll anywhere
   function handleFirstInteraction() {
-    if (audio.paused && !audio.muted) {
+    if (audio.muted) {
+      audio.muted = false;  // unmute on interaction
+    }
+    if (audio.paused) {
       audio.play().catch(() => {});
     }
-    // Optional: auto-unmute on first interaction
-    // if (audio.muted) audio.muted = false;
-
     updateButtonIcon();
     window.removeEventListener('click', handleFirstInteraction);
     window.removeEventListener('scroll', handleFirstInteraction);
@@ -146,9 +142,9 @@
   window.addEventListener('click', handleFirstInteraction);
   window.addEventListener('scroll', handleFirstInteraction);
 
-  // Initial icon state
   updateButtonIcon();
 });
+
 
 
 // List of image sources
@@ -325,7 +321,13 @@ window.addEventListener('scroll', () => {
     const size = Math.random() * 20 + 15; // 15px–35px
     const left = Math.random() * 100; // 0–100% across viewport
     const duration = Math.random() * 5 + 5; // 5–10s
-    const colors = ['#ffffff', '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff'];
+    const colors = [
+      '#ffffff', // white
+      '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff', // soft blues
+      '#ffff66', // bright yellow
+      '#ff66cc', // neon pink
+      '#66ccff'  // baby blue
+    ];
     const color = colors[Math.floor(Math.random() * colors.length)];
   
     bubble.style.width = `${size}px`;
