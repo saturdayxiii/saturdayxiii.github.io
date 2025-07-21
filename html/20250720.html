@@ -293,7 +293,13 @@ window.addEventListener('scroll', () => {
     const size = Math.random() * 20 + 15; // 15px–35px
     const left = Math.random() * 100; // 0–100% across viewport
     const duration = Math.random() * 5 + 5; // 5–10s
-    const colors = ['#ffffff', '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff'];
+    const colors = [
+      '#ffffff', // white
+      '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff', // soft blues
+      '#ffff66', // bright yellow
+      '#ff66cc', // neon pink
+      '#66ccff'  // baby blue
+    ];
     const color = colors[Math.floor(Math.random() * colors.length)];
   
     bubble.style.width = `${size}px`;
