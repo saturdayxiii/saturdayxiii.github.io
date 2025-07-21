@@ -96,8 +96,8 @@
 <audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" autoplay loop></audio>
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
+    <button id="toggleMute">🔊</button>
   <button id="decreaseColumns">-</button><br>
-  <button id="resetColumns">=</button><br>
   <button id="increaseColumns">+</button><br>
   <button id="loadMore">$</button>
 </div>
@@ -114,8 +114,28 @@
 });
   window.addEventListener('DOMContentLoaded', () => {
   const audio = document.getElementById('bg-music');
+  const muteButton = document.getElementById('toggleMute');
+
   if (audio) {
-    audio.volume = 0.5; // Set initial volume to 50%
+    audio.volume = 0.5;
+
+    muteButton.addEventListener('click', () => {
+      if (audio.paused || audio.muted) {
+        audio.muted = false;
+        audio.play().catch(() => {}); // try to play in case autoplay was blocked
+        muteButton.textContent = '🔊';
+      } else {
+        audio.muted = true;
+        muteButton.textContent = '🔇';
+      }
+    });
+
+    // Update button icon if autoplay fails
+    setTimeout(() => {
+      if (audio.paused || audio.muted) {
+        muteButton.textContent = '🔇';
+      }
+    }, 1000);
   }
 });
 
