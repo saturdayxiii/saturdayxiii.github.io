@@ -108,42 +108,7 @@
 <div id="gallery"></div>
 <script>
   
-  window.addEventListener('DOMContentLoaded', () => {
-  const audio = document.getElementById('bg-music');
-  const muteButton = document.getElementById('toggleMute');
-
-  // Start muted so autoplay works
-  audio.volume = 0.3;
-
-  function updateButtonIcon() {
-    muteButton.textContent = audio.muted ? '🔇' : '🔊';
-  }
-
-  muteButton.addEventListener('click', () => {
-    audio.muted = !audio.muted;
-    if (audio.paused) {
-      audio.play().catch(() => {});
-    }
-    updateButtonIcon();
-  });
-
-  function handleFirstInteraction() {
-    if (audio.muted) {
-      audio.muted = false;  // unmute on interaction
-    }
-    if (audio.paused) {
-      audio.play().catch(() => {});
-    }
-    updateButtonIcon();
-    window.removeEventListener('click', handleFirstInteraction);
-    window.removeEventListener('scroll', handleFirstInteraction);
-  }
-
-  window.addEventListener('click', handleFirstInteraction);
-  window.addEventListener('scroll', handleFirstInteraction);
-
-  updateButtonIcon();
-});
+ 
 
 
 
