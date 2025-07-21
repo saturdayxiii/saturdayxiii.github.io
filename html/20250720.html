@@ -68,7 +68,7 @@
     border: solid rgba(255, 255, 255, 0.7) 2px;
     line-height:0;
   }
- .bubble {
+  .bubble {
   position: fixed;
   bottom: -50px;
   border-radius: 50%;
@@ -90,14 +90,13 @@
   }
 }
 
-
 </style>
 </head>
 <body>
 <audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" loop></audio>
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
-    <button id="toggleMusic">🔊</button><br>
+  <button id="toggleMusic">▶️</button><br>
   <button id="decreaseColumns">-</button><br>
   <button id="increaseColumns">+</button><br>
   <button id="loadMore">$</button>
@@ -107,24 +106,24 @@
 </div>
 <div id="gallery"></div>
 <script>
- const audio = document.getElementById('bg-music');
+  const audio = document.getElementById('bg-music');
 const musicButton = document.getElementById('toggleMusic');
 
 musicButton.addEventListener('click', () => {
   if (audio.paused) {
-    audio.volume = 0.5;
+    audio.volume = 0.3;
     audio.play().then(() => {
-      musicButton.textContent = '⏸️ Music';
+      musicButton.textContent = '⏸️';
     }).catch((err) => {
       console.log('Play failed:', err);
     });
   } else {
     audio.pause();
-    musicButton.textContent = '▶️ Music';
+    musicButton.textContent = '▶️';
   }
 });
-  
-// List of image sources
+
+  // List of image sources
 const imageSources = ['https://i.postimg.cc/qvzSR1XB/20250720-115124.webp',
 'https://i.postimg.cc/65HFtkZ1/20250720-115129.webp',
 'https://i.postimg.cc/rFyv6VDr/20250720-115137.webp',
@@ -202,7 +201,7 @@ const imageSources = ['https://i.postimg.cc/qvzSR1XB/20250720-115124.webp',
 
   let columns = 6;
   let currentPage = 1;
-  const imagesPerPage = 35;
+  const imagesPerPage = 20;
   let isLoading = false;
 
   function updateColumns(newColumns) {
@@ -291,31 +290,29 @@ window.addEventListener('scroll', () => {
     loadNextImages();
   });
   
-    function createBubble() {
+  function createBubble() {
     const bubble = document.createElement('div');
     bubble.classList.add('bubble');
-
+  
     const size = Math.random() * 20 + 15; // 15px–35px
     const left = Math.random() * 100; // 0–100% across viewport
     const duration = Math.random() * 5 + 5; // 5–10s
     const colors = ['#ffffff', '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff'];
     const color = colors[Math.floor(Math.random() * colors.length)];
-
+  
     bubble.style.width = `${size}px`;
     bubble.style.height = `${size}px`;
     bubble.style.left = `${left}vw`;
     bubble.style.borderColor = color;
     bubble.style.animationDuration = `${duration}s`;
-
+  
     document.body.appendChild(bubble);
-
+  
     setTimeout(() => {
       bubble.remove();
     }, duration * 1000);
   }
-
-  // 🎈 Start creating bubbles!
-  setInterval(createBubble, 300);
+  setInterval(createBubble, 300); // Make a bubble every 300ms
 
 </script>
 </body>
