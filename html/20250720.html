@@ -93,10 +93,10 @@
 </style>
 </head>
 <body>
-<audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" autoplay loop></audio>
+<audio id="bg-music" src="https://saturdayxiii.github.io/media/20250720_121341_614.ogg" autoplay loop muted></audio>
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
-    <button id="toggleMute">🔊</button>
+    <button id="toggleMute">🔊</button><br>
   <button id="decreaseColumns">-</button><br>
   <button id="increaseColumns">+</button><br>
   <button id="loadMore">$</button>
@@ -116,28 +116,40 @@
   const audio = document.getElementById('bg-music');
   const muteButton = document.getElementById('toggleMute');
 
-  if (audio) {
-    audio.volume = 0.5;
+  // Ensure audio is muted initially so autoplay works
+  audio.muted = true;
+  audio.volume = 0.5;
 
-    muteButton.addEventListener('click', () => {
-      if (audio.paused || audio.muted) {
-        audio.muted = false;
-        audio.play().catch(() => {}); // try to play in case autoplay was blocked
-        muteButton.textContent = '🔊';
-      } else {
-        audio.muted = true;
-        muteButton.textContent = '🔇';
-      }
-    });
-
-    // Update button icon if autoplay fails
-    setTimeout(() => {
-      if (audio.paused || audio.muted) {
-        muteButton.textContent = '🔇';
-      }
-    }, 1000);
+  function updateButtonIcon() {
+    muteButton.textContent = audio.muted ? '🔇' : '🔊';
   }
+
+  muteButton.addEventListener('click', () => {
+    audio.muted = !audio.muted;
+    audio.play().catch(() => {});
+    updateButtonIcon();
+  });
+
+  // Trigger playback/unmute on first click or scroll anywhere
+  function handleFirstInteraction() {
+    if (audio.paused && !audio.muted) {
+      audio.play().catch(() => {});
+    }
+    // Optional: auto-unmute on first interaction
+    // if (audio.muted) audio.muted = false;
+
+    updateButtonIcon();
+    window.removeEventListener('click', handleFirstInteraction);
+    window.removeEventListener('scroll', handleFirstInteraction);
+  }
+
+  window.addEventListener('click', handleFirstInteraction);
+  window.addEventListener('scroll', handleFirstInteraction);
+
+  // Initial icon state
+  updateButtonIcon();
 });
+
 
 // List of image sources
 const imageSources = ['https://i.postimg.cc/qvzSR1XB/20250720-115124.webp',
