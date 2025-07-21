@@ -313,35 +313,31 @@ window.addEventListener('scroll', () => {
     loadNextImages();
   });
   
-  function createBubble() {
+    function createBubble() {
     const bubble = document.createElement('div');
     bubble.classList.add('bubble');
-  
+
     const size = Math.random() * 20 + 15; // 15px–35px
     const left = Math.random() * 100; // 0–100% across viewport
     const duration = Math.random() * 5 + 5; // 5–10s
-    const colors = [
-      '#ffffff', // white
-      '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff', // soft blues
-      '#ffff66', // bright yellow
-      '#ff66cc', // neon pink
-      '#66ccff'  // baby blue
-    ];
+    const colors = ['#ffffff', '#ccf2ff', '#99e6ff', '#aadfff', '#88e0ff'];
     const color = colors[Math.floor(Math.random() * colors.length)];
-  
+
     bubble.style.width = `${size}px`;
     bubble.style.height = `${size}px`;
     bubble.style.left = `${left}vw`;
     bubble.style.borderColor = color;
     bubble.style.animationDuration = `${duration}s`;
-  
+
     document.body.appendChild(bubble);
-  
+
     setTimeout(() => {
       bubble.remove();
     }, duration * 1000);
   }
-  setInterval(createBubble, 300); // Make a bubble every 300ms
+
+  // 🎈 Start creating bubbles!
+  setInterval(createBubble, 300);
 
 </script>
 </body>
