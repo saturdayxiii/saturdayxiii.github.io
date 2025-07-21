@@ -112,8 +112,7 @@
   const muteButton = document.getElementById('toggleMute');
 
   // Start muted so autoplay works
-  audio.muted = false;
-  audio.volume = 0.5;
+  audio.volume = 0.3;
 
   function updateButtonIcon() {
     muteButton.textContent = audio.muted ? '🔇' : '🔊';
