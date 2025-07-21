@@ -93,7 +93,7 @@
 </style>
 </head>
 <body>
-
+<audio id="bg-music" src="https://github.com/saturdayxiii/saturdayxiii.github.io/raw/refs/heads/main/media/20250720_121341_614.ogg" autoplay loop></audio>
     <div id="loadingMessage" style="display: none;">Loading more images...</div>
 <div id="menu">
   <button id="decreaseColumns">-</button><br>
@@ -106,7 +106,20 @@
 </div>
 <div id="gallery"></div>
 <script>
-  // List of image sources
+  document.addEventListener('click', () => {
+  const audio = document.getElementById('bg-music');
+  if (audio && audio.paused) {
+    audio.play();
+  }
+});
+  window.addEventListener('DOMContentLoaded', () => {
+  const audio = document.getElementById('bg-music');
+  if (audio) {
+    audio.volume = 0.5; // Set initial volume to 50%
+  }
+});
+
+// List of image sources
 const imageSources = ['https://i.postimg.cc/qvzSR1XB/20250720-115124.webp',
 'https://i.postimg.cc/65HFtkZ1/20250720-115129.webp',
 'https://i.postimg.cc/rFyv6VDr/20250720-115137.webp',
