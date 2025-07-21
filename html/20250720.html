@@ -74,7 +74,7 @@
   border-radius: 50%;
   border: 2px solid rgba(255, 255, 255, 0.3);
   background: transparent;
-  z-index: 0;
+  z-index: 999;
   animation: floatUp linear;
   opacity: 0.7;
 }
@@ -112,7 +112,7 @@
   const muteButton = document.getElementById('toggleMute');
 
   // Start muted so autoplay works
-  audio.muted = true;
+  audio.muted = false;
   audio.volume = 0.5;
 
   function updateButtonIcon() {
