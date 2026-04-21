@@ -5,8 +5,8 @@ type:
 timestamp: October 5th, 2020 12:00am
 audio: 
 video: 
-image: http://i3.ytimg.com/vi/beF1Tv5BIeI/hqdefault.jpg
-link: https://www.youtube.com/watch?v=beF1Tv5BIeI
+image: https://img.youtube.com/vi/Fb-_z3F9efQ/sddefault.jpg
+link: https://www.youtube.com/watch?v=Fb-_z3F9efQ
 tags: ["recommended", "games", "review", "showcase"]
 comments: true
 ---
