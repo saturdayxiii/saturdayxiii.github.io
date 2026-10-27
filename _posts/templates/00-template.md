@@ -1,4 +1,5 @@
 ---
+date: 2026-
 layout: post
 type: art tainment food snd lnk me
 title: ""
@@ -20,8 +21,8 @@ comments: true
 Body Text
 
 ## Creative Log
-- [ ] **Craft — Activity:** What I worked on. Can I do something I couldn't before? What should I remember?
+-  **Craft — Activity:** What I worked on. Can I do something I couldn't before? What should I remember?
   [craft:: writing] [project:: story title]
-   [enjoyment:: 3] [satisfaction:: 3] [progress:: 3] [hours:: 3]
+   [enjoyment:: 3] [satisfaction:: 3] [Rate-of-Production:: 3] [hours:: 3]
 (1.0-5.0 neutral is 3)
  

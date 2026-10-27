@@ -1,10 +1,11 @@
 ---
+date: 2026-10-26
 layout: post
 type: art
 title: "Caveats of Corpus Audio Story"
 image: https://img.youtube.com/vi/uMENe_dINLU/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=uMENe_dINLU
-activities: ['writing','illustrating']
+activities: ['publishing-digital','animation']
 tags: ['story','release','showcase']
 comments: true
 ---
@@ -15,6 +16,9 @@ Really love the cover image of this one.  I keep getting comfortable making scen
 Sometimes Evan includes them in his narration, but I did the sfx to this one. Evan does great narration, but I was gratefully surprised how much the sfx elevated this particular story. They weren't even that great to work with, it just all came together in the end.
 
 ## Creative Log
-- [x] **Caveats of Corpus uploading:** Syncing audio, writing descriptions, clipping, and uploading Caveats of Corpus video
+- **Caveats of Corpus uploading:** Syncing audio, writing descriptions, clipping, and uploading Caveats of Corpus video
   [craft:: publishing-digital] [project:: Caveats of Corpus]
-  [enjoyment:: 3] [satisfaction:: 4.5] [progress:: 4] [hours:: 5]
+  [enjoyment:: 3.5] [satisfaction:: 4.5] [Rate-of-Production:: 3] [hours:: 5]
+ - **Fairy Rings animating:** Gonna put more effort into making a tight animation loop for this one. Normally just dealing with whatever was rendered to sync up with the audio. This time I'll adjust the animation timings to the audio track and re-render.
+  [craft:: animation] [project:: Fairy Rings]
+  [enjoyment:: 3] [satisfaction:: 3] [Rate-of-Production:: 3.5] [hours:: 1]

@@ -1,4 +1,5 @@
 ---
+date: 2026-10-25
 layout: post
 type: me
 title: "Activity Log"
@@ -20,6 +21,6 @@ comments: true
 Body Text
 
 ## Creative Log
-- [x] **Caveats of Corpus:** Putting together audio sfx in Audacity. I think I need to look into different software. It's really annoying how large the filesize is, the lack of nesting audio tracks under different masterings, and the limited destructionless effects. I'm glad its coming together, but I'm fumbling around a lot with the effects. I thought some of the editing would be simpler than it is. Especially for editing narration. Some of the other effects I'm surprised I was able to manipulate and recycle as many effects as I did with just reverb and pitch-timing.
+- **Caveats of Corpus:** Putting together audio sfx in Audacity. I think I need to look into different software. It's really annoying how large the filesize is, the lack of nesting audio tracks under different masterings, and the limited destructionless effects. I'm glad its coming together, but I'm fumbling around a lot with the effects. I thought some of the editing would be simpler than it is. Especially for editing narration. Some of the other effects I'm surprised I was able to manipulate and recycle as many effects as I did with just reverb and pitch-timing.
   [craft:: audio-production] [project:: Caveats of Corpus]
-  [enjoyment:: 3.5] [satisfaction:: 4] [progress:: 4] [hours:: 6]
+  [enjoyment:: 3.5] [satisfaction:: 4] [Rate-of-Production:: 3] [hours:: 6]
