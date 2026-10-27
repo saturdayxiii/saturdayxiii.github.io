@@ -13,6 +13,15 @@ video:
 vgallery:
   - vid: 
 audio: 
-tags: 
+activities: ['writing','illustrating']
+tags: ['art','tech','me']
 comments: true
 ---
+Body Text
+
+## Creative Log
+- [ ] **Craft — Activity:** What I worked on. Can I do something I couldn't before? What should I remember?
+  [craft:: writing] [project:: story title]
+   [enjoyment:: 3] [satisfaction:: 3] [progress:: 3] [hours:: 3]
+(1.0-5.0 neutral is 3)
+ 
