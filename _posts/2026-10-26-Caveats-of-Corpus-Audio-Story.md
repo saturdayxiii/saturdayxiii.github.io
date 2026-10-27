@@ -5,7 +5,7 @@ title: "Caveats of Corpus Audio Story"
 image: https://img.youtube.com/vi/uMENe_dINLU/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=uMENe_dINLU
 activities: ['writing','illustrating']
-tags: ['story','release']
+tags: ['story','release','showcase']
 comments: true
 ---
 Audio version of Caveats of Corpus has gone public today. My current magnum opus, but hopefully that will change soon as I improve.
