@@ -14,7 +14,7 @@ video:
 vgallery:
   - vid: 
 audio: 
-activities: ['writing','illustrating']
+crafts: ['writing','illustrating']
 tags: ['art','tech','me']
 comments: true
 ---
@@ -25,4 +25,7 @@ Body Text
   [craft:: writing] [project:: story title]
    [enjoyment:: 3] [satisfaction:: 3] [Rate-of-Production:: 3] [hours:: 3]
 (1.0-5.0 neutral is 3)
+
+## Activity Log
+- [activity:: listening, watching, playing] [media:: title]
  

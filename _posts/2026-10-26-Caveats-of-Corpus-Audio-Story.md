@@ -5,7 +5,7 @@ type: art
 title: "Caveats of Corpus Audio Story"
 image: https://img.youtube.com/vi/uMENe_dINLU/maxresdefault.jpg
 link: https://www.youtube.com/watch?v=uMENe_dINLU
-activities: ['publishing-digital','animation']
+crafts: ['publishing-digital','animation']
 tags: ['story','release','showcase']
 comments: true
 ---
