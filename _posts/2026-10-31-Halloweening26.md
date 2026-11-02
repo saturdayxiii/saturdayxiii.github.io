@@ -9,7 +9,7 @@ crafts: ['carving']
 tags: ['art', 'holiday', 'pumpkin']
 comments: true
 ---
-Never felt more validated with my handheld cassette player then when dronning out classical music as slow as possible in a stairwell. 
+Never felt more validated with my handheld cassette player than when dronning out classical music as slow as possible in a stairwell. 
 
 Had fun making pipe cleaner spiders and drawing bats. designing a weblike string light set up was a chore but it functions.
 
