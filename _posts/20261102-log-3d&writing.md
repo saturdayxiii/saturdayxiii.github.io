@@ -1,8 +1,8 @@
 ---
-date: 20261101
+date: 20261102
 layout: post
 type: log
-title: "log"
+title: "log-3d&writing"
 image: 
 link: 
 crafts: ['writing','3d-modeling']

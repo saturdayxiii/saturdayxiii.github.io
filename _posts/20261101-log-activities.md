@@ -2,7 +2,7 @@
 date: 20261101
 layout: post
 type: log
-title: "log"
+title: "log-activities"
 image: 
 link: 
 crafts: [' ']
